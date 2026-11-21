@@ -51,6 +51,18 @@ let intervalTimer = null;
 let latihanSelesai = false;
 let kunciTimerSimulasi = null;
 let nomorSoalAktif = 0;
+let waktuMulaiSimulasi = null;
+let jumlahPeringatanPindahTab = 0;
+
+// Endpoint Web App Google Apps Script untuk rekap Simulasi ASAS.
+const GOOGLE_SHEETS_API_URL = "https://script.google.com/macros/s/AKfycbw7kCm4weAe94dAEB2cL-dHQoBHLp1_PLHvVZG4g9A73WHMcmLcQaFfPu5dgfZ2aTY/exec";
+
+// Hitung setiap kali siswa meninggalkan tab saat sedang mengerjakan simulasi.
+document.addEventListener("visibilitychange", () => {
+  if (document.hidden && modeBankAktif === "Simulasi ASAS" && !latihanSelesai && el.quiz && !el.quiz.hidden) {
+    jumlahPeringatanPindahTab++;
+  }
+});
 
 function sembunyikanSemuaPanelPembelajaran() {
   [
@@ -316,6 +328,13 @@ async function mulaiBankDigital(namaFile, mode, paket, materi="") {
     soalAktif = [...bank.soal];
     nomorSoalAktif = 0;
     latihanSelesai = false;
+    if (mode === "Simulasi ASAS") {
+      waktuMulaiSimulasi = Date.now();
+      jumlahPeringatanPindahTab = 0;
+    } else {
+      waktuMulaiSimulasi = null;
+      jumlahPeringatanPindahTab = 0;
+    }
     topicSection.hidden = true;
     assessmentPackageSection.hidden = true;
     asasPackageSection.hidden = true;
@@ -1130,6 +1149,50 @@ function selesaikanLatihan(otomatis) {
     skorDiperoleh, skorMaksimal, soalBelumDinilai,
     otomatis
   };
+
+  // Rekap skor per jenis soal untuk spreadsheet.
+  const skorPerJenis = {
+    pilihan_ganda: 0,
+    benar_salah: 0,
+    menjodohkan: 0,
+    pilihan_ganda_kompleks: 0
+  };
+  hasilSoal.forEach(item => {
+    if (Object.prototype.hasOwnProperty.call(skorPerJenis, item.soal.jenis)) {
+      skorPerJenis[item.soal.jenis] += item.skor;
+    }
+  });
+
+  // Hanya hasil Simulasi ASAS yang dikirim ke Google Sheets.
+  if (modeBankAktif === "Simulasi ASAS") {
+    const payloadSheets = {
+      idPercobaan: catatan.idPercobaan,
+      tanggal: catatan.tanggal,
+      nama: muridTerpilih.nama,
+      absen: muridTerpilih.nomorAbsen,
+      kelas: "VI",
+      mataPelajaran: bankAktif.mataPelajaran || daftarMapel[mapelTerpilih] || mapelTerpilih,
+      paket: `Simulasi ${bankAktif.paket || paketTerpilih || "1"}`,
+      jumlahSoal: soalAktif.length,
+      nilai: nilai,
+      skorDiperoleh,
+      skorMaksimal,
+      skorPG: skorPerJenis.pilihan_ganda,
+      skorBenarSalah: skorPerJenis.benar_salah,
+      skorMenjodohkan: skorPerJenis.menjodohkan,
+      skorPGKompleks: skorPerJenis.pilihan_ganda_kompleks,
+      totalBenar: totalBenar,
+      durasi: waktuMulaiSimulasi ? Math.max(0, Math.round((Date.now() - waktuMulaiSimulasi) / 1000)) : 0,
+      peringatanPindahTab: jumlahPeringatanPindahTab
+    };
+    fetch(GOOGLE_SHEETS_API_URL, {
+      method: "POST",
+      mode: "no-cors",
+      headers: { "Content-Type": "text/plain;charset=utf-8" },
+      body: JSON.stringify(payloadSheets)
+    }).catch(error => console.error("Pengiriman nilai simulasi ke Google Sheets gagal:", error));
+  }
+
   simpanRiwayat(catatan);
   tampilkanHasil(catatan, hasilSoal);
 }
