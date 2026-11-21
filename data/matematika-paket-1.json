@@ -1,0 +1,110 @@
+{
+  "id": "matematika-paket-1",
+  "mataPelajaran": "Matematika",
+  "paket": 1,
+  "judul": "Bilangan Bulat Dasar",
+  "durasiMenit": 35,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-P1-01",
+      "jenis": "isian_angka",
+      "indikator": "Menyatakan posisi di bawah titik acuan dengan bilangan negatif",
+      "pertanyaan": "Sebuah lift berada di lantai 3 bawah tanah. Jika lantai dasar dinyatakan dengan angka 0, bilangan bulat yang menunjukkan posisi lift adalah berapa?",
+      "kunci": -3,
+      "pembahasan": "Tiga lantai di bawah lantai dasar ditulis −3.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P1-02",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan posisi akhir pada garis bilangan",
+      "pertanyaan": "Pada garis bilangan, sebuah titik berada di angka 2. Titik itu bergerak 4 langkah ke kiri. Di angka berapakah titik itu berhenti?",
+      "kunci": -2,
+      "pembahasan": "Bergerak ke kiri berarti berkurang: 2 − 4 = −2.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P1-03",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan posisi akhir pada garis bilangan",
+      "pertanyaan": "Seekor semut berada di angka −4 pada garis bilangan. Semut bergerak 7 langkah ke kanan. Di angka berapakah semut berhenti?",
+      "kunci": 3,
+      "pembahasan": "Bergerak ke kanan berarti bertambah: −4 + 7 = 3.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P1-04",
+      "jenis": "isian_angka",
+      "indikator": "Membandingkan bilangan bulat negatif",
+      "pertanyaan": "Diketahui bilangan −14 dan −9. Tuliskan bilangan bulat terbesar yang lebih kecil daripada kedua bilangan tersebut.",
+      "kunci": -15,
+      "pembahasan": "Bilangan yang lebih kecil dari keduanya harus lebih kecil dari −14. Bilangan bulat terbesarnya adalah −15.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P1-05",
+      "jenis": "isian_angka",
+      "indikator": "Mengurutkan bilangan bulat",
+      "pertanyaan": "Urutkan bilangan −8, 3, −2, 6, dan 0 dari yang terkecil. Berapakah bilangan pada urutan ketiga?",
+      "kunci": 0,
+      "pembahasan": "Urutannya −8, −2, 0, 3, 6. Bilangan ketiga adalah 0.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P1-06",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung jarak dua titik pada garis bilangan",
+      "pertanyaan": "Titik A berada di angka −7 dan titik B berada di angka 4 pada garis bilangan. Berapa satuan jarak antara A dan B?",
+      "kunci": 11,
+      "pembahasan": "Jarak = 4 − (−7) = 4 + 7 = 11 satuan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P1-07",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan lawan bilangan bulat",
+      "pertanyaan": "Lawan dari bilangan −19 adalah bilangan berapa?",
+      "kunci": 19,
+      "pembahasan": "Lawan bilangan memiliki nilai sama dengan tanda berlawanan. Lawan −19 adalah 19.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P1-08",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan bilangan bulat sebelumnya",
+      "pertanyaan": "Bilangan bulat yang tepat satu angka sebelum −6 adalah bilangan berapa?",
+      "kunci": -7,
+      "pembahasan": "Satu bilangan sebelum −6 adalah −7.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P1-09",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan bilangan bulat sesudahnya",
+      "pertanyaan": "Bilangan bulat yang tepat satu angka sesudah −11 adalah bilangan berapa?",
+      "kunci": -10,
+      "pembahasan": "Satu bilangan sesudah −11 adalah −10.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P1-10",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan nilai mutlak bilangan bulat",
+      "pertanyaan": "Berapakah nilai mutlak dari −23?",
+      "kunci": 23,
+      "pembahasan": "Nilai mutlak adalah jarak suatu bilangan dari nol. Jarak −23 dari nol adalah 23.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    }
+  ]
+}

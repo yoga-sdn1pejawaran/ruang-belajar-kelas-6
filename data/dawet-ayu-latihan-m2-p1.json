@@ -1,0 +1,318 @@
+{
+  "id": "dawet-ayu-latihan-m2-p1",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "BAB II – Strategi Pemasaran",
+  "bab": 2,
+  "paket": 1,
+  "judul": "BAB II – Strategi Pemasaran • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Arti strategi",
+      "pertanyaan": "Dalam kegiatan pemasaran, strategi berarti ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "daftar bahan untuk membuat produk"
+        },
+        {
+          "id": "B",
+          "teks": "cara-cara yang digunakan penjual atau perusahaan untuk memperoleh konsumen sebanyak-banyaknya"
+        },
+        {
+          "id": "C",
+          "teks": "cara menentukan warna kemasan"
+        },
+        {
+          "id": "D",
+          "teks": "cara menghias tempat berjualan saja"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Buku mendefinisikan strategi pemasaran sebagai cara untuk memperoleh konsumen sebanyak-banyaknya.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-m2-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Tujuan strategi pemasaran",
+      "pertanyaan": "Apa sasaran utama yang ingin dicapai melalui strategi pemasaran?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menyembunyikan informasi produk"
+        },
+        {
+          "id": "B",
+          "teks": "mendapatkan konsumen sebanyak-banyaknya"
+        },
+        {
+          "id": "C",
+          "teks": "membatasi jumlah calon pembeli"
+        },
+        {
+          "id": "D",
+          "teks": "menghentikan kegiatan penjualan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Strategi pemasaran digunakan agar barang dagangan laku dan memperoleh konsumen.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-m2-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pangsa pasar",
+      "pertanyaan": "Apa yang dimaksud dengan pangsa pasar?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "tempat menyimpan bahan makanan"
+        },
+        {
+          "id": "B",
+          "teks": "kelompok calon pembeli yang menjadi sasaran penjualan"
+        },
+        {
+          "id": "C",
+          "teks": "jumlah bahan untuk membuat produk"
+        },
+        {
+          "id": "D",
+          "teks": "alat untuk mengaduk cendol"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Buku menjelaskan penjual perlu mengetahui siapa yang berpotensi menjadi pembeli.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-m2-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan pangsa pasar",
+      "pertanyaan": "Apa yang perlu diketahui saat menentukan pangsa pasar?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "nama produk tanpa mengenali pembeli"
+        },
+        {
+          "id": "B",
+          "teks": "harga jual tanpa mengetahui calon pembeli"
+        },
+        {
+          "id": "C",
+          "teks": "warna seragam penjual"
+        },
+        {
+          "id": "D",
+          "teks": "mengetahui siapa saja yang berpotensi membeli produk"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Penentuan pangsa pasar dimulai dengan mengenali calon pembeli.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-m2-p1-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis pangsa pasar dan calon pembeli",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang arti strategi, tujuan strategi pemasaran, pangsa pasar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Arti strategi: cara-cara yang digunakan penjual atau perusahaan untuk memperoleh konsumen sebanyak-banyaknya."
+        },
+        {
+          "id": "B",
+          "teks": "Tujuan strategi pemasaran: mendapatkan konsumen sebanyak-banyaknya."
+        },
+        {
+          "id": "C",
+          "teks": "Contoh calon pembeli: hanya pembuat alat masak."
+        },
+        {
+          "id": "D",
+          "teks": "Menentukan pangsa pasar: menentukan warna seragam penjual saja."
+        },
+        {
+          "id": "E",
+          "teks": "Pangsa pasar: kelompok calon pembeli yang menjadi sasaran penjualan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Tiga pilihan yang benar sesuai dengan keterangan pada buku. Dua pilihan lainnya memuat informasi yang tidak sesuai.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-m2-p1-q9"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis waktu dan harga penjualan",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang waktu penjualan, waktu yang cocok menurut buku, pertimbangan penjualan malam.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Waktu yang cocok menurut buku: siang hari ketika cuaca panas."
+        },
+        {
+          "id": "B",
+          "teks": "Waktu penjualan: memperhatikan waktu ketika konsumen ingin membeli produk."
+        },
+        {
+          "id": "C",
+          "teks": "Harga: jumlah bahan untuk membuat cendol."
+        },
+        {
+          "id": "D",
+          "teks": "Contoh harga pembanding: harga yang tidak pernah disebutkan."
+        },
+        {
+          "id": "E",
+          "teks": "Pertimbangan penjualan malam: mempertimbangkan suhu udara dan lamanya berjualan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Tiga pilihan yang benar sesuai dengan keterangan pada buku. Dua pilihan lainnya memuat informasi yang tidak sesuai.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-m2-p1-q10"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai informasi penetapan harga dan persaingan",
+      "pertanyaan": "Tentukan Benar atau Salah untuk informasi tentang pertimbangan harga, persaingan harga, manajemen harga.",
+      "pernyataan": [
+        {
+          "teks": "Pertimbangan harga: menentukan harga tanpa melihat produk lain."
+        },
+        {
+          "teks": "Persaingan harga: penjual harus menutup warung."
+        },
+        {
+          "teks": "Manajemen harga: menghitung biaya produksi dan mempertimbangkan keuntungan."
+        }
+      ],
+      "kunci": [
+        "salah",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Cocokkan setiap pernyataan dengan fakta dan langkah yang dijelaskan dalam buku.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-m2-p1-q13"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai informasi distribusi dan pelayanan",
+      "pertanyaan": "Tentukan Benar atau Salah untuk informasi tentang penjualan langsung, penjualan keliling, ide kreatif.",
+      "pernyataan": [
+        {
+          "teks": "Penjualan langsung: mendatangi konsumen atau menawarkan produk secara langsung."
+        },
+        {
+          "teks": "Penjualan keliling: menunggu pembeli di tempat yang tidak diketahui."
+        },
+        {
+          "teks": "Ide kreatif: menyalin semua hal tanpa perubahan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Cocokkan setiap pernyataan dengan fakta dan langkah yang dijelaskan dalam buku.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-m2-p1-q14"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Menghubungkan waktu dan harga penjualan",
+      "pertanyaan": "Pasangkan waktu penjualan, waktu yang cocok menurut buku, pertimbangan penjualan malam dan harga dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Waktu penjualan"
+        },
+        {
+          "teks": "Waktu yang cocok menurut buku"
+        },
+        {
+          "teks": "Pertimbangan penjualan malam"
+        },
+        {
+          "teks": "Harga"
+        }
+      ],
+      "pilihan": [
+        "mempertimbangkan suhu udara dan lamanya berjualan",
+        "nilai uang yang harus dibayar pembeli untuk memperoleh produk",
+        "memperhatikan waktu ketika konsumen ingin membeli produk",
+        "siang hari ketika cuaca panas"
+      ],
+      "kunci": [
+        "memperhatikan waktu ketika konsumen ingin membeli produk",
+        "siang hari ketika cuaca panas",
+        "mempertimbangkan suhu udara dan lamanya berjualan",
+        "nilai uang yang harus dibayar pembeli untuk memperoleh produk"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan arti, bahan, atau proses yang sesuai dengan penjelasan dalam buku.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-m2-p1-q17"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Menghubungkan penetapan harga dan persaingan",
+      "pertanyaan": "Pasangkan pertimbangan harga, persaingan harga, manajemen harga dan distribusi dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Pertimbangan harga"
+        },
+        {
+          "teks": "Persaingan harga"
+        },
+        {
+          "teks": "Manajemen harga"
+        },
+        {
+          "teks": "Distribusi"
+        }
+      ],
+      "pilihan": [
+        "cara menyalurkan produk agar mudah diperoleh konsumen",
+        "memperhatikan harga produk sejenis di pasaran",
+        "menghitung biaya produksi dan mempertimbangkan keuntungan",
+        "penjual dapat memberi bonus atau paket untuk menarik pembeli"
+      ],
+      "kunci": [
+        "memperhatikan harga produk sejenis di pasaran",
+        "penjual dapat memberi bonus atau paket untuk menarik pembeli",
+        "menghitung biaya produksi dan mempertimbangkan keuntungan",
+        "cara menyalurkan produk agar mudah diperoleh konsumen"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan arti, bahan, atau proses yang sesuai dengan penjelasan dalam buku.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-m2-p1-q18"
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

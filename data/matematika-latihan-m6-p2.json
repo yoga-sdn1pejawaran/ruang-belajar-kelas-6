@@ -1,0 +1,265 @@
+{
+  "id": "matematika-latihan-m6-p2",
+  "mataPelajaran": "Matematika",
+  "mode": "Latihan Per Materi",
+  "materi": "Skala dan Jarak Sebenarnya",
+  "paket": 2,
+  "judul": "Skala dan Jarak Sebenarnya • Paket 2",
+  "durasiMenit": 0,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-M6P2-01-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung jarak sebenarnya dari skala",
+      "pertanyaan": "Denah berskala 1 : 5,000. Panjang ruang pada denah 6 cm. Berapa jarak sebenarnya dalam cm? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "30001"
+        },
+        {
+          "id": "B",
+          "teks": "29999"
+        },
+        {
+          "id": "C",
+          "teks": "30002"
+        },
+        {
+          "id": "D",
+          "teks": "30000"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Jarak sebenarnya = 6 × 5,000 = 30,000 cm. Jadi, jawaban yang benar adalah 30000.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M6P2-02-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengonversi jarak sebenarnya ke meter",
+      "pertanyaan": "Peta berskala 1 : 7,000. Jarak dua tempat pada peta 4 cm. Berapa jarak sebenarnya dalam meter? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "279"
+        },
+        {
+          "id": "B",
+          "teks": "282"
+        },
+        {
+          "id": "C",
+          "teks": "280"
+        },
+        {
+          "id": "D",
+          "teks": "281"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Jarak sebenarnya = 4 × 7,000 = 28,000 cm = 280 meter. Jadi, jawaban yang benar adalah 280.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M6P2-03-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung jarak pada peta",
+      "pertanyaan": "Jarak sebenarnya antara dua tempat 90 meter. Pada peta berskala 1 : 3,000, berapa cm jarak pada peta? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "5"
+        },
+        {
+          "id": "B",
+          "teks": "3"
+        },
+        {
+          "id": "C",
+          "teks": "4"
+        },
+        {
+          "id": "D",
+          "teks": "2"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "90 m = 9000 cm. Jarak pada peta = 9000 ÷ 3,000 = 3 cm. Jadi, jawaban yang benar adalah 3.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M6P2-04-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan penyebut skala",
+      "pertanyaan": "Panjang sebuah benda sebenarnya 180 cm. Pada gambar panjangnya 6 cm. Berapa penyebut skala 1 : n? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "30"
+        },
+        {
+          "id": "B",
+          "teks": "31"
+        },
+        {
+          "id": "C",
+          "teks": "29"
+        },
+        {
+          "id": "D",
+          "teks": "32"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Skala = 6:180. Bagi keduanya dengan 6, diperoleh 1:30. Jadi, jawaban yang benar adalah 30.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M6P2-05-BS",
+      "jenis": "benar_salah",
+      "indikator": "Menghitung jarak sebenarnya dan konversi satuan",
+      "pertanyaan": "Jarak sebenarnya 1,5 km digambar sepanjang 3 cm. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "1,5 km sama dengan 150.000 cm."
+        },
+        {
+          "teks": "Skala peta adalah 1 : 50.000."
+        },
+        {
+          "teks": "Setiap 1 cm mewakili 500 meter."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "150.000 ÷ 3 = 50.000.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M6P2-06-BS",
+      "jenis": "benar_salah",
+      "indikator": "Menghitung ukuran gambar berdasarkan skala",
+      "pertanyaan": "Jarak sebenarnya 1,5 km digambar sepanjang 3 cm. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "1,5 km sama dengan 150.000 cm."
+        },
+        {
+          "teks": "Skala peta adalah 1 : 50.000."
+        },
+        {
+          "teks": "Setiap 1 cm mewakili 500 meter."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "150.000 ÷ 3 = 50.000.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M6P2-07-PGK",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menentukan skala dari jarak peta dan sebenarnya",
+      "pertanyaan": "Jarak sebenarnya 2 km digambar 4 cm. Pilih tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Setiap 1 cm pada peta mewakili 500 m."
+        },
+        {
+          "id": "B",
+          "teks": "2 km sama dengan 200.000 cm."
+        },
+        {
+          "id": "C",
+          "teks": "Jarak sebenarnya 20.000 cm."
+        },
+        {
+          "id": "D",
+          "teks": "Skala peta adalah 1 : 50.000."
+        },
+        {
+          "id": "E",
+          "teks": "Skalanya 1 : 5.000."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "2 km = 200.000 cm. 200.000 ÷ 4 = 50.000, jadi skala 1 : 50.000.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M6P2-08-JODOH",
+      "jenis": "menjodohkan",
+      "indikator": "Menghitung ukuran sebenarnya pada denah",
+      "pertanyaan": "Pasangkan setiap soal di kolom kiri dengan hasil yang tepat di kolom kanan.",
+      "pasangan": [
+        {
+          "teks": "Jarak sebenarnya 14 km digambarkan sepanjang 2 cm pada peta. Berapa penyebut skala 1 : n?"
+        },
+        {
+          "teks": "Pada denah berskala 1 : 250, panjang taman adalah 8 cm. Berapa panjang sebenarnya dalam meter?"
+        },
+        {
+          "teks": "Jarak sebenarnya 4 km. Jika skala peta 1 : 80,000, berapa cm jarak pada peta?"
+        },
+        {
+          "teks": "Miniatur dibuat dengan skala 1 : 30. Jika tinggi miniatur 7 cm, berapa cm tinggi benda sebenarnya?"
+        }
+      ],
+      "pilihan": [
+        "20",
+        "5",
+        "210",
+        "700000"
+      ],
+      "kunci": [
+        "700000",
+        "20",
+        "5",
+        "210"
+      ],
+      "pembahasan": "Pasangkan setiap soal dengan hasil perhitungan yang sesuai. Periksa kembali setiap hasil sebelum melanjutkan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "MTK-M6P2-09",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung jarak pada peta dari kilometer",
+      "pertanyaan": "Jarak sebenarnya 4 km. Jika skala peta 1 : 80,000, berapa cm jarak pada peta?",
+      "kunci": 5,
+      "pembahasan": "4 km = 400,000 cm. Jarak pada peta = 400,000 ÷ 80,000 = 5 cm.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-M6P2-10",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung ukuran sebenarnya dari miniatur",
+      "pertanyaan": "Miniatur dibuat dengan skala 1 : 30. Jika tinggi miniatur 7 cm, berapa cm tinggi benda sebenarnya?",
+      "kunci": 210,
+      "pembahasan": "Tinggi sebenarnya = 7 × 30 = 210 cm.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    }
+  ]
+}

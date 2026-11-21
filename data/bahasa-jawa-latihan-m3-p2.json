@@ -1,0 +1,290 @@
+{
+  "id": "bahasa-jawa-latihan-m3-p2",
+  "mataPelajaran": "Bahasa Jawa",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Teks Crita Pengalaman lan Maca Nyaring",
+  "paket": 2,
+  "judul": "Teks Crita Pengalaman lan Maca Nyaring • Paket 2",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Unsur sapa",
+      "pertanyaan": "Apa sing digoleki saka pitakon sapa?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "nuduhake paraga utawa wong sing melu kedadeyan"
+        },
+        {
+          "id": "B",
+          "teks": "wektu kedadeyan"
+        },
+        {
+          "id": "C",
+          "teks": "papan kedadeyan"
+        },
+        {
+          "id": "D",
+          "teks": "sebab kedadeyan"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Unsur sapa ngenali paraga utawa wong sing melu kedadeyan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-m3-p2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Unsur kapan",
+      "pertanyaan": "Pitakon kapan digunakake kanggo nggoleki apa?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "papan kedadeyan"
+        },
+        {
+          "id": "B",
+          "teks": "paraga"
+        },
+        {
+          "id": "C",
+          "teks": "cara kedadeyan"
+        },
+        {
+          "id": "D",
+          "teks": "nuduhake wektu kedadeyan"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Kapan nuduhake wektu utawa tanggal kedadeyan.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-m3-p2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Paraga crita Menyang Tlaga Menjer: Nindya lan kanca sakelas."
+        },
+        {
+          "id": "B",
+          "teks": "Alur: runtutan kedadeyan saka wiwitan nganti pungkasan."
+        },
+        {
+          "id": "C",
+          "teks": "Paraga: wong utawa tokoh sing ana ing crita."
+        },
+        {
+          "id": "D",
+          "teks": "Latar: katrangan papan, wektu, lan swasana kedadeyan."
+        },
+        {
+          "id": "E",
+          "teks": "Maca nyaring: maca kanthi cepet tanpa tandha wacan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-m3-p2-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Paraga: wong utawa tokoh sing ana ing crita."
+        },
+        {
+          "id": "B",
+          "teks": "Latar: katrangan papan, wektu, lan swasana kedadeyan."
+        },
+        {
+          "id": "C",
+          "teks": "Maca nyaring: nggatekake lafal, intonasi, jeda, lan solah bawa."
+        },
+        {
+          "id": "D",
+          "teks": "Paraga crita Menyang Tlaga Menjer: Nindya lan gurune wae."
+        },
+        {
+          "id": "E",
+          "teks": "Wektu budhal menyang Tlaga Menjer: jam telu sore dina Minggu."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-m3-p2-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Latar adalah katrangan papan, wektu, lan swasana kedadeyan."
+        },
+        {
+          "teks": "Paraga crita Menyang Tlaga Menjer adalah Nindya lan gurune wae."
+        },
+        {
+          "teks": "Crita pengalaman adalah teks sing nyritakake kedadeyan sing dialami penulis utawa paraga."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; paraga crita menyang tlaga menjer yang tepat adalah Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-m3-p2-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Maca nyaring adalah nggatekake lafal, intonasi, jeda, lan solah bawa."
+        },
+        {
+          "teks": "Wektu budhal menyang Tlaga Menjer adalah jam enem sore dina Setu."
+        },
+        {
+          "teks": "Unsur sapa adalah nuduhake paraga utawa wong sing melu kedadeyan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; wektu budhal menyang tlaga menjer yang tepat adalah jam enem esuk dina Minggu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-m3-p2-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Alur"
+        },
+        {
+          "teks": "Paraga"
+        },
+        {
+          "teks": "Latar"
+        },
+        {
+          "teks": "Maca nyaring"
+        }
+      ],
+      "pilihan": [
+        "wong utawa tokoh sing ana ing crita",
+        "katrangan papan, wektu, lan swasana kedadeyan",
+        "nggatekake lafal, intonasi, jeda, lan solah bawa",
+        "runtutan kedadeyan saka wiwitan nganti pungkasan"
+      ],
+      "kunci": [
+        "runtutan kedadeyan saka wiwitan nganti pungkasan",
+        "wong utawa tokoh sing ana ing crita",
+        "katrangan papan, wektu, lan swasana kedadeyan",
+        "nggatekake lafal, intonasi, jeda, lan solah bawa"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-m3-p2-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Latar"
+        },
+        {
+          "teks": "Maca nyaring"
+        },
+        {
+          "teks": "Paraga crita Menyang Tlaga Menjer"
+        },
+        {
+          "teks": "Wektu budhal menyang Tlaga Menjer"
+        }
+      ],
+      "pilihan": [
+        "Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti",
+        "jam enem esuk dina Minggu",
+        "katrangan papan, wektu, lan swasana kedadeyan",
+        "nggatekake lafal, intonasi, jeda, lan solah bawa"
+      ],
+      "kunci": [
+        "katrangan papan, wektu, lan swasana kedadeyan",
+        "nggatekake lafal, intonasi, jeda, lan solah bawa",
+        "Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti",
+        "jam enem esuk dina Minggu"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-m3-p2-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Wektu budhal menyang Tlaga Menjer",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Wektu budhal menyang Tlaga Menjer?",
+      "kunci": [
+        "jam enem esuk dina Minggu"
+      ],
+      "kataKunci": [
+        "jam enem esuk dina Minggu"
+      ],
+      "pembahasan": "Ing wacan kasebut, rombongan budhal jam enem esuk ing dina Minggu nganggo mobil.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-jawa-m3-p2-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Crita pengalaman",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Crita pengalaman?",
+      "kunci": [
+        "teks sing nyritakake kedadeyan sing dialami penulis utawa paraga"
+      ],
+      "kataKunci": [
+        "teks sing nyritakake kedadeyan sing dialami penulis utawa paraga"
+      ],
+      "pembahasan": "Crita pengalaman nyritakake kedadeyan nyata utawa pengalaman sing dialami.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-jawa-m3-p2-q10"
+    }
+  ]
+}

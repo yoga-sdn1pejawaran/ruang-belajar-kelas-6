@@ -1,0 +1,317 @@
+{
+  "id": "ipas-latihan-m5-p1",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Negara Maju dan Kerja Sama Internasional",
+  "paket": 1,
+  "judul": "Negara Maju dan Kerja Sama Internasional • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "id": "ipas-m5-lat-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Ciri negara maju",
+      "pertanyaan": "Sebuah negara memiliki layanan kesehatan baik, pendidikan berkualitas, infrastruktur maju, dan penguasaan teknologi.\n\nCiri tersebut umum ditemukan pada ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Negara maju"
+        },
+        {
+          "id": "B",
+          "teks": "Negara tanpa pemerintahan"
+        },
+        {
+          "id": "C",
+          "teks": "Wilayah terpencil saja"
+        },
+        {
+          "id": "D",
+          "teks": "Negara tanpa kegiatan ekonomi"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Negara maju umumnya memiliki kualitas hidup, layanan, infrastruktur, dan teknologi berkembang.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m5-lat-02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Negara maju",
+      "pertanyaan": "Siswa membaca profil Jepang yang memiliki industri teknologi dan layanan publik berkembang.\n\nJepang sering digolongkan sebagai ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Negara maju"
+        },
+        {
+          "id": "B",
+          "teks": "Benua"
+        },
+        {
+          "id": "C",
+          "teks": "Samudra"
+        },
+        {
+          "id": "D",
+          "teks": "Organisasi internasional"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Jepang merupakan salah satu contoh negara maju.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m5-lat-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "ASEAN",
+      "pertanyaan": "Indonesia bekerja sama dengan Malaysia, Thailand, dan Singapura dalam bidang ekonomi dan pendidikan.\n\nOrganisasi kerja sama kawasan tersebut adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "PBB"
+        },
+        {
+          "id": "B",
+          "teks": "ASEAN"
+        },
+        {
+          "id": "C",
+          "teks": "UNESCO"
+        },
+        {
+          "id": "D",
+          "teks": "WHO"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "ASEAN merupakan organisasi negara-negara Asia Tenggara.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m5-lat-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "PBB",
+      "pertanyaan": "Negara-negara di dunia membentuk organisasi untuk menjaga perdamaian dan kerja sama internasional.\n\nOrganisasi tersebut adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "ASEAN"
+        },
+        {
+          "id": "B",
+          "teks": "PBB"
+        },
+        {
+          "id": "C",
+          "teks": "AFTA"
+        },
+        {
+          "id": "D",
+          "teks": "OPEC"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "PBB merupakan organisasi internasional dengan cakupan dunia.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m5-lat-05",
+      "jenis": "benar_salah",
+      "indikator": "Ciri negara maju",
+      "pertanyaan": "Negara maju biasanya memiliki kualitas layanan publik dan teknologi yang berkembang.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Pendidikan dan kesehatan relatif baik."
+        },
+        {
+          "teks": "Teknologi dan infrastruktur berkembang."
+        },
+        {
+          "teks": "Kemajuan hanya ditentukan oleh banyaknya tambang."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Kemajuan dipengaruhi pendidikan, teknologi, tata kelola, dan kualitas hidup, bukan hanya sumber daya alam.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m5-lat-06",
+      "jenis": "benar_salah",
+      "indikator": "ASEAN dan PBB",
+      "pertanyaan": "ASEAN dan PBB memiliki cakupan kerja sama yang berbeda.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "ASEAN berfokus pada Asia Tenggara."
+        },
+        {
+          "teks": "PBB memiliki cakupan internasional/dunia."
+        },
+        {
+          "teks": "Indonesia merupakan salah satu pendiri ASEAN."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "ASEAN merupakan organisasi regional Asia Tenggara; PBB berlingkup dunia.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m5-lat-07",
+      "jenis": "menjodohkan",
+      "indikator": "Organisasi internasional",
+      "pertanyaan": "Beberapa organisasi memiliki cakupan dan tujuan berbeda.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Kerja sama negara Asia Tenggara"
+        },
+        {
+          "teks": "Organisasi perdamaian dunia"
+        },
+        {
+          "teks": "Misi perdamaian PBB dari Indonesia"
+        },
+        {
+          "teks": "Deklarasi pendirian ASEAN"
+        }
+      ],
+      "pilihan": [
+        "ASEAN",
+        "PBB",
+        "Kontingen Garuda",
+        "Deklarasi Bangkok"
+      ],
+      "kunci": [
+        "ASEAN",
+        "PBB",
+        "Kontingen Garuda",
+        "Deklarasi Bangkok"
+      ],
+      "pembahasan": "ASEAN adalah organisasi kawasan; PBB organisasi dunia; Kontingen Garuda misi perdamaian; Deklarasi Bangkok menandai pendirian ASEAN.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-m5-lat-08",
+      "jenis": "menjodohkan",
+      "indikator": "Ciri negara dan potensi",
+      "pertanyaan": "Negara memanfaatkan keunggulan serta kondisi wilayahnya.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Negara dengan teknologi industri maju"
+        },
+        {
+          "teks": "Negara dataran rendah yang mengelola air"
+        },
+        {
+          "teks": "Organisasi Asia Tenggara"
+        },
+        {
+          "teks": "Organisasi dunia"
+        }
+      ],
+      "pilihan": [
+        "Jepang",
+        "Belanda",
+        "ASEAN",
+        "PBB"
+      ],
+      "kunci": [
+        "Jepang",
+        "Belanda",
+        "ASEAN",
+        "PBB"
+      ],
+      "pembahasan": "Jepang dikenal dengan teknologi industri; Belanda mengelola wilayah rendah; ASEAN dan PBB adalah organisasi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-m5-lat-09",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis pemanfaatan potensi Belanda",
+      "pertanyaan": "Wilayah Belanda memiliki dataran rendah yang rentan terhadap genangan dan banjir.\n\nPilih TIGA upaya yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Membangun tanggul dan bendungan."
+        },
+        {
+          "id": "B",
+          "teks": "Mengembangkan sistem pengelolaan air."
+        },
+        {
+          "id": "C",
+          "teks": "Memanfaatkan teknologi pertanian."
+        },
+        {
+          "id": "D",
+          "teks": "Mengabaikan risiko air."
+        },
+        {
+          "id": "E",
+          "teks": "Menutup semua pelabuhan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Belanda mengelola tantangan air dengan infrastruktur dan teknologi, sekaligus mengembangkan pertanian dan perdagangan.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m5-lat-10",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis kerja sama kawasan",
+      "pertanyaan": "Negara-negara ASEAN menghadapi persoalan lingkungan, pendidikan, dan perdagangan lintas batas.\n\nPilih TIGA manfaat kerja sama regional.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Berbagi pengetahuan dan pengalaman."
+        },
+        {
+          "id": "B",
+          "teks": "Menyelesaikan persoalan bersama."
+        },
+        {
+          "id": "C",
+          "teks": "Memperkuat hubungan antarnegara."
+        },
+        {
+          "id": "D",
+          "teks": "Memutus hubungan diplomatik."
+        },
+        {
+          "id": "E",
+          "teks": "Menghilangkan kedaulatan semua negara."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Kerja sama membantu negara menghadapi tantangan bersama tanpa menghilangkan identitas dan kedaulatan masing-masing.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

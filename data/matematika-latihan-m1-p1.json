@@ -1,0 +1,305 @@
+{
+  "id": "matematika-latihan-m1-p1",
+  "mataPelajaran": "Matematika",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Bilangan Bulat Positif, Negatif, Penjumlahan, dan Pengurangan",
+  "paket": 1,
+  "judul": "Bilangan Bulat Positif, Negatif, Penjumlahan, dan Pengurangan • Latihan",
+  "durasiMenit": 0,
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu.",
+  "soal": [
+    {
+      "id": "mtk-m1-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyatakan bilangan negatif dalam konteks suhu",
+      "pertanyaan": "Suhu pagi hari 6°C di bawah nol. Bilangan bulat yang menyatakan suhu tersebut adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "6"
+        },
+        {
+          "id": "B",
+          "teks": "−6"
+        },
+        {
+          "id": "C",
+          "teks": "0"
+        },
+        {
+          "id": "D",
+          "teks": "−12"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Enam derajat di bawah nol ditulis −6°C.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m1-02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan posisi pada garis bilangan",
+      "pertanyaan": "Bilangan yang terletak 5 langkah di sebelah kanan 0 adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "−5"
+        },
+        {
+          "id": "B",
+          "teks": "−1"
+        },
+        {
+          "id": "C",
+          "teks": "5"
+        },
+        {
+          "id": "D",
+          "teks": "0"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Ke kanan dari nol menunjukkan bilangan positif.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m1-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Membandingkan bilangan bulat",
+      "pertanyaan": "Pernyataan yang benar adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "−9 > −4"
+        },
+        {
+          "id": "B",
+          "teks": "−2 > −7"
+        },
+        {
+          "id": "C",
+          "teks": "−5 > 1"
+        },
+        {
+          "id": "D",
+          "teks": "0 < −3"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Pada garis bilangan, −2 berada di kanan −7 sehingga lebih besar.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m1-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung operasi penjumlahan dan pengurangan",
+      "pertanyaan": "Hitung −18 + 25 − 9.",
+      "kunci": "A",
+      "pembahasan": "−18 + 25 = 7, lalu 7 − 9 = −2.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-2"
+        },
+        {
+          "id": "B",
+          "teks": "-1"
+        },
+        {
+          "id": "C",
+          "teks": "-3"
+        },
+        {
+          "id": "D",
+          "teks": "0"
+        }
+      ]
+    },
+    {
+      "id": "mtk-m1-05",
+      "jenis": "benar_salah",
+      "indikator": "Menilai perubahan posisi pada garis bilangan",
+      "pertanyaan": "Sebuah pion mulai di −3, bergerak 8 langkah ke kanan, lalu 4 langkah ke kiri. Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Pion berhenti di 1."
+        },
+        {
+          "teks": "Gerak ke kanan menambah nilai bilangan."
+        },
+        {
+          "teks": "Jarak posisi akhir ke nol adalah 1 satuan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "−3 + 8 − 4 = 1. Ketiga pernyataan benar.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "mtk-m1-06",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyelesaikan operasi campuran penjumlahan dan pengurangan bilangan bulat",
+      "pertanyaan": "Hasil dari −18 − (−7) + (−12) adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "−23"
+        },
+        {
+          "id": "B",
+          "teks": "−11"
+        },
+        {
+          "id": "C",
+          "teks": "−37"
+        },
+        {
+          "id": "D",
+          "teks": "23"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Kerjakan dari kiri ke kanan. −18 − (−7) = −18 + 7 = −11. Kemudian −11 + (−12) = −23. Jadi jawaban yang benar adalah A, yaitu −23.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m1-07",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyelesaikan masalah perubahan suhu",
+      "pertanyaan": "Suhu mula-mula −4°C. Suhu naik 9°C, lalu turun 12°C. Berapa suhu akhirnya dalam °C?",
+      "kunci": "A",
+      "pembahasan": "−4 + 9 − 12 = −7°C.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-7"
+        },
+        {
+          "id": "B",
+          "teks": "-6"
+        },
+        {
+          "id": "C",
+          "teks": "-8"
+        },
+        {
+          "id": "D",
+          "teks": "-5"
+        }
+      ]
+    },
+    {
+      "id": "mtk-m1-08",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis hubungan bilangan bulat dan jarak",
+      "pertanyaan": "Titik P berada di −8 dan titik Q berada di 5. Pilih tepat tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "P berada di kiri nol."
+        },
+        {
+          "id": "B",
+          "teks": "Q merupakan bilangan negatif."
+        },
+        {
+          "id": "C",
+          "teks": "Jarak P ke Q adalah 13 satuan."
+        },
+        {
+          "id": "D",
+          "teks": "−8 lebih besar daripada 5."
+        },
+        {
+          "id": "E",
+          "teks": "Jarak Q ke nol adalah 5 satuan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "E"
+      ],
+      "pembahasan": "−8 berada di kiri nol; jarak −8 ke 5 adalah 13; jarak 5 ke nol adalah 5.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "mtk-m1-09",
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan operasi bilangan bulat dengan hasilnya",
+      "pertanyaan": "Pasangkan operasi di kiri dengan hasil yang tepat.",
+      "pasangan": [
+        {
+          "teks": "−7 + 12"
+        },
+        {
+          "teks": "8 − 15"
+        },
+        {
+          "teks": "6 − 10"
+        },
+        {
+          "teks": "−5 − 7"
+        }
+      ],
+      "pilihan": [
+        "−4",
+        "5",
+        "−12",
+        "−7"
+      ],
+      "kunci": [
+        "5",
+        "−7",
+        "−4",
+        "−12"
+      ],
+      "pembahasan": "Hasil berturut-turut: −7 + 12 = 5; 8 − 15 = −7; 6 − 10 = −4; dan −5 − 7 = −12.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "mtk-m1-10",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyelesaikan masalah kontekstual operasi campuran",
+      "pertanyaan": "Saldo awal tabungan Raka Rp20.000. Ia menarik Rp35.000, lalu menerima kiriman Rp18.000. Berapa saldo akhirnya dalam ribuan rupiah?",
+      "kunci": "A",
+      "pembahasan": "20 − 35 + 18 = 3. Saldo akhir Rp3.000 atau 3 ribu rupiah.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "3"
+        },
+        {
+          "id": "B",
+          "teks": "4"
+        },
+        {
+          "id": "C",
+          "teks": "2"
+        },
+        {
+          "id": "D",
+          "teks": "5"
+        }
+      ]
+    }
+  ]
+}

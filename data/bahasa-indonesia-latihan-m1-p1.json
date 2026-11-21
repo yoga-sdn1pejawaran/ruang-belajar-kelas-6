@@ -1,0 +1,307 @@
+{
+  "id": "bahasa-indonesia-latihan-mNarasi, Formulir, Surat Resmi, Deskripsi Budaya, dan Kata Majemuk-p1",
+  "mataPelajaran": "Bahasa Indonesia",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Formulir, Surat Resmi, Teks Deskripsi, dan Kata Majemuk",
+  "paket": 1,
+  "judul": "Formulir, Surat Resmi, Teks Deskripsi, dan Kata Majemuk • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Dalam cerita tentang Nara yang awalnya takut tampil, lalu berani membaca puisi setelah didukung teman-temannya, perubahan sikap Nara menunjukkan unsur ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "latar"
+        },
+        {
+          "id": "B",
+          "teks": "penokohan"
+        },
+        {
+          "id": "C",
+          "teks": "sudut pandang"
+        },
+        {
+          "id": "D",
+          "teks": "amanat"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Penokohan menggambarkan watak dan perubahan sikap tokoh.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "BI6-M1-P1-01",
+      "stimulus": "Pada hari pertama mengikuti pentas kelas, Nara diminta membacakan puisi pilihannya. Ia sebenarnya sudah berlatih di rumah, tetapi tetap merasa gugup ketika melihat teman-temannya duduk memperhatikan. Nara takut salah mengucapkan kata dan menjadi bahan tertawaan. Dua orang temannya kemudian menemaninya berlatih. Setelah mendapat dukungan, Nara akhirnya berani maju dan menyelesaikan pembacaan puisi. Guru kelas kemudian mengajak siswa membicarakan keberanian Nara dan cara teman-teman membantunya."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Berdasarkan bacaan, tentukan benar atau salah untuk setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Tokoh utama dalam ringkasan adalah Dimas."
+        },
+        {
+          "teks": "Peristiwa berlangsung di lingkungan sekolah."
+        },
+        {
+          "teks": "Amanat cerita adalah mengambil barang yang ditemukan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Dimas menjadi tokoh utama, latarnya sekolah, dan amanatnya bersikap jujur dengan mengembalikan barang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-M1-P1-02",
+      "stimulus": "Dimas menemukan sebuah dompet berwarna cokelat di dekat taman sekolah setelah jam istirahat. Ia tidak membuka atau mengambil uang di dalamnya. Dimas segera membawa dompet itu ke ruang guru dan menjelaskan tempat ia menemukannya. Guru kemudian mengumumkan penemuan tersebut agar pemiliknya dapat mengambil kembali barang itu. Guru mengingatkan siswa bahwa barang temuan harus diserahkan kepada orang dewasa yang bertanggung jawab."
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "pertanyaan": "Sebuah cerita mengisahkan warga desa bekerja sama membersihkan mata air yang mulai tercemar. Pilih TIGA unsur/informasi yang dapat disimpulkan tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tema cerita berkaitan dengan kepedulian lingkungan."
+        },
+        {
+          "id": "B",
+          "teks": "Latar tempatnya adalah kawasan mata air."
+        },
+        {
+          "id": "C",
+          "teks": "Tokoh utama pasti seorang kepala sekolah."
+        },
+        {
+          "id": "D",
+          "teks": "Konflik berkaitan dengan kondisi mata air."
+        },
+        {
+          "id": "E",
+          "teks": "Alur cerita pasti mundur."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Tema, latar, dan konflik dapat dikenali dari peristiwa; informasi tentang kepala sekolah dan alur mundur tidak didukung.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "BI6-M1-P1-03",
+      "stimulus": "Warga Desa Sukaasih melihat mata air yang biasa digunakan mulai dipenuhi sampah plastik dan daun kering. Ketua RT mengajak warga membersihkan saluran air pada hari Minggu. Anak-anak mengumpulkan sampah, sedangkan orang dewasa membersihkan bagian saluran yang tersumbat. Setelah kegiatan selesai, warga sepakat memasang papan imbauan dan membuat jadwal menjaga kebersihan mata air. Warga juga membuat jadwal pemeriksaan agar mata air tetap bersih dan dapat digunakan bersama."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Pada formulir pendaftaran kegiatan, kolom 'nama lengkap', 'kelas', dan 'nomor telepon' digunakan untuk ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menilai kemampuan peserta"
+        },
+        {
+          "id": "B",
+          "teks": "mengumpulkan identitas peserta"
+        },
+        {
+          "id": "C",
+          "teks": "menentukan pemenang lomba"
+        },
+        {
+          "id": "D",
+          "teks": "menyampaikan hasil kegiatan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Kolom identitas membantu panitia mengenali dan menghubungi peserta.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "BI6-M1-P1-04",
+      "stimulus": "Panitia sekolah membuka pendaftaran untuk kegiatan kemah akhir semester. Setiap peserta diminta mengisi nama lengkap, kelas, alamat, dan nomor telepon orang tua. Data tersebut digunakan panitia untuk mengenali peserta serta menghubungi keluarga apabila ada perubahan jadwal atau keadaan darurat. Peserta diminta memeriksa kembali isian sebelum menyerahkan formulir. Panitia menyimpan formulir sebagai arsip dan menggunakan data kontak hanya untuk keperluan kegiatan."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Sebuah formulir peminjaman buku meminta nama peminjam, kelas, judul buku, dan tanggal pinjam.",
+      "pernyataan": [
+        {
+          "teks": "Nama peminjam termasuk data identitas."
+        },
+        {
+          "teks": "Judul buku menunjukkan benda yang dipinjam."
+        },
+        {
+          "teks": "Tanggal pinjam tidak berkaitan dengan administrasi peminjaman."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Tanggal pinjam diperlukan untuk mencatat waktu transaksi dan pengembalian.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-M1-P1-05",
+      "stimulus": "Perpustakaan sekolah menyediakan formulir peminjaman buku. Pada formulir itu terdapat kolom nama peminjam, kelas, judul buku, tanggal pinjam, dan tanggal pengembalian. Petugas menggunakan informasi tersebut untuk mencatat siapa yang meminjam buku dan kapan buku harus dikembalikan. Siswa perlu mengisi setiap kolom sesuai keadaan sebenarnya agar pencatatan tidak keliru. Setelah buku dikembalikan, petugas mencatat tanggal pengembalian agar riwayat peminjaman tetap tertib."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Surat dari kepala sekolah kepada orang tua murid untuk menghadiri rapat membahas kegiatan sekolah termasuk ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "surat pribadi"
+        },
+        {
+          "id": "B",
+          "teks": "surat resmi"
+        },
+        {
+          "id": "C",
+          "teks": "surat undangan ulang tahun"
+        },
+        {
+          "id": "D",
+          "teks": "surat elektronik tidak resmi"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Surat dikeluarkan lembaga untuk keperluan kedinasan sehingga termasuk surat resmi.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "BI6-M1-P1-06",
+      "stimulus": "Kepala SD Tunas Bangsa mengirim surat kepada orang tua siswa kelas VI. Surat itu berisi undangan rapat untuk membahas program tahunan dan persiapan kegiatan akhir tahun. Di dalamnya tercantum identitas sekolah, nomor surat, tanggal, alamat tujuan, pokok undangan, waktu, tempat, serta tanda tangan kepala sekolah. Surat dibuat dengan bahasa resmi. Undangan itu membantu orang tua menyiapkan waktu untuk hadir dan mengikuti pembahasan sekolah."
+    },
+    {
+      "jenis": "menjodohkan",
+      "pertanyaan": "Pasangkan bagian surat resmi dengan fungsinya.",
+      "pasangan": [
+        {
+          "teks": "Kop surat"
+        },
+        {
+          "teks": "Nomor surat"
+        },
+        {
+          "teks": "Alamat tujuan"
+        },
+        {
+          "teks": "Tanda tangan"
+        }
+      ],
+      "pilihan": [
+        "Mengesahkan surat oleh pihak berwenang",
+        "Menunjukkan penerima surat",
+        "Memudahkan pengarsipan",
+        "Menunjukkan identitas instansi"
+      ],
+      "kunci": [
+        "Menunjukkan identitas instansi",
+        "Memudahkan pengarsipan",
+        "Menunjukkan penerima surat",
+        "Mengesahkan surat oleh pihak berwenang"
+      ],
+      "pembahasan": "Kop memuat identitas instansi; nomor untuk administrasi; alamat menunjukkan penerima; tanda tangan mengesahkan surat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "BI6-M1-P1-07",
+      "stimulus": "Sebuah surat undangan sekolah memuat beberapa bagian yang memiliki fungsi berbeda. Kop surat menunjukkan lembaga yang mengirim surat, nomor surat membantu pengarsipan, alamat tujuan menjelaskan penerima, sedangkan tanda tangan menunjukkan pihak yang bertanggung jawab. Pembaca dapat mengenali fungsi bagian-bagian tersebut dengan memperhatikan letak dan informasi yang tercantum pada surat. Dengan memahami fungsi setiap bagian, siswa dapat membaca surat resmi secara lebih cermat."
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "pertanyaan": "Dalam deskripsi tari tradisional, penulis menjelaskan gerak, busana, iringan, dan asal daerah. Pilih TIGA informasi yang termasuk ciri objek deskripsi.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Warna dan bentuk busana penari."
+        },
+        {
+          "id": "B",
+          "teks": "Urutan gerak khas tarian."
+        },
+        {
+          "id": "C",
+          "teks": "Pendapat bahwa semua tarian lain membosankan."
+        },
+        {
+          "id": "D",
+          "teks": "Alat musik pengiring."
+        },
+        {
+          "id": "E",
+          "teks": "Jumlah penonton konser di kota lain."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Deskripsi berisi ciri yang dapat diamati dari objek, bukan pendapat tidak relevan atau informasi objek lain.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "BI6-M1-P1-08",
+      "stimulus": "Dalam tugas seni budaya, siswa diminta menulis deskripsi tentang tari Saman dari Aceh. Mereka mengamati gerakan penari yang dilakukan secara serempak, busana yang dikenakan, pola duduk, irama tepukan, serta asal daerah tarian. Catatan pengamatan disusun menjadi paragraf agar pembaca memperoleh gambaran yang jelas tentang ciri khas tarian tersebut. Mereka memilih rincian yang dapat diamati agar deskripsi tari tidak hanya berisi pendapat pribadi."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Gabungan kata 'buah tangan' pada kalimat 'Ayah membawa buah tangan dari Yogyakarta' bermakna ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "buah yang dipetik"
+        },
+        {
+          "id": "B",
+          "teks": "oleh-oleh"
+        },
+        {
+          "id": "C",
+          "teks": "alat untuk membawa buah"
+        },
+        {
+          "id": "D",
+          "teks": "hasil kebun"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Buah tangan merupakan kata majemuk yang berarti oleh-oleh.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "BI6-M1-P1-09",
+      "stimulus": "Ketika pulang dari Yogyakarta, Ayah membawa sebuah kotak berisi bakpia untuk keluarga di rumah. Ibu menyambut kedatangan Ayah dan bertanya apakah perjalanan berjalan lancar. Ayah menjelaskan bahwa kotak itu dibeli sebagai oleh-oleh untuk dinikmati bersama. Dalam percakapan sehari-hari, beberapa gabungan kata memiliki makna khusus yang tidak selalu sama dengan arti setiap katanya. Siswa membandingkan beberapa contoh kalimat untuk mengetahui makna gabungan kata dalam pemakaian sehari-hari."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Perhatikan kalimat: 'Ibu membeli kereta api mainan untuk adik.'",
+      "pernyataan": [
+        {
+          "teks": "Kereta api merupakan gabungan kata yang memiliki makna khusus."
+        },
+        {
+          "teks": "Makna kereta api selalu berarti kendaraan sungguhan, bukan mainan."
+        },
+        {
+          "teks": "Makna kata majemuk perlu dipahami sesuai konteks kalimat."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Kata majemuk memiliki makna sebagai satu kesatuan; konteks dapat menunjukkan benda tiruan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-M1-P1-10",
+      "stimulus": "Pada kalimat “Ibu membeli kereta api mainan untuk adik”, gabungan kata kereta api muncul dalam konteks sebuah mainan. Pembaca perlu memperhatikan kata-kata di sekitarnya agar tidak salah memahami maksud kalimat. Makna gabungan kata dapat bersifat tetap atau berubah sesuai konteks penggunaannya, sehingga kalimat lengkap perlu dibaca sebelum menentukan artinya. Karena itu, konteks kalimat menjadi petunjuk penting untuk memahami gabungan kata tersebut."
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

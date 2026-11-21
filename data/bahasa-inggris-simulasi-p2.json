@@ -1,0 +1,924 @@
+{
+  "id": "bahasa-inggris-v1-simulasi-p2",
+  "mataPelajaran": "Bahasa Inggris",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "paket": 2,
+  "judul": "Simulasi Bahasa Inggris V1 • Paket 2",
+  "durasiMenit": 75,
+  "soal": [
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap pola atau keterangan di sebelah kiri dengan kalimat atau susunan yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Pola subjek jamak"
+        },
+        {
+          "teks": "I + V1"
+        },
+        {
+          "teks": "We + V1"
+        },
+        {
+          "teks": "They + V1"
+        }
+      ],
+      "pilihan": [
+        "We study English.",
+        "They play football.",
+        "subject + Verb 1 + complement",
+        "I write a letter."
+      ],
+      "kunci": [
+        "subject + Verb 1 + complement",
+        "I write a letter.",
+        "We study English.",
+        "They play football."
+      ],
+      "pembahasan": "Setiap pola atau keterangan dipasangkan dengan contoh kalimat atau susunan yang sesuai.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-v1-sim-p2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "I + V1",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “I”.",
+      "pembahasan": "Kalimat positif Simple Present menggunakan kata kerja yang sesuai dengan subjek. Untuk he, she, atau it, kata kerja umumnya mendapat akhiran -s/-es.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-sim-p2-q2",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "I write a letter."
+        },
+        {
+          "id": "B",
+          "teks": "I writes a letter."
+        },
+        {
+          "id": "C",
+          "teks": "I writing a letter."
+        },
+        {
+          "id": "D",
+          "teks": "I wrote a letter every day."
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "We + V1",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “we”.",
+      "pembahasan": "Kalimat positif Simple Present menggunakan kata kerja yang sesuai dengan subjek. Untuk he, she, atau it, kata kerja umumnya mendapat akhiran -s/-es.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-sim-p2-q3",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "We study English."
+        },
+        {
+          "id": "B",
+          "teks": "We studies English."
+        },
+        {
+          "id": "C",
+          "teks": "We studying English."
+        },
+        {
+          "id": "D",
+          "teks": "We studied English every day."
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "We + V1",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “we” (kami/kita).",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "We studied English every day."
+        },
+        {
+          "id": "B",
+          "teks": "We study English."
+        },
+        {
+          "id": "C",
+          "teks": "We studies English."
+        },
+        {
+          "id": "D",
+          "teks": "We studying English."
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "We is followed by the base verb study.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-sim-p2-q4"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "They + V1",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “they” (mereka).",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "They play football."
+        },
+        {
+          "id": "B",
+          "teks": "They plays football."
+        },
+        {
+          "id": "C",
+          "teks": "They playing football."
+        },
+        {
+          "id": "D",
+          "teks": "They played football every Sunday."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "They uses the base verb play in simple present.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-sim-p2-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang kalimat positif Simple Present.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Susunan kalimat: subject + verb + object/complement."
+        },
+        {
+          "id": "B",
+          "teks": "Kebiasaan: I brush my teeth every morning."
+        },
+        {
+          "id": "C",
+          "teks": "Fakta umum: Water boils at 100°C at sea level."
+        },
+        {
+          "id": "D",
+          "teks": "Pola subjek jamak: subject + is + Verb-ing always."
+        },
+        {
+          "id": "E",
+          "teks": "I + V1: I writing a letter."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan pola kalimat positif Simple Present. Perhatikan kesesuaian subjek, kata kerja, dan susunan kalimat.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-sim-p2-q6"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang kalimat positif Simple Present.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Fakta umum: Water boils at 100°C at sea level."
+        },
+        {
+          "id": "B",
+          "teks": "Pola subjek jamak: subject + Verb 1 + complement."
+        },
+        {
+          "id": "C",
+          "teks": "I + V1: I writes a letter."
+        },
+        {
+          "id": "D",
+          "teks": "We + V1: We studying English."
+        },
+        {
+          "id": "E",
+          "teks": "Kebiasaan: I brush my teeth every morning."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan pola kalimat positif Simple Present. Perhatikan kesesuaian subjek, kata kerja, dan susunan kalimat.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-sim-p2-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan tentang kalimat positif Simple Present berikut.",
+      "pernyataan": [
+        {
+          "teks": "Fakta umum adalah Water boils at 100°C at sea level."
+        },
+        {
+          "teks": "I + V1 adalah I writes a letter."
+        },
+        {
+          "teks": "They + V1 adalah They play football."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; i + v1 yang tepat adalah I write a letter.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-sim-p2-q8"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan tentang kalimat positif Simple Present berikut.",
+      "pernyataan": [
+        {
+          "teks": "Pola subjek jamak adalah subject + Verb 1 + complement."
+        },
+        {
+          "teks": "We + V1 adalah We studies English."
+        },
+        {
+          "teks": "You + V1 adalah You drink water every morning."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; we + v1 yang tepat adalah We study English.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-sim-p2-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap pola atau keterangan di sebelah kiri dengan kalimat atau susunan yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Fakta umum"
+        },
+        {
+          "teks": "Pola subjek jamak"
+        },
+        {
+          "teks": "I + V1"
+        },
+        {
+          "teks": "We + V1"
+        }
+      ],
+      "pilihan": [
+        "I write a letter.",
+        "We study English.",
+        "Water boils at 100°C at sea level.",
+        "subject + Verb 1 + complement"
+      ],
+      "kunci": [
+        "Water boils at 100°C at sea level.",
+        "subject + Verb 1 + complement",
+        "I write a letter.",
+        "We study English."
+      ],
+      "pembahasan": "Setiap pola atau keterangan dipasangkan dengan contoh kalimat atau susunan yang sesuai.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-v1-sim-p2-q10"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap pola atau keterangan di sebelah kiri dengan kalimat atau susunan yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "I + V1"
+        },
+        {
+          "teks": "We + V1"
+        },
+        {
+          "teks": "They + V1"
+        },
+        {
+          "teks": "You + V1"
+        }
+      ],
+      "pilihan": [
+        "You drink water every morning.",
+        "I write a letter.",
+        "We study English.",
+        "They play football."
+      ],
+      "kunci": [
+        "I write a letter.",
+        "We study English.",
+        "They play football.",
+        "You drink water every morning."
+      ],
+      "pembahasan": "Setiap pola atau keterangan dipasangkan dengan contoh kalimat atau susunan yang sesuai.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-v1-sim-p2-q11"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "We + V1",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “we”.",
+      "pembahasan": "Kalimat positif Simple Present menggunakan kata kerja yang sesuai dengan subjek. Untuk he, she, atau it, kata kerja umumnya mendapat akhiran -s/-es.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-sim-p2-q12",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "We study English."
+        },
+        {
+          "id": "B",
+          "teks": "We studies English."
+        },
+        {
+          "id": "C",
+          "teks": "We studying English."
+        },
+        {
+          "id": "D",
+          "teks": "We studied English every day."
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "They + V1",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “they”.",
+      "pembahasan": "Kalimat positif Simple Present menggunakan kata kerja yang sesuai dengan subjek. Untuk he, she, atau it, kata kerja umumnya mendapat akhiran -s/-es.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-sim-p2-q13",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "They play football."
+        },
+        {
+          "id": "B",
+          "teks": "They plays football."
+        },
+        {
+          "id": "C",
+          "teks": "They playing football."
+        },
+        {
+          "id": "D",
+          "teks": "They played football every Sunday."
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "He + verb-s",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “he” (dia laki-laki).",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "He reading a book."
+        },
+        {
+          "id": "B",
+          "teks": "He do reads a book."
+        },
+        {
+          "id": "C",
+          "teks": "He reads a book."
+        },
+        {
+          "id": "D",
+          "teks": "He read a book every night."
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "For he, the main verb usually takes -s or -es.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-sim-p2-q14"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "She + verb-es",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “she” (dia perempuan).",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "She do watches television."
+        },
+        {
+          "id": "B",
+          "teks": "She watches television."
+        },
+        {
+          "id": "C",
+          "teks": "She watch television."
+        },
+        {
+          "id": "D",
+          "teks": "She watching television."
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Watch ends in -ch, so it takes -es: watches.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-sim-p2-q15"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang kalimat positif Simple Present.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Watch → watches: The boy watch cartoons."
+        },
+        {
+          "id": "B",
+          "teks": "Nama tunggal + verb-s/es: Mila singing beautifully."
+        },
+        {
+          "id": "C",
+          "teks": "Study → studies: Rina studies English."
+        },
+        {
+          "id": "D",
+          "teks": "Play → plays: Doni plays chess."
+        },
+        {
+          "id": "E",
+          "teks": "Have → has: She has a new bag."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan pola kalimat positif Simple Present. Perhatikan kesesuaian subjek, kata kerja, dan susunan kalimat.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-sim-p2-q16"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang kalimat positif Simple Present.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "He + verb-s: He reading a book."
+        },
+        {
+          "id": "B",
+          "teks": "Play → plays: Doni plays chess."
+        },
+        {
+          "id": "C",
+          "teks": "Have → has: She has a new bag."
+        },
+        {
+          "id": "D",
+          "teks": "Watch → watches: The boy watches cartoons."
+        },
+        {
+          "id": "E",
+          "teks": "Nama tunggal + verb-s/es: Mila sing beautifully."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan pola kalimat positif Simple Present. Perhatikan kesesuaian subjek, kata kerja, dan susunan kalimat.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-sim-p2-q17"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan tentang kalimat positif Simple Present berikut.",
+      "pernyataan": [
+        {
+          "teks": "Have → has adalah She has a new bag."
+        },
+        {
+          "teks": "Nama tunggal + verb-s/es adalah Mila sing beautifully."
+        },
+        {
+          "teks": "She + verb-es adalah She watches television."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; nama tunggal + verb-s/es yang tepat adalah Mila sings beautifully.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-sim-p2-q18"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan tentang kalimat positif Simple Present berikut.",
+      "pernyataan": [
+        {
+          "teks": "Watch → watches adalah The boy watches cartoons."
+        },
+        {
+          "teks": "He + verb-s adalah He read a book every night."
+        },
+        {
+          "teks": "Go → goes adalah My brother goes to school."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; he + verb-s yang tepat adalah He reads a book.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-sim-p2-q19"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap pola atau keterangan di sebelah kiri dengan kalimat atau susunan yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Have → has"
+        },
+        {
+          "teks": "Watch → watches"
+        },
+        {
+          "teks": "Nama tunggal + verb-s/es"
+        },
+        {
+          "teks": "He + verb-s"
+        }
+      ],
+      "pilihan": [
+        "She has a new bag.",
+        "The boy watches cartoons.",
+        "Mila sings beautifully.",
+        "He reads a book."
+      ],
+      "kunci": [
+        "She has a new bag.",
+        "The boy watches cartoons.",
+        "Mila sings beautifully.",
+        "He reads a book."
+      ],
+      "pembahasan": "Setiap pola atau keterangan dipasangkan dengan contoh kalimat atau susunan yang sesuai.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-v1-sim-p2-q20"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap pola atau keterangan di sebelah kiri dengan kalimat atau susunan yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Nama tunggal + verb-s/es"
+        },
+        {
+          "teks": "He + verb-s"
+        },
+        {
+          "teks": "She + verb-es"
+        },
+        {
+          "teks": "Go → goes"
+        }
+      ],
+      "pilihan": [
+        "He reads a book.",
+        "She watches television.",
+        "My brother goes to school.",
+        "Mila sings beautifully."
+      ],
+      "kunci": [
+        "Mila sings beautifully.",
+        "He reads a book.",
+        "She watches television.",
+        "My brother goes to school."
+      ],
+      "pembahasan": "Setiap pola atau keterangan dipasangkan dengan contoh kalimat atau susunan yang sesuai.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-v1-sim-p2-q21"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "He + verb-s",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “he”.",
+      "pembahasan": "Kalimat positif Simple Present menggunakan kata kerja yang sesuai dengan subjek. Untuk he, she, atau it, kata kerja umumnya mendapat akhiran -s/-es.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-sim-p2-q22",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "He reads a book."
+        },
+        {
+          "id": "B",
+          "teks": "He read a book yesterday."
+        },
+        {
+          "id": "C",
+          "teks": "He reading a book."
+        },
+        {
+          "id": "D",
+          "teks": "He read a book every day."
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "She + verb-es",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “she”.",
+      "pembahasan": "Kalimat positif Simple Present menggunakan kata kerja yang sesuai dengan subjek. Untuk he, she, atau it, kata kerja umumnya mendapat akhiran -s/-es.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-sim-p2-q23",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "She watches television."
+        },
+        {
+          "id": "B",
+          "teks": "She watch television."
+        },
+        {
+          "id": "C",
+          "teks": "She watching television."
+        },
+        {
+          "id": "D",
+          "teks": "She watched television yesterday."
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "She + verb-es",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “she” (dia perempuan).",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "She do watches television."
+        },
+        {
+          "id": "B",
+          "teks": "She watches television."
+        },
+        {
+          "id": "C",
+          "teks": "She watch television."
+        },
+        {
+          "id": "D",
+          "teks": "She watching television."
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Watch ends in -ch, so it takes -es: watches.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-sim-p2-q24"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Go → goes",
+      "pertanyaan": "Pilih jawaban yang tepat berdasarkan pola kalimat positif Simple Present.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "My brother goes to school."
+        },
+        {
+          "id": "B",
+          "teks": "My brother go to school."
+        },
+        {
+          "id": "C",
+          "teks": "My brother going to school."
+        },
+        {
+          "id": "D",
+          "teks": "My brother gone to school."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Go becomes goes with he, she, it, or a singular name.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-sim-p2-q25"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang kalimat positif Simple Present.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "He + verb-s: He reading a book."
+        },
+        {
+          "id": "B",
+          "teks": "Play → plays: Doni plays chess."
+        },
+        {
+          "id": "C",
+          "teks": "Have → has: She has a new bag."
+        },
+        {
+          "id": "D",
+          "teks": "Watch → watches: The boy watches cartoons."
+        },
+        {
+          "id": "E",
+          "teks": "Nama tunggal + verb-s/es: Mila sing beautifully."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan pola kalimat positif Simple Present. Perhatikan kesesuaian subjek, kata kerja, dan susunan kalimat.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-sim-p2-q26"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang kalimat positif Simple Present.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Have → has: She has a new bag."
+        },
+        {
+          "id": "B",
+          "teks": "Watch → watches: The boy watches cartoons."
+        },
+        {
+          "id": "C",
+          "teks": "Nama tunggal + verb-s/es: Mila sings beautifully."
+        },
+        {
+          "id": "D",
+          "teks": "He + verb-s: He read a book every night."
+        },
+        {
+          "id": "E",
+          "teks": "She + verb-es: She watching television."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan pola kalimat positif Simple Present. Perhatikan kesesuaian subjek, kata kerja, dan susunan kalimat.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-sim-p2-q27"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan tentang kalimat positif Simple Present berikut.",
+      "pernyataan": [
+        {
+          "teks": "Watch → watches adalah The boy watches cartoons."
+        },
+        {
+          "teks": "He + verb-s adalah He read a book every night."
+        },
+        {
+          "teks": "Go → goes adalah My brother goes to school."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; he + verb-s yang tepat adalah He reads a book.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-sim-p2-q28"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan tentang kalimat positif Simple Present berikut.",
+      "pernyataan": [
+        {
+          "teks": "Nama tunggal + verb-s/es adalah Mila sings beautifully."
+        },
+        {
+          "teks": "She + verb-es adalah She watch television."
+        },
+        {
+          "teks": "Study → studies adalah Rina studies English."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; she + verb-es yang tepat adalah She watches television.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-sim-p2-q29"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap pola atau keterangan di sebelah kiri dengan kalimat atau susunan yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Watch → watches"
+        },
+        {
+          "teks": "Nama tunggal + verb-s/es"
+        },
+        {
+          "teks": "He + verb-s"
+        },
+        {
+          "teks": "She + verb-es"
+        }
+      ],
+      "pilihan": [
+        "Mila sings beautifully.",
+        "He reads a book.",
+        "She watches television.",
+        "The boy watches cartoons."
+      ],
+      "kunci": [
+        "The boy watches cartoons.",
+        "Mila sings beautifully.",
+        "He reads a book.",
+        "She watches television."
+      ],
+      "pembahasan": "Setiap pola atau keterangan dipasangkan dengan contoh kalimat atau susunan yang sesuai.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-v1-sim-p2-q30"
+    }
+  ],
+  "catatan": "Simulasi V1. Cakupan hanya kalimat positif Simple Present Tense: Subject + V1(s/es) + Object/Complement."
+}

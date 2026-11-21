@@ -1,0 +1,290 @@
+{
+  "id": "bahasa-inggris-latihan-m4-p3",
+  "mataPelajaran": "Bahasa Inggris",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Kalimat Tanya dan Keterangan Waktu",
+  "paket": 3,
+  "judul": "Kalimat Tanya dan Keterangan Waktu • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Verb after Does",
+      "pertanyaan": "Why is “Does he works” incorrect?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Does he working here?"
+        },
+        {
+          "id": "B",
+          "teks": "Does he worked here?"
+        },
+        {
+          "id": "C",
+          "teks": "Does he work here?"
+        },
+        {
+          "id": "D",
+          "teks": "Does he works here?"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "After Does, use the base verb without -s/-es.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-m4-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Short answer with Do",
+      "pertanyaan": "Choose the correct short answer with do.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Yes, I did."
+        },
+        {
+          "id": "B",
+          "teks": "Yes, I do."
+        },
+        {
+          "id": "C",
+          "teks": "Yes, I does."
+        },
+        {
+          "id": "D",
+          "teks": "Yes, I am."
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "A positive short answer to Do you ...? is Yes, I do.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-m4-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Frequency adverb: usually."
+        },
+        {
+          "id": "B",
+          "teks": "Routine time phrase: every morning."
+        },
+        {
+          "id": "C",
+          "teks": "WH-question: Where do you live?."
+        },
+        {
+          "id": "D",
+          "teks": "Question with Do: Does you like mangoes?."
+        },
+        {
+          "id": "E",
+          "teks": "Question with Does: Does she reads novels?."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m4-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "WH-question: Where do you live?."
+        },
+        {
+          "id": "B",
+          "teks": "Question with Do: Do you like mangoes?."
+        },
+        {
+          "id": "C",
+          "teks": "Question with Does: Do she read novels?."
+        },
+        {
+          "id": "D",
+          "teks": "Verb after Does: Does he working here?."
+        },
+        {
+          "id": "E",
+          "teks": "Routine time phrase: every morning."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m4-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "WH-question adalah Where do you live?."
+        },
+        {
+          "teks": "Question with Does adalah Do she read novels?."
+        },
+        {
+          "teks": "Short answer with Do adalah Yes, I do.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; question with does yang tepat adalah Does she read novels?.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m4-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Question with Do adalah Do you like mangoes?."
+        },
+        {
+          "teks": "Verb after Does adalah Does he works here?."
+        },
+        {
+          "teks": "Short answer with Does adalah No, she doesn’t.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; verb after does yang tepat adalah Does he work here?.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m4-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "WH-question"
+        },
+        {
+          "teks": "Question with Do"
+        },
+        {
+          "teks": "Question with Does"
+        },
+        {
+          "teks": "Verb after Does"
+        }
+      ],
+      "pilihan": [
+        "Does she read novels?",
+        "Does he work here?",
+        "Where do you live?",
+        "Do you like mangoes?"
+      ],
+      "kunci": [
+        "Where do you live?",
+        "Do you like mangoes?",
+        "Does she read novels?",
+        "Does he work here?"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-m4-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Question with Does"
+        },
+        {
+          "teks": "Verb after Does"
+        },
+        {
+          "teks": "Short answer with Do"
+        },
+        {
+          "teks": "Short answer with Does"
+        }
+      ],
+      "pilihan": [
+        "No, she doesn’t.",
+        "Does she read novels?",
+        "Does he work here?",
+        "Yes, I do."
+      ],
+      "kunci": [
+        "Does she read novels?",
+        "Does he work here?",
+        "Yes, I do.",
+        "No, she doesn’t."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-m4-p3-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Verb after Does",
+      "pertanyaan": "Lengkapi pernyataan berikut: Verb after Does berarti ....",
+      "kunci": [
+        "Does he work here?"
+      ],
+      "kataKunci": [
+        "Does he work here?"
+      ],
+      "pembahasan": "After Does, use the base verb without -s/-es.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-m4-p3-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Short answer with Do",
+      "pertanyaan": "Lengkapi pernyataan berikut: Short answer with Do berarti ....",
+      "kunci": [
+        "Yes, I do."
+      ],
+      "kataKunci": [
+        "Yes, I do."
+      ],
+      "pembahasan": "A positive short answer to Do you ...? is Yes, I do.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-m4-p3-q10"
+    }
+  ]
+}

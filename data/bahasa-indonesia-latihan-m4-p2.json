@@ -1,0 +1,262 @@
+{
+  "id": "bahasa-indonesia-latihan-m4-p2",
+  "mataPelajaran": "Bahasa Indonesia",
+  "mode": "Latihan Per Materi",
+  "materi": "Teks Eksplanasi dan Keterampilan Membaca",
+  "paket": 2,
+  "judul": "Teks Eksplanasi dan Keterampilan Membaca • Paket 2",
+  "durasiMenit": 0,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; uraian diperiksa guru menggunakan rubrik.",
+  "soal": [
+    {
+      "id": "BI-M4-P2-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan tujuan teks eksplanasi",
+      "pertanyaan": "Tujuan utama teks eksplanasi adalah ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menghibur melalui tokoh khayalan"
+        },
+        {
+          "id": "B",
+          "teks": "menjelaskan proses terjadinya fenomena"
+        },
+        {
+          "id": "C",
+          "teks": "menawarkan barang"
+        },
+        {
+          "id": "D",
+          "teks": "mengajak membeli produk"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Teks eksplanasi menjelaskan bagaimana atau mengapa fenomena terjadi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-M4-P2-02",
+      "jenis": "benar_salah",
+      "indikator": "Mengenali struktur eksplanasi",
+      "pertanyaan": "Struktur teks eksplanasi.",
+      "pernyataan": [
+        {
+          "teks": "Pernyataan umum memperkenalkan fenomena."
+        },
+        {
+          "teks": "Deretan penjelas memuat proses atau sebab-akibat."
+        },
+        {
+          "teks": "Teks eksplanasi harus selalu memiliki tokoh utama."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Teks eksplanasi menjelaskan fenomena, bukan selalu menceritakan tokoh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-M4-P2-03",
+      "jenis": "menjodohkan",
+      "indikator": "Konjungsi sebab-akibat dan urutan",
+      "pertanyaan": "Pasangkan kata hubung dengan fungsinya.",
+      "pasangan": [
+        {
+          "teks": "Karena"
+        },
+        {
+          "teks": "Sehingga"
+        },
+        {
+          "teks": "Kemudian"
+        },
+        {
+          "teks": "Akhirnya"
+        }
+      ],
+      "pilihan": [
+        "Penanda urutan tahap berikutnya",
+        "Penanda akibat",
+        "Penanda sebab",
+        "Penanda tahap akhir"
+      ],
+      "kunci": [
+        "C",
+        "B",
+        "A",
+        "D"
+      ],
+      "pembahasan": "Karena menandai sebab; sehingga akibat; kemudian urutan; akhirnya tahap akhir.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "BI-M4-P2-04",
+      "jenis": "uraian",
+      "indikator": "Menjelaskan hubungan sebab-akibat",
+      "pertanyaan": "Jelaskan mengapa saluran air yang tersumbat sampah dapat menyebabkan genangan.",
+      "kunci": "Sampah menghambat aliran air sehingga air tertahan dan meluap atau menggenang.",
+      "rubrik": [
+        "Jawaban sesuai isi dan perintah soal (2 poin)",
+        "Informasi/unsur penting lengkap (2 poin)",
+        "Kalimat runtut dan mudah dipahami (1 poin)"
+      ],
+      "pembahasan": "Jawaban memuat penyumbatan dan akibat terhadap aliran air.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "BI-M4-P2-05",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menemukan gagasan utama",
+      "pertanyaan": "Gagasan utama paragraf adalah ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "rincian tambahan"
+        },
+        {
+          "id": "B",
+          "teks": "inti pembahasan paragraf"
+        },
+        {
+          "id": "C",
+          "teks": "judul buku"
+        },
+        {
+          "id": "D",
+          "teks": "nama penulis"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Gagasan utama merupakan inti paragraf.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-M4-P2-06",
+      "jenis": "benar_salah",
+      "indikator": "Memahami informasi eksplanasi",
+      "pertanyaan": "Bacalah pernyataan tentang proses hujan.",
+      "pernyataan": [
+        {
+          "teks": "Air menguap karena panas matahari."
+        },
+        {
+          "teks": "Uap air mengalami pendinginan dan membentuk titik-titik air."
+        },
+        {
+          "teks": "Hujan terjadi karena awan berubah menjadi batu."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Proses hujan melibatkan penguapan, kondensasi, dan jatuhnya titik air.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-M4-P2-07",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Mengidentifikasi ciri eksplanasi",
+      "pertanyaan": "Ciri teks eksplanasi adalah ....\n\nPilih tepat tiga jawaban yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menjelaskan proses fenomena"
+        },
+        {
+          "id": "B",
+          "teks": "menggunakan hubungan sebab-akibat"
+        },
+        {
+          "id": "C",
+          "teks": "menyajikan informasi faktual"
+        },
+        {
+          "id": "D",
+          "teks": "selalu memakai dialog tokoh"
+        },
+        {
+          "id": "E",
+          "teks": "berisi petunjuk permainan saja"
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Teks eksplanasi menjelaskan fenomena dengan informasi faktual dan hubungan proses/sebab-akibat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-M4-P2-08",
+      "jenis": "uraian",
+      "indikator": "Menyusun urutan proses",
+      "pertanyaan": "Tuliskan urutan sederhana proses terjadinya hujan.",
+      "kunci": "Air menguap; uap naik dan mendingin; terjadi kondensasi membentuk awan; titik air membesar dan jatuh sebagai hujan.",
+      "rubrik": [
+        "Jawaban sesuai isi dan perintah soal (2 poin)",
+        "Informasi/unsur penting lengkap (2 poin)",
+        "Kalimat runtut dan mudah dipahami (1 poin)"
+      ],
+      "pembahasan": "Urutan dinilai berdasarkan tahapan utama dan keruntutan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "BI-M4-P2-09",
+      "jenis": "pilihan_ganda",
+      "indikator": "Keterampilan membaca",
+      "pertanyaan": "Ketika menemukan tanda koma saat membaca nyaring, pembaca sebaiknya ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "berhenti sangat lama"
+        },
+        {
+          "id": "B",
+          "teks": "memberi jeda singkat"
+        },
+        {
+          "id": "C",
+          "teks": "mengganti kata"
+        },
+        {
+          "id": "D",
+          "teks": "menghilangkan kalimat"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Tanda koma menandai jeda singkat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-M4-P2-10",
+      "jenis": "uraian",
+      "indikator": "Membaca dan memahami teks",
+      "pertanyaan": "Sebutkan tiga hal yang harus diperhatikan ketika membaca teks eksplanasi dengan nyaring.",
+      "kunci": "Kelancaran, lafal jelas, intonasi/jeda sesuai tanda baca.",
+      "rubrik": [
+        "Jawaban sesuai isi dan perintah soal (2 poin)",
+        "Informasi/unsur penting lengkap (2 poin)",
+        "Kalimat runtut dan mudah dipahami (1 poin)"
+      ],
+      "pembahasan": "Jawaban memuat aspek kelancaran dan kejelasan membaca.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    }
+  ]
+}

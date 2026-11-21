@@ -1,0 +1,316 @@
+{
+  "id": "bahasa-inggris-latihan-m2-p1",
+  "mataPelajaran": "Bahasa Inggris",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "To Be: Am, Is, Are",
+  "paket": 1,
+  "judul": "To Be: Am, Is, Are • Paket 1",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "To be untuk I",
+      "pertanyaan": "Lengkapilah kalimat berikut dengan to be yang tepat:\n\nI ___ happy.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "is"
+        },
+        {
+          "id": "B",
+          "teks": "are"
+        },
+        {
+          "id": "C",
+          "teks": "am"
+        },
+        {
+          "id": "D",
+          "teks": "be"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Pasangan yang benar untuk subjek I adalah am.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m2-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "To be untuk he/she/it",
+      "pertanyaan": "Lengkapilah kalimat berikut dengan to be yang tepat:\n\nShe ___ my sister.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "am"
+        },
+        {
+          "id": "B",
+          "teks": "is"
+        },
+        {
+          "id": "C",
+          "teks": "are"
+        },
+        {
+          "id": "D",
+          "teks": "be"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "She menggunakan to be is.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m2-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "To be untuk you/we/they",
+      "pertanyaan": "Lengkapilah kalimat berikut dengan to be yang tepat:\n\nThey ___ in the classroom.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "is"
+        },
+        {
+          "id": "B",
+          "teks": "am"
+        },
+        {
+          "id": "C",
+          "teks": "are"
+        },
+        {
+          "id": "D",
+          "teks": "be"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "They menggunakan are.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m2-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "To be sesuai subjek",
+      "pertanyaan": "Pilihlah kalimat bahasa Inggris yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "We is ready."
+        },
+        {
+          "id": "B",
+          "teks": "I are fine."
+        },
+        {
+          "id": "C",
+          "teks": "He is tall."
+        },
+        {
+          "id": "D",
+          "teks": "They am happy."
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "He dipasangkan dengan is: He is tall.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m2-p1-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Pasangan subject dan to be",
+      "pertanyaan": "Pilih tepat tiga pasangan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "I – am"
+        },
+        {
+          "id": "B",
+          "teks": "She – are"
+        },
+        {
+          "id": "C",
+          "teks": "We – are"
+        },
+        {
+          "id": "D",
+          "teks": "It – is"
+        },
+        {
+          "id": "E",
+          "teks": "They – am"
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "D"
+      ],
+      "pembahasan": "I-am, We-are, dan It-is merupakan pasangan yang tepat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m2-p1-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Penggunaan am, is, are",
+      "pertanyaan": "Pilih tepat tiga kalimat yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "I am a pupil."
+        },
+        {
+          "id": "B",
+          "teks": "The cats is hungry."
+        },
+        {
+          "id": "C",
+          "teks": "My father is kind."
+        },
+        {
+          "id": "D",
+          "teks": "You are helpful."
+        },
+        {
+          "id": "E",
+          "teks": "She am at home."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "D"
+      ],
+      "pembahasan": "I am, My father is, dan You are menggunakan to be dengan tepat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m2-p1-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan penggunaan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "I am ten years old."
+        },
+        {
+          "teks": "She are my friend."
+        },
+        {
+          "teks": "The bag is red."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "She harus dipasangkan dengan is; dua kalimat lainnya benar.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m2-p1-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan penggunaan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "You are a good student."
+        },
+        {
+          "teks": "They is at school."
+        },
+        {
+          "teks": "He am my brother."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "You menggunakan are, They menggunakan are, dan He menggunakan is.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m2-p1-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan contoh yang tepat",
+      "pertanyaan": "Pasangkan setiap bagian di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "I"
+        },
+        {
+          "teks": "He"
+        },
+        {
+          "teks": "You"
+        },
+        {
+          "teks": "They"
+        }
+      ],
+      "pilihan": [
+        "I am ready.",
+        "He is tall.",
+        "You are kind.",
+        "They are happy."
+      ],
+      "kunci": [
+        "I am ready.",
+        "He is tall.",
+        "You are kind.",
+        "They are happy."
+      ],
+      "pembahasan": "I-am, He-is, You-are, dan They-are.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-latihan-m2-p1-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan contoh yang tepat",
+      "pertanyaan": "Pasangkan setiap bagian di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "She"
+        },
+        {
+          "teks": "We"
+        },
+        {
+          "teks": "It"
+        },
+        {
+          "teks": "The boys"
+        }
+      ],
+      "pilihan": [
+        "She is kind.",
+        "We are ready.",
+        "It is small.",
+        "The boys are happy."
+      ],
+      "kunci": [
+        "She is kind.",
+        "We are ready.",
+        "It is small.",
+        "The boys are happy."
+      ],
+      "pembahasan": "She-is, We-are, It-is, dan The boys-are.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-latihan-m2-p1-q10"
+    }
+  ]
+}

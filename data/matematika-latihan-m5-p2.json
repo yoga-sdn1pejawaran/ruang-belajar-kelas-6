@@ -1,0 +1,265 @@
+{
+  "id": "matematika-latihan-m5-p2",
+  "mataPelajaran": "Matematika",
+  "mode": "Latihan Per Materi",
+  "materi": "Rasio dan Perbandingan",
+  "paket": 2,
+  "judul": "Rasio dan Perbandingan • Paket 2",
+  "durasiMenit": 0,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-M5P2-01-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan nilai berdasarkan rasio",
+      "pertanyaan": "Rasio A : B = 3 : 4. Jika nilai A adalah 30, berapa nilai B? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "41"
+        },
+        {
+          "id": "B",
+          "teks": "39"
+        },
+        {
+          "id": "C",
+          "teks": "42"
+        },
+        {
+          "id": "D",
+          "teks": "40"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Satu bagian = 30 ÷ 3 = 10. Nilai B = 4 × 10 = 40. Jadi, jawaban yang benar adalah 40.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M5P2-02-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyederhanakan rasio",
+      "pertanyaan": "Sederhanakan rasio 24 : 30. Tuliskan angka pertama dari rasio paling sederhana. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "3"
+        },
+        {
+          "id": "B",
+          "teks": "6"
+        },
+        {
+          "id": "C",
+          "teks": "4"
+        },
+        {
+          "id": "D",
+          "teks": "5"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "FPB dari 24 dan 30 adalah 6; rasio sederhana = 4 : 5. Jadi, jawaban yang benar adalah 4.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M5P2-03-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyelesaikan perbandingan senilai dalam konteks",
+      "pertanyaan": "Perbandingan tepung dan gula adalah 2 : 5. Jika tepung 200 gram, berapa gram gula yang diperlukan? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "502"
+        },
+        {
+          "id": "B",
+          "teks": "500"
+        },
+        {
+          "id": "C",
+          "teks": "501"
+        },
+        {
+          "id": "D",
+          "teks": "499"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Satu bagian = 200 ÷ 2 = 100 gram. Gula = 5 × 100 = 500 gram. Jadi, jawaban yang benar adalah 500.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M5P2-04-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan bagian dari jumlah keseluruhan",
+      "pertanyaan": "Rasio siswa laki-laki dan perempuan adalah 3 : 4. Jika jumlah seluruh siswa 42, berapa jumlah siswa perempuan? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "24"
+        },
+        {
+          "id": "B",
+          "teks": "25"
+        },
+        {
+          "id": "C",
+          "teks": "23"
+        },
+        {
+          "id": "D",
+          "teks": "26"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Jumlah bagian = 3+4=7. Satu bagian = 42÷7=6. Perempuan = 4×6=24. Jadi, jawaban yang benar adalah 24.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M5P2-05-BS",
+      "jenis": "benar_salah",
+      "indikator": "Menyelesaikan perbandingan senilai",
+      "pertanyaan": "Perbandingan tepung dan gula 3 : 2. Tepung yang digunakan 600 gram. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Satu bagian bernilai 200 gram."
+        },
+        {
+          "teks": "Gula yang diperlukan 400 gram."
+        },
+        {
+          "teks": "Jumlah tepung dan gula 1.000 gram."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "600 ÷ 3 = 200; gula 400; total 1.000 gram.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M5P2-06-BS",
+      "jenis": "benar_salah",
+      "indikator": "Menentukan jumlah berdasarkan rasio",
+      "pertanyaan": "Perbandingan tepung dan gula 3 : 2. Tepung yang digunakan 600 gram. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Satu bagian bernilai 200 gram."
+        },
+        {
+          "teks": "Gula yang diperlukan 400 gram."
+        },
+        {
+          "teks": "Jumlah tepung dan gula 1.000 gram."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "600 ÷ 3 = 200; gula 400; total 1.000 gram.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M5P2-07-PGK",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menentukan salah satu bagian dari rasio",
+      "pertanyaan": "Perbandingan tepung dan gula 4 : 1. Jika tepung 800 gram, pilih tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Jumlah tepung dan gula 1.000 gram."
+        },
+        {
+          "id": "B",
+          "teks": "Rasio gula terhadap tepung 4 : 1."
+        },
+        {
+          "id": "C",
+          "teks": "Satu bagian bernilai 200 gram."
+        },
+        {
+          "id": "D",
+          "teks": "Gula yang diperlukan 400 gram."
+        },
+        {
+          "id": "E",
+          "teks": "Gula yang diperlukan 200 gram."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "E"
+      ],
+      "pembahasan": "800 ÷ 4 = 200 gram per bagian. Gula 200 gram; total 1.000 gram.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M5P2-08-JODOH",
+      "jenis": "menjodohkan",
+      "indikator": "Menentukan besaran dari rasio",
+      "pertanyaan": "Pasangkan setiap soal di kolom kiri dengan hasil yang tepat di kolom kanan.",
+      "pasangan": [
+        {
+          "teks": "Rasio kelereng merah dan biru adalah 3 : 4. Jika jumlah seluruh kelereng 56, berapa banyak kelereng merah?"
+        },
+        {
+          "teks": "Perbandingan umur kakak dan adik adalah 2 : 5. Jika umur adik 45 tahun, berapa umur kakak?"
+        },
+        {
+          "teks": "Rasio sirup dan air adalah 4 : 3. Jika air yang digunakan 21 gelas, berapa gelas sirup yang diperlukan?"
+        },
+        {
+          "teks": "Panjang pita merah dan biru berbanding 5 : 4. Jika pita merah panjangnya 45 cm, berapa selisih panjang kedua pita?"
+        }
+      ],
+      "pilihan": [
+        "18",
+        "28",
+        "9",
+        "24"
+      ],
+      "kunci": [
+        "24",
+        "18",
+        "28",
+        "9"
+      ],
+      "pembahasan": "Pasangkan setiap soal dengan hasil perhitungan yang sesuai. Periksa kembali setiap hasil sebelum melanjutkan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "MTK-M5P2-09",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan besaran berdasarkan rasio",
+      "pertanyaan": "Rasio sirup dan air adalah 4 : 3. Jika air yang digunakan 21 gelas, berapa gelas sirup yang diperlukan?",
+      "kunci": 28,
+      "pembahasan": "Satu bagian = 21 ÷ 3 = 7. Sirup = 4 × 7 = 28 gelas.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-M5P2-10",
+      "jenis": "isian_angka",
+      "indikator": "Membandingkan dua besaran berdasarkan rasio",
+      "pertanyaan": "Panjang pita merah dan biru berbanding 5 : 4. Jika pita merah panjangnya 45 cm, berapa selisih panjang kedua pita?",
+      "kunci": 9,
+      "pembahasan": "Satu bagian = 45 ÷ 5 = 9 cm. Pita biru = 4 × 9 = 36 cm. Selisih = 9 cm.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    }
+  ]
+}

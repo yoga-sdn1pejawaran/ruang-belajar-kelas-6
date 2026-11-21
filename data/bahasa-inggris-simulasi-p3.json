@@ -1,0 +1,845 @@
+{
+  "id": "bahasa-inggris-simulasi-p3",
+  "mataPelajaran": "Bahasa Inggris",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "paket": 3,
+  "judul": "Simulasi ASAS Bahasa Inggris • Paket 3",
+  "durasiMenit": 75,
+  "soal": [
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Have → has adalah She has a new bag.."
+        },
+        {
+          "teks": "Nama tunggal + verb-s/es adalah Mila sing beautifully.."
+        },
+        {
+          "teks": "She + verb-es adalah She watches television.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; nama tunggal + verb-s/es yang tepat adalah Mila sings beautifully..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p3-q1"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Watch → watches adalah The boy watches cartoons.."
+        },
+        {
+          "teks": "He + verb-s adalah He read a book every night.."
+        },
+        {
+          "teks": "Go → goes adalah My brother goes to school.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; he + verb-s yang tepat adalah He reads a book..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p3-q2"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Have → has"
+        },
+        {
+          "teks": "Watch → watches"
+        },
+        {
+          "teks": "Nama tunggal + verb-s/es"
+        },
+        {
+          "teks": "He + verb-s"
+        }
+      ],
+      "pilihan": [
+        "She has a new bag.",
+        "The boy watches cartoons.",
+        "Mila sings beautifully.",
+        "He reads a book."
+      ],
+      "kunci": [
+        "She has a new bag.",
+        "The boy watches cartoons.",
+        "Mila sings beautifully.",
+        "He reads a book."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-sim-p3-q3"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Nama tunggal + verb-s/es"
+        },
+        {
+          "teks": "He + verb-s"
+        },
+        {
+          "teks": "She + verb-es"
+        },
+        {
+          "teks": "Go → goes"
+        }
+      ],
+      "pilihan": [
+        "He reads a book.",
+        "She watches television.",
+        "My brother goes to school.",
+        "Mila sings beautifully."
+      ],
+      "kunci": [
+        "Mila sings beautifully.",
+        "He reads a book.",
+        "She watches television.",
+        "My brother goes to school."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-sim-p3-q4"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "He + verb-s",
+      "pertanyaan": "Isilah dengan tepat: He + verb-s adalah ....",
+      "kunci": [
+        "He reads a book."
+      ],
+      "kataKunci": [
+        "He reads a book."
+      ],
+      "pembahasan": "For he, the main verb usually takes -s or -es.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-sim-p3-q5"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "She + verb-es",
+      "pertanyaan": "Isilah dengan tepat: She + verb-es adalah ....",
+      "kunci": [
+        "She watches television."
+      ],
+      "kataKunci": [
+        "She watches television."
+      ],
+      "pembahasan": "Watch ends in -ch, so it takes -es: watches.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-sim-p3-q6"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "She + verb-es",
+      "pertanyaan": "Choose the correct form of watch with she.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "She do watches television."
+        },
+        {
+          "id": "B",
+          "teks": "She watches television."
+        },
+        {
+          "id": "C",
+          "teks": "She watch television."
+        },
+        {
+          "id": "D",
+          "teks": "She watching television."
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Watch ends in -ch, so it takes -es: watches.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-sim-p3-q7"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Go → goes",
+      "pertanyaan": "Complete: Rudi ... to school by bike.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "My brother goes to school."
+        },
+        {
+          "id": "B",
+          "teks": "My brother go to school."
+        },
+        {
+          "id": "C",
+          "teks": "My brother going to school."
+        },
+        {
+          "id": "D",
+          "teks": "My brother gone to school."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Go becomes goes with he, she, it, or a singular name.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-sim-p3-q8"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "He + verb-s: He reading a book.."
+        },
+        {
+          "id": "B",
+          "teks": "Play → plays: Doni plays chess.."
+        },
+        {
+          "id": "C",
+          "teks": "Have → has: She has a new bag.."
+        },
+        {
+          "id": "D",
+          "teks": "Watch → watches: The boy watches cartoons.."
+        },
+        {
+          "id": "E",
+          "teks": "Nama tunggal + verb-s/es: Mila sing beautifully.."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p3-q9"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Have → has: She has a new bag.."
+        },
+        {
+          "id": "B",
+          "teks": "Watch → watches: The boy watches cartoons.."
+        },
+        {
+          "id": "C",
+          "teks": "Nama tunggal + verb-s/es: Mila sings beautifully.."
+        },
+        {
+          "id": "D",
+          "teks": "He + verb-s: He read a book every night.."
+        },
+        {
+          "id": "E",
+          "teks": "She + verb-es: She watching television.."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p3-q10"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Watch → watches adalah The boy watches cartoons.."
+        },
+        {
+          "teks": "He + verb-s adalah He read a book every night.."
+        },
+        {
+          "teks": "Go → goes adalah My brother goes to school.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; he + verb-s yang tepat adalah He reads a book..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p3-q11"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Nama tunggal + verb-s/es adalah Mila sings beautifully.."
+        },
+        {
+          "teks": "She + verb-es adalah She watch television.."
+        },
+        {
+          "teks": "Study → studies adalah Rina studies English.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; she + verb-es yang tepat adalah She watches television..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p3-q12"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Watch → watches"
+        },
+        {
+          "teks": "Nama tunggal + verb-s/es"
+        },
+        {
+          "teks": "He + verb-s"
+        },
+        {
+          "teks": "She + verb-es"
+        }
+      ],
+      "pilihan": [
+        "Mila sings beautifully.",
+        "He reads a book.",
+        "She watches television.",
+        "The boy watches cartoons."
+      ],
+      "kunci": [
+        "The boy watches cartoons.",
+        "Mila sings beautifully.",
+        "He reads a book.",
+        "She watches television."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-sim-p3-q13"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "He + verb-s"
+        },
+        {
+          "teks": "She + verb-es"
+        },
+        {
+          "teks": "Go → goes"
+        },
+        {
+          "teks": "Study → studies"
+        }
+      ],
+      "pilihan": [
+        "My brother goes to school.",
+        "Rina studies English.",
+        "He reads a book.",
+        "She watches television."
+      ],
+      "kunci": [
+        "He reads a book.",
+        "She watches television.",
+        "My brother goes to school.",
+        "Rina studies English."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-sim-p3-q14"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "She + verb-es",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: She + verb-es?",
+      "kunci": [
+        "She watches television."
+      ],
+      "kataKunci": [
+        "She watches television."
+      ],
+      "pembahasan": "Watch ends in -ch, so it takes -es: watches.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-sim-p3-q15"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Go → goes",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Go → goes?",
+      "kunci": [
+        "My brother goes to school."
+      ],
+      "kataKunci": [
+        "My brother goes to school."
+      ],
+      "pembahasan": "Go becomes goes with he, she, it, or a singular name.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-sim-p3-q16"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Go → goes",
+      "pertanyaan": "What is the -es form of go?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "My brother goes to school."
+        },
+        {
+          "id": "B",
+          "teks": "My brother go to school."
+        },
+        {
+          "id": "C",
+          "teks": "My brother going to school."
+        },
+        {
+          "id": "D",
+          "teks": "My brother gone to school."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Go becomes goes with he, she, it, or a singular name.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-sim-p3-q17"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Study → studies",
+      "pertanyaan": "What happens to study when the subject is Rina?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Rina studys English."
+        },
+        {
+          "id": "B",
+          "teks": "Rina study English."
+        },
+        {
+          "id": "C",
+          "teks": "Rina studying English."
+        },
+        {
+          "id": "D",
+          "teks": "Rina studies English."
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "For consonant + y, change y to -ies: study becomes studies.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-sim-p3-q18"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Have → has: She has a new bag.."
+        },
+        {
+          "id": "B",
+          "teks": "Watch → watches: The boy watches cartoons.."
+        },
+        {
+          "id": "C",
+          "teks": "Nama tunggal + verb-s/es: Mila sings beautifully.."
+        },
+        {
+          "id": "D",
+          "teks": "He + verb-s: He read a book every night.."
+        },
+        {
+          "id": "E",
+          "teks": "She + verb-es: She watching television.."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p3-q19"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Nama tunggal + verb-s/es: Mila sings beautifully.."
+        },
+        {
+          "id": "B",
+          "teks": "He + verb-s: He reads a book.."
+        },
+        {
+          "id": "C",
+          "teks": "She + verb-es: She watch television.."
+        },
+        {
+          "id": "D",
+          "teks": "Go → goes: My brother going to school.."
+        },
+        {
+          "id": "E",
+          "teks": "Watch → watches: The boy watches cartoons.."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p3-q20"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Nama tunggal + verb-s/es adalah Mila sings beautifully.."
+        },
+        {
+          "teks": "She + verb-es adalah She watch television.."
+        },
+        {
+          "teks": "Study → studies adalah Rina studies English.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; she + verb-es yang tepat adalah She watches television..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p3-q21"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "He + verb-s adalah He reads a book.."
+        },
+        {
+          "teks": "Go → goes adalah My brother go to school.."
+        },
+        {
+          "teks": "Play → plays adalah Doni plays chess.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; go → goes yang tepat adalah My brother goes to school..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p3-q22"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Nama tunggal + verb-s/es"
+        },
+        {
+          "teks": "He + verb-s"
+        },
+        {
+          "teks": "She + verb-es"
+        },
+        {
+          "teks": "Go → goes"
+        }
+      ],
+      "pilihan": [
+        "She watches television.",
+        "My brother goes to school.",
+        "Mila sings beautifully.",
+        "He reads a book."
+      ],
+      "kunci": [
+        "Mila sings beautifully.",
+        "He reads a book.",
+        "She watches television.",
+        "My brother goes to school."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-sim-p3-q23"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "She + verb-es"
+        },
+        {
+          "teks": "Go → goes"
+        },
+        {
+          "teks": "Study → studies"
+        },
+        {
+          "teks": "Play → plays"
+        }
+      ],
+      "pilihan": [
+        "Doni plays chess.",
+        "She watches television.",
+        "My brother goes to school.",
+        "Rina studies English."
+      ],
+      "kunci": [
+        "She watches television.",
+        "My brother goes to school.",
+        "Rina studies English.",
+        "Doni plays chess."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-sim-p3-q24"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Go → goes",
+      "pertanyaan": "Lengkapi pernyataan berikut: Go → goes berarti ....",
+      "kunci": [
+        "My brother goes to school."
+      ],
+      "kataKunci": [
+        "My brother goes to school."
+      ],
+      "pembahasan": "Go becomes goes with he, she, it, or a singular name.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-sim-p3-q25"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Study → studies",
+      "pertanyaan": "Lengkapi pernyataan berikut: Study → studies berarti ....",
+      "kunci": [
+        "Rina studies English."
+      ],
+      "kataKunci": [
+        "Rina studies English."
+      ],
+      "pembahasan": "For consonant + y, change y to -ies: study becomes studies.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-sim-p3-q26"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "I + do not + V1",
+      "pertanyaan": "Choose the correct negative sentence with I.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "I not eat spicy food."
+        },
+        {
+          "id": "B",
+          "teks": "I do not eat spicy food."
+        },
+        {
+          "id": "C",
+          "teks": "I does not eat spicy food."
+        },
+        {
+          "id": "D",
+          "teks": "I do not eats spicy food."
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Use do not + base verb with I.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-sim-p3-q27"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "They + do not + V1",
+      "pertanyaan": "Complete: They ... play tennis on Monday.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "They do not play tennis."
+        },
+        {
+          "id": "B",
+          "teks": "They does not play tennis."
+        },
+        {
+          "id": "C",
+          "teks": "They do not plays tennis."
+        },
+        {
+          "id": "D",
+          "teks": "They not playing tennis."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Use do not (don’t) with they, followed by V1.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-sim-p3-q28"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Does not contraction: don’t."
+        },
+        {
+          "id": "B",
+          "teks": "Negative sentence order: do/does + subject + not + Verb 2."
+        },
+        {
+          "id": "C",
+          "teks": "She + doesn’t + V1: She doesn’t cook on Sunday.."
+        },
+        {
+          "id": "D",
+          "teks": "Verb setelah doesn’t: doesn’t go."
+        },
+        {
+          "id": "E",
+          "teks": "Do not contraction: don’t."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p3-q29"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "I + do not + V1: I do not eats spicy food.."
+        },
+        {
+          "id": "B",
+          "teks": "Verb setelah doesn’t: doesn’t go."
+        },
+        {
+          "id": "C",
+          "teks": "Do not contraction: don’t."
+        },
+        {
+          "id": "D",
+          "teks": "Does not contraction: doesn’t."
+        },
+        {
+          "id": "E",
+          "teks": "Negative sentence order: subject + not + Verb-s."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p3-q30"
+    }
+  ]
+}

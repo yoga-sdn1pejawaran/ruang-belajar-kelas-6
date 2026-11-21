@@ -1,0 +1,926 @@
+{
+  "id": "pendidikan-pancasila-simulasi-p1",
+  "mataPelajaran": "Pendidikan Pancasila",
+  "semester": 1,
+  "mode": "Simulasi",
+  "materi": "Pendidikan Pancasila Kelas VI",
+  "paket": 1,
+  "judul": "Simulasi Pendidikan Pancasila • Paket 1",
+  "durasiMenit": 40,
+  "soal": [
+    {
+      "id": "pp-simulasi-p1-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Hubungan antarsila Pancasila",
+      "pertanyaan": "Dalam kerja kelompok, Rani membagi tugas secara adil dan mengajak semua anggota bekerja sama. Perilaku itu terutama menunjukkan hubungan sila ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pertama dan kedua"
+        },
+        {
+          "id": "B",
+          "teks": "Kedua dan ketiga"
+        },
+        {
+          "id": "C",
+          "teks": "Ketiga dan keempat"
+        },
+        {
+          "id": "D",
+          "teks": "Keempat dan kelima"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Pembagian tugas adil mencerminkan keadilan sosial yang dijalankan melalui kerja sama dan tanggung jawab bersama.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "pp-simulasi-p1-02",
+      "jenis": "benar_salah",
+      "indikator": "Hubungan antarsila Pancasila",
+      "pertanyaan": "Tentukan benar atau salah pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Nilai setiap sila Pancasila saling berkaitan dan tidak berdiri sendiri."
+        },
+        {
+          "teks": "Menghormati teman yang berbeda keyakinan dapat mendukung persatuan."
+        },
+        {
+          "teks": "Gotong royong dapat mencerminkan nilai kemanusiaan dan persatuan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Nilai antarsila saling melengkapi. Persatuan tidak membenarkan sikap merendahkan, dan musyawarah harus menghargai pendapat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-03",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Perumusan Pancasila",
+      "pertanyaan": "Perhatikan peristiwa dalam proses perumusan Pancasila. Pilih TIGA pernyataan yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Sidang BPUPKI membahas dasar negara Indonesia merdeka."
+        },
+        {
+          "id": "B",
+          "teks": "Soekarno menyampaikan pidato tentang dasar negara pada 1 Juni 1945."
+        },
+        {
+          "id": "C",
+          "teks": "Panitia Sembilan menghasilkan Piagam Jakarta pada 1 Juni 1945."
+        },
+        {
+          "id": "D",
+          "teks": "PPKI menetapkan Pancasila pada 1 Juni 1945."
+        },
+        {
+          "id": "E",
+          "teks": "Pancasila ditetapkan sebagai dasar negara oleh PPKI pada 18 Agustus 1945."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "BPUPKI membahas dasar negara; pidato Soekarno berlangsung 1 Juni 1945; pernyataan tentang Piagam Jakarta pada 1 Juni tidak tepat karena Piagam Jakarta dirumuskan pada 22 Juni 1945; PPKI menetapkan rumusan final pada 18 Agustus 1945.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-04",
+      "jenis": "menjodohkan",
+      "indikator": "Hubungan antarsila Pancasila",
+      "pertanyaan": "Pasangkan perilaku dengan hubungan nilai sila yang paling sesuai.",
+      "pasangan": [
+        {
+          "teks": "Membantu teman yang kesulitan tanpa membedakan latar belakang."
+        },
+        {
+          "teks": "Bekerja bersama menjaga kerukunan kelas yang beragam."
+        },
+        {
+          "teks": "Bermusyawarah menentukan jadwal piket."
+        },
+        {
+          "teks": "Membagi tugas piket secara seimbang."
+        }
+      ],
+      "pilihan": [
+        "Kemanusiaan dan persatuan",
+        "Persatuan dan musyawarah",
+        "Kerakyatan dan keadilan",
+        "Keadilan sosial dan tanggung jawab"
+      ],
+      "kunci": [
+        "Kemanusiaan dan persatuan",
+        "Persatuan dan musyawarah",
+        "Kerakyatan dan keadilan",
+        "Keadilan sosial dan tanggung jawab"
+      ],
+      "pembahasan": "Perilaku menunjukkan nilai kemanusiaan, persatuan, musyawarah, dan keadilan yang saling mendukung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "pp-simulasi-p1-05",
+      "jenis": "pilihan_ganda",
+      "indikator": "Perumusan Pancasila",
+      "pertanyaan": "Panitia Sembilan dalam proses perumusan dasar negara menghasilkan ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Teks Proklamasi"
+        },
+        {
+          "id": "B",
+          "teks": "Piagam Jakarta"
+        },
+        {
+          "id": "C",
+          "teks": "Sumpah Pemuda"
+        },
+        {
+          "id": "D",
+          "teks": "Dekrit Presiden"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Panitia Sembilan menghasilkan Piagam Jakarta pada 22 Juni 1945.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "pp-simulasi-p1-06",
+      "jenis": "pilihan_ganda",
+      "indikator": "Hubungan antarsila Pancasila",
+      "pertanyaan": "Warga bekerja bakti membersihkan lingkungan tanpa membedakan suku atau agama. Hubungan nilai sila yang paling tampak adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Persaingan dan kepentingan pribadi"
+        },
+        {
+          "id": "B",
+          "teks": "Kemanusiaan dan persatuan"
+        },
+        {
+          "id": "C",
+          "teks": "Kekuasaan ketua kelompok"
+        },
+        {
+          "id": "D",
+          "teks": "Kebebasan tanpa tanggung jawab"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Bekerja bersama tanpa diskriminasi mencerminkan nilai kemanusiaan dan persatuan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "pp-simulasi-p1-07",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Nilai juang pendiri bangsa",
+      "pertanyaan": "Pilih TIGA tindakan yang meneladani nilai juang para pendiri bangsa.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Mendahulukan kepentingan bersama daripada keuntungan pribadi."
+        },
+        {
+          "id": "B",
+          "teks": "Tetap bekerja sama meskipun terdapat perbedaan pendapat."
+        },
+        {
+          "id": "C",
+          "teks": "Memaksakan kehendak agar pendapat sendiri diterima."
+        },
+        {
+          "id": "D",
+          "teks": "Bersungguh-sungguh menyelesaikan tanggung jawab."
+        },
+        {
+          "id": "E",
+          "teks": "Menolak bekerja sama dengan orang yang berbeda pandangan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Nilai juang tercermin dalam pengorbanan, persatuan, kerja keras, dan mengutamakan kepentingan bangsa.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-08",
+      "jenis": "pilihan_ganda",
+      "indikator": "Nilai juang pendiri bangsa",
+      "pertanyaan": "Ketika kelompoknya mengalami kesulitan, Dimas tetap berusaha dan mengajak anggota lain mencari jalan keluar. Sikap Dimas mencerminkan nilai ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pantang menyerah dan kerja keras"
+        },
+        {
+          "id": "B",
+          "teks": "Mementingkan diri sendiri"
+        },
+        {
+          "id": "C",
+          "teks": "Tidak peduli"
+        },
+        {
+          "id": "D",
+          "teks": "Menghindari tanggung jawab"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Ketekunan, kerja keras, dan semangat bekerja sama merupakan nilai perjuangan yang patut diteladani.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "pp-simulasi-p1-09",
+      "jenis": "benar_salah",
+      "indikator": "Nilai juang pendiri bangsa",
+      "pertanyaan": "Tentukan benar atau salah pernyataan tentang nilai juang.",
+      "pernyataan": [
+        {
+          "teks": "Mengutamakan kepentingan bersama merupakan teladan perjuangan para pendiri bangsa."
+        },
+        {
+          "teks": "Perbedaan pendapat harus selalu diakhiri dengan permusuhan."
+        },
+        {
+          "teks": "Kerja keras dan pantang menyerah dapat diterapkan saat belajar."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Nilai juang dapat diterapkan dalam kehidupan sehari-hari melalui persatuan, kerja keras, dan kepentingan bersama.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-10",
+      "jenis": "menjodohkan",
+      "indikator": "Nilai juang pendiri bangsa",
+      "pertanyaan": "Pasangkan contoh tindakan dengan nilai juang yang sesuai.",
+      "pasangan": [
+        {
+          "teks": "Tetap berusaha setelah mengalami kegagalan."
+        },
+        {
+          "teks": "Menyumbangkan tenaga untuk kepentingan lingkungan."
+        },
+        {
+          "teks": "Menghargai perbedaan demi tujuan bersama."
+        },
+        {
+          "teks": "Menyelesaikan tugas dengan tekun."
+        }
+      ],
+      "pilihan": [
+        "Pantang menyerah",
+        "Pengorbanan",
+        "Persatuan",
+        "Kerja keras"
+      ],
+      "kunci": [
+        "Pantang menyerah",
+        "Pengorbanan",
+        "Persatuan",
+        "Kerja keras"
+      ],
+      "pembahasan": "Setiap tindakan menggambarkan nilai juang yang berbeda dan dapat diteladani di sekolah maupun masyarakat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "pp-simulasi-p1-11",
+      "jenis": "pilihan_ganda",
+      "indikator": "Hak dan kewajiban warga masyarakat",
+      "pertanyaan": "Warga menikmati taman yang bersih dan nyaman. Agar hak tersebut tetap terpenuhi, warga sebaiknya ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Membiarkan sampah menumpuk"
+        },
+        {
+          "id": "B",
+          "teks": "Menjaga kebersihan dan menggunakan fasilitas dengan tertib"
+        },
+        {
+          "id": "C",
+          "teks": "Merusak tanaman"
+        },
+        {
+          "id": "D",
+          "teks": "Menggunakan fasilitas sesuka hati"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Hak menikmati fasilitas umum harus diimbangi kewajiban menjaga dan merawatnya.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "pp-simulasi-p1-12",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Hak dan kewajiban warga masyarakat",
+      "pertanyaan": "Pilih TIGA tindakan yang menunjukkan kewajiban menjaga fasilitas umum.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Membuang sampah pada tempatnya."
+        },
+        {
+          "id": "B",
+          "teks": "Mencoret-coret dinding halte."
+        },
+        {
+          "id": "C",
+          "teks": "Menggunakan fasilitas sesuai aturan."
+        },
+        {
+          "id": "D",
+          "teks": "Melaporkan kerusakan kepada petugas atau pengurus."
+        },
+        {
+          "id": "E",
+          "teks": "Merusak bangku taman karena sedang kesal."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Menjaga kebersihan, menggunakan fasilitas sesuai aturan, dan melaporkan kerusakan merupakan bentuk tanggung jawab warga.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-13",
+      "jenis": "benar_salah",
+      "indikator": "Hak dan kewajiban warga masyarakat",
+      "pertanyaan": "Tentukan benar atau salah pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Setiap warga berhak menikmati lingkungan yang bersih."
+        },
+        {
+          "teks": "Menjaga kebersihan lingkungan hanya menjadi tugas petugas kebersihan."
+        },
+        {
+          "teks": "Menggunakan fasilitas umum harus disertai tanggung jawab."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Lingkungan bersih merupakan hak bersama, sedangkan menjaga kebersihan adalah kewajiban seluruh warga.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-14",
+      "jenis": "menjodohkan",
+      "indikator": "Hak dan kewajiban warga masyarakat",
+      "pertanyaan": "Pasangkan situasi dengan kategori yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Mendapat kesempatan menggunakan lapangan desa sesuai jadwal."
+        },
+        {
+          "teks": "Membuang sampah pada tempat yang disediakan."
+        },
+        {
+          "teks": "Warga membahas jadwal kerja bakti bersama."
+        },
+        {
+          "teks": "Warga membersihkan selokan secara bersama-sama."
+        }
+      ],
+      "pilihan": [
+        "Hak",
+        "Kewajiban",
+        "Musyawarah mufakat",
+        "Gotong royong"
+      ],
+      "kunci": [
+        "Hak",
+        "Kewajiban",
+        "Musyawarah mufakat",
+        "Gotong royong"
+      ],
+      "pembahasan": "Hak adalah sesuatu yang diterima, kewajiban harus dilaksanakan, musyawarah untuk mengambil keputusan, dan gotong royong bekerja bersama.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "pp-simulasi-p1-15",
+      "jenis": "pilihan_ganda",
+      "indikator": "Hak dan kewajiban warga masyarakat",
+      "pertanyaan": "Di tempat ibadah, setiap orang berhak beribadah dengan tenang. Kewajiban pengunjung yang sesuai adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Mengganggu orang yang sedang beribadah"
+        },
+        {
+          "id": "B",
+          "teks": "Menjaga ketenangan dan kebersihan tempat ibadah"
+        },
+        {
+          "id": "C",
+          "teks": "Menguasai tempat ibadah"
+        },
+        {
+          "id": "D",
+          "teks": "Membuang sampah sembarangan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Menjaga ketenangan dan kebersihan merupakan kewajiban yang mendukung hak orang lain untuk beribadah dengan nyaman.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "pp-simulasi-p1-16",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Hak dan kewajiban warga masyarakat",
+      "pertanyaan": "Pilih TIGA pasangan yang menunjukkan keseimbangan hak dan kewajiban.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Berhak menikmati lingkungan bersih — wajib menjaga kebersihan."
+        },
+        {
+          "id": "B",
+          "teks": "Berhak memakai fasilitas umum — wajib merawatnya."
+        },
+        {
+          "id": "C",
+          "teks": "Berhak menyampaikan pendapat — boleh menghina pendapat orang lain."
+        },
+        {
+          "id": "D",
+          "teks": "Berhak beribadah dengan tenang — wajib menghormati orang yang beribadah."
+        },
+        {
+          "id": "E",
+          "teks": "Berhak menggunakan jalan — boleh menghalangi jalan untuk kepentingan pribadi."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Hak harus dijalankan seimbang dengan kewajiban agar hak semua orang tetap terlindungi.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-17",
+      "jenis": "pilihan_ganda",
+      "indikator": "Musyawarah mufakat",
+      "pertanyaan": "Dalam rapat warga, terdapat beberapa usulan kegiatan. Sikap yang tepat sebelum keputusan diambil adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Memotong pembicaraan orang lain"
+        },
+        {
+          "id": "B",
+          "teks": "Mendengarkan dan mempertimbangkan setiap usulan"
+        },
+        {
+          "id": "C",
+          "teks": "Memaksa semua orang setuju"
+        },
+        {
+          "id": "D",
+          "teks": "Meninggalkan rapat"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Musyawarah dilakukan dengan mendengarkan, menghargai, dan mempertimbangkan pendapat peserta.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "pp-simulasi-p1-18",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Musyawarah mufakat",
+      "pertanyaan": "Warga berbeda usulan tentang penggunaan dana kas RT. Pilih TIGA tindakan yang mencerminkan musyawarah dan kepentingan bersama.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Membahas kebutuhan warga berdasarkan manfaatnya."
+        },
+        {
+          "id": "B",
+          "teks": "Memberi kesempatan setiap warga menyampaikan pendapat."
+        },
+        {
+          "id": "C",
+          "teks": "Menggunakan dana untuk kepentingan pribadi pengurus."
+        },
+        {
+          "id": "D",
+          "teks": "Memilih keputusan yang disepakati dan bermanfaat bagi warga."
+        },
+        {
+          "id": "E",
+          "teks": "Mengabaikan pendapat warga yang berbeda."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Musyawarah mengutamakan kepentingan bersama, kesempatan berpendapat, dan keputusan yang disepakati.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-19",
+      "jenis": "benar_salah",
+      "indikator": "Musyawarah mufakat",
+      "pertanyaan": "Tentukan benar atau salah pernyataan tentang musyawarah.",
+      "pernyataan": [
+        {
+          "teks": "Peserta musyawarah boleh menyampaikan keberatan dengan sopan."
+        },
+        {
+          "teks": "Setelah keputusan disepakati, peserta boleh sengaja menghambat pelaksanaannya."
+        },
+        {
+          "teks": "Pendapat yang berbeda perlu dihargai."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Keberatan dapat disampaikan secara santun. Setelah keputusan disepakati, semua pihak bertanggung jawab melaksanakannya.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-20",
+      "jenis": "menjodohkan",
+      "indikator": "Prinsip musyawarah mufakat",
+      "pertanyaan": "Pasangkan situasi dengan prinsip musyawarah yang sesuai.",
+      "pasangan": [
+        {
+          "teks": "Semua peserta diberi waktu menyampaikan usulan."
+        },
+        {
+          "teks": "Keputusan dipilih berdasarkan manfaat bagi seluruh warga."
+        },
+        {
+          "teks": "Peserta menjalankan hasil rapat walau usulannya tidak dipilih."
+        },
+        {
+          "teks": "Peserta tidak mengejek pendapat yang berbeda."
+        }
+      ],
+      "pilihan": [
+        "Kesempatan berpendapat",
+        "Kepentingan bersama",
+        "Menerima keputusan",
+        "Menghargai pendapat"
+      ],
+      "kunci": [
+        "Kesempatan berpendapat",
+        "Kepentingan bersama",
+        "Menerima keputusan",
+        "Menghargai pendapat"
+      ],
+      "pembahasan": "Keempat situasi menunjukkan prinsip penting agar musyawarah berlangsung tertib dan adil.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "pp-simulasi-p1-21",
+      "jenis": "pilihan_ganda",
+      "indikator": "Musyawarah mufakat",
+      "pertanyaan": "Jika mufakat belum tercapai karena terdapat beberapa pendapat, langkah yang tepat adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Menghentikan pembicaraan dan bertengkar"
+        },
+        {
+          "id": "B",
+          "teks": "Membahas kembali alasan setiap usulan dengan tenang"
+        },
+        {
+          "id": "C",
+          "teks": "Memaksa peserta mengikuti pendapat ketua"
+        },
+        {
+          "id": "D",
+          "teks": "Mengabaikan hasil rapat"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Jika belum tercapai mufakat, peserta dapat melanjutkan pembahasan dengan tenang dan mengutamakan kepentingan bersama.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "pp-simulasi-p1-22",
+      "jenis": "benar_salah",
+      "indikator": "Musyawarah mufakat",
+      "pertanyaan": "Tentukan benar atau salah pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Musyawarah bertujuan mencari keputusan yang dapat diterima bersama."
+        },
+        {
+          "teks": "Orang yang paling keras berbicara harus selalu dituruti."
+        },
+        {
+          "teks": "Menghargai pendapat membantu menjaga suasana musyawarah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Musyawarah bukan ajang memaksakan kehendak, melainkan mencari keputusan bersama dengan saling menghargai.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-23",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Musyawarah mufakat",
+      "pertanyaan": "Pilih TIGA sikap yang menunjukkan musyawarah dengan menghargai pendapat dan mengutamakan kepentingan bersama.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Mendengarkan pendapat sampai selesai."
+        },
+        {
+          "id": "B",
+          "teks": "Menyampaikan alasan dengan bahasa santun."
+        },
+        {
+          "id": "C",
+          "teks": "Menolak semua usulan selain usulan sendiri."
+        },
+        {
+          "id": "D",
+          "teks": "Bersedia menerima hasil kesepakatan."
+        },
+        {
+          "id": "E",
+          "teks": "Mengejek peserta yang berbeda pendapat."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Sikap santun, mendengarkan, dan menerima kesepakatan mendukung musyawarah yang baik.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-24",
+      "jenis": "pilihan_ganda",
+      "indikator": "Musyawarah dalam keluarga",
+      "pertanyaan": "Salah satu manfaat musyawarah dalam keluarga adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Menambah pertengkaran"
+        },
+        {
+          "id": "B",
+          "teks": "Membantu menemukan keputusan dan membangun kebersamaan"
+        },
+        {
+          "id": "C",
+          "teks": "Membuat satu orang selalu menang"
+        },
+        {
+          "id": "D",
+          "teks": "Menghilangkan kewajiban anggota keluarga"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Musyawarah membantu keluarga menyelesaikan masalah, memahami pendapat, dan mempererat kebersamaan.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "pp-simulasi-p1-25",
+      "jenis": "pilihan_ganda",
+      "indikator": "Hubungan antarsila Pancasila",
+      "pertanyaan": "Saat kerja bakti, seorang warga menolak membantu tetangganya karena berbeda agama. Tindakan yang paling sesuai nilai Pancasila untuk memperbaiki keadaan adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Membiarkan diskriminasi"
+        },
+        {
+          "id": "B",
+          "teks": "Mengajak semua warga bekerja sama dan menghormati perbedaan"
+        },
+        {
+          "id": "C",
+          "teks": "Membalas dengan perlakuan yang sama"
+        },
+        {
+          "id": "D",
+          "teks": "Menghentikan seluruh kegiatan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Menghormati martabat manusia dan menjaga persatuan berarti melibatkan semua orang tanpa diskriminasi.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "pp-simulasi-p1-26",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Nilai juang pendiri bangsa",
+      "pertanyaan": "Kelas akan mengadakan kegiatan sosial, tetapi waktu dan tenaga terbatas. Pilih TIGA tindakan yang paling mencerminkan nilai juang dan kepentingan bersama.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Menyusun pembagian tugas sesuai kemampuan."
+        },
+        {
+          "id": "B",
+          "teks": "Mengutamakan keberhasilan kegiatan daripada pujian pribadi."
+        },
+        {
+          "id": "C",
+          "teks": "Menolak tugas yang tidak terlihat oleh guru."
+        },
+        {
+          "id": "D",
+          "teks": "Tetap berusaha mencari solusi saat rencana awal gagal."
+        },
+        {
+          "id": "E",
+          "teks": "Menyalahkan teman yang mengalami kesulitan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Pembagian tugas, mengutamakan tujuan bersama, dan pantang menyerah merupakan penerapan nilai juang.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-27",
+      "jenis": "benar_salah",
+      "indikator": "Hak dan kewajiban warga masyarakat",
+      "pertanyaan": "Perhatikan pernyataan tentang penggunaan fasilitas umum.",
+      "pernyataan": [
+        {
+          "teks": "Warga boleh menggunakan fasilitas umum dengan tetap mematuhi aturan."
+        },
+        {
+          "teks": "Kerusakan fasilitas umum bukan urusan warga yang menggunakannya."
+        },
+        {
+          "teks": "Menjaga fasilitas umum membantu melindungi hak pengguna lain."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Fasilitas umum digunakan bersama sehingga setiap pengguna wajib menjaga dan tidak merugikan orang lain.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "pp-simulasi-p1-28",
+      "jenis": "pilihan_ganda",
+      "indikator": "Hak dan kewajiban warga masyarakat",
+      "pertanyaan": "Warga mengeluh karena selokan tersumbat dan lingkungan kotor. Sebagian warga menuntut lingkungan bersih tetapi tidak mau ikut menjaga. Solusi paling tepat adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Menuntut petugas tanpa ikut berperan"
+        },
+        {
+          "id": "B",
+          "teks": "Bermusyawarah membagi tanggung jawab dan melaksanakan kerja bakti"
+        },
+        {
+          "id": "C",
+          "teks": "Menutup fasilitas umum selamanya"
+        },
+        {
+          "id": "D",
+          "teks": "Membiarkan masalah"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Hak atas lingkungan bersih perlu diimbangi kewajiban menjaga kebersihan melalui pembagian tanggung jawab bersama.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "pp-simulasi-p1-29",
+      "jenis": "pilihan_ganda",
+      "indikator": "Musyawarah mufakat",
+      "pertanyaan": "Dalam rapat, usulan mayoritas berbeda dengan kebutuhan kelompok kecil. Agar keputusan tetap adil, peserta sebaiknya ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Langsung mengabaikan kelompok kecil"
+        },
+        {
+          "id": "B",
+          "teks": "Memberi kesempatan menjelaskan kebutuhan lalu mempertimbangkan kepentingan bersama"
+        },
+        {
+          "id": "C",
+          "teks": "Membatalkan rapat"
+        },
+        {
+          "id": "D",
+          "teks": "Meminta kelompok kecil diam"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Musyawarah yang baik memberi ruang kepada semua pihak dan mempertimbangkan kepentingan bersama.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "pp-simulasi-p1-30",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Musyawarah mufakat",
+      "pertanyaan": "Rapat kelas memilih kegiatan sosial. Pilih TIGA langkah yang paling tepat agar keputusan dapat diterima dan dilaksanakan bersama.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Menentukan tujuan dan kebutuhan kegiatan."
+        },
+        {
+          "id": "B",
+          "teks": "Mendengar usulan seluruh kelompok."
+        },
+        {
+          "id": "C",
+          "teks": "Mengambil keputusan tanpa menjelaskan alasannya."
+        },
+        {
+          "id": "D",
+          "teks": "Menyepakati pembagian tugas setelah keputusan dibuat."
+        },
+        {
+          "id": "E",
+          "teks": "Menolak menjalankan keputusan jika usulan sendiri tidak terpilih."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Keputusan bersama perlu didasarkan pada kebutuhan, mendengar semua pihak, dan diikuti tanggung jawab pelaksanaan.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "id": "seni-rupa-latihan-m2-p3",
+  "mataPelajaran": "Seni Rupa",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Keseimbangan dan Proporsi",
+  "paket": 3,
+  "judul": "Keseimbangan dan Proporsi • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Asimetris",
+      "pertanyaan": "Apakah keseimbangan asimetris harus sama persis di kedua sisi?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "unsur berbeda tetapi berat visual tetap seimbang"
+        },
+        {
+          "id": "B",
+          "teks": "semua unsur sama persis"
+        },
+        {
+          "id": "C",
+          "teks": "unsur tersusun melingkar"
+        },
+        {
+          "id": "D",
+          "teks": "tidak ada pengaturan visual"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Bentuk atau ukuran dapat berbeda, tetapi keseluruhan komposisi tetap terasa seimbang.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "seni-rupa-m2-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Radial",
+      "pertanyaan": "Bagaimana susunan keseimbangan radial?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "unsur tersusun hanya mendatar"
+        },
+        {
+          "id": "B",
+          "teks": "unsur tersusun seperti cermin saja"
+        },
+        {
+          "id": "C",
+          "teks": "unsur disusun acak tanpa pusat"
+        },
+        {
+          "id": "D",
+          "teks": "unsur tersusun memancar dari titik pusat"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Keseimbangan radial memiliki susunan melingkar atau memancar dari pusat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "seni-rupa-m2-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Manfaat proporsi: membuat karya tampak harmonis dan menarik."
+        },
+        {
+          "id": "B",
+          "teks": "Ragam hias: motif dekoratif untuk memperindah benda atau bidang."
+        },
+        {
+          "id": "C",
+          "teks": "Komposisi: penataan unsur visual seperti bentuk, warna, dan ukuran."
+        },
+        {
+          "id": "D",
+          "teks": "Keseimbangan visual: penggunaan satu warna saja."
+        },
+        {
+          "id": "E",
+          "teks": "Simetris: unsur memancar dari pusat."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-m2-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Komposisi: penataan unsur visual seperti bentuk, warna, dan ukuran."
+        },
+        {
+          "id": "B",
+          "teks": "Keseimbangan visual: pengaturan unsur agar karya tidak terasa berat sebelah."
+        },
+        {
+          "id": "C",
+          "teks": "Simetris: sisi kanan dan kiri selalu berbeda."
+        },
+        {
+          "id": "D",
+          "teks": "Asimetris: unsur tersusun melingkar."
+        },
+        {
+          "id": "E",
+          "teks": "Ragam hias: motif dekoratif untuk memperindah benda atau bidang."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-m2-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Komposisi adalah penataan unsur visual seperti bentuk, warna, dan ukuran."
+        },
+        {
+          "teks": "Simetris adalah sisi kanan dan kiri selalu berbeda."
+        },
+        {
+          "teks": "Radial adalah unsur tersusun memancar dari titik pusat."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; simetris yang tepat adalah sisi kanan dan kiri memiliki susunan seimbang atau mirip cermin.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-m2-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Keseimbangan visual adalah pengaturan unsur agar karya tidak terasa berat sebelah."
+        },
+        {
+          "teks": "Asimetris adalah semua unsur sama persis."
+        },
+        {
+          "teks": "Proporsi adalah hubungan ukuran satu bagian dengan bagian lain."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; asimetris yang tepat adalah unsur berbeda tetapi berat visual tetap seimbang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-m2-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Komposisi"
+        },
+        {
+          "teks": "Keseimbangan visual"
+        },
+        {
+          "teks": "Simetris"
+        },
+        {
+          "teks": "Asimetris"
+        }
+      ],
+      "pilihan": [
+        "sisi kanan dan kiri memiliki susunan seimbang atau mirip cermin",
+        "unsur berbeda tetapi berat visual tetap seimbang",
+        "penataan unsur visual seperti bentuk, warna, dan ukuran",
+        "pengaturan unsur agar karya tidak terasa berat sebelah"
+      ],
+      "kunci": [
+        "penataan unsur visual seperti bentuk, warna, dan ukuran",
+        "pengaturan unsur agar karya tidak terasa berat sebelah",
+        "sisi kanan dan kiri memiliki susunan seimbang atau mirip cermin",
+        "unsur berbeda tetapi berat visual tetap seimbang"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "seni-rupa-m2-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Simetris"
+        },
+        {
+          "teks": "Asimetris"
+        },
+        {
+          "teks": "Radial"
+        },
+        {
+          "teks": "Proporsi"
+        }
+      ],
+      "pilihan": [
+        "hubungan ukuran satu bagian dengan bagian lain",
+        "sisi kanan dan kiri memiliki susunan seimbang atau mirip cermin",
+        "unsur berbeda tetapi berat visual tetap seimbang",
+        "unsur tersusun memancar dari titik pusat"
+      ],
+      "kunci": [
+        "sisi kanan dan kiri memiliki susunan seimbang atau mirip cermin",
+        "unsur berbeda tetapi berat visual tetap seimbang",
+        "unsur tersusun memancar dari titik pusat",
+        "hubungan ukuran satu bagian dengan bagian lain"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "seni-rupa-m2-p3-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Asimetris",
+      "pertanyaan": "Lengkapi pernyataan berikut: Asimetris berarti ....",
+      "kunci": [
+        "unsur berbeda tetapi berat visual tetap seimbang"
+      ],
+      "kataKunci": [
+        "unsur berbeda tetapi berat visual tetap seimbang"
+      ],
+      "pembahasan": "Bentuk atau ukuran dapat berbeda, tetapi keseluruhan komposisi tetap terasa seimbang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "seni-rupa-m2-p3-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Radial",
+      "pertanyaan": "Lengkapi pernyataan berikut: Radial berarti ....",
+      "kunci": [
+        "unsur tersusun memancar dari titik pusat"
+      ],
+      "kataKunci": [
+        "unsur tersusun memancar dari titik pusat"
+      ],
+      "pembahasan": "Keseimbangan radial memiliki susunan melingkar atau memancar dari pusat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "seni-rupa-m2-p3-q10"
+    }
+  ]
+}

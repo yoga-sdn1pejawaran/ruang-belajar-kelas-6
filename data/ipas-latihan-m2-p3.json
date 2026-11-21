@@ -1,0 +1,290 @@
+{
+  "id": "ipas-latihan-m2-p3",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Sistem Saraf dan Gerak Refleks",
+  "paket": 3,
+  "judul": "Sistem Saraf dan Gerak Refleks • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Saraf sensorik",
+      "pertanyaan": "Saraf apa yang membawa informasi sentuhan ke otak?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "membawa rangsangan dari alat indra menuju sistem saraf pusat"
+        },
+        {
+          "id": "B",
+          "teks": "membawa perintah dari otak ke otot"
+        },
+        {
+          "id": "C",
+          "teks": "memompa darah ke jantung"
+        },
+        {
+          "id": "D",
+          "teks": "menggerakkan tulang secara langsung"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Saraf sensorik membawa informasi dari reseptor atau alat indra ke sistem saraf pusat.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "ipas-m2-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Saraf motorik",
+      "pertanyaan": "Apa fungsi saraf motorik?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "membawa rangsangan dari indra ke otak"
+        },
+        {
+          "id": "B",
+          "teks": "mengangkut oksigen"
+        },
+        {
+          "id": "C",
+          "teks": "membentuk tulang"
+        },
+        {
+          "id": "D",
+          "teks": "membawa perintah dari sistem saraf pusat menuju otot"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Saraf motorik menyampaikan perintah agar otot melakukan gerakan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "ipas-m2-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Urutan gerak refleks: reseptor, saraf sensorik, sumsum tulang belakang, saraf motorik, efektor."
+        },
+        {
+          "id": "B",
+          "teks": "Perlindungan tubuh: gerak refleks membantu menghindari cedera."
+        },
+        {
+          "id": "C",
+          "teks": "Kerusakan sumsum tulang belakang: dapat mengganggu penghantaran perintah dan informasi saraf."
+        },
+        {
+          "id": "D",
+          "teks": "Otak: pembentuk sel darah merah."
+        },
+        {
+          "id": "E",
+          "teks": "Sumsum tulang belakang: mengalirkan darah."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m2-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Kerusakan sumsum tulang belakang: dapat mengganggu penghantaran perintah dan informasi saraf."
+        },
+        {
+          "id": "B",
+          "teks": "Otak: pusat pengatur dan pengendali aktivitas tubuh."
+        },
+        {
+          "id": "C",
+          "teks": "Sumsum tulang belakang: menghasilkan hormon pencernaan."
+        },
+        {
+          "id": "D",
+          "teks": "Saraf sensorik: memompa darah ke jantung."
+        },
+        {
+          "id": "E",
+          "teks": "Perlindungan tubuh: gerak refleks membantu menghindari cedera."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m2-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Kerusakan sumsum tulang belakang adalah dapat mengganggu penghantaran perintah dan informasi saraf."
+        },
+        {
+          "teks": "Sumsum tulang belakang adalah menghasilkan hormon pencernaan."
+        },
+        {
+          "teks": "Saraf motorik adalah membawa perintah dari sistem saraf pusat menuju otot."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; sumsum tulang belakang yang tepat adalah menghubungkan otak dengan saraf tubuh dan menjadi pusat gerak refleks.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m2-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Otak adalah pusat pengatur dan pengendali aktivitas tubuh."
+        },
+        {
+          "teks": "Saraf sensorik adalah membawa perintah dari otak ke otot."
+        },
+        {
+          "teks": "Gerak refleks adalah gerakan cepat dan otomatis melalui lengkung refleks."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; saraf sensorik yang tepat adalah membawa rangsangan dari alat indra menuju sistem saraf pusat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m2-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Kerusakan sumsum tulang belakang"
+        },
+        {
+          "teks": "Otak"
+        },
+        {
+          "teks": "Sumsum tulang belakang"
+        },
+        {
+          "teks": "Saraf sensorik"
+        }
+      ],
+      "pilihan": [
+        "menghubungkan otak dengan saraf tubuh dan menjadi pusat gerak refleks",
+        "membawa rangsangan dari alat indra menuju sistem saraf pusat",
+        "dapat mengganggu penghantaran perintah dan informasi saraf",
+        "pusat pengatur dan pengendali aktivitas tubuh"
+      ],
+      "kunci": [
+        "dapat mengganggu penghantaran perintah dan informasi saraf",
+        "pusat pengatur dan pengendali aktivitas tubuh",
+        "menghubungkan otak dengan saraf tubuh dan menjadi pusat gerak refleks",
+        "membawa rangsangan dari alat indra menuju sistem saraf pusat"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m2-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Sumsum tulang belakang"
+        },
+        {
+          "teks": "Saraf sensorik"
+        },
+        {
+          "teks": "Saraf motorik"
+        },
+        {
+          "teks": "Gerak refleks"
+        }
+      ],
+      "pilihan": [
+        "gerakan cepat dan otomatis melalui lengkung refleks",
+        "menghubungkan otak dengan saraf tubuh dan menjadi pusat gerak refleks",
+        "membawa rangsangan dari alat indra menuju sistem saraf pusat",
+        "membawa perintah dari sistem saraf pusat menuju otot"
+      ],
+      "kunci": [
+        "menghubungkan otak dengan saraf tubuh dan menjadi pusat gerak refleks",
+        "membawa rangsangan dari alat indra menuju sistem saraf pusat",
+        "membawa perintah dari sistem saraf pusat menuju otot",
+        "gerakan cepat dan otomatis melalui lengkung refleks"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m2-p3-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Saraf sensorik",
+      "pertanyaan": "Lengkapi pernyataan berikut: Saraf sensorik berarti ....",
+      "kunci": [
+        "membawa rangsangan dari alat indra menuju sistem saraf pusat"
+      ],
+      "kataKunci": [
+        "membawa rangsangan dari alat indra menuju sistem saraf pusat"
+      ],
+      "pembahasan": "Saraf sensorik membawa informasi dari reseptor atau alat indra ke sistem saraf pusat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m2-p3-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Saraf motorik",
+      "pertanyaan": "Lengkapi pernyataan berikut: Saraf motorik berarti ....",
+      "kunci": [
+        "membawa perintah dari sistem saraf pusat menuju otot"
+      ],
+      "kataKunci": [
+        "membawa perintah dari sistem saraf pusat menuju otot"
+      ],
+      "pembahasan": "Saraf motorik menyampaikan perintah agar otot melakukan gerakan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m2-p3-q10"
+    }
+  ]
+}

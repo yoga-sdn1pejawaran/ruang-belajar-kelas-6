@@ -1,0 +1,316 @@
+{
+  "id": "dawet-ayu-latihan-m4-p2",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Strategi Pemasaran Produk",
+  "paket": 2,
+  "judul": "Strategi Pemasaran Produk • Paket 2",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Inovasi produk",
+      "pertanyaan": "Apa contoh kreasi baru dawet ayu?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menjual produk basi"
+        },
+        {
+          "id": "B",
+          "teks": "mengurangi kebersihan"
+        },
+        {
+          "id": "C",
+          "teks": "menghilangkan ciri khas produk"
+        },
+        {
+          "id": "D",
+          "teks": "membuat variasi rasa atau kreasi baru sesuai minat konsumen"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Variasi seperti tape ketan hitam, biji salak, atau es krim dapat menjadi inovasi produk.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-m4-p2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Promosi digital",
+      "pertanyaan": "Apa contoh promosi digital?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menyebarkan berita palsu"
+        },
+        {
+          "id": "B",
+          "teks": "menghapus kontak pelanggan"
+        },
+        {
+          "id": "C",
+          "teks": "mengunggah foto atau informasi produk melalui media sosial"
+        },
+        {
+          "id": "D",
+          "teks": "menutup informasi produk"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Promosi digital dapat dilakukan dengan foto, informasi harga, lokasi, dan kontak pemesanan yang jelas.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-m4-p2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Timing penjualan: menjual hanya saat toko tutup."
+        },
+        {
+          "id": "B",
+          "teks": "Kupon loyalitas: hadiah setelah pembelian dalam jumlah tertentu."
+        },
+        {
+          "id": "C",
+          "teks": "Lokasi strategis: tempat ramai dan mudah dijangkau calon pembeli."
+        },
+        {
+          "id": "D",
+          "teks": "Layanan pesan antar: memudahkan konsumen menerima produk tanpa datang ke kios."
+        },
+        {
+          "id": "E",
+          "teks": "Evaluasi pemasaran: mengulangi cara yang gagal tanpa perubahan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-m4-p2-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Lokasi strategis: tempat ramai dan mudah dijangkau calon pembeli."
+        },
+        {
+          "id": "B",
+          "teks": "Layanan pesan antar: memudahkan konsumen menerima produk tanpa datang ke kios."
+        },
+        {
+          "id": "C",
+          "teks": "Evaluasi pemasaran: menilai hasil promosi dan memperbaiki strategi yang kurang efektif."
+        },
+        {
+          "id": "D",
+          "teks": "Timing penjualan: mengabaikan musim dan cuaca."
+        },
+        {
+          "id": "E",
+          "teks": "Inovasi produk: mengurangi kebersihan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-m4-p2-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Layanan pesan antar adalah memudahkan konsumen menerima produk tanpa datang ke kios."
+        },
+        {
+          "teks": "Timing penjualan adalah mengabaikan musim dan cuaca."
+        },
+        {
+          "teks": "Promosi digital adalah mengunggah foto atau informasi produk melalui media sosial."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; timing penjualan yang tepat adalah memperhatikan waktu dan kondisi kebutuhan pembeli.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-m4-p2-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Evaluasi pemasaran adalah menilai hasil promosi dan memperbaiki strategi yang kurang efektif."
+        },
+        {
+          "teks": "Inovasi produk adalah menjual produk basi."
+        },
+        {
+          "teks": "Diskon bersyarat adalah potongan harga dengan ketentuan tertentu seperti pembeli awal."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; inovasi produk yang tepat adalah membuat variasi rasa atau kreasi baru sesuai minat konsumen.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-m4-p2-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Layanan pesan antar"
+        },
+        {
+          "teks": "Evaluasi pemasaran"
+        },
+        {
+          "teks": "Timing penjualan"
+        },
+        {
+          "teks": "Inovasi produk"
+        }
+      ],
+      "pilihan": [
+        "menilai hasil promosi dan memperbaiki strategi yang kurang efektif",
+        "memperhatikan waktu dan kondisi kebutuhan pembeli",
+        "membuat variasi rasa atau kreasi baru sesuai minat konsumen",
+        "memudahkan konsumen menerima produk tanpa datang ke kios"
+      ],
+      "kunci": [
+        "memudahkan konsumen menerima produk tanpa datang ke kios",
+        "menilai hasil promosi dan memperbaiki strategi yang kurang efektif",
+        "memperhatikan waktu dan kondisi kebutuhan pembeli",
+        "membuat variasi rasa atau kreasi baru sesuai minat konsumen"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-m4-p2-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Timing penjualan"
+        },
+        {
+          "teks": "Inovasi produk"
+        },
+        {
+          "teks": "Promosi digital"
+        },
+        {
+          "teks": "Diskon bersyarat"
+        }
+      ],
+      "pilihan": [
+        "mengunggah foto atau informasi produk melalui media sosial",
+        "potongan harga dengan ketentuan tertentu seperti pembeli awal",
+        "memperhatikan waktu dan kondisi kebutuhan pembeli",
+        "membuat variasi rasa atau kreasi baru sesuai minat konsumen"
+      ],
+      "kunci": [
+        "memperhatikan waktu dan kondisi kebutuhan pembeli",
+        "membuat variasi rasa atau kreasi baru sesuai minat konsumen",
+        "mengunggah foto atau informasi produk melalui media sosial",
+        "potongan harga dengan ketentuan tertentu seperti pembeli awal"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-m4-p2-q8"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Inovasi produk",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Inovasi produk?",
+      "kunci": "C",
+      "pembahasan": "Variasi seperti tape ketan hitam, biji salak, atau es krim dapat menjadi inovasi produk.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-m4-p2-q9",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "benar"
+        },
+        {
+          "id": "B",
+          "teks": "salah"
+        },
+        {
+          "id": "C",
+          "teks": "membuat variasi rasa atau kreasi baru sesuai minat konsumen"
+        },
+        {
+          "id": "D",
+          "teks": "memudahkan konsumen menerima produk tanpa datang ke kios"
+        }
+      ]
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Promosi digital",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Promosi digital?",
+      "kunci": "C",
+      "pembahasan": "Promosi digital dapat dilakukan dengan foto, informasi harga, lokasi, dan kontak pemesanan yang jelas.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-m4-p2-q10",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "benar"
+        },
+        {
+          "id": "B",
+          "teks": "salah"
+        },
+        {
+          "id": "C",
+          "teks": "mengunggah foto atau informasi produk melalui media sosial"
+        },
+        {
+          "id": "D",
+          "teks": "memudahkan konsumen menerima produk tanpa datang ke kios"
+        }
+      ]
+    }
+  ]
+}

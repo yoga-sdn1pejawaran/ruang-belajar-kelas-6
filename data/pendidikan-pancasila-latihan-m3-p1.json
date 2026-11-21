@@ -1,0 +1,317 @@
+{
+  "id": "pendidikan-pancasila-latihan-m3-p1",
+  "mataPelajaran": "Pendidikan Pancasila",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Musyawarah Mufakat dalam Kehidupan Sehari-hari",
+  "paket": 1,
+  "judul": "Musyawarah Mufakat dalam Kehidupan Sehari-hari • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Musyawarah",
+      "pertanyaan": "Musyawarah adalah kegiatan ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "membahas persoalan bersama dengan saling mendengarkan"
+        },
+        {
+          "id": "B",
+          "teks": "menentukan keputusan secara sepihak"
+        },
+        {
+          "id": "C",
+          "teks": "mengikuti orang paling keras"
+        },
+        {
+          "id": "D",
+          "teks": "menghindari semua pendapat"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Musyawarah merupakan pembahasan bersama untuk mencapai keputusan yang dapat diterima.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m3-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghargai pendapat",
+      "pertanyaan": "Saat teman menyampaikan usulan, sikap kita sebaiknya ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menertawakan usulan"
+        },
+        {
+          "id": "B",
+          "teks": "memaksa teman diam"
+        },
+        {
+          "id": "C",
+          "teks": "mengabaikan pendapat minoritas"
+        },
+        {
+          "id": "D",
+          "teks": "mendengarkan tanpa mengejek atau memotong pembicaraan"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Setiap peserta musyawarah perlu diberi kesempatan berbicara dan didengarkan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m3-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Kesempatan berpendapat: hanya ketua yang boleh berbicara."
+        },
+        {
+          "id": "B",
+          "teks": "Perbedaan pendapat: harus dihapus dengan paksaan."
+        },
+        {
+          "id": "C",
+          "teks": "Mufakat: kesepakatan yang dicapai melalui pembahasan bersama."
+        },
+        {
+          "id": "D",
+          "teks": "Menerima keputusan: melaksanakan hasil kesepakatan dengan tanggung jawab."
+        },
+        {
+          "id": "E",
+          "teks": "Kepentingan bersama: menjadi pertimbangan utama dalam memilih usulan."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m3-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Musyawarah keluarga: memaksa anak menerima keputusan."
+        },
+        {
+          "id": "B",
+          "teks": "Menerima keputusan: melaksanakan hasil kesepakatan dengan tanggung jawab."
+        },
+        {
+          "id": "C",
+          "teks": "Kepentingan bersama: menjadi pertimbangan utama dalam memilih usulan."
+        },
+        {
+          "id": "D",
+          "teks": "Kesempatan berpendapat: diberikan kepada semua peserta secara adil."
+        },
+        {
+          "id": "E",
+          "teks": "Perbedaan pendapat: menjadi alasan bermusuhan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m3-p1-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Kepentingan bersama adalah menjadi pertimbangan utama dalam memilih usulan."
+        },
+        {
+          "teks": "Perbedaan pendapat adalah menjadi alasan bermusuhan."
+        },
+        {
+          "teks": "Manfaat musyawarah keluarga adalah membantu mencapai kesepakatan dan mengurangi pertengkaran."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; perbedaan pendapat yang tepat adalah diselesaikan dengan dialog dan pertimbangan alasan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m3-p1-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Kesempatan berpendapat adalah diberikan kepada semua peserta secara adil."
+        },
+        {
+          "teks": "Musyawarah keluarga adalah hanya orang tua yang boleh berbicara."
+        },
+        {
+          "teks": "Musyawarah adalah membahas persoalan bersama dengan saling mendengarkan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; musyawarah keluarga yang tepat adalah memberi kesempatan setiap anggota menyampaikan pendapat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m3-p1-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Mufakat"
+        },
+        {
+          "teks": "Menerima keputusan"
+        },
+        {
+          "teks": "Kepentingan bersama"
+        },
+        {
+          "teks": "Kesempatan berpendapat"
+        }
+      ],
+      "pilihan": [
+        "kesepakatan yang dicapai melalui pembahasan bersama",
+        "melaksanakan hasil kesepakatan dengan tanggung jawab",
+        "menjadi pertimbangan utama dalam memilih usulan",
+        "diberikan kepada semua peserta secara adil"
+      ],
+      "kunci": [
+        "kesepakatan yang dicapai melalui pembahasan bersama",
+        "melaksanakan hasil kesepakatan dengan tanggung jawab",
+        "menjadi pertimbangan utama dalam memilih usulan",
+        "diberikan kepada semua peserta secara adil"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-m3-p1-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Kepentingan bersama"
+        },
+        {
+          "teks": "Kesempatan berpendapat"
+        },
+        {
+          "teks": "Perbedaan pendapat"
+        },
+        {
+          "teks": "Musyawarah keluarga"
+        }
+      ],
+      "pilihan": [
+        "diberikan kepada semua peserta secara adil",
+        "diselesaikan dengan dialog dan pertimbangan alasan",
+        "memberi kesempatan setiap anggota menyampaikan pendapat",
+        "menjadi pertimbangan utama dalam memilih usulan"
+      ],
+      "kunci": [
+        "menjadi pertimbangan utama dalam memilih usulan",
+        "diberikan kepada semua peserta secara adil",
+        "diselesaikan dengan dialog dan pertimbangan alasan",
+        "memberi kesempatan setiap anggota menyampaikan pendapat"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-m3-p1-q8"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Musyawarah keluarga",
+      "pertanyaan": "Isilah dengan tepat: Musyawarah keluarga adalah ....",
+      "kunci": "A",
+      "pembahasan": "Setiap anggota keluarga dapat menyampaikan pendapat dan keputusan dipilih sesuai kebutuhan bersama.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m3-p1-q9",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "memberi kesempatan setiap anggota menyampaikan pendapat"
+        },
+        {
+          "id": "B",
+          "teks": "membahas persoalan bersama dengan saling mendengarkan"
+        },
+        {
+          "id": "C",
+          "teks": "menentukan keputusan secara sepihak"
+        },
+        {
+          "id": "D",
+          "teks": "mengikuti orang paling keras"
+        }
+      ]
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Manfaat musyawarah keluarga",
+      "pertanyaan": "Isilah dengan tepat: Manfaat musyawarah keluarga adalah ....",
+      "kunci": "A",
+      "pembahasan": "Musyawarah dapat mengurangi pertengkaran, menumbuhkan sikap saling menghargai, dan mempererat hubungan keluarga.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m3-p1-q10",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "membantu mencapai kesepakatan dan mengurangi pertengkaran"
+        },
+        {
+          "id": "B",
+          "teks": "membahas persoalan bersama dengan saling mendengarkan"
+        },
+        {
+          "id": "C",
+          "teks": "menentukan keputusan secara sepihak"
+        },
+        {
+          "id": "D",
+          "teks": "mengikuti orang paling keras"
+        }
+      ]
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

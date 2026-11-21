@@ -1,0 +1,290 @@
+{
+  "id": "bahasa-inggris-latihan-m4-p2",
+  "mataPelajaran": "Bahasa Inggris",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Kalimat Tanya dan Keterangan Waktu",
+  "paket": 2,
+  "judul": "Kalimat Tanya dan Keterangan Waktu • Paket 2",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Question with Does",
+      "pertanyaan": "Complete: ... Rina study English?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Do she read novels?"
+        },
+        {
+          "id": "B",
+          "teks": "Does she reads novels?"
+        },
+        {
+          "id": "C",
+          "teks": "She does read novels?"
+        },
+        {
+          "id": "D",
+          "teks": "Does she read novels?"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Use Does + he/she/it + V1.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-m4-p2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Verb after Does",
+      "pertanyaan": "Complete: Does your father ... (drive) a car?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Does he working here?"
+        },
+        {
+          "id": "B",
+          "teks": "Does he worked here?"
+        },
+        {
+          "id": "C",
+          "teks": "Does he work here?"
+        },
+        {
+          "id": "D",
+          "teks": "Does he works here?"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "After Does, use the base verb without -s/-es.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-m4-p2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Question with Do: Do you likes mangoes?."
+        },
+        {
+          "id": "B",
+          "teks": "Short answer with Does: No, she doesn’t.."
+        },
+        {
+          "id": "C",
+          "teks": "Frequency adverb: usually."
+        },
+        {
+          "id": "D",
+          "teks": "Routine time phrase: every morning."
+        },
+        {
+          "id": "E",
+          "teks": "WH-question: Where you do live?."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m4-p2-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Frequency adverb: usually."
+        },
+        {
+          "id": "B",
+          "teks": "Routine time phrase: every morning."
+        },
+        {
+          "id": "C",
+          "teks": "WH-question: Where do you live?."
+        },
+        {
+          "id": "D",
+          "teks": "Question with Do: Does you like mangoes?."
+        },
+        {
+          "id": "E",
+          "teks": "Question with Does: Does she reads novels?."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m4-p2-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Routine time phrase adalah every morning."
+        },
+        {
+          "teks": "Question with Do adalah Does you like mangoes?."
+        },
+        {
+          "teks": "Verb after Does adalah Does he work here?."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; question with do yang tepat adalah Do you like mangoes?.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m4-p2-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "WH-question adalah Where do you live?."
+        },
+        {
+          "teks": "Question with Does adalah Do she read novels?."
+        },
+        {
+          "teks": "Short answer with Do adalah Yes, I do.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; question with does yang tepat adalah Does she read novels?.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m4-p2-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Routine time phrase"
+        },
+        {
+          "teks": "WH-question"
+        },
+        {
+          "teks": "Question with Do"
+        },
+        {
+          "teks": "Question with Does"
+        }
+      ],
+      "pilihan": [
+        "Where do you live?",
+        "Do you like mangoes?",
+        "Does she read novels?",
+        "every morning"
+      ],
+      "kunci": [
+        "every morning",
+        "Where do you live?",
+        "Do you like mangoes?",
+        "Does she read novels?"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-m4-p2-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Question with Do"
+        },
+        {
+          "teks": "Question with Does"
+        },
+        {
+          "teks": "Verb after Does"
+        },
+        {
+          "teks": "Short answer with Do"
+        }
+      ],
+      "pilihan": [
+        "Does he work here?",
+        "Yes, I do.",
+        "Do you like mangoes?",
+        "Does she read novels?"
+      ],
+      "kunci": [
+        "Do you like mangoes?",
+        "Does she read novels?",
+        "Does he work here?",
+        "Yes, I do."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-m4-p2-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Question with Does",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Question with Does?",
+      "kunci": [
+        "Does she read novels?"
+      ],
+      "kataKunci": [
+        "Does she read novels?"
+      ],
+      "pembahasan": "Use Does + he/she/it + V1.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-m4-p2-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Verb after Does",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Verb after Does?",
+      "kunci": [
+        "Does he work here?"
+      ],
+      "kataKunci": [
+        "Does he work here?"
+      ],
+      "pembahasan": "After Does, use the base verb without -s/-es.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-m4-p2-q10"
+    }
+  ]
+}

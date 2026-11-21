@@ -1,0 +1,317 @@
+{
+  "id": "pendidikan-pancasila-latihan-m2-p1",
+  "mataPelajaran": "Pendidikan Pancasila",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Hak dan Kewajiban Warga Masyarakat",
+  "paket": 1,
+  "judul": "Hak dan Kewajiban Warga Masyarakat • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Hak warga",
+      "pertanyaan": "Contoh hak warga masyarakat adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "mengganggu tetangga"
+        },
+        {
+          "id": "B",
+          "teks": "mendapatkan lingkungan yang bersih dan sehat"
+        },
+        {
+          "id": "C",
+          "teks": "membuang sampah sembarangan"
+        },
+        {
+          "id": "D",
+          "teks": "merusak taman"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Warga berhak menikmati lingkungan yang aman, bersih, dan sehat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m2-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Kewajiban warga",
+      "pertanyaan": "Contoh kewajiban warga masyarakat adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menjaga kebersihan dan ketertiban lingkungan"
+        },
+        {
+          "id": "B",
+          "teks": "merusak fasilitas umum"
+        },
+        {
+          "id": "C",
+          "teks": "mengabaikan aturan"
+        },
+        {
+          "id": "D",
+          "teks": "mengambil hak tetangga"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Kewajiban warga antara lain menjaga kebersihan, keamanan, dan ketertiban lingkungan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m2-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tanggung jawab bersama: dibebankan kepada satu orang terus-menerus."
+        },
+        {
+          "id": "B",
+          "teks": "Menghormati hak orang lain: membuat kebisingan kapan saja."
+        },
+        {
+          "id": "C",
+          "teks": "Fasilitas umum: digunakan bersama dan dirawat oleh seluruh pengguna."
+        },
+        {
+          "id": "D",
+          "teks": "Kerja bakti: bentuk pelaksanaan kewajiban dan gotong royong."
+        },
+        {
+          "id": "E",
+          "teks": "Hak menggunakan fasilitas: setiap warga berhak menggunakan secara tertib dan adil."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m2-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Hak di tempat ibadah: mengganggu orang yang beribadah."
+        },
+        {
+          "id": "B",
+          "teks": "Kerja bakti: bentuk pelaksanaan kewajiban dan gotong royong."
+        },
+        {
+          "id": "C",
+          "teks": "Hak menggunakan fasilitas: setiap warga berhak menggunakan secara tertib dan adil."
+        },
+        {
+          "id": "D",
+          "teks": "Tanggung jawab bersama: dibagi sesuai kemampuan dan disepakati bersama."
+        },
+        {
+          "id": "E",
+          "teks": "Menghormati hak orang lain: menggunakan fasilitas secara berlebihan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m2-p1-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Hak menggunakan fasilitas adalah setiap warga berhak menggunakan secara tertib dan adil."
+        },
+        {
+          "teks": "Menghormati hak orang lain adalah menggunakan fasilitas secara berlebihan."
+        },
+        {
+          "teks": "Kewajiban di tempat ibadah adalah menjaga kebersihan dan merawat fasilitas bersama."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; menghormati hak orang lain yang tepat adalah tidak mengganggu kenyamanan dan keselamatan warga lain.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m2-p1-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Tanggung jawab bersama adalah dibagi sesuai kemampuan dan disepakati bersama."
+        },
+        {
+          "teks": "Hak di tempat ibadah adalah merusak perlengkapan."
+        },
+        {
+          "teks": "Hak warga adalah mendapatkan lingkungan yang bersih dan sehat."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; hak di tempat ibadah yang tepat adalah menggunakan fasilitas untuk beribadah sesuai ketentuan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m2-p1-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Fasilitas umum"
+        },
+        {
+          "teks": "Kerja bakti"
+        },
+        {
+          "teks": "Hak menggunakan fasilitas"
+        },
+        {
+          "teks": "Tanggung jawab bersama"
+        }
+      ],
+      "pilihan": [
+        "digunakan bersama dan dirawat oleh seluruh pengguna",
+        "bentuk pelaksanaan kewajiban dan gotong royong",
+        "setiap warga berhak menggunakan secara tertib dan adil",
+        "dibagi sesuai kemampuan dan disepakati bersama"
+      ],
+      "kunci": [
+        "digunakan bersama dan dirawat oleh seluruh pengguna",
+        "bentuk pelaksanaan kewajiban dan gotong royong",
+        "setiap warga berhak menggunakan secara tertib dan adil",
+        "dibagi sesuai kemampuan dan disepakati bersama"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-m2-p1-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Hak menggunakan fasilitas"
+        },
+        {
+          "teks": "Tanggung jawab bersama"
+        },
+        {
+          "teks": "Menghormati hak orang lain"
+        },
+        {
+          "teks": "Hak di tempat ibadah"
+        }
+      ],
+      "pilihan": [
+        "dibagi sesuai kemampuan dan disepakati bersama",
+        "tidak mengganggu kenyamanan dan keselamatan warga lain",
+        "menggunakan fasilitas untuk beribadah sesuai ketentuan",
+        "setiap warga berhak menggunakan secara tertib dan adil"
+      ],
+      "kunci": [
+        "setiap warga berhak menggunakan secara tertib dan adil",
+        "dibagi sesuai kemampuan dan disepakati bersama",
+        "tidak mengganggu kenyamanan dan keselamatan warga lain",
+        "menggunakan fasilitas untuk beribadah sesuai ketentuan"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-m2-p1-q8"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Hak di tempat ibadah",
+      "pertanyaan": "Isilah dengan tepat: Hak di tempat ibadah adalah ....",
+      "kunci": "A",
+      "pembahasan": "Warga berhak menggunakan fasilitas tempat ibadah untuk beribadah sesuai ketentuan dan memperoleh lingkungan yang aman serta nyaman.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m2-p1-q9",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menggunakan fasilitas untuk beribadah sesuai ketentuan"
+        },
+        {
+          "id": "B",
+          "teks": "mengganggu tetangga"
+        },
+        {
+          "id": "C",
+          "teks": "mendapatkan lingkungan yang bersih dan sehat"
+        },
+        {
+          "id": "D",
+          "teks": "membuang sampah sembarangan"
+        }
+      ]
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Kewajiban di tempat ibadah",
+      "pertanyaan": "Isilah dengan tepat: Kewajiban di tempat ibadah adalah ....",
+      "kunci": "A",
+      "pembahasan": "Warga wajib menjaga kebersihan, merawat fasilitas, dan tidak merusak barang bersama.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m2-p1-q10",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menjaga kebersihan dan merawat fasilitas bersama"
+        },
+        {
+          "id": "B",
+          "teks": "mengganggu tetangga"
+        },
+        {
+          "id": "C",
+          "teks": "mendapatkan lingkungan yang bersih dan sehat"
+        },
+        {
+          "id": "D",
+          "teks": "membuang sampah sembarangan"
+        }
+      ]
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

@@ -1,0 +1,309 @@
+{
+  "id": "bahasa-indonesia-latihan-mWawancara, Laporan Hasil Wawancara, dan Teks Biografi-p1",
+  "mataPelajaran": "Bahasa Indonesia",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Wawancara, Laporan Hasil Wawancara, dan Teks Biografi",
+  "paket": 1,
+  "judul": "Wawancara, Laporan Hasil Wawancara, dan Teks Biografi • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Dalam kegiatan wawancara tentang kebiasaan membaca siswa, hal yang menjadi objek pengamatan adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pewawancara"
+        },
+        {
+          "id": "B",
+          "teks": "kebiasaan membaca siswa"
+        },
+        {
+          "id": "C",
+          "teks": "ruang kepala sekolah"
+        },
+        {
+          "id": "D",
+          "teks": "tanggal pelaksanaan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Objek pengamatan adalah hal yang diteliti, yaitu kebiasaan membaca siswa.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "BI6-M2-P1-01",
+      "stimulus": "Kelompok literasi kelas VI ingin mengetahui kebiasaan membaca siswa di sekolah. Mereka mengamati jenis buku yang sering dipilih, waktu yang digunakan untuk membaca, dan tempat siswa membaca. Untuk memperoleh informasi lebih lengkap, kelompok tersebut mewawancarai beberapa teman dan petugas perpustakaan. Hasilnya akan digunakan untuk merencanakan kegiatan membaca bersama. Hasil pengamatan dan wawancara kemudian dibandingkan agar gambaran kebiasaan membaca menjadi lebih lengkap."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Laporan wawancara menyebutkan bahwa narasumber adalah petugas perpustakaan dan wawancara dilakukan di perpustakaan pada hari Selasa.",
+      "pernyataan": [
+        {
+          "teks": "Petugas perpustakaan merupakan narasumber."
+        },
+        {
+          "teks": "Perpustakaan merupakan lokasi kegiatan."
+        },
+        {
+          "teks": "Hari Selasa menunjukkan nama pewawancara."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Hari Selasa menunjukkan waktu pelaksanaan, bukan nama pewawancara.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-M2-P1-02",
+      "stimulus": "Dalam laporan kegiatan literasi, kelompok siswa mencatat bahwa wawancara dilakukan dengan petugas perpustakaan pada hari Selasa di ruang perpustakaan. Petugas menjelaskan jenis buku yang paling sering dipinjam dan waktu kunjungan yang ramai. Catatan itu disusun agar pembaca mengetahui siapa yang memberikan informasi, kapan dan di mana wawancara berlangsung. Informasi tersebut harus ditulis sesuai catatan agar laporan tidak salah menyebut waktu atau tempat."
+    },
+    {
+      "jenis": "menjodohkan",
+      "pertanyaan": "Pasangkan unsur laporan wawancara dengan informasi yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Pewawancara"
+        },
+        {
+          "teks": "Narasumber"
+        },
+        {
+          "teks": "Topik"
+        },
+        {
+          "teks": "Hasil wawancara"
+        }
+      ],
+      "pilihan": [
+        "Rangkuman jawaban narasumber",
+        "Pokok hal yang dibahas",
+        "Orang yang memberikan informasi",
+        "Siswa yang mengajukan pertanyaan"
+      ],
+      "kunci": [
+        "Siswa yang mengajukan pertanyaan",
+        "Orang yang memberikan informasi",
+        "Pokok hal yang dibahas",
+        "Rangkuman jawaban narasumber"
+      ],
+      "pembahasan": "Pewawancara bertanya; narasumber menjawab; topik menjadi fokus; hasil merangkum informasi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "BI6-M2-P1-03",
+      "stimulus": "Sebelum laporan ditulis, pewawancara perlu membedakan unsur-unsur kegiatan. Pewawancara adalah orang yang mengajukan pertanyaan, sedangkan narasumber memberikan informasi. Topik menunjukkan pokok pembicaraan. Setelah wawancara selesai, jawaban narasumber dirangkum menjadi hasil wawancara tanpa mengubah maksud informasi yang disampaikan. Keempat unsur itu membantu pembaca memahami proses dan isi kegiatan wawancara."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Urutan kegiatan wawancara yang paling tepat adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menulis laporan – bertanya – mencari narasumber – membuat pertanyaan"
+        },
+        {
+          "id": "B",
+          "teks": "menentukan narasumber – menyusun pertanyaan – meminta kesediaan – melakukan wawancara – menulis laporan"
+        },
+        {
+          "id": "C",
+          "teks": "melakukan wawancara – menentukan topik – mencari narasumber – menulis laporan"
+        },
+        {
+          "id": "D",
+          "teks": "menyusun laporan – meminta izin – menentukan narasumber – bertanya"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Wawancara dimulai dengan menentukan narasumber dan pertanyaan, meminta kesediaan, melaksanakan, lalu menyusun laporan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-M2-P1-04",
+      "stimulus": "Kelompok siswa akan mewawancarai seorang perajin anyaman. Mereka terlebih dahulu menentukan orang yang tepat untuk diwawancarai, kemudian menyusun pertanyaan tentang bahan dan proses pembuatan. Setelah menghubungi narasumber dan memperoleh kesediaannya, mereka melakukan wawancara serta mencatat jawaban. Catatan itu selanjutnya disusun menjadi dialog atau laporan naratif. Urutan yang teratur membuat kegiatan wawancara berjalan lancar dan hasilnya mudah disusun."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Bagian biografi yang berisi tempat dan tanggal lahir tokoh serta latar keluarganya umumnya termasuk ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "orientasi atau pengenalan tokoh"
+        },
+        {
+          "id": "B",
+          "teks": "rangkaian masalah"
+        },
+        {
+          "id": "C",
+          "teks": "penutup surat"
+        },
+        {
+          "id": "D",
+          "teks": "daftar pustaka"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Orientasi memperkenalkan identitas dan latar belakang tokoh.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "BI6-M2-P1-05",
+      "stimulus": "Bagian awal biografi biasanya memperkenalkan tokoh kepada pembaca. Informasi seperti nama, tempat dan tanggal lahir, serta latar keluarga membantu pembaca mengenali tokoh sebelum membaca perjalanan pendidikan, pekerjaan, dan prestasinya. Penyajian identitas pada bagian awal membuat kisah kehidupan tokoh lebih mudah diikuti. Bagian pengenalan biasanya disampaikan sebelum uraian tentang perjuangan dan pencapaian tokoh."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Biografi seorang atlet menjelaskan masa kecil, latihan keras, kegagalan, dan keberhasilannya meraih medali.",
+      "pernyataan": [
+        {
+          "teks": "Urutan pengalaman hidup tokoh dapat disajikan secara kronologis."
+        },
+        {
+          "teks": "Prestasi tokoh termasuk informasi penting dalam biografi."
+        },
+        {
+          "teks": "Biografi hanya boleh memuat pendapat penulis."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Biografi menyajikan fakta perjalanan hidup tokoh, bukan hanya pendapat penulis.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-M2-P1-06",
+      "stimulus": "Biografi seorang atlet menceritakan masa kecil, latihan yang dijalani, kegagalan dalam beberapa pertandingan, dan keberhasilannya meraih medali. Peristiwa disusun berdasarkan urutan waktu agar pembaca memahami proses perjuangan tokoh. Prestasi dan pengalaman tersebut disampaikan sebagai informasi tentang kehidupan nyata, bukan sekadar pendapat penulis. Pembaca dapat melihat hubungan antara usaha yang dilakukan tokoh dan prestasi yang berhasil diraih."
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "pertanyaan": "Dari biografi seorang ilmuwan yang terus belajar meskipun fasilitas terbatas, pilih TIGA nilai keteladanan yang dapat ditarik.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "tekun belajar"
+        },
+        {
+          "id": "B",
+          "teks": "mudah menyerah"
+        },
+        {
+          "id": "C",
+          "teks": "pantang menyerah"
+        },
+        {
+          "id": "D",
+          "teks": "memanfaatkan kesempatan"
+        },
+        {
+          "id": "E",
+          "teks": "mengabaikan tanggung jawab"
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Ketekunan, kegigihan, dan kemampuan memanfaatkan kesempatan merupakan nilai positif yang didukung cerita.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "BI6-M2-P1-07",
+      "stimulus": "Seorang ilmuwan muda tumbuh di daerah yang memiliki fasilitas belajar terbatas. Ia tetap rajin membaca, meminjam buku dari sekolah, dan mencoba percobaan sederhana dengan alat yang tersedia. Ketika mengalami kegagalan, ia memperbaiki cara kerjanya dan terus belajar. Perjalanan tersebut menunjukkan nilai yang dapat diteladani dari kehidupan seorang tokoh. Kisah itu dapat menginspirasi pembaca untuk tetap belajar meskipun menghadapi keterbatasan."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Kata 'autodidak' dalam biografi seorang musisi berarti ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "belajar dengan bantuan pelatih setiap hari"
+        },
+        {
+          "id": "B",
+          "teks": "mempelajari keterampilan secara mandiri"
+        },
+        {
+          "id": "C",
+          "teks": "mengikuti perlombaan secara berkelompok"
+        },
+        {
+          "id": "D",
+          "teks": "mengajarkan keterampilan kepada orang lain"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Autodidak berarti memperoleh pengetahuan atau keterampilan dengan belajar sendiri.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-M2-P1-08",
+      "stimulus": "Dalam sebuah profil musisi, penulis menjelaskan bahwa tokoh tersebut mempelajari alat musik secara mandiri. Ia berlatih menggunakan buku panduan dan rekaman, lalu mencoba memainkan lagu-lagu sederhana. Setelah keterampilannya berkembang, ia mengikuti pertunjukan di sekolah dan mendapat kesempatan tampil di berbagai acara. Cara belajar tanpa bergantung pada pengajaran langsung disebut belajar secara mandiri. Istilah tersebut menjelaskan cara seseorang memperoleh keterampilan melalui usaha belajarnya sendiri."
+    },
+    {
+      "jenis": "menjodohkan",
+      "pertanyaan": "Pasangkan informasi dalam biografi dengan jenis unsur yang ditunjukkan.",
+      "pasangan": [
+        {
+          "teks": "Lahir di Makassar pada 2001"
+        },
+        {
+          "teks": "Meraih juara tingkat nasional"
+        },
+        {
+          "teks": "Berlatih setiap sore"
+        },
+        {
+          "teks": "Mengembangkan teknologi ramah lingkungan"
+        }
+      ],
+      "pilihan": [
+        "Kontribusi",
+        "Kebiasaan atau usaha",
+        "Prestasi",
+        "Identitas tokoh"
+      ],
+      "kunci": [
+        "Identitas tokoh",
+        "Prestasi",
+        "Kebiasaan atau usaha",
+        "Kontribusi"
+      ],
+      "pembahasan": "Tempat/tanggal lahir adalah identitas; juara adalah prestasi; latihan adalah usaha; pengembangan teknologi adalah kontribusi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "BI6-M2-P1-09",
+      "stimulus": "Sebuah biografi memuat informasi tentang seorang peneliti yang lahir di Makassar pada 2001, meraih penghargaan tingkat nasional, berlatih dan membaca setiap sore, serta mengembangkan teknologi ramah lingkungan. Setiap informasi tersebut menunjukkan sisi kehidupan tokoh yang berbeda, mulai dari identitas, prestasi, kebiasaan, hingga kontribusinya bagi masyarakat. Pembaca dapat mengelompokkan informasi berdasarkan fungsi masing-masing dalam teks biografi."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Kalimat 'Ia tetap berlatih meskipun berkali-kali gagal' paling tepat menunjukkan ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "ketekunan tokoh"
+        },
+        {
+          "id": "B",
+          "teks": "tempat tinggal tokoh"
+        },
+        {
+          "id": "C",
+          "teks": "hubungan keluarga"
+        },
+        {
+          "id": "D",
+          "teks": "waktu kelahiran"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Kalimat tersebut menonjolkan usaha dan ketekunan tokoh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-M2-P1-10",
+      "stimulus": "Seorang pemain biola muda pernah gagal mengikuti audisi pertama. Ia tidak berhenti berlatih. Setiap sore ia memperbaiki bagian lagu yang sulit, meminta saran gurunya, dan mencoba kembali pada kesempatan berikutnya. Setelah beberapa bulan, permainannya menjadi lebih baik. Peristiwa tersebut memperlihatkan sikap tokoh ketika menghadapi kegagalan. Sikap tokoh dapat dikenali melalui tindakan yang dilakukan berulang kali, bukan hanya melalui pujian."
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

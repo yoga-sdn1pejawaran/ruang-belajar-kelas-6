@@ -1,0 +1,290 @@
+{
+  "id": "ipas-latihan-m4-p3",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Sejarah Perjuangan Bangsa Indonesia",
+  "paket": 3,
+  "judul": "Sejarah Perjuangan Bangsa Indonesia • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Budi Utomo",
+      "pertanyaan": "Peristiwa apa yang menjadi tonggak Kebangkitan Nasional tahun 1908?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "organisasi ASEAN"
+        },
+        {
+          "id": "B",
+          "teks": "panitia kemerdekaan 1928"
+        },
+        {
+          "id": "C",
+          "teks": "organisasi pergerakan yang berdiri pada 1908"
+        },
+        {
+          "id": "D",
+          "teks": "organisasi perdagangan 1945"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Budi Utomo berdiri pada 20 Mei 1908 dan diperingati sebagai Hari Kebangkitan Nasional.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "ipas-m4-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Sumpah Pemuda",
+      "pertanyaan": "Sumpah Pemuda menegaskan persatuan dalam hal apa saja?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "ikrar memisahkan daerah"
+        },
+        {
+          "id": "B",
+          "teks": "ikrar satu tanah air, satu bangsa, dan satu bahasa persatuan"
+        },
+        {
+          "id": "C",
+          "teks": "ikrar membentuk kerajaan baru"
+        },
+        {
+          "id": "D",
+          "teks": "perjanjian perdagangan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Sumpah Pemuda menegaskan satu tanah air, satu bangsa, dan bahasa persatuan Indonesia.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "ipas-m4-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tokoh Pattimura: memimpin perlawanan rakyat Maluku terhadap Belanda."
+        },
+        {
+          "id": "B",
+          "teks": "Pangeran Diponegoro: memimpin Perang Jawa 1825–1830."
+        },
+        {
+          "id": "C",
+          "teks": "Tuanku Imam Bonjol: tokoh Perang Padri di Sumatera Barat."
+        },
+        {
+          "id": "D",
+          "teks": "Tujuan awal kedatangan bangsa Eropa: mencari salju."
+        },
+        {
+          "id": "E",
+          "teks": "Perjuangan kedaerahan: menggunakan satu organisasi nasional."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m4-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tuanku Imam Bonjol: tokoh Perang Padri di Sumatera Barat."
+        },
+        {
+          "id": "B",
+          "teks": "Tujuan awal kedatangan bangsa Eropa: mencari rempah-rempah."
+        },
+        {
+          "id": "C",
+          "teks": "Perjuangan kedaerahan: selalu didukung semua negara."
+        },
+        {
+          "id": "D",
+          "teks": "Budi Utomo: organisasi ASEAN."
+        },
+        {
+          "id": "E",
+          "teks": "Pangeran Diponegoro: memimpin Perang Jawa 1825–1830."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m4-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Tuanku Imam Bonjol adalah tokoh Perang Padri di Sumatera Barat."
+        },
+        {
+          "teks": "Perjuangan kedaerahan adalah selalu didukung semua negara."
+        },
+        {
+          "teks": "Sumpah Pemuda adalah ikrar satu tanah air, satu bangsa, dan satu bahasa persatuan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; perjuangan kedaerahan yang tepat adalah sering mudah dipatahkan karena belum bersatu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m4-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Tujuan awal kedatangan bangsa Eropa adalah mencari rempah-rempah."
+        },
+        {
+          "teks": "Budi Utomo adalah organisasi perdagangan 1945."
+        },
+        {
+          "teks": "Tanggal Sumpah Pemuda adalah 28 Oktober 1928."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; budi utomo yang tepat adalah organisasi pergerakan yang berdiri pada 1908.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m4-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Tuanku Imam Bonjol"
+        },
+        {
+          "teks": "Tujuan awal kedatangan bangsa Eropa"
+        },
+        {
+          "teks": "Perjuangan kedaerahan"
+        },
+        {
+          "teks": "Budi Utomo"
+        }
+      ],
+      "pilihan": [
+        "sering mudah dipatahkan karena belum bersatu",
+        "organisasi pergerakan yang berdiri pada 1908",
+        "tokoh Perang Padri di Sumatera Barat",
+        "mencari rempah-rempah"
+      ],
+      "kunci": [
+        "tokoh Perang Padri di Sumatera Barat",
+        "mencari rempah-rempah",
+        "sering mudah dipatahkan karena belum bersatu",
+        "organisasi pergerakan yang berdiri pada 1908"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m4-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Perjuangan kedaerahan"
+        },
+        {
+          "teks": "Budi Utomo"
+        },
+        {
+          "teks": "Sumpah Pemuda"
+        },
+        {
+          "teks": "Tanggal Sumpah Pemuda"
+        }
+      ],
+      "pilihan": [
+        "28 Oktober 1928",
+        "sering mudah dipatahkan karena belum bersatu",
+        "organisasi pergerakan yang berdiri pada 1908",
+        "ikrar satu tanah air, satu bangsa, dan satu bahasa persatuan"
+      ],
+      "kunci": [
+        "sering mudah dipatahkan karena belum bersatu",
+        "organisasi pergerakan yang berdiri pada 1908",
+        "ikrar satu tanah air, satu bangsa, dan satu bahasa persatuan",
+        "28 Oktober 1928"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m4-p3-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Budi Utomo",
+      "pertanyaan": "Lengkapi pernyataan berikut: Budi Utomo berarti ....",
+      "kunci": [
+        "organisasi pergerakan yang berdiri pada 1908"
+      ],
+      "kataKunci": [
+        "organisasi pergerakan yang berdiri pada 1908"
+      ],
+      "pembahasan": "Budi Utomo berdiri pada 20 Mei 1908 dan diperingati sebagai Hari Kebangkitan Nasional.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m4-p3-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Sumpah Pemuda",
+      "pertanyaan": "Lengkapi pernyataan berikut: Sumpah Pemuda berarti ....",
+      "kunci": [
+        "ikrar satu tanah air, satu bangsa, dan satu bahasa persatuan"
+      ],
+      "kataKunci": [
+        "ikrar satu tanah air, satu bangsa, dan satu bahasa persatuan"
+      ],
+      "pembahasan": "Sumpah Pemuda menegaskan satu tanah air, satu bangsa, dan bahasa persatuan Indonesia.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m4-p3-q10"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "id": "pendidikan-pancasila-latihan-m2-p2",
+  "mataPelajaran": "Pendidikan Pancasila",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Nilai Juang Para Pendiri Bangsa",
+  "paket": 2,
+  "judul": "Nilai Juang Para Pendiri Bangsa • Paket 2",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Rela berkorban",
+      "pertanyaan": "Apa arti rela berkorban?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "memaksakan kehendak"
+        },
+        {
+          "id": "B",
+          "teks": "mendahulukan kepentingan bangsa daripada kepentingan pribadi"
+        },
+        {
+          "id": "C",
+          "teks": "menuntut keuntungan pribadi"
+        },
+        {
+          "id": "D",
+          "teks": "menghindari tugas"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Rela berkorban berarti bersedia memberikan tenaga, waktu, atau kepentingan pribadi demi tujuan bersama.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m2-p2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Kerja keras",
+      "pertanyaan": "Apa sikap yang ditunjukkan dengan tidak mudah menyerah?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "terus berusaha meskipun menghadapi kesulitan"
+        },
+        {
+          "id": "B",
+          "teks": "berhenti saat gagal"
+        },
+        {
+          "id": "C",
+          "teks": "menunggu orang lain bekerja"
+        },
+        {
+          "id": "D",
+          "teks": "menghindari tanggung jawab"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Kerja keras dan pantang menyerah dibutuhkan dalam perjuangan mencapai kemerdekaan.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m2-p2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Persatuan: menolak kerja sama."
+        },
+        {
+          "id": "B",
+          "teks": "Musyawarah: membahas masalah bersama untuk mencapai kesepakatan."
+        },
+        {
+          "id": "C",
+          "teks": "Keteladanan pendiri bangsa: mengutamakan kepentingan umum dan menjaga persatuan."
+        },
+        {
+          "id": "D",
+          "teks": "Perjuangan melalui organisasi: membangun kesadaran dan persatuan secara terarah."
+        },
+        {
+          "id": "E",
+          "teks": "Kepentingan bersama: hanya menguntungkan satu orang."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m2-p2-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Keteladanan pendiri bangsa: mengutamakan kepentingan umum dan menjaga persatuan."
+        },
+        {
+          "id": "B",
+          "teks": "Perjuangan melalui organisasi: membangun kesadaran dan persatuan secara terarah."
+        },
+        {
+          "id": "C",
+          "teks": "Kepentingan bersama: keputusan dan tindakan mempertimbangkan manfaat bagi semua."
+        },
+        {
+          "id": "D",
+          "teks": "Persatuan: mengutamakan kelompok sendiri."
+        },
+        {
+          "id": "E",
+          "teks": "Rela berkorban: menghindari tugas."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m2-p2-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Perjuangan melalui organisasi adalah membangun kesadaran dan persatuan secara terarah."
+        },
+        {
+          "teks": "Persatuan adalah mengutamakan kelompok sendiri."
+        },
+        {
+          "teks": "Kerja keras adalah terus berusaha meskipun menghadapi kesulitan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; persatuan yang tepat adalah mengutamakan kesatuan bangsa di atas perbedaan daerah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m2-p2-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Kepentingan bersama adalah keputusan dan tindakan mempertimbangkan manfaat bagi semua."
+        },
+        {
+          "teks": "Rela berkorban adalah menuntut keuntungan pribadi."
+        },
+        {
+          "teks": "Menghargai perbedaan adalah mendengarkan pendapat orang lain tanpa merendahkan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; rela berkorban yang tepat adalah mendahulukan kepentingan bangsa daripada kepentingan pribadi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m2-p2-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Perjuangan melalui organisasi"
+        },
+        {
+          "teks": "Kepentingan bersama"
+        },
+        {
+          "teks": "Persatuan"
+        },
+        {
+          "teks": "Rela berkorban"
+        }
+      ],
+      "pilihan": [
+        "keputusan dan tindakan mempertimbangkan manfaat bagi semua",
+        "mengutamakan kesatuan bangsa di atas perbedaan daerah",
+        "mendahulukan kepentingan bangsa daripada kepentingan pribadi",
+        "membangun kesadaran dan persatuan secara terarah"
+      ],
+      "kunci": [
+        "membangun kesadaran dan persatuan secara terarah",
+        "keputusan dan tindakan mempertimbangkan manfaat bagi semua",
+        "mengutamakan kesatuan bangsa di atas perbedaan daerah",
+        "mendahulukan kepentingan bangsa daripada kepentingan pribadi"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-m2-p2-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Persatuan"
+        },
+        {
+          "teks": "Rela berkorban"
+        },
+        {
+          "teks": "Kerja keras"
+        },
+        {
+          "teks": "Menghargai perbedaan"
+        }
+      ],
+      "pilihan": [
+        "terus berusaha meskipun menghadapi kesulitan",
+        "mendengarkan pendapat orang lain tanpa merendahkan",
+        "mengutamakan kesatuan bangsa di atas perbedaan daerah",
+        "mendahulukan kepentingan bangsa daripada kepentingan pribadi"
+      ],
+      "kunci": [
+        "mengutamakan kesatuan bangsa di atas perbedaan daerah",
+        "mendahulukan kepentingan bangsa daripada kepentingan pribadi",
+        "terus berusaha meskipun menghadapi kesulitan",
+        "mendengarkan pendapat orang lain tanpa merendahkan"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-m2-p2-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Rela berkorban",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Rela berkorban?",
+      "kunci": [
+        "mendahulukan kepentingan bangsa daripada kepentingan pribadi"
+      ],
+      "kataKunci": [
+        "mendahulukan kepentingan bangsa daripada kepentingan pribadi"
+      ],
+      "pembahasan": "Rela berkorban berarti bersedia memberikan tenaga, waktu, atau kepentingan pribadi demi tujuan bersama.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "pendidikan-pancasila-m2-p2-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Kerja keras",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Kerja keras?",
+      "kunci": [
+        "terus berusaha meskipun menghadapi kesulitan"
+      ],
+      "kataKunci": [
+        "terus berusaha meskipun menghadapi kesulitan"
+      ],
+      "pembahasan": "Kerja keras dan pantang menyerah dibutuhkan dalam perjuangan mencapai kemerdekaan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "pendidikan-pancasila-m2-p2-q10"
+    }
+  ]
+}

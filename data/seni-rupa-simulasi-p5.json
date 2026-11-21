@@ -1,0 +1,845 @@
+{
+  "id": "seni-rupa-simulasi-p5",
+  "mataPelajaran": "Seni Rupa",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "paket": 5,
+  "judul": "Simulasi ASAS Seni Rupa • Paket 5",
+  "durasiMenit": 75,
+  "soal": [
+    {
+      "jenis": "isian",
+      "indikator": "Motif anyaman",
+      "pertanyaan": "Isilah dengan tepat: Motif anyaman adalah ....",
+      "kunci": [
+        "pola yang terbentuk dari susunan bahan yang saling silang atau tindih"
+      ],
+      "kataKunci": [
+        "pola yang terbentuk dari susunan bahan yang saling silang atau tindih"
+      ],
+      "pembahasan": "Motif anyaman muncul dari susunan bahan yang saling menyilang atau bertindih secara teratur.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "seni-rupa-sim-p5-q1"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Makrame",
+      "pertanyaan": "Isilah dengan tepat: Makrame adalah ....",
+      "kunci": [
+        "karya kerajinan yang dibuat dengan teknik simpul pada tali atau benang"
+      ],
+      "kataKunci": [
+        "karya kerajinan yang dibuat dengan teknik simpul pada tali atau benang"
+      ],
+      "pembahasan": "Makrame dibuat dengan mengikat atau menyimpul tali/benang menjadi pola dan karya. Alat sederhana dapat berupa tali, pensil atau ranting, gunting, dan perekat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "seni-rupa-sim-p5-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Motif lokal",
+      "pertanyaan": "Apa yang dapat ditunjukkan oleh motif batik?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "dapat menunjukkan identitas dan budaya daerah"
+        },
+        {
+          "id": "B",
+          "teks": "selalu berasal dari luar negeri"
+        },
+        {
+          "id": "C",
+          "teks": "tidak memiliki makna"
+        },
+        {
+          "id": "D",
+          "teks": "hanya dibuat untuk permainan"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Motif batik dapat menjadi identitas budaya dan mencerminkan kekhasan daerah.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "seni-rupa-sim-p5-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Motif geometris",
+      "pertanyaan": "Apa ciri motif geometris?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "hanya berupa foto manusia"
+        },
+        {
+          "id": "B",
+          "teks": "selalu berbentuk tulisan"
+        },
+        {
+          "id": "C",
+          "teks": "tidak memiliki pola"
+        },
+        {
+          "id": "D",
+          "teks": "tersusun dari bentuk garis, bidang, atau bangun berulang"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Motif geometris memanfaatkan bentuk seperti garis, segitiga, lingkaran, dan pola berulang.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "seni-rupa-sim-p5-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Motif anyaman: pola warna tanpa susunan."
+        },
+        {
+          "id": "B",
+          "teks": "Motif fauna: mengambil inspirasi dari hewan."
+        },
+        {
+          "id": "C",
+          "teks": "Pengulangan motif: membentuk irama dan keteraturan visual."
+        },
+        {
+          "id": "D",
+          "teks": "Asal motif: motif batik dapat memiliki ciri khas daerah tertentu."
+        },
+        {
+          "id": "E",
+          "teks": "Pelestarian batik: merusak kain batik."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-sim-p5-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pengulangan motif: membentuk irama dan keteraturan visual."
+        },
+        {
+          "id": "B",
+          "teks": "Asal motif: motif batik dapat memiliki ciri khas daerah tertentu."
+        },
+        {
+          "id": "C",
+          "teks": "Pelestarian batik: mempelajari, menggunakan, dan menghargai karya batik lokal."
+        },
+        {
+          "id": "D",
+          "teks": "Motif anyaman: gambar perspektif satu titik."
+        },
+        {
+          "id": "E",
+          "teks": "Makrame: teknik cetak stensil."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-sim-p5-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Asal motif adalah motif batik dapat memiliki ciri khas daerah tertentu."
+        },
+        {
+          "teks": "Motif anyaman adalah gambar perspektif satu titik."
+        },
+        {
+          "teks": "Motif batik adalah pola hias yang dibuat dengan teknik perintangan warna menggunakan malam."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; motif anyaman yang tepat adalah pola yang terbentuk dari susunan bahan yang saling silang atau tindih.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-sim-p5-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Pelestarian batik adalah mempelajari, menggunakan, dan menghargai karya batik lokal."
+        },
+        {
+          "teks": "Makrame adalah teknik melukis dengan cat air."
+        },
+        {
+          "teks": "Motif lokal adalah dapat menunjukkan identitas dan budaya daerah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; makrame yang tepat adalah karya kerajinan yang dibuat dengan teknik simpul pada tali atau benang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-sim-p5-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Motif fauna"
+        },
+        {
+          "teks": "Pengulangan motif"
+        },
+        {
+          "teks": "Asal motif"
+        },
+        {
+          "teks": "Pelestarian batik"
+        }
+      ],
+      "pilihan": [
+        "membentuk irama dan keteraturan visual",
+        "motif batik dapat memiliki ciri khas daerah tertentu",
+        "mempelajari, menggunakan, dan menghargai karya batik lokal",
+        "mengambil inspirasi dari hewan"
+      ],
+      "kunci": [
+        "mengambil inspirasi dari hewan",
+        "membentuk irama dan keteraturan visual",
+        "motif batik dapat memiliki ciri khas daerah tertentu",
+        "mempelajari, menggunakan, dan menghargai karya batik lokal"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "seni-rupa-sim-p5-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Asal motif"
+        },
+        {
+          "teks": "Pelestarian batik"
+        },
+        {
+          "teks": "Motif anyaman"
+        },
+        {
+          "teks": "Makrame"
+        }
+      ],
+      "pilihan": [
+        "pola yang terbentuk dari susunan bahan yang saling silang atau tindih",
+        "karya kerajinan yang dibuat dengan teknik simpul pada tali atau benang",
+        "motif batik dapat memiliki ciri khas daerah tertentu",
+        "mempelajari, menggunakan, dan menghargai karya batik lokal"
+      ],
+      "kunci": [
+        "motif batik dapat memiliki ciri khas daerah tertentu",
+        "mempelajari, menggunakan, dan menghargai karya batik lokal",
+        "pola yang terbentuk dari susunan bahan yang saling silang atau tindih",
+        "karya kerajinan yang dibuat dengan teknik simpul pada tali atau benang"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "seni-rupa-sim-p5-q10"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Makrame",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Makrame?",
+      "kunci": [
+        "karya kerajinan yang dibuat dengan teknik simpul pada tali atau benang"
+      ],
+      "kataKunci": [
+        "karya kerajinan yang dibuat dengan teknik simpul pada tali atau benang"
+      ],
+      "pembahasan": "Makrame dibuat dengan mengikat atau menyimpul tali/benang menjadi pola dan karya. Alat sederhana dapat berupa tali, pensil atau ranting, gunting, dan perekat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "seni-rupa-sim-p5-q11"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Motif batik",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Motif batik?",
+      "kunci": [
+        "pola hias yang dibuat dengan teknik perintangan warna menggunakan malam"
+      ],
+      "kataKunci": [
+        "pola hias yang dibuat dengan teknik perintangan warna menggunakan malam"
+      ],
+      "pembahasan": "Dalam proses batik, malam digunakan untuk menahan warna pada bagian kain tertentu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "seni-rupa-sim-p5-q12"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Motif geometris",
+      "pertanyaan": "Bentuk apa yang sering digunakan pada motif geometris?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "hanya berupa foto manusia"
+        },
+        {
+          "id": "B",
+          "teks": "selalu berbentuk tulisan"
+        },
+        {
+          "id": "C",
+          "teks": "tidak memiliki pola"
+        },
+        {
+          "id": "D",
+          "teks": "tersusun dari bentuk garis, bidang, atau bangun berulang"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Motif geometris memanfaatkan bentuk seperti garis, segitiga, lingkaran, dan pola berulang.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "seni-rupa-sim-p5-q13"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Motif flora",
+      "pertanyaan": "Daun dan bunga termasuk motif apa?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "alat transportasi"
+        },
+        {
+          "id": "B",
+          "teks": "bentuk mesin"
+        },
+        {
+          "id": "C",
+          "teks": "mengambil inspirasi dari tumbuhan"
+        },
+        {
+          "id": "D",
+          "teks": "hewan laut saja"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Motif flora bersumber dari bentuk tumbuhan seperti daun, bunga, dan batang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "seni-rupa-sim-p5-q14"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pengulangan motif: membentuk irama dan keteraturan visual."
+        },
+        {
+          "id": "B",
+          "teks": "Asal motif: motif batik dapat memiliki ciri khas daerah tertentu."
+        },
+        {
+          "id": "C",
+          "teks": "Pelestarian batik: mempelajari, menggunakan, dan menghargai karya batik lokal."
+        },
+        {
+          "id": "D",
+          "teks": "Motif anyaman: gambar perspektif satu titik."
+        },
+        {
+          "id": "E",
+          "teks": "Makrame: teknik cetak stensil."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-sim-p5-q15"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pelestarian batik: mempelajari, menggunakan, dan menghargai karya batik lokal."
+        },
+        {
+          "id": "B",
+          "teks": "Motif anyaman: pola yang terbentuk dari susunan bahan yang saling silang atau tindih."
+        },
+        {
+          "id": "C",
+          "teks": "Makrame: teknik melukis dengan cat air."
+        },
+        {
+          "id": "D",
+          "teks": "Motif batik: pola potongan kayu."
+        },
+        {
+          "id": "E",
+          "teks": "Asal motif: motif batik dapat memiliki ciri khas daerah tertentu."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-sim-p5-q16"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Pelestarian batik adalah mempelajari, menggunakan, dan menghargai karya batik lokal."
+        },
+        {
+          "teks": "Makrame adalah teknik melukis dengan cat air."
+        },
+        {
+          "teks": "Motif lokal adalah dapat menunjukkan identitas dan budaya daerah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; makrame yang tepat adalah karya kerajinan yang dibuat dengan teknik simpul pada tali atau benang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-sim-p5-q17"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Motif anyaman adalah pola yang terbentuk dari susunan bahan yang saling silang atau tindih."
+        },
+        {
+          "teks": "Motif batik adalah gambar yang hanya dibuat dengan pensil."
+        },
+        {
+          "teks": "Motif geometris adalah tersusun dari bentuk garis, bidang, atau bangun berulang."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; motif batik yang tepat adalah pola hias yang dibuat dengan teknik perintangan warna menggunakan malam.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-sim-p5-q18"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Pengulangan motif"
+        },
+        {
+          "teks": "Asal motif"
+        },
+        {
+          "teks": "Pelestarian batik"
+        },
+        {
+          "teks": "Motif anyaman"
+        }
+      ],
+      "pilihan": [
+        "mempelajari, menggunakan, dan menghargai karya batik lokal",
+        "pola yang terbentuk dari susunan bahan yang saling silang atau tindih",
+        "membentuk irama dan keteraturan visual",
+        "motif batik dapat memiliki ciri khas daerah tertentu"
+      ],
+      "kunci": [
+        "membentuk irama dan keteraturan visual",
+        "motif batik dapat memiliki ciri khas daerah tertentu",
+        "mempelajari, menggunakan, dan menghargai karya batik lokal",
+        "pola yang terbentuk dari susunan bahan yang saling silang atau tindih"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "seni-rupa-sim-p5-q19"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Pelestarian batik"
+        },
+        {
+          "teks": "Motif anyaman"
+        },
+        {
+          "teks": "Makrame"
+        },
+        {
+          "teks": "Motif batik"
+        }
+      ],
+      "pilihan": [
+        "pola hias yang dibuat dengan teknik perintangan warna menggunakan malam",
+        "mempelajari, menggunakan, dan menghargai karya batik lokal",
+        "pola yang terbentuk dari susunan bahan yang saling silang atau tindih",
+        "karya kerajinan yang dibuat dengan teknik simpul pada tali atau benang"
+      ],
+      "kunci": [
+        "mempelajari, menggunakan, dan menghargai karya batik lokal",
+        "pola yang terbentuk dari susunan bahan yang saling silang atau tindih",
+        "karya kerajinan yang dibuat dengan teknik simpul pada tali atau benang",
+        "pola hias yang dibuat dengan teknik perintangan warna menggunakan malam"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "seni-rupa-sim-p5-q20"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Motif batik",
+      "pertanyaan": "Lengkapi pernyataan berikut: Motif batik berarti ....",
+      "kunci": [
+        "pola hias yang dibuat dengan teknik perintangan warna menggunakan malam"
+      ],
+      "kataKunci": [
+        "pola hias yang dibuat dengan teknik perintangan warna menggunakan malam"
+      ],
+      "pembahasan": "Dalam proses batik, malam digunakan untuk menahan warna pada bagian kain tertentu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "seni-rupa-sim-p5-q21"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Motif lokal",
+      "pertanyaan": "Lengkapi pernyataan berikut: Motif lokal berarti ....",
+      "kunci": [
+        "dapat menunjukkan identitas dan budaya daerah"
+      ],
+      "kataKunci": [
+        "dapat menunjukkan identitas dan budaya daerah"
+      ],
+      "pembahasan": "Motif batik dapat menjadi identitas budaya dan mencerminkan kekhasan daerah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "seni-rupa-sim-p5-q22"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Seni grafis",
+      "pertanyaan": "Seni grafis merupakan karya seni yang dibuat dengan teknik ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "karya seni dua dimensi yang dibuat melalui proses cetak"
+        },
+        {
+          "id": "B",
+          "teks": "karya musik"
+        },
+        {
+          "id": "C",
+          "teks": "karya tari"
+        },
+        {
+          "id": "D",
+          "teks": "bangunan tiga dimensi"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Seni grafis menghasilkan gambar melalui proses pencetakan dari acuan atau cetakan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "seni-rupa-sim-p5-q23"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Cetak tinggi",
+      "pertanyaan": "Teknik cetak tinggi memanfaatkan bagian cetakan yang ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menggunakan lubang sebagai pola utama"
+        },
+        {
+          "id": "B",
+          "teks": "mengukir bagian terdalam saja"
+        },
+        {
+          "id": "C",
+          "teks": "menggambar tanpa cetakan"
+        },
+        {
+          "id": "D",
+          "teks": "menggunakan bagian permukaan cetakan yang menonjol"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Bagian menonjol diberi pewarna lalu ditekan pada media cetak.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "seni-rupa-sim-p5-q24"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Sketsa: menghapus kebutuhan cetakan."
+        },
+        {
+          "id": "B",
+          "teks": "Keamanan dan kerapian: mengoles pewarna pada teman."
+        },
+        {
+          "id": "C",
+          "teks": "Bahan cetak tinggi sederhana: pelepah pisang, spons, atau bahan bertekstur yang menonjol."
+        },
+        {
+          "id": "D",
+          "teks": "Bahan stensil: karton atau plastik yang dipotong membentuk pola berlubang."
+        },
+        {
+          "id": "E",
+          "teks": "Urutan cetak tinggi: siapkan alat, buat sketsa, beri pewarna pada bagian menonjol, tekan ke kertas, lalu angkat."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-sim-p5-q25"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Seni grafis: karya tari."
+        },
+        {
+          "id": "B",
+          "teks": "Bahan stensil: karton atau plastik yang dipotong membentuk pola berlubang."
+        },
+        {
+          "id": "C",
+          "teks": "Urutan cetak tinggi: siapkan alat, buat sketsa, beri pewarna pada bagian menonjol, tekan ke kertas, lalu angkat."
+        },
+        {
+          "id": "D",
+          "teks": "Sketsa: membantu merencanakan bentuk dan susunan motif."
+        },
+        {
+          "id": "E",
+          "teks": "Keamanan dan kerapian: meninggalkan alat tajam sembarangan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-sim-p5-q26"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Urutan cetak tinggi adalah siapkan alat, buat sketsa, beri pewarna pada bagian menonjol, tekan ke kertas, lalu angkat."
+        },
+        {
+          "teks": "Keamanan dan kerapian adalah meninggalkan alat tajam sembarangan."
+        },
+        {
+          "teks": "Cetak tinggi adalah menggunakan bagian permukaan cetakan yang menonjol."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; keamanan dan kerapian yang tepat adalah gunakan alat dengan hati-hati dan bersihkan area kerja.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-sim-p5-q27"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Sketsa adalah membantu merencanakan bentuk dan susunan motif."
+        },
+        {
+          "teks": "Seni grafis adalah karya musik."
+        },
+        {
+          "teks": "Stensil adalah menggunakan pola berlubang dan pewarna melewati lubang tersebut."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; seni grafis yang tepat adalah karya seni dua dimensi yang dibuat melalui proses cetak.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-sim-p5-q28"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Urutan cetak tinggi"
+        },
+        {
+          "teks": "Sketsa"
+        },
+        {
+          "teks": "Keamanan dan kerapian"
+        },
+        {
+          "teks": "Seni grafis"
+        }
+      ],
+      "pilihan": [
+        "siapkan alat, buat sketsa, beri pewarna pada bagian menonjol, tekan ke kertas, lalu angkat",
+        "membantu merencanakan bentuk dan susunan motif",
+        "gunakan alat dengan hati-hati dan bersihkan area kerja",
+        "karya seni dua dimensi yang dibuat melalui proses cetak"
+      ],
+      "kunci": [
+        "siapkan alat, buat sketsa, beri pewarna pada bagian menonjol, tekan ke kertas, lalu angkat",
+        "membantu merencanakan bentuk dan susunan motif",
+        "gunakan alat dengan hati-hati dan bersihkan area kerja",
+        "karya seni dua dimensi yang dibuat melalui proses cetak"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "seni-rupa-sim-p5-q29"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Keamanan dan kerapian"
+        },
+        {
+          "teks": "Seni grafis"
+        },
+        {
+          "teks": "Cetak tinggi"
+        },
+        {
+          "teks": "Stensil"
+        }
+      ],
+      "pilihan": [
+        "karya seni dua dimensi yang dibuat melalui proses cetak",
+        "menggunakan bagian permukaan cetakan yang menonjol",
+        "menggunakan pola berlubang dan pewarna melewati lubang tersebut",
+        "gunakan alat dengan hati-hati dan bersihkan area kerja"
+      ],
+      "kunci": [
+        "gunakan alat dengan hati-hati dan bersihkan area kerja",
+        "karya seni dua dimensi yang dibuat melalui proses cetak",
+        "menggunakan bagian permukaan cetakan yang menonjol",
+        "menggunakan pola berlubang dan pewarna melewati lubang tersebut"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "seni-rupa-sim-p5-q30"
+    }
+  ]
+}

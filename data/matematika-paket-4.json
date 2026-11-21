@@ -1,0 +1,110 @@
+{
+  "id": "matematika-paket-4",
+  "mataPelajaran": "Matematika",
+  "paket": 4,
+  "judul": "Bilangan Desimal dan Persen",
+  "durasiMenit": 40,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-P4-01",
+      "jenis": "isian_angka",
+      "indikator": "Mengubah desimal menjadi persen",
+      "pertanyaan": "Ubah 0,375 menjadi persen. Tuliskan angka hasilnya saja, tanpa tanda persen.",
+      "kunci": 37.5,
+      "pembahasan": "0,375 × 100% = 37,5%.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P4-02",
+      "jenis": "isian_angka",
+      "indikator": "Mengubah persen menjadi desimal",
+      "pertanyaan": "Ubah 45% menjadi bilangan desimal.",
+      "kunci": 0.45,
+      "pembahasan": "45% = 45 ÷ 100 = 0,45.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P4-03",
+      "jenis": "isian_angka",
+      "indikator": "Mengalikan bilangan desimal",
+      "pertanyaan": "Hitunglah hasil dari 3,6 × 0,5.",
+      "kunci": 1.8,
+      "pembahasan": "3,6 × 0,5 = 1,8.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P4-04",
+      "jenis": "isian_angka",
+      "indikator": "Membagi bilangan desimal",
+      "pertanyaan": "Hitunglah hasil dari 8,4 ÷ 0,7.",
+      "kunci": 12,
+      "pembahasan": "8,4 ÷ 0,7 = 84 ÷ 7 = 12.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P4-05",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung nilai persen dari suatu jumlah",
+      "pertanyaan": "Berapakah 15% dari 240?",
+      "kunci": 36,
+      "pembahasan": "15/100 × 240 = 0,15 × 240 = 36.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P4-06",
+      "jenis": "isian_angka",
+      "indikator": "Mengubah pecahan biasa menjadi persen",
+      "pertanyaan": "Ubah 7/20 menjadi persen. Tuliskan angka hasilnya saja, tanpa tanda persen.",
+      "kunci": 35,
+      "pembahasan": "7/20 = 0,35 = 35%.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P4-07",
+      "jenis": "isian_angka",
+      "indikator": "Mengurutkan bilangan desimal",
+      "pertanyaan": "Perhatikan bilangan desimal 2,08; 2,8; 2,18; dan 2,5. Jika diurutkan dari yang terkecil, bilangan pada urutan kedua adalah berapa? Tuliskan dengan tanda koma.",
+      "kunci": 2.18,
+      "pembahasan": "Urutan dari terkecil adalah 2,08; 2,18; 2,5; 2,8. Urutan kedua adalah 2,18.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P4-08",
+      "jenis": "isian_angka",
+      "indikator": "Mengurangkan bilangan desimal",
+      "pertanyaan": "Hitunglah hasil dari 20 − 6,875.",
+      "kunci": 13.125,
+      "pembahasan": "20,000 − 6,875 = 13,125.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P4-09",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung persentase dalam konteks diskon",
+      "pertanyaan": "Sebuah tas berharga Rp160.000 mendapat potongan harga 25%. Berapa besar potongan harga dalam rupiah?",
+      "kunci": 40000,
+      "pembahasan": "25% × Rp160.000 = 0,25 × Rp160.000 = Rp40.000.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P4-10",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung banyak benda berdasarkan persentase",
+      "pertanyaan": "Dari 80 bibit tanaman, 35% adalah bibit cabai. Berapa banyak bibit cabai?",
+      "kunci": 28,
+      "pembahasan": "35% × 80 = 0,35 × 80 = 28 bibit.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    }
+  ]
+}

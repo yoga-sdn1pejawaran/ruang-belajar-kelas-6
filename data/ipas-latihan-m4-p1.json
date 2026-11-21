@@ -1,0 +1,317 @@
+{
+  "id": "ipas-latihan-m4-p1",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Benua, Samudra, dan Keragaman Geografis",
+  "paket": 1,
+  "judul": "Benua, Samudra, dan Keragaman Geografis • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "id": "ipas-m4-lat-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Benua terluas",
+      "pertanyaan": "Peta dunia memperlihatkan enam benua dengan ukuran berbeda.\n\nBenua terluas adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Afrika"
+        },
+        {
+          "id": "B",
+          "teks": "Asia"
+        },
+        {
+          "id": "C",
+          "teks": "Eropa"
+        },
+        {
+          "id": "D",
+          "teks": "Australia"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Asia merupakan benua terluas.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m4-lat-02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Samudra terluas",
+      "pertanyaan": "Siswa membandingkan luas samudra pada peta dunia.\n\nSamudra terluas adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Atlantik"
+        },
+        {
+          "id": "B",
+          "teks": "Hindia"
+        },
+        {
+          "id": "C",
+          "teks": "Pasifik"
+        },
+        {
+          "id": "D",
+          "teks": "Arktik"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Samudra Pasifik merupakan samudra terluas.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m4-lat-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Bangunan ikonik",
+      "pertanyaan": "Sebuah foto memperlihatkan Menara Eiffel yang berada di Paris.\n\nNegara tempat Menara Eiffel berada adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Prancis"
+        },
+        {
+          "id": "B",
+          "teks": "Mesir"
+        },
+        {
+          "id": "C",
+          "teks": "India"
+        },
+        {
+          "id": "D",
+          "teks": "Jepang"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Menara Eiffel berada di Paris, Prancis.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m4-lat-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Bangunan ikonik Mesir",
+      "pertanyaan": "Piramida Giza menjadi peninggalan sejarah yang terkenal di dunia.\n\nPiramida Giza berada di benua ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Asia"
+        },
+        {
+          "id": "B",
+          "teks": "Afrika"
+        },
+        {
+          "id": "C",
+          "teks": "Eropa"
+        },
+        {
+          "id": "D",
+          "teks": "Australia"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Mesir berada di Afrika bagian timur laut.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m4-lat-05",
+      "jenis": "benar_salah",
+      "indikator": "Ciri benua",
+      "pertanyaan": "Siswa membandingkan kondisi geografis Asia dan Australia.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Asia merupakan benua terluas."
+        },
+        {
+          "teks": "Australia merupakan benua terkecil."
+        },
+        {
+          "teks": "Antartika berada di sekitar Kutub Selatan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "Ketiga pernyataan tersebut merupakan ciri umum benua.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m4-lat-06",
+      "jenis": "benar_salah",
+      "indikator": "Bangunan ikonik",
+      "pertanyaan": "Peta dunia menunjukkan beberapa bangunan terkenal.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Taj Mahal berada di India."
+        },
+        {
+          "teks": "Piramida Giza berada di Mesir."
+        },
+        {
+          "teks": "Menara Eiffel berada di Australia."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Menara Eiffel berada di Prancis, bukan Australia.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m4-lat-07",
+      "jenis": "menjodohkan",
+      "indikator": "Bangunan dan negara",
+      "pertanyaan": "Bangunan ikonik dapat membantu mengenali negara dan benuanya.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Menara Eiffel"
+        },
+        {
+          "teks": "Taj Mahal"
+        },
+        {
+          "teks": "Piramida Giza"
+        },
+        {
+          "teks": "Tembok Besar"
+        }
+      ],
+      "pilihan": [
+        "Prancis – Eropa",
+        "India – Asia",
+        "Mesir – Afrika",
+        "Tiongkok – Asia"
+      ],
+      "kunci": [
+        "Prancis – Eropa",
+        "India – Asia",
+        "Mesir – Afrika",
+        "Tiongkok – Asia"
+      ],
+      "pembahasan": "Setiap bangunan berada di negara dan benua yang berbeda.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-m4-lat-08",
+      "jenis": "menjodohkan",
+      "indikator": "Samudra dan lokasi",
+      "pertanyaan": "Samudra mengelilingi benua-benua di bumi.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Samudra terluas"
+        },
+        {
+          "teks": "Samudra di antara Afrika, Asia, Australia"
+        },
+        {
+          "teks": "Samudra di antara Amerika dan Eropa-Afrika"
+        },
+        {
+          "teks": "Samudra sekitar Kutub Utara"
+        }
+      ],
+      "pilihan": [
+        "Pasifik",
+        "Hindia",
+        "Atlantik",
+        "Arktik"
+      ],
+      "kunci": [
+        "Pasifik",
+        "Hindia",
+        "Atlantik",
+        "Arktik"
+      ],
+      "pembahasan": "Pasifik paling luas; Hindia berada di antara Afrika, Asia, Australia; Atlantik di antara Amerika dan Eropa-Afrika; Arktik di Kutub Utara.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-m4-lat-09",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis geografi dan budaya",
+      "pertanyaan": "Masyarakat di wilayah dingin, gurun, dan pesisir memiliki cara hidup yang berbeda.\n\nPilih TIGA hubungan yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Wilayah dingin mendorong penggunaan pakaian hangat."
+        },
+        {
+          "id": "B",
+          "teks": "Daerah pesisir dapat mengembangkan perikanan."
+        },
+        {
+          "id": "C",
+          "teks": "Wilayah gurun membuat sumber air menjadi penting."
+        },
+        {
+          "id": "D",
+          "teks": "Semua wilayah memiliki mata pencaharian sama."
+        },
+        {
+          "id": "E",
+          "teks": "Iklim tidak berpengaruh pada rumah."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Iklim dan bentang alam memengaruhi pakaian, rumah, dan mata pencaharian.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m4-lat-10",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis persebaran penduduk",
+      "pertanyaan": "Di Mesir, banyak permukiman berkembang di sekitar Sungai Nil, sementara wilayah gurun lebih jarang penduduk.\n\nPilih TIGA alasan yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Air mendukung kebutuhan sehari-hari."
+        },
+        {
+          "id": "B",
+          "teks": "Air mendukung pertanian."
+        },
+        {
+          "id": "C",
+          "teks": "Transportasi dan kegiatan ekonomi dapat berkembang di sekitar sungai."
+        },
+        {
+          "id": "D",
+          "teks": "Gurun selalu memiliki tanah paling subur."
+        },
+        {
+          "id": "E",
+          "teks": "Penduduk tidak membutuhkan sumber air."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Ketersediaan air mendukung kehidupan, pertanian, dan aktivitas ekonomi.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

@@ -1,0 +1,297 @@
+{
+  "id": "matematika-latihan-m2-p1",
+  "mataPelajaran": "Matematika",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Pecahan Biasa dan Pecahan Campuran",
+  "paket": 1,
+  "judul": "Pecahan Biasa dan Pecahan Campuran • Latihan",
+  "durasiMenit": 0,
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu.",
+  "soal": [
+    {
+      "id": "mtk-m2-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menjumlahkan pecahan berpenyebut sama",
+      "pertanyaan": "Hasil dari 2/9 + 4/9 adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "6/18"
+        },
+        {
+          "id": "B",
+          "teks": "6/9"
+        },
+        {
+          "id": "C",
+          "teks": "2/9"
+        },
+        {
+          "id": "D",
+          "teks": "4/9"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Penyebut tetap, pembilang dijumlahkan: 2/9 + 4/9 = 6/9.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m2-02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengenali pecahan senilai",
+      "pertanyaan": "Pecahan yang senilai dengan 3/4 adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "6/10"
+        },
+        {
+          "id": "B",
+          "teks": "9/12"
+        },
+        {
+          "id": "C",
+          "teks": "6/12"
+        },
+        {
+          "id": "D",
+          "teks": "4/6"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "3/4 dikalikan 3/3 menjadi 9/12.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m2-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengurangkan pecahan berpenyebut berbeda",
+      "pertanyaan": "Hasil dari 5/6 − 1/4 adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "4/2"
+        },
+        {
+          "id": "B",
+          "teks": "7/12"
+        },
+        {
+          "id": "C",
+          "teks": "2/10"
+        },
+        {
+          "id": "D",
+          "teks": "1/2"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "KPK 6 dan 4 adalah 12. Jadi 10/12 − 3/12 = 7/12.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m2-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah pecahan campuran menjadi pecahan biasa",
+      "pertanyaan": "Ubah 2 3/5 menjadi pecahan biasa. Tuliskan nilai pembilangnya saja.",
+      "kunci": "A",
+      "pembahasan": "2 × 5 + 3 = 13, sehingga pecahannya 13/5.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "13"
+        },
+        {
+          "id": "B",
+          "teks": "14"
+        },
+        {
+          "id": "C",
+          "teks": "12"
+        },
+        {
+          "id": "D",
+          "teks": "15"
+        }
+      ]
+    },
+    {
+      "id": "mtk-m2-05",
+      "jenis": "benar_salah",
+      "indikator": "Menilai operasi pecahan dalam konteks",
+      "pertanyaan": "Ibu memiliki 3 1/2 kg tepung. Ia menggunakan 1 1/4 kg untuk membuat roti. Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Tepung yang digunakan sama dengan 5/4 kg."
+        },
+        {
+          "teks": "Sisa tepung adalah 2 1/4 kg."
+        },
+        {
+          "teks": "Jumlah tepung awal lebih banyak daripada yang digunakan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "1 1/4 kg sama dengan 5/4 kg. Sisa tepung = 3 1/2 − 1 1/4 = 2 1/4 kg. Ketiga pernyataan benar.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "mtk-m2-06",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengalikan pecahan biasa",
+      "pertanyaan": "Hasil dari 3/5 × 10/9 adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "2/3"
+        },
+        {
+          "id": "B",
+          "teks": "3/2"
+        },
+        {
+          "id": "C",
+          "teks": "1/3"
+        },
+        {
+          "id": "D",
+          "teks": "5/9"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Kalikan pembilang dan penyebut: 30/45 = 2/3.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m2-07",
+      "jenis": "pilihan_ganda",
+      "indikator": "Membagi pecahan biasa",
+      "pertanyaan": "Hitung 3/4 ÷ 2/5. Tuliskan hasil dalam bentuk pecahan paling sederhana atau pecahan campuran.",
+      "kunci": "A",
+      "pembahasan": "3/4 ÷ 2/5 = 3/4 × 5/2 = 15/8 = 1 7/8.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "1 7/8"
+        },
+        {
+          "id": "B",
+          "teks": "1 3/4"
+        },
+        {
+          "id": "C",
+          "teks": "1 5/8"
+        },
+        {
+          "id": "D",
+          "teks": "2 1/8"
+        }
+      ]
+    },
+    {
+      "id": "mtk-m2-08",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyelesaikan masalah gabungan bilangan bulat dan pecahan",
+      "pertanyaan": "Sebuah wadah berisi 8 liter air. Sebanyak 2 1/2 liter dipakai pagi hari dan 1 3/4 liter sore hari. Sisa air adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "3 1/4 liter"
+        },
+        {
+          "id": "B",
+          "teks": "3 3/4 liter"
+        },
+        {
+          "id": "C",
+          "teks": "4 1/4 liter"
+        },
+        {
+          "id": "D",
+          "teks": "4 3/4 liter"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "8 − 2 1/2 − 1 3/4 = 8 − 4 1/4 = 3 3/4 liter.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m2-09",
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan operasi pecahan dengan hasil",
+      "pertanyaan": "Pasangkan operasi dengan hasilnya.",
+      "pasangan": [
+        {
+          "teks": "1/2 + 1/3"
+        },
+        {
+          "teks": "3/4 − 1/8"
+        },
+        {
+          "teks": "2/5 × 5/6"
+        },
+        {
+          "teks": "3/4 ÷ 3/8"
+        }
+      ],
+      "pilihan": [
+        "1/3",
+        "5/6",
+        "5/8",
+        "2"
+      ],
+      "kunci": [
+        "5/6",
+        "5/8",
+        "1/3",
+        "2"
+      ],
+      "pembahasan": "Hasilnya berturut-turut 5/6, 5/8, 1/3, dan 2.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "mtk-m2-10",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyelesaikan masalah pecahan campuran",
+      "pertanyaan": "Persediaan pita 6 meter. Dipakai 1 1/2 meter untuk hiasan dan 2 3/4 meter untuk kerajinan. Berapa meter pita yang tersisa?",
+      "kunci": "A",
+      "pembahasan": "6 − 1,5 − 2,75 = 1,75 meter atau 1 3/4 meter.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "1,75"
+        },
+        {
+          "id": "B",
+          "teks": "1,85"
+        },
+        {
+          "id": "C",
+          "teks": "1,65"
+        },
+        {
+          "id": "D",
+          "teks": "1,95"
+        }
+      ]
+    }
+  ]
+}

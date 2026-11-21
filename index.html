@@ -1,143 +1,275 @@
-
 <!DOCTYPE html>
 <html lang="id">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Latihan Persiapan ASAS 1 IPAS Kelas 6</title>
-
-    <!-- GOOGLE FONT -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap" rel="stylesheet">
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#173B65">
+  <title>Ruang Belajar Digital | Kelas VI - SD Negeri 1 Pejawaran</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
-
 <body>
+  <header class="header">
+    <div class="header-content">
+      <h1>RUANG BELAJAR DIGITAL</h1>
+      <div class="session-strip" id="sessionStrip" hidden>
+        <span id="activeStudentLabel"></span>
+      </div>
+      <h2>KELAS VI</h2>
+      <p class="school-name">SD NEGERI 1 PEJAWARAN</p>
+      <p class="tagline">Belajar • Berlatih • Berprestasi</p>
+      <p class="creator">WALI KELAS: YOGA SATRIA WIDIATAMA, S.Pd.</p>
+    </div>
+  </header>
 
-    <!-- HEADER -->
-    <header class="header">
-
-        <h1>
-            <span class="judul-utama">LATIHAN PERSIAPAN ASAS 1</span>
-            <span class="judul-mapel">IPAS</span>
-            <span class="judul-kelas">KELAS 6</span>
-        </h1>
-
-        <div class="identitas-sekolah">
-            <p>SD NEGERI 1 PEJAWARAN</p>
-            <p>SEMANGAT BERPRESTASI</p>
+  <main class="container">
+    <section class="card identity-card" id="identitySection">
+      <div class="login-heading">
+        <span class="login-icon">🎓</span>
+        <div>
+          <p class="login-kicker">SELAMAT DATANG</p>
+          <h2>LOGIN SISWA KELAS VI</h2>
+          <p class="section-description">Pilih nama kamu, lalu masukkan password untuk masuk ke Beranda.</p>
         </div>
+      </div>
+      <div class="form-group">
+        <label for="namaMurid">Pilih Nama Siswa</label>
+        <select id="namaMurid" required>
+          <option value="">Pilih nama murid</option>
+        </select>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label for="nomorAbsen">Nomor Absen</label>
+          <input type="text" id="nomorAbsen" readonly placeholder="Otomatis">
+        </div>
+        <div class="form-group">
+          <label for="kelas">Kelas</label>
+          <input type="text" id="kelas" value="VI" readonly>
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="passwordMurid">Password</label>
+        <div class="password-field">
+          <input type="password" id="passwordMurid" placeholder="Masukkan password kamu" autocomplete="off">
+          <button type="button" class="password-toggle" id="togglePassword" aria-label="Lihat password" title="Lihat password">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></svg>
+          </button>
+        </div>
+      </div>
+      <button type="button" class="primary-button login-button" id="loginButton" disabled>LOGIN</button>
+      <p class="login-error" id="loginError" role="alert" hidden></p>
+    </section>
 
-    </header>
+    <div id="appContent" hidden>
+
+    <!-- BERANDA UTAMA: Semester 1, Semester 2, dan TKA -->
+    <section class="card main-home-card" id="mainHomeSection">
+      <div class="main-home-heading">
+        <span class="main-home-kicker">RUANG BELAJAR DIGITAL</span>
+        <h2>Selamat Belajar!</h2>
+        <p class="section-description">Pilih ruang belajar yang ingin kamu buka.</p>
+      </div>
+      <div class="main-home-grid">
+        <button type="button" class="main-home-button semester-one" id="openSemester1">
+          <span class="main-home-icon">📘</span>
+          <strong>SEMESTER 1</strong>
+          <small>Materi, latihan, dan simulasi semester 1</small>
+        </button>
+        <button type="button" class="main-home-button semester-two" id="openSemester2">
+          <span class="main-home-icon">📗</span>
+          <strong>SEMESTER 2</strong>
+          <small>Materi belum tersedia</small>
+        </button>
+        <button type="button" class="main-home-button tka-home" id="openTkaFromHome">
+          <span class="main-home-icon">🎓</span>
+          <strong>BELAJAR TKA</strong>
+          <small>Persiapan TKA Matematika dan Bahasa Indonesia</small>
+        </button>
+      </div>
+      <div class="home-utility-actions">
+        <button type="button" id="openHistoryFeature" class="secondary-button home-history-button">📊 RIWAYAT NILAI</button>
+        <button type="button" id="logoutButton" class="secondary-button home-logout-button">↪ KELUAR</button>
+      </div>
+    </section>
+
+    <section class="card semester-two-card" id="semester2Section" hidden>
+      <div class="semester-placeholder-icon">📗</div>
+      <span class="main-home-kicker">RUANG BELAJAR DIGITAL • SEMESTER 2</span>
+      <h2>Semester 2</h2>
+      <p class="section-description">Materi pembelajaran Semester 2 belum tersedia.</p>
+      <div class="semester-coming-soon">Belum tersedia</div>
+      <button type="button" class="secondary-button" id="backSemester2Home">← KEMBALI KE BERANDA</button>
+    </section>
+
+    <section class="card tka-panel" id="tkaSubjectSection" hidden>
+      <div class="tka-heading">
+        <div><span class="tka-kicker">BELAJAR TKA • LANGKAH 1</span><h2>Pilih Mata Pelajaran TKA</h2>
+        <p class="section-description">Pilih mata pelajaran yang ingin kamu pelajari.</p></div>
+        <span class="tka-step">01</span>
+      </div>
+      <div class="form-group tka-select-group">
+        <label for="tkaSubjectSelect">Mata Pelajaran</label>
+        <select id="tkaSubjectSelect">
+          <option value="">-- Pilih Matematika atau Bahasa Indonesia --</option>
+          <option value="matematika">Matematika</option>
+          <option value="bahasa-indonesia">Bahasa Indonesia</option>
+        </select>
+      </div>
+      <button type="button" class="primary-button" id="confirmTkaSubject" disabled>LANJUTKAN</button>
+      <button type="button" class="secondary-button tka-back" id="closeTkaSubject">KEMBALI KE BERANDA</button>
+    </section>
+
+    <section class="card tka-panel" id="tkaSessionSection" hidden>
+      <div class="tka-heading"><div><span class="tka-kicker">BELAJAR TKA • LANGKAH 2</span><h2 id="tkaSelectedSubject">Pilih Sesi</h2>
+      <p class="section-description">Tentukan kegiatan yang ingin kamu ikuti.</p></div><span class="tka-step">02</span></div>
+      <div class="tka-session-grid">
+        <button type="button" class="tka-session-button practice" id="tkaPracticeButton"><span>✏️</span><b>SESI LATIHAN</b><small>Tanpa timer. Kerjakan dengan tenang dan pelajari pembahasan.</small></button>
+        <button type="button" class="tka-session-button simulation" id="tkaSimulationButton"><span>⏱️</span><b>SESI SIMULASI</b><small>75 menit per mata pelajaran, mengikuti durasi simulasi yang disepakati.</small></button>
+      </div>
+      <button type="button" class="secondary-button tka-back" id="backTkaToSubject">KEMBALI PILIH MAPEL</button>
+    </section>
+
+    <section class="card tka-panel" id="tkaPackageSection" hidden>
+      <div class="tka-heading"><div><span class="tka-kicker" id="tkaPackageKicker">BELAJAR TKA • LANGKAH 3</span><h2 id="tkaPackageTitle">Pilih Paket</h2>
+      <p class="section-description">Pilih paket yang ingin kamu kerjakan.</p></div><span class="tka-step">03</span></div>
+      <div class="tka-package-grid" id="tkaPackageGrid"></div>
+      <div class="tka-package-note"><b>30 soal setiap paket</b><span>20 Pilihan Ganda, 5 Pilihan Ganda Kompleks, dan 5 PGK kategori.</span></div>
+      <p class="tka-preparing" id="tkaPreparingMessage">Bank soal sedang disiapkan dan diverifikasi. Paket akan diaktifkan setelah soal, kunci jawaban, dan pembahasannya selesai diperiksa.</p>
+      <button type="button" class="secondary-button tka-back" id="backTkaToSession">KEMBALI PILIH SESI</button>
+    </section>
+    <section class="card subject-card" id="subjectSection">
+      <h2>Pilih Mata Pelajaran</h2>
+      <p class="section-description">Pilih mata pelajaran yang ingin kamu pelajari.</p>
+      <div class="subject-grid">
+        <button class="subject-button" data-mapel="matematika"><span class="subject-icon"><svg viewBox="0 0 64 64" aria-hidden="true"><rect x="12" y="7" width="40" height="50" rx="8" fill="#2878D0"/><rect x="18" y="13" width="28" height="10" rx="3" fill="#DCEBFF"/><g fill="#fff"><circle cx="23" cy="33" r="3"/><circle cx="32" cy="33" r="3"/><circle cx="41" cy="33" r="3"/><circle cx="23" cy="43" r="3"/><circle cx="32" cy="43" r="3"/><circle cx="41" cy="43" r="3"/></g></svg></span><span>Matematika</span></button>
+        <button class="subject-button" data-mapel="bahasa-indonesia"><span class="subject-icon"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M8 13c10-4 18-2 24 3v39c-7-5-15-7-24-3z" fill="#4B91DC"/><path d="M56 13c-10-4-18-2-24 3v39c7-5 15-7 24-3z" fill="#78B7F2"/><path d="M14 21c6-2 11-1 15 2M14 29c6-2 11-1 15 2M50 21c-6-2-11-1-15 2M50 29c-6-2-11-1-15 2" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round"/></svg></span><span>Bahasa Indonesia</span></button>
+        <button class="subject-button" data-mapel="ipas"><span class="subject-icon"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M25 8h14v5l-3 4v13l13 21a5 5 0 0 1-4 8H19a5 5 0 0 1-4-8l13-21V17l-3-4z" fill="#E59A35"/><path d="M23 43h18l7 10H16z" fill="#8CCB9C"/><path d="M26 9h12" stroke="#8A5B23" stroke-width="4" stroke-linecap="round"/></svg></span><span>IPAS</span></button>
+        <button class="subject-button" data-mapel="pendidikan-pancasila"><span class="subject-icon"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M32 5c-5 6-12 7-21 7 3 6 4 12 2 18 5 1 8 5 10 11l9 8 9-8c2-6 5-10 10-11-2-6-1-12 2-18-9 0-16-1-21-7z" fill="#D8A52D" stroke="#9A6B12" stroke-width="2"/><path d="M8 20 2 14l3 15 10 9 8 2M56 20l6-6-3 15-10 9-8 2" fill="none" stroke="#D8A52D" stroke-width="4" stroke-linecap="round"/><path d="M32 22l-9 5 2 14 7 5 7-5 2-14z" fill="#D94B45" stroke="#fff" stroke-width="1.5"/><path d="M32 25v17M25 32h14" stroke="#F9E6A4" stroke-width="2"/></svg></span><span>Pendidikan Pancasila</span></button>
+        <button class="subject-button" data-mapel="bahasa-inggris"><span class="subject-icon"><svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="25" fill="#8A68C7"/><path d="M8 32h48M32 7c-9 9-9 41 0 50M32 7c9 9 9 41 0 50M14 18h36M14 46h36" stroke="#fff" stroke-width="2.5" fill="none"/><path d="M32 7a25 25 0 0 1 0 50" fill="#D9D0F2" opacity=".45"/></svg></span><span>Bahasa Inggris</span></button>
+        <button class="subject-button" data-mapel="seni-rupa"><span class="subject-icon"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M32 7C17 7 7 18 7 32c0 13 10 23 23 23h5c4 0 6-4 4-7-2-4 1-7 5-7h3c7 0 10-5 10-11C57 17 46 7 32 7z" fill="#D36BA5"/><g fill="#fff"><circle cx="21" cy="24" r="4"/><circle cx="33" cy="18" r="4"/><circle cx="44" cy="26" r="4"/><circle cx="23" cy="39" r="4"/></g></svg></span><span>Seni Rupa</span></button>
+        <button class="subject-button" data-mapel="bahasa-jawa"><span class="subject-icon"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M13 10h38v44H13z" rx="4" fill="#B58B43"/><path d="M20 18h24M20 25h24M20 32h18M20 39h24M20 46h16" stroke="#FFF4D9" stroke-width="3" stroke-linecap="round"/><path d="M8 14v36M56 14v36" stroke="#8B672D" stroke-width="3" stroke-linecap="round"/></svg></span><span>Bahasa Jawa</span></button>
+        <button class="subject-button" data-mapel="dawet-ayu"><span class="subject-icon"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M16 18h32l-4 37H20z" fill="#269B70"/><path d="M19 28h26l-2 22H21z" fill="#DDF5E8"/><path d="M24 32c-3 5 4 5 1 10M33 31c-3 5 4 5 1 10M40 32c-3 5 4 5 1 10" stroke="#269B70" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M25 11h14v7H25zM39 7l7 9" stroke="#269B70" stroke-width="4" stroke-linecap="round"/></svg></span><span>Dawet Ayu Banjarnegara</span></button>
+
+      </div>
+      <button type="button" class="secondary-button navigation-back" id="backSubjectsToHome">← KEMBALI KE BERANDA</button>
+    </section>
+
+    <section class="card history-card" id="historySection" hidden>
+      <h2>Riwayat Nilai</h2>
+      <p class="section-description">Riwayat nilai siswa yang sedang login. Riwayat tersimpan pada perangkat dan browser ini.</p>
+      <button type="button" id="historyButton" class="secondary-button">LIHAT RIWAYAT SAYA</button>
+      <div id="historyContent" class="history-content" hidden></div>
+      <button type="button" id="clearHistoryButton" class="text-button" hidden>HAPUS RIWAYAT SAYA PADA PERANGKAT INI</button>
+      <button type="button" id="backFromHistory" class="secondary-button">← KEMBALI KE BERANDA</button>
+    </section>
+
+    <section class="card" id="actionSection" hidden>
+      <h2 id="selectedSubjectTitle">Pilihan Pembelajaran</h2>
+      <p class="section-description">Pilih kegiatan yang ingin kamu lakukan.</p>
+      <div class="package-grid action-grid">
+        <button type="button" id="practiceButton" class="package-button">✍️ LATIHAN PER MATERI</button>
+        <button type="button" id="asasButton" class="package-button">📝 SIMULASI ASAS</button>
+        <button type="button" id="materialButton" class="package-button">📚 MATERI</button>
+        <button type="button" id="englishIndependentButton" class="package-button" hidden>🌐 BELAJAR MANDIRI BAHASA INGGRIS</button>
+      </div>
+      <button type="button" id="backToSubjects" class="secondary-button navigation-back">← KEMBALI KE PILIHAN MAPEL</button>
+    </section>
+
+    <section class="card assessment-panel" id="topicSection" hidden>
+      <div class="panel-kicker">LATIHAN BERTAHAP</div>
+      <h2 id="topicSectionTitle">Pilih Materi</h2>
+      <p class="section-description">Pilih materi yang ingin kamu pelajari. Setiap materi memiliki 1 paket latihan berisi 10 soal tanpa batas waktu.</p>
+      <div class="topic-grid" id="topicGrid"></div>
+      <button type="button" id="backFromTopics" class="secondary-button">KEMBALI</button>
+    </section>
+
+    <section class="card assessment-panel" id="assessmentPackageSection" hidden>
+      <div class="panel-kicker">1 PAKET SETIAP MATERI</div>
+      <h2 id="assessmentPackageTitle">Pilih Paket Latihan</h2>
+      <p class="section-description" id="assessmentPackageDescription">Tersedia 1 paket latihan berisi 10 soal tanpa batas waktu.</p>
+      <div class="package-grid" id="assessmentPackageGrid"></div>
+      <p class="tka-preparing" hidden style="display:none">Kerjakan setiap soal sesuai petunjuk yang tertera.</p>
+      <button type="button" id="backFromAssessmentPackages" class="secondary-button">KEMBALI KE MATERI</button>
+    </section>
+
+    <section class="card assessment-panel" id="asasPackageSection" hidden>
+      <div class="panel-kicker">SIMULASI PENILAIAN AKHIR SEMESTER</div>
+      <h2 id="asasPackageTitle">Simulasi ASAS</h2>
+      <p class="section-description">Soal gabungan seluruh materi. Setiap paket berisi 30 soal dan memiliki batas waktu 75 menit.</p>
+      <div class="package-grid" id="asasPackageGrid"></div>
+      <p class="tka-preparing">Tersedia 2 paket simulasi. Setiap paket berisi 30 soal gabungan. Waktu pengerjaan 75 menit.</p>
+      <button type="button" id="backFromAsasPackages" class="secondary-button">KEMBALI</button>
+    </section>
+
+    <section class="card material-card" id="materialSection" hidden>
+      <h2 id="materialTitle">Materi Pembelajaran</h2>
+      <div id="materialContent"><p>Materi pembelajaran akan ditambahkan secara bertahap.</p></div>
+      <button type="button" id="backFromMaterial" class="secondary-button">KEMBALI</button>
+    </section>
+
+    <section class="card package-card" id="packageSection" hidden>
+      <h2 id="packageTitle">Pilih Paket Latihan</h2>
+      <p class="section-description" id="packageDescription">Pilih paket latihan yang tersedia.</p>
+      <div class="package-grid" id="packageGrid"></div>
+      <p class="info-text" id="packageInfo">Pilih paket untuk melihat waktu pengerjaan.</p>
+      <button type="button" id="startButton" class="primary-button" disabled>MULAI LATIHAN</button>
+      <button type="button" id="backFromPackage" class="secondary-button back-button">KEMBALI</button>
+    </section>
+
+    <section class="card quiz-card" id="quizSection" hidden>
+      <div class="quiz-top">
+        <div>
+          <p class="eyebrow" id="quizPackageLabel">MATEMATIKA • PAKET 1</p>
+          <h2 id="quizTitle">Bilangan Bulat Dasar</h2>
+        </div>
+        <div class="mode-note" role="status">
+          <span id="quizModeLabel">MODE LATIHAN</span>
+          <strong id="quizTimerLabel">Tanpa batas waktu</strong>
+        </div>
+      </div>
+      <p class="section-description" id="quizStudent"></p>
+      <div class="progress-track"><div id="progressBar" class="progress-bar"></div></div>
+      <p class="progress-label" id="progressLabel">Soal 1 dari 10</p>
+      <div id="questionList"></div>
+      <div class="question-navigation-actions">
+        <button type="button" id="previousQuestion" class="secondary-button">SEBELUMNYA</button>
+        <button type="button" id="nextQuestion" class="primary-button">SELANJUTNYA</button>
+        <button type="button" id="submitQuiz" class="primary-button" hidden>SELESAI DAN KIRIM JAWABAN</button>
+      </div>
+      <p class="current-question-label" id="currentQuestionLabel">SOAL 1 DARI 30</p>
+      <div class="question-nav-legend" aria-label="Keterangan status nomor soal">
+        <span><i class="legend-current"></i>Sedang dikerjakan</span>
+        <span><i class="legend-answered"></i>Sudah dijawab</span>
+        <span><i class="legend-unanswered"></i>Belum dijawab</span>
+      </div>
+      <nav class="question-number-nav" id="questionNumberNav" aria-label="Navigasi nomor soal"></nav>
+      <div class="quiz-cancel-actions">
+        <button type="button" id="cancelQuiz" class="cancel-quiz-button">BATALKAN PENGERJAAN</button>
+      </div>
+      <p class="quiz-note">Kerjakan dengan teliti dan tenang. Periksa kembali jawaban sebelum memilih selesai. Setelah dikirim, jawaban tidak dapat diubah.</p>
+    </section>
+
+    <section class="card result-card" id="resultSection" hidden>
+      <h2>Hasil Latihan</h2>
+      <div class="score-panel">
+        <span>Nilai kamu</span>
+        <strong id="finalScore">0</strong>
+        <small id="scoreDetail"></small>
+      </div>
+      <p id="resultIdentity" class="section-description"></p>
+      <h3 class="review-heading">Pembahasan Setiap Soal</h3>
+      <div id="reviewList"></div>
+      <button type="button" id="backToHome" class="primary-button">KEMBALI KE BERANDA</button>
+    </section>
 
 
-    <!-- KONTEN UTAMA -->
-    <main class="container">
 
-        <section class="welcome-card">
-
-            <h2>Identitas Murid</h2>
-
-            <p class="description">
-                Pilih nama dan paket kuis sebelum memulai latihan.
-            </p>
-
-            <form id="form-identitas">
-
-                <!-- NAMA MURID -->
-                <div class="form-group">
-
-                    <label for="nama">Nama Lengkap</label>
-
-                    <select id="nama" required>
-
-                        <option value="">Pilih nama murid</option>
-
-                    </select>
-
-                </div>
-
-
-                <!-- NOMOR ABSEN OTOMATIS -->
-                <div class="form-group">
-
-                    <label for="absen">Nomor Absen</label>
-
-                    <input
-                        type="text"
-                        id="absen"
-                        placeholder="Otomatis mengikuti nama"
-                        readonly
-                    >
-
-                </div>
-
-
-                <!-- KELAS -->
-                <div class="form-group">
-
-                    <label for="kelas">Kelas</label>
-
-                    <input
-                        type="text"
-                        id="kelas"
-                        value="VI"
-                        readonly
-                    >
-
-                </div>
-
-
-                <!-- PAKET KUIS -->
-                <div class="form-group">
-
-                    <label for="paket">Pilih Paket Kuis IPAS</label>
-
-                    <select id="paket" required>
-
-                        <option value="">Pilih paket kuis</option>
-                        <option value="paket-1">Paket 1</option>
-                        <option value="paket-2">Paket 2</option>
-                        <option value="paket-3">Paket 3</option>
-                        <option value="paket-4">Paket 4</option>
-
-                    </select>
-
-                </div>
-
-
-                <!-- TOMBOL MULAI -->
-                <button type="submit" class="btn-primary">
-                    MULAI KUIS
-                </button>
-
-            </form>
-
-        </section>
-
-
-        <!-- FOOTER -->
-        <footer class="footer">
-
-            © 2026 SD Negeri 1 Pejawaran
-
-            <br>
-
-            Latihan dan Simulasi ASAS IPAS Kelas VI
-
-        </footer>
-
-    </main>
-
-
-    <!-- JAVASCRIPT -->
-    <script src="js/app.js"></script>
-
+    <footer class="footer">
+      <p>SD NEGERI 1 PEJAWARAN</p>
+      <p>Belajar • Berlatih • Berprestasi</p>
+    </footer>
+    </div>
+  </main>
+  <script src="js/app.js?v=20261121-final"></script>
 </body>
-
 </html>

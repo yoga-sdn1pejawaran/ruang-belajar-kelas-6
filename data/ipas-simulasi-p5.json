@@ -1,0 +1,845 @@
+{
+  "id": "ipas-simulasi-p5",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "paket": 5,
+  "judul": "Simulasi ASAS IPAS • Paket 5",
+  "durasiMenit": 75,
+  "soal": [
+    {
+      "jenis": "isian",
+      "indikator": "Fungsi jantung",
+      "pertanyaan": "Isilah dengan tepat: Fungsi jantung adalah ....",
+      "kunci": [
+        "memompa darah ke seluruh tubuh"
+      ],
+      "kataKunci": [
+        "memompa darah ke seluruh tubuh"
+      ],
+      "pembahasan": "Jantung memompa darah agar oksigen dan zat makanan diedarkan ke seluruh tubuh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-sim-p5-q1"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Serambi jantung",
+      "pertanyaan": "Isilah dengan tepat: Serambi jantung adalah ....",
+      "kunci": [
+        "menerima darah yang masuk ke jantung"
+      ],
+      "kataKunci": [
+        "menerima darah yang masuk ke jantung"
+      ],
+      "pembahasan": "Serambi atau atrium menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-sim-p5-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Serambi jantung",
+      "pertanyaan": "Apa fungsi serambi jantung?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menerima darah yang masuk ke jantung"
+        },
+        {
+          "id": "B",
+          "teks": "memompa darah keluar dengan tekanan utama"
+        },
+        {
+          "id": "C",
+          "teks": "menyaring urine"
+        },
+        {
+          "id": "D",
+          "teks": "menghasilkan sel saraf"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Serambi atau atrium menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "ipas-sim-p5-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bilik jantung",
+      "pertanyaan": "Apa fungsi bilik jantung?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menerima udara dari paru-paru"
+        },
+        {
+          "id": "B",
+          "teks": "membuat sel darah"
+        },
+        {
+          "id": "C",
+          "teks": "menyimpan makanan"
+        },
+        {
+          "id": "D",
+          "teks": "memompa darah keluar dari jantung"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Bilik atau ventrikel memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "ipas-sim-p5-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Fungsi jantung: menghasilkan udara."
+        },
+        {
+          "id": "B",
+          "teks": "Pembuluh vena: membawa darah kembali menuju jantung."
+        },
+        {
+          "id": "C",
+          "teks": "Pembuluh kapiler: tempat pertukaran oksigen, karbon dioksida, dan zat lain."
+        },
+        {
+          "id": "D",
+          "teks": "Denyut jantung saat olahraga: meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "id": "E",
+          "teks": "Komponen darah: sel darah merah mencerna makanan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p5-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pembuluh kapiler: tempat pertukaran oksigen, karbon dioksida, dan zat lain."
+        },
+        {
+          "id": "B",
+          "teks": "Denyut jantung saat olahraga: meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "id": "C",
+          "teks": "Komponen darah: sel darah merah mengangkut oksigen."
+        },
+        {
+          "id": "D",
+          "teks": "Fungsi jantung: mencerna makanan."
+        },
+        {
+          "id": "E",
+          "teks": "Serambi jantung: menyaring urine."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p5-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Denyut jantung saat olahraga adalah meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "teks": "Fungsi jantung adalah mencerna makanan."
+        },
+        {
+          "teks": "Bilik jantung adalah memompa darah keluar dari jantung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; fungsi jantung yang tepat adalah memompa darah ke seluruh tubuh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p5-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Komponen darah adalah sel darah merah mengangkut oksigen."
+        },
+        {
+          "teks": "Serambi jantung adalah memompa darah keluar dengan tekanan utama."
+        },
+        {
+          "teks": "Pembuluh arteri adalah membawa darah keluar dari jantung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; serambi jantung yang tepat adalah menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p5-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Denyut jantung saat olahraga"
+        },
+        {
+          "teks": "Komponen darah"
+        },
+        {
+          "teks": "Fungsi jantung"
+        },
+        {
+          "teks": "Serambi jantung"
+        }
+      ],
+      "pilihan": [
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung",
+        "meningkat untuk mengirim lebih banyak oksigen ke otot"
+      ],
+      "kunci": [
+        "meningkat untuk mengirim lebih banyak oksigen ke otot",
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-sim-p5-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Fungsi jantung"
+        },
+        {
+          "teks": "Serambi jantung"
+        },
+        {
+          "teks": "Bilik jantung"
+        },
+        {
+          "teks": "Pembuluh arteri"
+        }
+      ],
+      "pilihan": [
+        "memompa darah keluar dari jantung",
+        "membawa darah keluar dari jantung",
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung"
+      ],
+      "kunci": [
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung",
+        "membawa darah keluar dari jantung"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-sim-p5-q10"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Serambi jantung",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Serambi jantung?",
+      "kunci": [
+        "menerima darah yang masuk ke jantung"
+      ],
+      "kataKunci": [
+        "menerima darah yang masuk ke jantung"
+      ],
+      "pembahasan": "Serambi atau atrium menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-sim-p5-q11"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Bilik jantung",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Bilik jantung?",
+      "kunci": [
+        "memompa darah keluar dari jantung"
+      ],
+      "kataKunci": [
+        "memompa darah keluar dari jantung"
+      ],
+      "pembahasan": "Bilik atau ventrikel memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-sim-p5-q12"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bilik jantung",
+      "pertanyaan": "Bagian jantung yang mendorong darah keluar disebut apa?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menerima udara dari paru-paru"
+        },
+        {
+          "id": "B",
+          "teks": "membuat sel darah"
+        },
+        {
+          "id": "C",
+          "teks": "menyimpan makanan"
+        },
+        {
+          "id": "D",
+          "teks": "memompa darah keluar dari jantung"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Bilik atau ventrikel memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "ipas-sim-p5-q13"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pembuluh arteri",
+      "pertanyaan": "Pembuluh apa yang membawa darah keluar dari jantung?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menjadi tempat pertukaran zat utama"
+        },
+        {
+          "id": "B",
+          "teks": "menghubungkan tulang"
+        },
+        {
+          "id": "C",
+          "teks": "membawa darah keluar dari jantung"
+        },
+        {
+          "id": "D",
+          "teks": "membawa darah menuju jantung"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Arteri membawa darah menjauhi jantung; sebagian besar membawa darah kaya oksigen.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "ipas-sim-p5-q14"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pembuluh kapiler: tempat pertukaran oksigen, karbon dioksida, dan zat lain."
+        },
+        {
+          "id": "B",
+          "teks": "Denyut jantung saat olahraga: meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "id": "C",
+          "teks": "Komponen darah: sel darah merah mengangkut oksigen."
+        },
+        {
+          "id": "D",
+          "teks": "Fungsi jantung: mencerna makanan."
+        },
+        {
+          "id": "E",
+          "teks": "Serambi jantung: menyaring urine."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p5-q15"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Komponen darah: sel darah merah mengangkut oksigen."
+        },
+        {
+          "id": "B",
+          "teks": "Fungsi jantung: memompa darah ke seluruh tubuh."
+        },
+        {
+          "id": "C",
+          "teks": "Serambi jantung: memompa darah keluar dengan tekanan utama."
+        },
+        {
+          "id": "D",
+          "teks": "Bilik jantung: membuat sel darah."
+        },
+        {
+          "id": "E",
+          "teks": "Denyut jantung saat olahraga: meningkat untuk mengirim lebih banyak oksigen ke otot."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p5-q16"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Komponen darah adalah sel darah merah mengangkut oksigen."
+        },
+        {
+          "teks": "Serambi jantung adalah memompa darah keluar dengan tekanan utama."
+        },
+        {
+          "teks": "Pembuluh arteri adalah membawa darah keluar dari jantung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; serambi jantung yang tepat adalah menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p5-q17"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Fungsi jantung adalah memompa darah ke seluruh tubuh."
+        },
+        {
+          "teks": "Bilik jantung adalah menerima udara dari paru-paru."
+        },
+        {
+          "teks": "Pembuluh vena adalah membawa darah kembali menuju jantung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; bilik jantung yang tepat adalah memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p5-q18"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Komponen darah"
+        },
+        {
+          "teks": "Fungsi jantung"
+        },
+        {
+          "teks": "Serambi jantung"
+        },
+        {
+          "teks": "Bilik jantung"
+        }
+      ],
+      "pilihan": [
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung",
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh"
+      ],
+      "kunci": [
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-sim-p5-q19"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Serambi jantung"
+        },
+        {
+          "teks": "Bilik jantung"
+        },
+        {
+          "teks": "Pembuluh arteri"
+        },
+        {
+          "teks": "Pembuluh vena"
+        }
+      ],
+      "pilihan": [
+        "membawa darah kembali menuju jantung",
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung",
+        "membawa darah keluar dari jantung"
+      ],
+      "kunci": [
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung",
+        "membawa darah keluar dari jantung",
+        "membawa darah kembali menuju jantung"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-sim-p5-q20"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Bilik jantung",
+      "pertanyaan": "Lengkapi pernyataan berikut: Bilik jantung berarti ....",
+      "kunci": [
+        "memompa darah keluar dari jantung"
+      ],
+      "kataKunci": [
+        "memompa darah keluar dari jantung"
+      ],
+      "pembahasan": "Bilik atau ventrikel memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-sim-p5-q21"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Pembuluh arteri",
+      "pertanyaan": "Lengkapi pernyataan berikut: Pembuluh arteri berarti ....",
+      "kunci": [
+        "membawa darah keluar dari jantung"
+      ],
+      "kataKunci": [
+        "membawa darah keluar dari jantung"
+      ],
+      "pembahasan": "Arteri membawa darah menjauhi jantung; sebagian besar membawa darah kaya oksigen.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-sim-p5-q22"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Tujuan awal kedatangan bangsa Eropa",
+      "pertanyaan": "Salah satu tujuan awal bangsa Eropa datang ke Nusantara adalah mencari ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "mencari rempah-rempah"
+        },
+        {
+          "id": "B",
+          "teks": "mencari salju"
+        },
+        {
+          "id": "C",
+          "teks": "membangun sekolah"
+        },
+        {
+          "id": "D",
+          "teks": "mencari hewan kutub"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Rempah-rempah bernilai tinggi di pasar Eropa sehingga mendorong pelayaran bangsa Eropa.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "ipas-sim-p5-q23"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Perjuangan kedaerahan",
+      "pertanyaan": "Mengapa perlawanan yang bersifat kedaerahan sering mengalami kegagalan?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "selalu didukung semua negara"
+        },
+        {
+          "id": "B",
+          "teks": "menggunakan satu organisasi nasional"
+        },
+        {
+          "id": "C",
+          "teks": "tidak pernah terjadi perlawanan"
+        },
+        {
+          "id": "D",
+          "teks": "sering mudah dipatahkan karena belum bersatu"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Perlawanan yang terpisah-pisah membuat penjajah lebih mudah menghadapi setiap daerah.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "ipas-sim-p5-q24"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pangeran Diponegoro: memimpin Perang Padri."
+        },
+        {
+          "id": "B",
+          "teks": "Tuanku Imam Bonjol: tokoh perlawanan Maluku."
+        },
+        {
+          "id": "C",
+          "teks": "Sumpah Pemuda: ikrar satu tanah air, satu bangsa, dan satu bahasa persatuan."
+        },
+        {
+          "id": "D",
+          "teks": "Tanggal Sumpah Pemuda: 28 Oktober 1928."
+        },
+        {
+          "id": "E",
+          "teks": "Tokoh Pattimura: memimpin perlawanan rakyat Maluku terhadap Belanda."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p5-q25"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tujuan awal kedatangan bangsa Eropa: membangun sekolah."
+        },
+        {
+          "id": "B",
+          "teks": "Tanggal Sumpah Pemuda: 28 Oktober 1928."
+        },
+        {
+          "id": "C",
+          "teks": "Tokoh Pattimura: memimpin perlawanan rakyat Maluku terhadap Belanda."
+        },
+        {
+          "id": "D",
+          "teks": "Pangeran Diponegoro: memimpin Perang Jawa 1825–1830."
+        },
+        {
+          "id": "E",
+          "teks": "Tuanku Imam Bonjol: tokoh Perang Jawa."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p5-q26"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Tokoh Pattimura adalah memimpin perlawanan rakyat Maluku terhadap Belanda."
+        },
+        {
+          "teks": "Tuanku Imam Bonjol adalah tokoh Perang Jawa."
+        },
+        {
+          "teks": "Perjuangan kedaerahan adalah sering mudah dipatahkan karena belum bersatu."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; tuanku imam bonjol yang tepat adalah tokoh Perang Padri di Sumatera Barat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p5-q27"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Pangeran Diponegoro adalah memimpin Perang Jawa 1825–1830."
+        },
+        {
+          "teks": "Tujuan awal kedatangan bangsa Eropa adalah mencari salju."
+        },
+        {
+          "teks": "Budi Utomo adalah organisasi pergerakan yang berdiri pada 1908."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; tujuan awal kedatangan bangsa eropa yang tepat adalah mencari rempah-rempah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p5-q28"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Tokoh Pattimura"
+        },
+        {
+          "teks": "Pangeran Diponegoro"
+        },
+        {
+          "teks": "Tuanku Imam Bonjol"
+        },
+        {
+          "teks": "Tujuan awal kedatangan bangsa Eropa"
+        }
+      ],
+      "pilihan": [
+        "memimpin perlawanan rakyat Maluku terhadap Belanda",
+        "memimpin Perang Jawa 1825–1830",
+        "tokoh Perang Padri di Sumatera Barat",
+        "mencari rempah-rempah"
+      ],
+      "kunci": [
+        "memimpin perlawanan rakyat Maluku terhadap Belanda",
+        "memimpin Perang Jawa 1825–1830",
+        "tokoh Perang Padri di Sumatera Barat",
+        "mencari rempah-rempah"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-sim-p5-q29"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Tuanku Imam Bonjol"
+        },
+        {
+          "teks": "Tujuan awal kedatangan bangsa Eropa"
+        },
+        {
+          "teks": "Perjuangan kedaerahan"
+        },
+        {
+          "teks": "Budi Utomo"
+        }
+      ],
+      "pilihan": [
+        "mencari rempah-rempah",
+        "sering mudah dipatahkan karena belum bersatu",
+        "organisasi pergerakan yang berdiri pada 1908",
+        "tokoh Perang Padri di Sumatera Barat"
+      ],
+      "kunci": [
+        "tokoh Perang Padri di Sumatera Barat",
+        "mencari rempah-rempah",
+        "sering mudah dipatahkan karena belum bersatu",
+        "organisasi pergerakan yang berdiri pada 1908"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-sim-p5-q30"
+    }
+  ]
+}

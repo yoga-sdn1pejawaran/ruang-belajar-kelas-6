@@ -1,0 +1,290 @@
+{
+  "id": "ipas-latihan-m3-p2",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Sistem Peredaran Darah",
+  "paket": 2,
+  "judul": "Sistem Peredaran Darah • Paket 2",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Serambi jantung",
+      "pertanyaan": "Apa fungsi serambi jantung?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menerima darah yang masuk ke jantung"
+        },
+        {
+          "id": "B",
+          "teks": "memompa darah keluar dengan tekanan utama"
+        },
+        {
+          "id": "C",
+          "teks": "menyaring urine"
+        },
+        {
+          "id": "D",
+          "teks": "menghasilkan sel saraf"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Serambi atau atrium menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "ipas-m3-p2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bilik jantung",
+      "pertanyaan": "Apa fungsi bilik jantung?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menerima udara dari paru-paru"
+        },
+        {
+          "id": "B",
+          "teks": "membuat sel darah"
+        },
+        {
+          "id": "C",
+          "teks": "menyimpan makanan"
+        },
+        {
+          "id": "D",
+          "teks": "memompa darah keluar dari jantung"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Bilik atau ventrikel memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "ipas-m3-p2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Fungsi jantung: menghasilkan udara."
+        },
+        {
+          "id": "B",
+          "teks": "Pembuluh vena: membawa darah kembali menuju jantung."
+        },
+        {
+          "id": "C",
+          "teks": "Pembuluh kapiler: tempat pertukaran oksigen, karbon dioksida, dan zat lain."
+        },
+        {
+          "id": "D",
+          "teks": "Denyut jantung saat olahraga: meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "id": "E",
+          "teks": "Komponen darah: sel darah merah mencerna makanan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m3-p2-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pembuluh kapiler: tempat pertukaran oksigen, karbon dioksida, dan zat lain."
+        },
+        {
+          "id": "B",
+          "teks": "Denyut jantung saat olahraga: meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "id": "C",
+          "teks": "Komponen darah: sel darah merah mengangkut oksigen."
+        },
+        {
+          "id": "D",
+          "teks": "Fungsi jantung: mencerna makanan."
+        },
+        {
+          "id": "E",
+          "teks": "Serambi jantung: menyaring urine."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m3-p2-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Denyut jantung saat olahraga adalah meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "teks": "Fungsi jantung adalah mencerna makanan."
+        },
+        {
+          "teks": "Bilik jantung adalah memompa darah keluar dari jantung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; fungsi jantung yang tepat adalah memompa darah ke seluruh tubuh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m3-p2-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Komponen darah adalah sel darah merah mengangkut oksigen."
+        },
+        {
+          "teks": "Serambi jantung adalah memompa darah keluar dengan tekanan utama."
+        },
+        {
+          "teks": "Pembuluh arteri adalah membawa darah keluar dari jantung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; serambi jantung yang tepat adalah menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m3-p2-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Denyut jantung saat olahraga"
+        },
+        {
+          "teks": "Komponen darah"
+        },
+        {
+          "teks": "Fungsi jantung"
+        },
+        {
+          "teks": "Serambi jantung"
+        }
+      ],
+      "pilihan": [
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung",
+        "meningkat untuk mengirim lebih banyak oksigen ke otot"
+      ],
+      "kunci": [
+        "meningkat untuk mengirim lebih banyak oksigen ke otot",
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m3-p2-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Fungsi jantung"
+        },
+        {
+          "teks": "Serambi jantung"
+        },
+        {
+          "teks": "Bilik jantung"
+        },
+        {
+          "teks": "Pembuluh arteri"
+        }
+      ],
+      "pilihan": [
+        "memompa darah keluar dari jantung",
+        "membawa darah keluar dari jantung",
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung"
+      ],
+      "kunci": [
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung",
+        "membawa darah keluar dari jantung"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m3-p2-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Serambi jantung",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Serambi jantung?",
+      "kunci": [
+        "menerima darah yang masuk ke jantung"
+      ],
+      "kataKunci": [
+        "menerima darah yang masuk ke jantung"
+      ],
+      "pembahasan": "Serambi atau atrium menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m3-p2-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Bilik jantung",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Bilik jantung?",
+      "kunci": [
+        "memompa darah keluar dari jantung"
+      ],
+      "kataKunci": [
+        "memompa darah keluar dari jantung"
+      ],
+      "pembahasan": "Bilik atau ventrikel memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m3-p2-q10"
+    }
+  ]
+}

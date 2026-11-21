@@ -1,0 +1,868 @@
+{
+  "id": "matematika-simulasi-p2",
+  "mataPelajaran": "Matematika",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "materi": "Gabungan 6 Materi Matematika",
+  "paket": 2,
+  "judul": "Simulasi ASAS Matematika • Paket 2",
+  "durasiMenit": 70,
+  "catatan": "30 soal mengikuti urutan 30 indikator pada kisi-kisi ASAS 1 Matematika Kelas VI 2026/2027. Komposisi kesulitan: 6 mudah, 9 sedang, 9 sulit, 6 HOTS.",
+  "soal": [
+    {
+      "id": "MTK-S2-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menunjukkan bilangan bulat positif/negatif berdasarkan teks bacaan",
+      "pertanyaan": "Pada pagi hari suhu di Pos Pengamatan A tercatat 7°C di bawah nol. Siang hari suhu naik 10°C, lalu malam hari turun 5°C. Bilangan bulat yang menyatakan suhu pada pagi hari adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "7"
+        },
+        {
+          "id": "B",
+          "teks": "-7"
+        },
+        {
+          "id": "C",
+          "teks": "-2"
+        },
+        {
+          "id": "D",
+          "teks": "0"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Suhu 7°C di bawah nol ditulis -7°C.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-02",
+      "jenis": "benar_salah",
+      "indikator": "Menentukan benar/salah berdasarkan bacaan bilangan bulat",
+      "pertanyaan": "Berdasarkan bacaan suhu pada soal nomor 1, tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Suhu pagi hari adalah -7°C."
+        },
+        {
+          "teks": "Setelah naik 10°C, suhu menjadi 3°C."
+        },
+        {
+          "teks": "Suhu malam hari adalah -2°C."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "Suhu pagi -7°C; setelah naik menjadi 3°C; setelah turun menjadi -2°C.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S2-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung operasi campuran bilangan bulat",
+      "pertanyaan": "Hitung perubahan suhu dari pagi hingga malam: -7 + 10 − 5. Tuliskan hasil akhirnya dalam °C.",
+      "kunci": "A",
+      "pembahasan": "-7 + 10 = 3; kemudian dikurangi 5 menjadi -2°C.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-2"
+        },
+        {
+          "id": "B",
+          "teks": "-1"
+        },
+        {
+          "id": "C",
+          "teks": "-3"
+        },
+        {
+          "id": "D",
+          "teks": "0"
+        }
+      ]
+    },
+    {
+      "id": "MTK-S2-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Memilih lambang bilangan bulat sesuai ilustrasi lokasi",
+      "pertanyaan": "Perpustakaan berada 9 meter di atas permukaan tanah, sedangkan ruang penyimpanan berada 14 meter di bawah permukaan tanah. Jika permukaan tanah bernilai 0, bilangan yang menyatakan posisi ruang penyimpanan adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "14"
+        },
+        {
+          "id": "B",
+          "teks": "-14"
+        },
+        {
+          "id": "C",
+          "teks": "9"
+        },
+        {
+          "id": "D",
+          "teks": "0"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Posisi di bawah titik acuan 0 dinyatakan dengan bilangan negatif, yaitu −14.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-05",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menuliskan kalimat matematika operasi campuran bilangan bulat",
+      "pertanyaan": "Petugas mulai dari lantai dasar (0), naik 9 lantai, turun 17 lantai, lalu naik 2 lantai. Berapa posisi akhirnya terhadap lantai dasar?",
+      "kunci": "A",
+      "pembahasan": "0 + 9 − 17 + 2 = -6.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-6"
+        },
+        {
+          "id": "B",
+          "teks": "-5"
+        },
+        {
+          "id": "C",
+          "teks": "-7"
+        },
+        {
+          "id": "D",
+          "teks": "-4"
+        }
+      ]
+    },
+    {
+      "id": "MTK-S2-06",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Mengidentifikasi tiga pernyataan sesuai ilustrasi garis bilangan",
+      "pertanyaan": "Sebuah pion berada di 6, lalu bergerak 11 langkah ke kanan pada garis bilangan. Pilih tepat tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pion berhenti di 17."
+        },
+        {
+          "id": "B",
+          "teks": "Pion bergerak menuju bilangan yang lebih kecil."
+        },
+        {
+          "id": "C",
+          "teks": "Jarak posisi akhir ke nol adalah 17 satuan."
+        },
+        {
+          "id": "D",
+          "teks": "Posisi awal 6 merupakan bilangan positif."
+        },
+        {
+          "id": "E",
+          "teks": "Gerak ke kanan menambah nilai bilangan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "E"
+      ],
+      "pembahasan": "6 + 11 = 17. Gerak ke kanan menambah nilai; jarak dari 17 ke nol adalah 17.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S2-07",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengidentifikasi lambang bilangan dari ilustrasi termometer",
+      "pertanyaan": "Pada gambar termometer, permukaan cairan berada 6 garis di bawah angka 0°C. Setiap garis menunjukkan 1°C. Suhu yang ditunjukkan adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "6°C"
+        },
+        {
+          "id": "B",
+          "teks": "-6°C"
+        },
+        {
+          "id": "C",
+          "teks": "0°C"
+        },
+        {
+          "id": "D",
+          "teks": "-8°C"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Setiap garis di bawah nol bernilai negatif. Jadi suhunya -6°C.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-08",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengurutkan bilangan bulat",
+      "pertanyaan": "Bilangan -10, 0, 5, -2 diurutkan dari yang terkecil hingga terbesar menjadi ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-10, -2, 0, 5"
+        },
+        {
+          "id": "B",
+          "teks": "5, 0, -2, -10"
+        },
+        {
+          "id": "C",
+          "teks": "-2, 0, 5, -10"
+        },
+        {
+          "id": "D",
+          "teks": "-10, 0, -2, 5"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Urutan dari terkecil adalah -10, -2, 0, 5.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-09",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan harga barang berdasarkan cerita",
+      "pertanyaan": "Koperasi membeli 5 buku tulis. Harga satu buku Rp14.000. Total harga pembelian adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Rp65.000"
+        },
+        {
+          "id": "B",
+          "teks": "Rp70.000"
+        },
+        {
+          "id": "C",
+          "teks": "Rp75.000"
+        },
+        {
+          "id": "D",
+          "teks": "Rp14.000"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Total harga = 5 × Rp14.000 = Rp70.000.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-10",
+      "jenis": "pilihan_ganda",
+      "indikator": "Melakukan operasi hitung campuran bilangan bulat dalam konteks harga",
+      "pertanyaan": "Koperasi membayar total Rp70.000 dengan uang Rp100.000. Berapa uang kembalian dalam ribuan rupiah?",
+      "kunci": "A",
+      "pembahasan": "Kembalian = Rp30.000 = 30 ribu rupiah.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "30"
+        },
+        {
+          "id": "B",
+          "teks": "31"
+        },
+        {
+          "id": "C",
+          "teks": "29"
+        },
+        {
+          "id": "D",
+          "teks": "32"
+        }
+      ]
+    },
+    {
+      "id": "MTK-S2-11",
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan penjumlahan/pengurangan pecahan sesuai cerita",
+      "pertanyaan": "Empat pita dipotong dengan panjang berbeda. Pasangkan operasi panjang pita dengan hasilnya.",
+      "pasangan": [
+        {
+          "teks": "1/2 + 1/4"
+        },
+        {
+          "teks": "3/4 − 1/2"
+        },
+        {
+          "teks": "2/3 + 1/6"
+        },
+        {
+          "teks": "5/6 − 1/3"
+        }
+      ],
+      "pilihan": [
+        "1/4",
+        "3/4",
+        "5/6",
+        "1/2"
+      ],
+      "kunci": [
+        "3/4",
+        "1/4",
+        "5/6",
+        "1/2"
+      ],
+      "pembahasan": "Samakan penyebut sebelum menjumlahkan atau mengurangkan pecahan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "MTK-S2-12",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan harga barang dari ilustrasi cerita",
+      "pertanyaan": "Ibu membeli 4 kg apel dengan harga Rp10.000 per kg. Jumlah yang harus dibayar adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Rp35.000"
+        },
+        {
+          "id": "B",
+          "teks": "Rp40.000"
+        },
+        {
+          "id": "C",
+          "teks": "Rp45.000"
+        },
+        {
+          "id": "D",
+          "teks": "Rp10.000"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "4 × Rp100 = Rp40.000.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-13",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung operasi pecahan campuran",
+      "pertanyaan": "Untuk membuat kue, Ibu menggunakan 4 1/4 kg tepung pada pagi hari dan 1 1/2 kg pada sore hari. Jumlah tepung yang digunakan adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "5,25 kg"
+        },
+        {
+          "id": "B",
+          "teks": "5,75 kg"
+        },
+        {
+          "id": "C",
+          "teks": "6,25 kg"
+        },
+        {
+          "id": "D",
+          "teks": "6,75 kg"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "4 1/4 + 1 1/2 = 4 1/4 + 1 2/4 = 5 3/4 kg.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-14",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung operasi bilangan bulat dan pecahan campuran",
+      "pertanyaan": "Hitung 10 − 4 1/4 + 1 1/2. Tuliskan hasil dalam bentuk desimal.",
+      "kunci": "A",
+      "pembahasan": "10 − 4 1/4 + 1 1/2 = 10 − 4,25 + 1,5 = 7,25.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "7,25"
+        },
+        {
+          "id": "B",
+          "teks": "7,35"
+        },
+        {
+          "id": "C",
+          "teks": "7,15"
+        },
+        {
+          "id": "D",
+          "teks": "7,45"
+        }
+      ]
+    },
+    {
+      "id": "MTK-S2-15",
+      "jenis": "benar_salah",
+      "indikator": "Menentukan benar/salah informasi pecahan campuran dari cerita",
+      "pertanyaan": "Persediaan kain Ibu 7 1/2 meter. Kain yang digunakan untuk menjahit adalah 2 3/4 meter. Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Kain yang digunakan sama dengan 2 3/4 meter."
+        },
+        {
+          "teks": "Sisa kain adalah 4 3/4 meter."
+        },
+        {
+          "teks": "Sisa kain lebih banyak daripada kain yang digunakan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "7 1/2 − 2 3/4 = 7 2/4 − 2 3/4 = 4 3/4 meter.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S2-16",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah pecahan campuran menjadi desimal",
+      "pertanyaan": "Ubahlah pecahan campuran 3 1/4 menjadi bilangan desimal.",
+      "kunci": "A",
+      "pembahasan": "3 1/4 = 3 + 1 ÷ 4 = 3,25.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "3,25"
+        },
+        {
+          "id": "B",
+          "teks": "3,35"
+        },
+        {
+          "id": "C",
+          "teks": "3,15"
+        },
+        {
+          "id": "D",
+          "teks": "3,45"
+        }
+      ]
+    },
+    {
+      "id": "MTK-S2-17",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah pecahan desimal menjadi bentuk pecahan lain",
+      "pertanyaan": "Pada label berat tertulis 0,6 kg. Bentuk pecahan biasa paling sederhana dari bilangan tersebut adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "1/2"
+        },
+        {
+          "id": "B",
+          "teks": "3/4"
+        },
+        {
+          "id": "C",
+          "teks": "2/5"
+        },
+        {
+          "id": "D",
+          "teks": "3/5"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "0,6 = 60/100 = 3/5.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-18",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengurutkan bilangan desimal",
+      "pertanyaan": "Urutkan berat tiga paket 1,75 kg, 2,45 kg, dan 3,6 kg dari yang terkecil ke terbesar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "1,75, 2,45, 3,6"
+        },
+        {
+          "id": "B",
+          "teks": "3,6, 2,45, 1,75"
+        },
+        {
+          "id": "C",
+          "teks": "1,75, 3,6, 2,45"
+        },
+        {
+          "id": "D",
+          "teks": "2,45, 3,6, 1,75"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Urutan yang benar adalah 1,75, 2,45, 3,6 kg.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-19",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menunjukkan hasil operasi hitung desimal",
+      "pertanyaan": "Berat tiga paket adalah 1,75 kg, 2,45 kg, dan 3,6 kg. Jumlah berat ketiganya adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "7,3 kg"
+        },
+        {
+          "id": "B",
+          "teks": "7,8 kg"
+        },
+        {
+          "id": "C",
+          "teks": "8,3 kg"
+        },
+        {
+          "id": "D",
+          "teks": "8,8 kg"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "7,8 kg adalah jumlah ketiga berat tersebut,",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-20",
+      "jenis": "pilihan_ganda",
+      "indikator": "Melakukan pembagian bilangan desimal",
+      "pertanyaan": "Sebuah benda memiliki berat 1,75 kg. Berat itu dibagi sama rata menjadi 4 bagian. Berapa kg berat setiap bagian? Bulatkan hasil hingga dua angka di belakang koma.",
+      "kunci": "A",
+      "pembahasan": "1,75 ÷ 4 = 0,44 kg setelah dibulatkan hingga dua angka di belakang koma.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "0,44"
+        },
+        {
+          "id": "B",
+          "teks": "0,54"
+        },
+        {
+          "id": "C",
+          "teks": "0,34"
+        },
+        {
+          "id": "D",
+          "teks": "0,64"
+        }
+      ]
+    },
+    {
+      "id": "MTK-S2-21",
+      "jenis": "benar_salah",
+      "indikator": "Menentukan benar/salah berdasarkan data persentase kegiatan",
+      "pertanyaan": "Di SD Harapan terdapat 160 siswa. Sebanyak 15% mengikuti renang, 25% tari, 20% sepak bola, dan sisanya Bahasa Inggris. Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Peserta renang berjumlah 24 siswa."
+        },
+        {
+          "teks": "Peserta sepak bola berjumlah 32 siswa."
+        },
+        {
+          "teks": "Persentase peserta Bahasa Inggris adalah 40%."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "Jumlah peserta diperoleh dari persentase × 160. Persentase Bahasa Inggris adalah 40%.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S2-22",
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan persentase dengan jumlah siswa sesuai data kegiatan",
+      "pertanyaan": "Pasangkan jenis kegiatan dengan jumlah siswa yang mengikutinya berdasarkan data pada soal nomor 21.",
+      "pasangan": [
+        {
+          "teks": "Renang"
+        },
+        {
+          "teks": "Tari"
+        },
+        {
+          "teks": "Sepak bola"
+        },
+        {
+          "teks": "Bahasa Inggris"
+        }
+      ],
+      "pilihan": [
+        "24 siswa",
+        "40 siswa",
+        "32 siswa",
+        "64 siswa"
+      ],
+      "kunci": [
+        "24 siswa",
+        "40 siswa",
+        "32 siswa",
+        "64 siswa"
+      ],
+      "pembahasan": "Kalikan persentase setiap kegiatan dengan jumlah seluruh siswa.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "MTK-S2-23",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengurutkan data persentase kegiatan",
+      "pertanyaan": "Urutan kegiatan dari persentase peserta terbanyak hingga paling sedikit adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Bahasa Inggris, Tari, Sepak bola, Renang"
+        },
+        {
+          "id": "B",
+          "teks": "Renang, Sepak bola, Tari, Bahasa Inggris"
+        },
+        {
+          "id": "C",
+          "teks": "Renang, Tari, Sepak bola, Bahasa Inggris"
+        },
+        {
+          "id": "D",
+          "teks": "Bahasa Inggris, Sepak bola, Tari, Renang"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Urutkan persentase dari nilai terbesar ke terkecil.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-24",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menentukan tiga pernyataan yang benar tentang rasio senilai",
+      "pertanyaan": "Untuk membuat minuman, perbandingan sirup dan air adalah 3 : 4. Ibu membuat minuman sebanyak 2 kali resep. Pilih tepat tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Sirup yang diperlukan 6 gelas."
+        },
+        {
+          "id": "B",
+          "teks": "Air yang diperlukan 8 gelas."
+        },
+        {
+          "id": "C",
+          "teks": "Rasio setelah diperbesar tetap 3 : 4."
+        },
+        {
+          "id": "D",
+          "teks": "Jumlah seluruh gelas menjadi 9 gelas."
+        },
+        {
+          "id": "E",
+          "teks": "Jika air 8 gelas, sirup harus 4 gelas."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Setiap komponen dikalikan 2; rasio senilai tetap 3:4.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S2-25",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung banyak benda berdasarkan rasio",
+      "pertanyaan": "Di perpustakaan, rasio buku cerita dan buku pengetahuan adalah 4 : 3. Jika buku cerita berjumlah 20, banyak buku pengetahuan adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "10"
+        },
+        {
+          "id": "B",
+          "teks": "15"
+        },
+        {
+          "id": "C",
+          "teks": "20"
+        },
+        {
+          "id": "D",
+          "teks": "25"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Satu bagian = 20 ÷ 4 = 5; buku pengetahuan = 3 × 5 = 15.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-26",
+      "jenis": "benar_salah",
+      "indikator": "Menentukan benar/salah jumlah benda berdasarkan rasio",
+      "pertanyaan": "Berdasarkan rasio buku cerita dan buku pengetahuan 4:3, jumlah buku cerita 20, dan jumlah buku pengetahuan 15. Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Jumlah bagian rasio adalah 7."
+        },
+        {
+          "teks": "Jumlah seluruh buku adalah 35."
+        },
+        {
+          "teks": "Jumlah buku pengetahuan lebih sedikit daripada buku cerita."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "Satu bagian = 5; jumlah buku pengetahuan 15; total 35.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S2-27",
+      "jenis": "benar_salah",
+      "indikator": "Menentukan benar/salah informasi skala gambar",
+      "pertanyaan": "Tinggi pohon sebenarnya 24 meter. Pohon digambar dengan skala 1 : 40. Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Tinggi sebenarnya sama dengan 2400 cm."
+        },
+        {
+          "teks": "Tinggi pohon pada gambar adalah 60 cm."
+        },
+        {
+          "teks": "Jika gambar diperbesar menjadi 120 cm, skala barunya tetap 1 : 40."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "24 m = 2400 cm; ukuran gambar = 2400 ÷ 40 = 60 cm. Jika ukuran gambar berubah, skalanya juga berubah.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S2-28",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan tinggi benda pada gambar berdasarkan skala",
+      "pertanyaan": "Menara setinggi 30 meter digambar dengan skala 1 : 75. Tinggi menara pada gambar adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "20 cm"
+        },
+        {
+          "id": "B",
+          "teks": "40 cm"
+        },
+        {
+          "id": "C",
+          "teks": "80 cm"
+        },
+        {
+          "id": "D",
+          "teks": "2250 cm"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "30 m = 3000 cm; ukuran gambar = 3000 ÷ 75 = 40 cm.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-29",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan jarak sebenarnya berdasarkan skala peta",
+      "pertanyaan": "Jarak sekolah dan pasar pada peta adalah 5 cm. Skala peta 1 : 50.000. Jarak sebenarnya adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "2 km"
+        },
+        {
+          "id": "B",
+          "teks": "2,5 km"
+        },
+        {
+          "id": "C",
+          "teks": "3 km"
+        },
+        {
+          "id": "D",
+          "teks": "25 km"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "5 × 50000 = 250000 cm = 2.5 km.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S2-30",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan jarak pada gambar berdasarkan skala",
+      "pertanyaan": "Jarak sebenarnya dua desa adalah 3 km. Jika skala peta 1 : 50.000. berapa cm jarak pada peta?",
+      "kunci": "A",
+      "pembahasan": "3 km = 300000 cm; jarak peta = 300000 ÷ 50000 = 6 cm.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "6"
+        },
+        {
+          "id": "B",
+          "teks": "7"
+        },
+        {
+          "id": "C",
+          "teks": "5"
+        },
+        {
+          "id": "D",
+          "teks": "8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "id": "bahasa-indonesia-latihan-mTeks Laporan Observasi, Fabel, Fakta-Opini, dan Majas-p1",
+  "mataPelajaran": "Bahasa Indonesia",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Teks Laporan Hasil Observasi, Fabel, Fakta, Mitos, dan Majas",
+  "paket": 1,
+  "judul": "Teks Laporan Hasil Observasi, Fabel, Fakta, Mitos, dan Majas • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Dalam laporan hasil observasi tentang kebun sekolah, kalimat yang paling sesuai sebagai hasil pengamatan objektif adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Kebun sekolah adalah tempat paling indah di dunia."
+        },
+        {
+          "id": "B",
+          "teks": "Terdapat 12 pot tanaman di sisi timur kebun."
+        },
+        {
+          "id": "C",
+          "teks": "Semua siswa pasti menyukai kebun itu."
+        },
+        {
+          "id": "D",
+          "teks": "Menurut saya kebun tersebut membosankan."
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Kalimat objektif menyampaikan hal yang dapat diamati dan dihitung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-M3-P1-01",
+      "stimulus": "Siswa kelas VI mengamati kebun sekolah pada pagi hari. Mereka mencatat bahwa beberapa tanaman cabai memiliki daun berwarna hijau, sementara dua tanaman menunjukkan bercak kuning. Tanah di sekitar tanaman terasa lembap setelah disiram. Catatan dibuat berdasarkan hal yang benar-benar terlihat dan dirasakan, bukan berdasarkan kesukaan atau penilaian pribadi terhadap tanaman. Hasil pengamatan kemudian ditulis dalam laporan dengan kalimat yang jelas dan tidak berlebihan."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Berdasarkan bacaan, tentukan benar atau salah untuk setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Warna daun dapat menjadi objek pengamatan."
+        },
+        {
+          "teks": "Kalimat tentang bercak kuning merupakan hasil pengamatan."
+        },
+        {
+          "teks": "Pernyataan 'tanaman itu paling cantik' merupakan data objektif."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Penilaian paling cantik bersifat subjektif, bukan data observasi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-M3-P1-02",
+      "stimulus": "Saat mengamati tanaman di halaman, siswa menuliskan warna daun, tinggi batang, dan keadaan tanah. Mereka juga mencatat adanya bercak kuning pada beberapa daun. Seorang siswa menambahkan kalimat bahwa tanaman itu paling cantik di antara semua tanaman. Guru menjelaskan bahwa pengamatan objektif berisi hal yang dapat diperiksa, sedangkan penilaian pribadi termasuk pendapat. Guru meminta siswa memisahkan hasil pengamatan dari komentar yang bersifat subjektif."
+    },
+    {
+      "jenis": "menjodohkan",
+      "pertanyaan": "Pasangkan kalimat dengan jenis majasnya.",
+      "pasangan": [
+        {
+          "teks": "Angin berbisik di antara pepohonan."
+        },
+        {
+          "teks": "Wajahnya bersinar seperti bulan."
+        },
+        {
+          "teks": "Ia adalah bintang kelas."
+        },
+        {
+          "teks": "Tangisnya membanjiri seluruh rumah."
+        }
+      ],
+      "pilihan": [
+        "Hiperbola",
+        "Metafora",
+        "Asosiasi",
+        "Personifikasi"
+      ],
+      "kunci": [
+        "Personifikasi",
+        "Asosiasi",
+        "Metafora",
+        "Hiperbola"
+      ],
+      "pembahasan": "Personifikasi memberi sifat manusia; asosiasi membandingkan dengan seperti; metafora perbandingan langsung; hiperbola melebih-lebihkan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "BI6-M3-P1-03",
+      "stimulus": "Dalam sebuah cerita, angin digambarkan berbisik di antara pepohonan, wajah tokoh bersinar seperti bulan, seorang siswa disebut bintang kelas, dan tangis seseorang dikatakan membanjiri seluruh rumah. Ungkapan tersebut tidak selalu dimaksudkan secara harfiah. Penulis menggunakan bahasa kias untuk menimbulkan kesan tertentu dan membuat cerita lebih hidup. Siswa membandingkan makna kalimat agar dapat mengenali ciri setiap majas."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Dalam fabel, tokoh hewan dapat berbicara dan bertindak seperti manusia. Tujuan penggunaan tokoh seperti itu adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menjelaskan data ilmiah"
+        },
+        {
+          "id": "B",
+          "teks": "menyampaikan pesan moral melalui cerita"
+        },
+        {
+          "id": "C",
+          "teks": "mencatat hasil wawancara"
+        },
+        {
+          "id": "D",
+          "teks": "menulis petunjuk penggunaan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Fabel memakai tokoh binatang untuk menyampaikan nilai atau pesan moral.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "BI6-M3-P1-04",
+      "stimulus": "Dalam fabel, hewan sering digambarkan dapat berbicara, berpikir, dan mengambil keputusan seperti manusia. Tokoh-tokoh hewan itu mengalami masalah, berinteraksi, lalu menghadapi akibat dari tindakannya. Melalui perilaku para tokoh, pembaca dapat memahami pesan tentang kejujuran, kesabaran, kerja sama, atau akibat dari keserakahan. Cerita seperti itu membuat pembaca belajar melalui pengalaman tokoh-tokohnya."
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "pertanyaan": "Pilih TIGA kalimat yang menggunakan majas personifikasi.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Daun-daun menari ditiup angin."
+        },
+        {
+          "id": "B",
+          "teks": "Matahari tersenyum menyambut pagi."
+        },
+        {
+          "id": "C",
+          "teks": "Rumah itu besar seperti lapangan."
+        },
+        {
+          "id": "D",
+          "teks": "Ombak berkejaran menuju pantai."
+        },
+        {
+          "id": "E",
+          "teks": "Wajahnya merah seperti tomat."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Daun, matahari, dan ombak diberi perilaku seperti manusia.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "BI6-M3-P1-05",
+      "stimulus": "Pagi itu, matahari tersenyum menyambut anak-anak yang datang ke sekolah. Angin berlari melewati lapangan dan daun-daun menari ketika tertiup udara. Penulis menggambarkan alam seolah-olah dapat melakukan tindakan manusia. Pilihan kata seperti itu membuat suasana cerita terasa lebih hidup dan membantu pembaca membayangkan keadaan yang diceritakan. Ungkapan tersebut bukan laporan keadaan sebenarnya, melainkan cara penulis menghidupkan suasana."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Cerita fabel mengisahkan seekor kura-kura yang tetap berusaha mencapai tujuan meskipun berjalan lambat.",
+      "pernyataan": [
+        {
+          "teks": "Tokoh kura-kura dapat digunakan untuk menggambarkan sifat manusia."
+        },
+        {
+          "teks": "Pesan moral dapat disimpulkan dari tindakan tokoh."
+        },
+        {
+          "teks": "Fabel harus selalu berakhir dengan tokoh utama menjadi kaya."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Fabel menyampaikan pesan moral, tetapi akhir ceritanya tidak harus berupa kekayaan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-M3-P1-06",
+      "stimulus": "Seekor kura-kura ingin mencapai pohon rindang di seberang padang. Jalannya lambat, tetapi ia terus bergerak sedikit demi sedikit. Beberapa hewan menertawakannya dan menyuruhnya menyerah. Kura-kura tetap berusaha hingga akhirnya sampai di tujuan. Cerita tersebut memperlihatkan bahwa ketekunan dapat membantu seseorang mencapai tujuan meskipun menghadapi kesulitan. Kura-kura akhirnya mencapai tujuan karena tidak berhenti ketika menghadapi ejekan."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Ungkapan 'rajin seperti lebah' menggunakan majas ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "metafora"
+        },
+        {
+          "id": "B",
+          "teks": "personifikasi"
+        },
+        {
+          "id": "C",
+          "teks": "asosiasi"
+        },
+        {
+          "id": "D",
+          "teks": "hiperbola"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Kata seperti menunjukkan perbandingan langsung, yaitu majas asosiasi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-M3-P1-07",
+      "stimulus": "Dalam kalimat “Rani rajin seperti lebah”, sifat rajin Rani dibandingkan dengan lebah yang dikenal tekun bekerja. Kata pembanding “seperti” menunjukkan bahwa penulis menyamakan dua hal untuk memperjelas gambaran. Perbandingan semacam ini merupakan salah satu cara menggunakan bahasa kias dalam kalimat. Perbandingan itu membantu pembaca memahami sifat Rani melalui gambaran yang akrab."
+    },
+    {
+      "jenis": "menjodohkan",
+      "pertanyaan": "Pasangkan istilah dengan penjelasan yang benar.",
+      "pasangan": [
+        {
+          "teks": "Fakta"
+        },
+        {
+          "teks": "Opini"
+        },
+        {
+          "teks": "Amanat"
+        },
+        {
+          "teks": "Tokoh"
+        }
+      ],
+      "pilihan": [
+        "Pelaku dalam cerita",
+        "Pesan yang ingin disampaikan cerita",
+        "Pendapat atau penilaian seseorang",
+        "Informasi yang dapat dibuktikan"
+      ],
+      "kunci": [
+        "Informasi yang dapat dibuktikan",
+        "Pendapat atau penilaian seseorang",
+        "Pesan yang ingin disampaikan cerita",
+        "Pelaku dalam cerita"
+      ],
+      "pembahasan": "Fakta dapat diuji; opini adalah penilaian; amanat berupa pesan; tokoh merupakan pelaku cerita.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "BI6-M3-P1-08",
+      "stimulus": "Ketika membaca berita tentang jumlah pengunjung perpustakaan, siswa menemukan data tanggal dan jumlah pengunjung yang dapat diperiksa kembali. Mereka juga menemukan komentar seorang siswa yang menyebut perpustakaan sebagai tempat paling nyaman. Guru mengajak siswa membedakan informasi yang dapat dibuktikan, pendapat pribadi, pesan cerita, dan pelaku dalam sebuah kisah. Mereka memeriksa apakah informasi dapat dibuktikan atau hanya berupa penilaian seseorang."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Kalimat 'Suara petir menggelegar membelah langit' paling tepat dikategorikan sebagai ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "kalimat perintah"
+        },
+        {
+          "id": "B",
+          "teks": "ungkapan hiperbola"
+        },
+        {
+          "id": "C",
+          "teks": "kalimat definisi"
+        },
+        {
+          "id": "D",
+          "teks": "fakta hasil wawancara"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Ungkapan membelah langit melebih-lebihkan kuatnya suara petir.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-M3-P1-09",
+      "stimulus": "Petir terdengar sangat keras ketika hujan turun pada malam hari. Suaranya menggema di antara bukit dan membuat beberapa warga terkejut. Penulis memilih ungkapan “menggelegar membelah langit” untuk menggambarkan suara yang sangat kuat. Pembaca perlu memahami bahwa ungkapan dalam teks sastra dapat menggunakan bahasa kias atau penegasan. Pilihan kata itu menegaskan kuatnya suara petir yang didengar tokoh dalam cerita."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Dalam fabel, rubah memuji gagak agar gagak membuka paruh dan menjatuhkan makanannya. Sifat rubah yang paling menonjol adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "jujur"
+        },
+        {
+          "id": "B",
+          "teks": "cerdik tetapi licik"
+        },
+        {
+          "id": "C",
+          "teks": "pemalu"
+        },
+        {
+          "id": "D",
+          "teks": "penyayang"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Rubah menggunakan pujian sebagai siasat untuk memperoleh makanan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-M3-P1-10",
+      "stimulus": "Seekor rubah melihat gagak membawa makanan di paruhnya. Rubah ingin mendapatkan makanan itu, lalu memuji penampilan dan suara gagak secara berlebihan. Gagak merasa bangga dan membuka paruh untuk bernyanyi. Makanan pun jatuh dan segera diambil rubah. Peristiwa tersebut menunjukkan bahwa pujian dapat digunakan untuk memengaruhi orang lain demi keuntungan sendiri. Pembaca dapat menilai watak tokoh dari cara ia bertindak ketika menginginkan sesuatu."
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

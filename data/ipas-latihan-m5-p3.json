@@ -1,0 +1,290 @@
+{
+  "id": "ipas-latihan-m5-p3",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Benua, Samudra, dan Kerja Sama Global",
+  "paket": 3,
+  "judul": "Benua, Samudra, dan Kerja Sama Global • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Samudra terluas",
+      "pertanyaan": "Samudra mana yang memiliki wilayah paling luas?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Atlantik"
+        },
+        {
+          "id": "B",
+          "teks": "Pasifik"
+        },
+        {
+          "id": "C",
+          "teks": "Arktik"
+        },
+        {
+          "id": "D",
+          "teks": "Hindia"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Samudra Pasifik merupakan samudra terluas.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "ipas-m5-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Menara Eiffel",
+      "pertanyaan": "Menara Eiffel merupakan ikon negara apa?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Prancis di benua Eropa"
+        },
+        {
+          "id": "B",
+          "teks": "Mesir di Afrika"
+        },
+        {
+          "id": "C",
+          "teks": "Jepang di Asia"
+        },
+        {
+          "id": "D",
+          "teks": "Australia di Australia"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Menara Eiffel merupakan ikon Paris, Prancis, yang terletak di Eropa.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "ipas-m5-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Patung Liberty: Amerika Serikat di Amerika Utara."
+        },
+        {
+          "id": "B",
+          "teks": "ASEAN: organisasi kerja sama negara-negara Asia Tenggara."
+        },
+        {
+          "id": "C",
+          "teks": "Impor dan ekspor: impor membeli barang dari luar negeri; ekspor menjual barang ke luar negeri."
+        },
+        {
+          "id": "D",
+          "teks": "Benua terluas: Australia."
+        },
+        {
+          "id": "E",
+          "teks": "Benua terkecil: Afrika."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m5-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Impor dan ekspor: impor membeli barang dari luar negeri; ekspor menjual barang ke luar negeri."
+        },
+        {
+          "id": "B",
+          "teks": "Benua terluas: Asia."
+        },
+        {
+          "id": "C",
+          "teks": "Benua terkecil: Asia."
+        },
+        {
+          "id": "D",
+          "teks": "Samudra terluas: Hindia."
+        },
+        {
+          "id": "E",
+          "teks": "ASEAN: organisasi kerja sama negara-negara Asia Tenggara."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m5-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Impor dan ekspor adalah impor membeli barang dari luar negeri; ekspor menjual barang ke luar negeri."
+        },
+        {
+          "teks": "Benua terkecil adalah Asia."
+        },
+        {
+          "teks": "Menara Eiffel adalah Prancis di benua Eropa."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; benua terkecil yang tepat adalah Australia.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m5-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Benua terluas adalah Asia."
+        },
+        {
+          "teks": "Samudra terluas adalah Arktik."
+        },
+        {
+          "teks": "Piramida Giza adalah Mesir di benua Afrika."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; samudra terluas yang tepat adalah Pasifik.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m5-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Impor dan ekspor"
+        },
+        {
+          "teks": "Benua terluas"
+        },
+        {
+          "teks": "Benua terkecil"
+        },
+        {
+          "teks": "Samudra terluas"
+        }
+      ],
+      "pilihan": [
+        "Australia",
+        "Pasifik",
+        "impor membeli barang dari luar negeri; ekspor menjual barang ke luar negeri",
+        "Asia"
+      ],
+      "kunci": [
+        "impor membeli barang dari luar negeri; ekspor menjual barang ke luar negeri",
+        "Asia",
+        "Australia",
+        "Pasifik"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m5-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Benua terkecil"
+        },
+        {
+          "teks": "Samudra terluas"
+        },
+        {
+          "teks": "Menara Eiffel"
+        },
+        {
+          "teks": "Piramida Giza"
+        }
+      ],
+      "pilihan": [
+        "Mesir di benua Afrika",
+        "Australia",
+        "Pasifik",
+        "Prancis di benua Eropa"
+      ],
+      "kunci": [
+        "Australia",
+        "Pasifik",
+        "Prancis di benua Eropa",
+        "Mesir di benua Afrika"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m5-p3-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Samudra terluas",
+      "pertanyaan": "Lengkapi pernyataan berikut: Samudra terluas berarti ....",
+      "kunci": [
+        "Pasifik"
+      ],
+      "kataKunci": [
+        "Pasifik"
+      ],
+      "pembahasan": "Samudra Pasifik merupakan samudra terluas.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m5-p3-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Menara Eiffel",
+      "pertanyaan": "Lengkapi pernyataan berikut: Menara Eiffel berarti ....",
+      "kunci": [
+        "Prancis di benua Eropa"
+      ],
+      "kataKunci": [
+        "Prancis di benua Eropa"
+      ],
+      "pembahasan": "Menara Eiffel merupakan ikon Paris, Prancis, yang terletak di Eropa.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m5-p3-q10"
+    }
+  ]
+}

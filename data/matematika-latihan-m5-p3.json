@@ -1,0 +1,265 @@
+{
+  "id": "matematika-latihan-m5-p3",
+  "mataPelajaran": "Matematika",
+  "mode": "Latihan Per Materi",
+  "materi": "Rasio dan Perbandingan",
+  "paket": 3,
+  "judul": "Rasio dan Perbandingan • Paket 3",
+  "durasiMenit": 0,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-M5P3-01-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan nilai berdasarkan rasio",
+      "pertanyaan": "Rasio A : B = 4 : 3. Jika nilai A adalah 40, berapa nilai B? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "31"
+        },
+        {
+          "id": "B",
+          "teks": "29"
+        },
+        {
+          "id": "C",
+          "teks": "32"
+        },
+        {
+          "id": "D",
+          "teks": "30"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Satu bagian = 40 ÷ 4 = 10. Nilai B = 3 × 10 = 30. Jadi, jawaban yang benar adalah 30.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M5P3-02-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyederhanakan rasio",
+      "pertanyaan": "Sederhanakan rasio 30 : 42. Tuliskan angka pertama dari rasio paling sederhana. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "4"
+        },
+        {
+          "id": "B",
+          "teks": "7"
+        },
+        {
+          "id": "C",
+          "teks": "5"
+        },
+        {
+          "id": "D",
+          "teks": "6"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "FPB dari 30 dan 42 adalah 6; rasio sederhana = 5 : 7. Jadi, jawaban yang benar adalah 5.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M5P3-03-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyelesaikan perbandingan senilai dalam konteks",
+      "pertanyaan": "Perbandingan tepung dan gula adalah 3 : 5. Jika tepung 300 gram, berapa gram gula yang diperlukan? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "502"
+        },
+        {
+          "id": "B",
+          "teks": "500"
+        },
+        {
+          "id": "C",
+          "teks": "501"
+        },
+        {
+          "id": "D",
+          "teks": "499"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Satu bagian = 300 ÷ 3 = 100 gram. Gula = 5 × 100 = 500 gram. Jadi, jawaban yang benar adalah 500.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M5P3-04-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan bagian dari jumlah keseluruhan",
+      "pertanyaan": "Rasio siswa laki-laki dan perempuan adalah 5 : 3. Jika jumlah seluruh siswa 48, berapa jumlah siswa perempuan? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "18"
+        },
+        {
+          "id": "B",
+          "teks": "19"
+        },
+        {
+          "id": "C",
+          "teks": "17"
+        },
+        {
+          "id": "D",
+          "teks": "20"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Jumlah bagian = 5+3=8. Satu bagian = 48÷8=6. Perempuan = 3×6=18. Jadi, jawaban yang benar adalah 18.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M5P3-05-BS",
+      "jenis": "benar_salah",
+      "indikator": "Menyelesaikan perbandingan senilai",
+      "pertanyaan": "Rasio siswa laki-laki dan perempuan 4 : 5. Jumlahnya 36 siswa. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Jumlah bagian adalah 9."
+        },
+        {
+          "teks": "Satu bagian bernilai 4 siswa."
+        },
+        {
+          "teks": "Jumlah siswa perempuan 20."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "36 ÷ 9 = 4; perempuan = 20.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M5P3-06-BS",
+      "jenis": "benar_salah",
+      "indikator": "Menentukan jumlah berdasarkan rasio",
+      "pertanyaan": "Rasio siswa laki-laki dan perempuan 4 : 5. Jumlahnya 36 siswa. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Jumlah bagian adalah 9."
+        },
+        {
+          "teks": "Satu bagian bernilai 4 siswa."
+        },
+        {
+          "teks": "Jumlah siswa perempuan 20."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "36 ÷ 9 = 4; perempuan = 20.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M5P3-07-PGK",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menentukan salah satu bagian dari rasio",
+      "pertanyaan": "Rasio siswa laki-laki dan perempuan 3 : 5. Jumlah siswa 32. Pilih tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Jumlah siswa perempuan 20."
+        },
+        {
+          "id": "B",
+          "teks": "Jumlah bagian adalah 8."
+        },
+        {
+          "id": "C",
+          "teks": "Jumlah siswa perempuan 12."
+        },
+        {
+          "id": "D",
+          "teks": "Satu bagian terdiri atas 4 siswa."
+        },
+        {
+          "id": "E",
+          "teks": "Jumlah siswa laki-laki 20."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "32 ÷ 8 = 4. Perempuan = 5 × 4 = 20 siswa.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M5P3-08-JODOH",
+      "jenis": "menjodohkan",
+      "indikator": "Menentukan besaran dari rasio",
+      "pertanyaan": "Pasangkan setiap soal di kolom kiri dengan hasil yang tepat di kolom kanan.",
+      "pasangan": [
+        {
+          "teks": "Rasio kelereng merah dan biru adalah 3 : 5. Jika jumlah seluruh kelereng 64, berapa banyak kelereng merah?"
+        },
+        {
+          "teks": "Perbandingan umur kakak dan adik adalah 5 : 2. Jika umur adik 14 tahun, berapa umur kakak?"
+        },
+        {
+          "teks": "Rasio sirup dan air adalah 3 : 4. Jika air yang digunakan 28 gelas, berapa gelas sirup yang diperlukan?"
+        },
+        {
+          "teks": "Panjang pita merah dan biru berbanding 2 : 5. Jika pita merah panjangnya 18 cm, berapa selisih panjang kedua pita?"
+        }
+      ],
+      "pilihan": [
+        "35",
+        "21",
+        "27",
+        "24"
+      ],
+      "kunci": [
+        "24",
+        "35",
+        "21",
+        "27"
+      ],
+      "pembahasan": "Pasangkan setiap soal dengan hasil perhitungan yang sesuai. Periksa kembali setiap hasil sebelum melanjutkan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "MTK-M5P3-09",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan besaran berdasarkan rasio",
+      "pertanyaan": "Rasio sirup dan air adalah 3 : 4. Jika air yang digunakan 28 gelas, berapa gelas sirup yang diperlukan?",
+      "kunci": 21,
+      "pembahasan": "Satu bagian = 28 ÷ 4 = 7. Sirup = 3 × 7 = 21 gelas.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-M5P3-10",
+      "jenis": "isian_angka",
+      "indikator": "Membandingkan dua besaran berdasarkan rasio",
+      "pertanyaan": "Panjang pita merah dan biru berbanding 2 : 5. Jika pita merah panjangnya 18 cm, berapa selisih panjang kedua pita?",
+      "kunci": 27,
+      "pembahasan": "Satu bagian = 18 ÷ 2 = 9 cm. Pita biru = 5 × 9 = 45 cm. Selisih = 27 cm.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    }
+  ]
+}

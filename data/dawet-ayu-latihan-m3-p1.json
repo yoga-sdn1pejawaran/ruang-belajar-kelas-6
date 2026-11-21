@@ -1,0 +1,318 @@
+{
+  "id": "dawet-ayu-latihan-m3-p1",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "BAB III – Promosi Elektronik Berbahasa Asing",
+  "bab": 3,
+  "paket": 1,
+  "judul": "BAB III – Promosi Elektronik Berbahasa Asing • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Tujuan promosi",
+      "pertanyaan": "Apa tujuan promosi produk Dawet Ayu?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menyembunyikan produk dari masyarakat"
+        },
+        {
+          "id": "B",
+          "teks": "memperkenalkan barang dagangan kepada masyarakat"
+        },
+        {
+          "id": "C",
+          "teks": "menghentikan penjualan"
+        },
+        {
+          "id": "D",
+          "teks": "membatasi informasi produk"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Bab III menjelaskan tujuan promosi adalah memperkenalkan barang dagangan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-m3-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Promosi berbahasa asing",
+      "pertanyaan": "Mengapa kata atau ungkapan bahasa asing dapat digunakan dalam promosi?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menggunakan kata atau ungkapan bahasa lain untuk menarik perhatian"
+        },
+        {
+          "id": "B",
+          "teks": "untuk menghapus informasi produk"
+        },
+        {
+          "id": "C",
+          "teks": "untuk menyembunyikan nama produk"
+        },
+        {
+          "id": "D",
+          "teks": "untuk mengganti produk yang dijual"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Bab III membahas promosi elektronik menggunakan bahasa asing.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-m3-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bahasa asing dalam buku",
+      "pertanyaan": "Bahasa asing apa saja yang dicontohkan dalam buku?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Bahasa Spanyol, Italia, dan Belanda"
+        },
+        {
+          "id": "B",
+          "teks": "Bahasa Arab, Korea, dan Rusia"
+        },
+        {
+          "id": "C",
+          "teks": "Bahasa Inggris, Jepang, dan Mandarin"
+        },
+        {
+          "id": "D",
+          "teks": "Bahasa Jerman, Prancis, dan Latin"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Buku menyebut bahasa Inggris, Jepang, dan Mandarin sebagai contoh bahasa asing.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-m3-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Taste",
+      "pertanyaan": "Apa arti kata “Taste” dalam tabel kosakata?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "dingin"
+        },
+        {
+          "id": "B",
+          "teks": "segar"
+        },
+        {
+          "id": "C",
+          "teks": "rasa"
+        },
+        {
+          "id": "D",
+          "teks": "manis"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Tabel kosakata Inggris pada halaman 17 mencantumkan Taste berarti rasa.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-m3-p1-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis kosakata bahasa Inggris",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang tujuan promosi, promosi berbahasa asing, bahasa asing dalam buku.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Makna Sweet: baik."
+        },
+        {
+          "id": "B",
+          "teks": "Bahasa asing dalam buku: Bahasa Inggris, Jepang, dan Mandarin."
+        },
+        {
+          "id": "C",
+          "teks": "Promosi berbahasa asing: menggunakan kata atau ungkapan bahasa lain untuk menarik perhatian."
+        },
+        {
+          "id": "D",
+          "teks": "Makna Taste: manis."
+        },
+        {
+          "id": "E",
+          "teks": "Tujuan promosi: memperkenalkan barang dagangan kepada masyarakat."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "E"
+      ],
+      "pembahasan": "Tiga pilihan yang benar sesuai dengan keterangan pada buku. Dua pilihan lainnya memuat informasi yang tidak sesuai.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-m3-p1-q9"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis kosakata bahasa Jepang",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang makna cool, makna fresh, makna good.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Makna Ice: hijau."
+        },
+        {
+          "id": "B",
+          "teks": "Makna Durian smell: minuman dingin."
+        },
+        {
+          "id": "C",
+          "teks": "Makna Cool: dingin."
+        },
+        {
+          "id": "D",
+          "teks": "Makna Good: baik."
+        },
+        {
+          "id": "E",
+          "teks": "Makna Fresh: segar."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Tiga pilihan yang benar sesuai dengan keterangan pada buku. Dua pilihan lainnya memuat informasi yang tidak sesuai.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-m3-p1-q10"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai informasi kosakata bahasa Mandarin",
+      "pertanyaan": "Tentukan Benar atau Salah untuk informasi tentang makna green, makna oishii, makna tabemono.",
+      "pernyataan": [
+        {
+          "teks": "Makna Green: segar."
+        },
+        {
+          "teks": "Makna Oishii: makanan."
+        },
+        {
+          "teks": "Makna Tabemono: makanan."
+        }
+      ],
+      "kunci": [
+        "salah",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Cocokkan setiap pernyataan dengan fakta dan langkah yang dijelaskan dalam buku.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-m3-p1-q13"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai informasi makna kosakata promosi",
+      "pertanyaan": "Tentukan Benar atau Salah untuk informasi tentang makna lu, makna shao, makna he.",
+      "pernyataan": [
+        {
+          "teks": "Makna Lu: hijau."
+        },
+        {
+          "teks": "Makna Shao: hijau."
+        },
+        {
+          "teks": "Makna He: segar."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Cocokkan setiap pernyataan dengan fakta dan langkah yang dijelaskan dalam buku.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-m3-p1-q14"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Menghubungkan kosakata bahasa Jepang",
+      "pertanyaan": "Pasangkan makna cool, makna fresh, makna good dan makna ice dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Makna Cool"
+        },
+        {
+          "teks": "Makna Fresh"
+        },
+        {
+          "teks": "Makna Good"
+        },
+        {
+          "teks": "Makna Ice"
+        }
+      ],
+      "pilihan": [
+        "dingin",
+        "baik",
+        "es",
+        "segar"
+      ],
+      "kunci": [
+        "dingin",
+        "segar",
+        "baik",
+        "es"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan arti, bahan, atau proses yang sesuai dengan penjelasan dalam buku.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-m3-p1-q17"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Menghubungkan kosakata bahasa Mandarin",
+      "pertanyaan": "Pasangkan makna green, makna oishii, makna tabemono dan makna nomimono dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Makna Green"
+        },
+        {
+          "teks": "Makna Oishii"
+        },
+        {
+          "teks": "Makna Tabemono"
+        },
+        {
+          "teks": "Makna Nomimono"
+        }
+      ],
+      "pilihan": [
+        "lezat",
+        "hijau",
+        "minuman",
+        "makanan"
+      ],
+      "kunci": [
+        "hijau",
+        "lezat",
+        "makanan",
+        "minuman"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan arti, bahan, atau proses yang sesuai dengan penjelasan dalam buku.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-m3-p1-q18"
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

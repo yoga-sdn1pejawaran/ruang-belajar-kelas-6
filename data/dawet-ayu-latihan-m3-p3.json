@@ -1,0 +1,317 @@
+{
+  "id": "dawet-ayu-latihan-b3-p3",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Bab III – Promosi Elektronik Berbahasa Asing",
+  "bab": 3,
+  "paket": 3,
+  "judul": "Bab III – Promosi Elektronik Berbahasa Asing • Latihan Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Ice",
+      "pertanyaan": "Apa arti kata “Ice” dalam tabel kosakata?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "es"
+        },
+        {
+          "id": "B",
+          "teks": "segar"
+        },
+        {
+          "id": "C",
+          "teks": "rasa"
+        },
+        {
+          "id": "D",
+          "teks": "manis"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Tabel kosakata Inggris mencantumkan Ice berarti es.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b3-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Durian smell",
+      "pertanyaan": "Apa arti ungkapan “Durian smell” dalam tabel kosakata?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "wangi durian"
+        },
+        {
+          "id": "B",
+          "teks": "warna durian"
+        },
+        {
+          "id": "C",
+          "teks": "bentuk durian"
+        },
+        {
+          "id": "D",
+          "teks": "rasa durian"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Tabel kosakata Inggris mencantumkan Durian smell berarti wangi durian.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b3-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Green",
+      "pertanyaan": "Apa arti kata “Green” dalam tabel kosakata?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "merah"
+        },
+        {
+          "id": "B",
+          "teks": "kuning"
+        },
+        {
+          "id": "C",
+          "teks": "hijau"
+        },
+        {
+          "id": "D",
+          "teks": "biru"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Tabel kosakata Inggris mencantumkan Green berarti hijau.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b3-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Oishii",
+      "pertanyaan": "Apa arti kata “Oishii” dalam tabel kosakata Jepang?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "lezat"
+        },
+        {
+          "id": "B",
+          "teks": "manis"
+        },
+        {
+          "id": "C",
+          "teks": "asin"
+        },
+        {
+          "id": "D",
+          "teks": "pahit"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Tabel kosakata Jepang mencantumkan Oishii berarti lezat.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b3-p3-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Makna Ice",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai makna ice.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Makna Ice: es."
+        },
+        {
+          "id": "B",
+          "teks": "Makna Dezaato: lezat."
+        },
+        {
+          "id": "C",
+          "teks": "Makna Nomimono: minuman."
+        },
+        {
+          "id": "D",
+          "teks": "Makna Tian: manis."
+        },
+        {
+          "id": "E",
+          "teks": "Twitter: jenis tepung untuk cendol."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b3-p3-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Makna Green",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai makna green.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Makna Green: hijau."
+        },
+        {
+          "id": "B",
+          "teks": "Hasil unggahan: otomatis menjadi bahan makanan."
+        },
+        {
+          "id": "C",
+          "teks": "Persiapan promosi elektronik: menyiapkan gambar atau animasi yang akan diunggah."
+        },
+        {
+          "id": "D",
+          "teks": "Makna He: segar."
+        },
+        {
+          "id": "E",
+          "teks": "Makna Lu: hijau."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "E"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b3-p3-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Makna Durian smell",
+      "pertanyaan": "Perhatikan tiga informasi tentang makna durian smell. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Makna Durian smell: wangi durian."
+        },
+        {
+          "teks": "Makna Shao: hijau."
+        },
+        {
+          "teks": "Menyimpan file: membuang file sebelum digunakan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 3. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b3-p3-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Makna Oishii",
+      "pertanyaan": "Perhatikan tiga informasi tentang makna oishii. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Makna Oishii: lezat."
+        },
+        {
+          "teks": "Makna hao he: lezat."
+        },
+        {
+          "teks": "Memilih foto atau video: memilih foto atau video yang akan diunggah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 3. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b3-p3-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Makna Ice",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan makna ice dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Makna Ice"
+        },
+        {
+          "teks": "Makna Lu"
+        },
+        {
+          "teks": "Menulis kata kunci"
+        },
+        {
+          "teks": "Twitter"
+        }
+      ],
+      "pilihan": [
+        "hijau",
+        "contoh media sosial untuk promosi Dawet Ayu",
+        "menuliskan beberapa kata kunci dalam gambar atau animasi yang berkaitan dengan produk",
+        "es"
+      ],
+      "kunci": [
+        "es",
+        "hijau",
+        "menuliskan beberapa kata kunci dalam gambar atau animasi yang berkaitan dengan produk",
+        "contoh media sosial untuk promosi Dawet Ayu"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 3.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-b3-p3-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Makna Green",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan makna green dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Makna Green"
+        },
+        {
+          "teks": "Makna He"
+        },
+        {
+          "teks": "Membuka media sosial"
+        },
+        {
+          "teks": "Kalimat promosi"
+        }
+      ],
+      "pilihan": [
+        "kalimat yang mengajak atau menarik perhatian calon pembeli",
+        "hijau",
+        "membuka akun Facebook atau Twitter",
+        "minum"
+      ],
+      "kunci": [
+        "hijau",
+        "minum",
+        "membuka akun Facebook atau Twitter",
+        "kalimat yang mengajak atau menarik perhatian calon pembeli"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 3.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-b3-p3-q10"
+    }
+  ]
+}

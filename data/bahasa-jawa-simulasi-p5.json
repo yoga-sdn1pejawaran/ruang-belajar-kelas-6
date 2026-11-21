@@ -1,0 +1,845 @@
+{
+  "id": "bahasa-jawa-simulasi-p5",
+  "mataPelajaran": "Bahasa Jawa",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "paket": 5,
+  "judul": "Simulasi ASAS Bahasa Jawa • Paket 5",
+  "durasiMenit": 75,
+  "soal": [
+    {
+      "jenis": "isian",
+      "indikator": "Paraga crita Menyang Tlaga Menjer",
+      "pertanyaan": "Isilah dengan tepat: Paraga crita Menyang Tlaga Menjer adalah ....",
+      "kunci": [
+        "Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti"
+      ],
+      "kataKunci": [
+        "Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti"
+      ],
+      "pembahasan": "Crita nyebut Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti minangka rombongan rekreasi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-jawa-sim-p5-q1"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Wektu budhal menyang Tlaga Menjer",
+      "pertanyaan": "Isilah dengan tepat: Wektu budhal menyang Tlaga Menjer adalah ....",
+      "kunci": [
+        "jam enem esuk dina Minggu"
+      ],
+      "kataKunci": [
+        "jam enem esuk dina Minggu"
+      ],
+      "pembahasan": "Ing wacan kasebut, rombongan budhal jam enem esuk ing dina Minggu nganggo mobil.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-jawa-sim-p5-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Unsur sapa",
+      "pertanyaan": "Apa sing digoleki saka pitakon sapa?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "nuduhake paraga utawa wong sing melu kedadeyan"
+        },
+        {
+          "id": "B",
+          "teks": "wektu kedadeyan"
+        },
+        {
+          "id": "C",
+          "teks": "papan kedadeyan"
+        },
+        {
+          "id": "D",
+          "teks": "sebab kedadeyan"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Unsur sapa ngenali paraga utawa wong sing melu kedadeyan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p5-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Unsur kapan",
+      "pertanyaan": "Pitakon kapan digunakake kanggo nggoleki apa?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "papan kedadeyan"
+        },
+        {
+          "id": "B",
+          "teks": "paraga"
+        },
+        {
+          "id": "C",
+          "teks": "cara kedadeyan"
+        },
+        {
+          "id": "D",
+          "teks": "nuduhake wektu kedadeyan"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Kapan nuduhake wektu utawa tanggal kedadeyan.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p5-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Paraga crita Menyang Tlaga Menjer: Nindya lan kanca sakelas."
+        },
+        {
+          "id": "B",
+          "teks": "Alur: runtutan kedadeyan saka wiwitan nganti pungkasan."
+        },
+        {
+          "id": "C",
+          "teks": "Paraga: wong utawa tokoh sing ana ing crita."
+        },
+        {
+          "id": "D",
+          "teks": "Latar: katrangan papan, wektu, lan swasana kedadeyan."
+        },
+        {
+          "id": "E",
+          "teks": "Maca nyaring: maca kanthi cepet tanpa tandha wacan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p5-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Paraga: wong utawa tokoh sing ana ing crita."
+        },
+        {
+          "id": "B",
+          "teks": "Latar: katrangan papan, wektu, lan swasana kedadeyan."
+        },
+        {
+          "id": "C",
+          "teks": "Maca nyaring: nggatekake lafal, intonasi, jeda, lan solah bawa."
+        },
+        {
+          "id": "D",
+          "teks": "Paraga crita Menyang Tlaga Menjer: Nindya lan gurune wae."
+        },
+        {
+          "id": "E",
+          "teks": "Wektu budhal menyang Tlaga Menjer: jam telu sore dina Minggu."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p5-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Latar adalah katrangan papan, wektu, lan swasana kedadeyan."
+        },
+        {
+          "teks": "Paraga crita Menyang Tlaga Menjer adalah Nindya lan gurune wae."
+        },
+        {
+          "teks": "Crita pengalaman adalah teks sing nyritakake kedadeyan sing dialami penulis utawa paraga."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; paraga crita menyang tlaga menjer yang tepat adalah Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p5-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Maca nyaring adalah nggatekake lafal, intonasi, jeda, lan solah bawa."
+        },
+        {
+          "teks": "Wektu budhal menyang Tlaga Menjer adalah jam enem sore dina Setu."
+        },
+        {
+          "teks": "Unsur sapa adalah nuduhake paraga utawa wong sing melu kedadeyan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; wektu budhal menyang tlaga menjer yang tepat adalah jam enem esuk dina Minggu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p5-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Alur"
+        },
+        {
+          "teks": "Paraga"
+        },
+        {
+          "teks": "Latar"
+        },
+        {
+          "teks": "Maca nyaring"
+        }
+      ],
+      "pilihan": [
+        "wong utawa tokoh sing ana ing crita",
+        "katrangan papan, wektu, lan swasana kedadeyan",
+        "nggatekake lafal, intonasi, jeda, lan solah bawa",
+        "runtutan kedadeyan saka wiwitan nganti pungkasan"
+      ],
+      "kunci": [
+        "runtutan kedadeyan saka wiwitan nganti pungkasan",
+        "wong utawa tokoh sing ana ing crita",
+        "katrangan papan, wektu, lan swasana kedadeyan",
+        "nggatekake lafal, intonasi, jeda, lan solah bawa"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-sim-p5-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Latar"
+        },
+        {
+          "teks": "Maca nyaring"
+        },
+        {
+          "teks": "Paraga crita Menyang Tlaga Menjer"
+        },
+        {
+          "teks": "Wektu budhal menyang Tlaga Menjer"
+        }
+      ],
+      "pilihan": [
+        "Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti",
+        "jam enem esuk dina Minggu",
+        "katrangan papan, wektu, lan swasana kedadeyan",
+        "nggatekake lafal, intonasi, jeda, lan solah bawa"
+      ],
+      "kunci": [
+        "katrangan papan, wektu, lan swasana kedadeyan",
+        "nggatekake lafal, intonasi, jeda, lan solah bawa",
+        "Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti",
+        "jam enem esuk dina Minggu"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-sim-p5-q10"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Wektu budhal menyang Tlaga Menjer",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Wektu budhal menyang Tlaga Menjer?",
+      "kunci": [
+        "jam enem esuk dina Minggu"
+      ],
+      "kataKunci": [
+        "jam enem esuk dina Minggu"
+      ],
+      "pembahasan": "Ing wacan kasebut, rombongan budhal jam enem esuk ing dina Minggu nganggo mobil.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-jawa-sim-p5-q11"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Crita pengalaman",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Crita pengalaman?",
+      "kunci": [
+        "teks sing nyritakake kedadeyan sing dialami penulis utawa paraga"
+      ],
+      "kataKunci": [
+        "teks sing nyritakake kedadeyan sing dialami penulis utawa paraga"
+      ],
+      "pembahasan": "Crita pengalaman nyritakake kedadeyan nyata utawa pengalaman sing dialami.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-jawa-sim-p5-q12"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Unsur kapan",
+      "pertanyaan": "Apa sing diterangake unsur kapan?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "papan kedadeyan"
+        },
+        {
+          "id": "B",
+          "teks": "paraga"
+        },
+        {
+          "id": "C",
+          "teks": "cara kedadeyan"
+        },
+        {
+          "id": "D",
+          "teks": "nuduhake wektu kedadeyan"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Kapan nuduhake wektu utawa tanggal kedadeyan.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p5-q13"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Unsur ing ngendi",
+      "pertanyaan": "Apa sing diterangake unsur papan?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "paraga"
+        },
+        {
+          "id": "B",
+          "teks": "sebab"
+        },
+        {
+          "id": "C",
+          "teks": "nuduhake papan utawa lokasi kedadeyan"
+        },
+        {
+          "id": "D",
+          "teks": "wektu"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Ing ngendi nerangake papan kedadeyan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p5-q14"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Paraga: wong utawa tokoh sing ana ing crita."
+        },
+        {
+          "id": "B",
+          "teks": "Latar: katrangan papan, wektu, lan swasana kedadeyan."
+        },
+        {
+          "id": "C",
+          "teks": "Maca nyaring: nggatekake lafal, intonasi, jeda, lan solah bawa."
+        },
+        {
+          "id": "D",
+          "teks": "Paraga crita Menyang Tlaga Menjer: Nindya lan gurune wae."
+        },
+        {
+          "id": "E",
+          "teks": "Wektu budhal menyang Tlaga Menjer: jam telu sore dina Minggu."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p5-q15"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Maca nyaring: nggatekake lafal, intonasi, jeda, lan solah bawa."
+        },
+        {
+          "id": "B",
+          "teks": "Paraga crita Menyang Tlaga Menjer: Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti."
+        },
+        {
+          "id": "C",
+          "teks": "Wektu budhal menyang Tlaga Menjer: jam enem sore dina Setu."
+        },
+        {
+          "id": "D",
+          "teks": "Crita pengalaman: teks pandhuan nggawe barang."
+        },
+        {
+          "id": "E",
+          "teks": "Latar: katrangan papan, wektu, lan swasana kedadeyan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p5-q16"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Maca nyaring adalah nggatekake lafal, intonasi, jeda, lan solah bawa."
+        },
+        {
+          "teks": "Wektu budhal menyang Tlaga Menjer adalah jam enem sore dina Setu."
+        },
+        {
+          "teks": "Unsur sapa adalah nuduhake paraga utawa wong sing melu kedadeyan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; wektu budhal menyang tlaga menjer yang tepat adalah jam enem esuk dina Minggu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p5-q17"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Paraga crita Menyang Tlaga Menjer adalah Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti."
+        },
+        {
+          "teks": "Crita pengalaman adalah teks ramalan."
+        },
+        {
+          "teks": "Unsur kapan adalah nuduhake wektu kedadeyan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; crita pengalaman yang tepat adalah teks sing nyritakake kedadeyan sing dialami penulis utawa paraga.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p5-q18"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Paraga"
+        },
+        {
+          "teks": "Latar"
+        },
+        {
+          "teks": "Maca nyaring"
+        },
+        {
+          "teks": "Paraga crita Menyang Tlaga Menjer"
+        }
+      ],
+      "pilihan": [
+        "nggatekake lafal, intonasi, jeda, lan solah bawa",
+        "Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti",
+        "wong utawa tokoh sing ana ing crita",
+        "katrangan papan, wektu, lan swasana kedadeyan"
+      ],
+      "kunci": [
+        "wong utawa tokoh sing ana ing crita",
+        "katrangan papan, wektu, lan swasana kedadeyan",
+        "nggatekake lafal, intonasi, jeda, lan solah bawa",
+        "Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-sim-p5-q19"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Maca nyaring"
+        },
+        {
+          "teks": "Paraga crita Menyang Tlaga Menjer"
+        },
+        {
+          "teks": "Wektu budhal menyang Tlaga Menjer"
+        },
+        {
+          "teks": "Crita pengalaman"
+        }
+      ],
+      "pilihan": [
+        "teks sing nyritakake kedadeyan sing dialami penulis utawa paraga",
+        "nggatekake lafal, intonasi, jeda, lan solah bawa",
+        "Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti",
+        "jam enem esuk dina Minggu"
+      ],
+      "kunci": [
+        "nggatekake lafal, intonasi, jeda, lan solah bawa",
+        "Nindya, bapak, ibu, Paklik Kirun, lan Bulik Hesti",
+        "jam enem esuk dina Minggu",
+        "teks sing nyritakake kedadeyan sing dialami penulis utawa paraga"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-sim-p5-q20"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Crita pengalaman",
+      "pertanyaan": "Lengkapi pernyataan berikut: Crita pengalaman berarti ....",
+      "kunci": [
+        "teks sing nyritakake kedadeyan sing dialami penulis utawa paraga"
+      ],
+      "kataKunci": [
+        "teks sing nyritakake kedadeyan sing dialami penulis utawa paraga"
+      ],
+      "pembahasan": "Crita pengalaman nyritakake kedadeyan nyata utawa pengalaman sing dialami.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-jawa-sim-p5-q21"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Unsur sapa",
+      "pertanyaan": "Lengkapi pernyataan berikut: Unsur sapa berarti ....",
+      "kunci": [
+        "nuduhake paraga utawa wong sing melu kedadeyan"
+      ],
+      "kataKunci": [
+        "nuduhake paraga utawa wong sing melu kedadeyan"
+      ],
+      "pembahasan": "Unsur sapa ngenali paraga utawa wong sing melu kedadeyan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-jawa-sim-p5-q22"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Sesorah",
+      "pertanyaan": "Apa tegese sesorah?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "nembang tanpa pamireng"
+        },
+        {
+          "id": "B",
+          "teks": "nulis layang pribadi"
+        },
+        {
+          "id": "C",
+          "teks": "maca kanthi meneng"
+        },
+        {
+          "id": "D",
+          "teks": "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Sesorah yaiku micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh kanthi ancas tartamtu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p5-q23"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Salam pambuka",
+      "pertanyaan": "Perangan sesorah kanggo miwiti kanthi salam diarani ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pungkasan sesorah"
+        },
+        {
+          "id": "B",
+          "teks": "dhaptar pustaka"
+        },
+        {
+          "id": "C",
+          "teks": "salam kanggo miwiti sesorah"
+        },
+        {
+          "id": "D",
+          "teks": "bagean isi utama"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Salam pambuka digunakake kanggo miwiti sesorah kanthi sopan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p5-q24"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Wirama: gerak tangan."
+        },
+        {
+          "id": "B",
+          "teks": "Wirasa: tata panggung."
+        },
+        {
+          "id": "C",
+          "teks": "Surasa basa: perangan isi utawa inti gagasan pokok sesorah."
+        },
+        {
+          "id": "D",
+          "teks": "Wasana basa: perangan panutup isi sadurunge salam panutup."
+        },
+        {
+          "id": "E",
+          "teks": "Wiraga: sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p5-q25"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Sesorah: nulis layang pribadi."
+        },
+        {
+          "id": "B",
+          "teks": "Wasana basa: perangan panutup isi sadurunge salam panutup."
+        },
+        {
+          "id": "C",
+          "teks": "Wiraga: sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah."
+        },
+        {
+          "id": "D",
+          "teks": "Wirama: irama, intonasi, lan banter lirih swara."
+        },
+        {
+          "id": "E",
+          "teks": "Wirasa: gerak sikil."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p5-q26"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Wiraga adalah sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah."
+        },
+        {
+          "teks": "Wirasa adalah gerak sikil."
+        },
+        {
+          "teks": "Salam pambuka adalah salam kanggo miwiti sesorah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; wirasa yang tepat adalah penghayatan lan rasa sing cocog karo isi sesorah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p5-q27"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Wirama adalah irama, intonasi, lan banter lirih swara."
+        },
+        {
+          "teks": "Sesorah adalah nembang tanpa pamireng."
+        },
+        {
+          "teks": "Purwaka adalah pambuka utawa pengantar sadurunge isi utama."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; sesorah yang tepat adalah micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p5-q28"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Wiraga"
+        },
+        {
+          "teks": "Wirama"
+        },
+        {
+          "teks": "Wirasa"
+        },
+        {
+          "teks": "Sesorah"
+        }
+      ],
+      "pilihan": [
+        "sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah",
+        "irama, intonasi, lan banter lirih swara",
+        "penghayatan lan rasa sing cocog karo isi sesorah",
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+      ],
+      "kunci": [
+        "sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah",
+        "irama, intonasi, lan banter lirih swara",
+        "penghayatan lan rasa sing cocog karo isi sesorah",
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-sim-p5-q29"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Wirasa"
+        },
+        {
+          "teks": "Sesorah"
+        },
+        {
+          "teks": "Salam pambuka"
+        },
+        {
+          "teks": "Purwaka"
+        }
+      ],
+      "pilihan": [
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh",
+        "salam kanggo miwiti sesorah",
+        "pambuka utawa pengantar sadurunge isi utama",
+        "penghayatan lan rasa sing cocog karo isi sesorah"
+      ],
+      "kunci": [
+        "penghayatan lan rasa sing cocog karo isi sesorah",
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh",
+        "salam kanggo miwiti sesorah",
+        "pambuka utawa pengantar sadurunge isi utama"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-sim-p5-q30"
+    }
+  ]
+}

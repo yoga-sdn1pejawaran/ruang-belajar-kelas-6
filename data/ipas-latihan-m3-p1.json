@@ -1,0 +1,317 @@
+{
+  "id": "ipas-latihan-m3-p1",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Sejarah Perjuangan Bangsa Indonesia",
+  "paket": 1,
+  "judul": "Sejarah Perjuangan Bangsa Indonesia • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "id": "ipas-m3-lat-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Tujuan kedatangan bangsa Eropa",
+      "pertanyaan": "Pedagang Eropa berlayar ke Nusantara karena hasil bumi tertentu sangat bernilai di pasar dunia.\n\nKomoditas yang terutama dicari adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Rempah-rempah"
+        },
+        {
+          "id": "B",
+          "teks": "Batu bara"
+        },
+        {
+          "id": "C",
+          "teks": "Kapas"
+        },
+        {
+          "id": "D",
+          "teks": "Besi"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Rempah-rempah seperti cengkih dan pala menjadi komoditas utama.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m3-lat-02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Perlawanan kedaerahan",
+      "pertanyaan": "Rakyat Jawa melakukan perlawanan besar terhadap Belanda pada 1825–1830.\n\nTokoh pemimpin perlawanan tersebut adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pattimura"
+        },
+        {
+          "id": "B",
+          "teks": "Pangeran Diponegoro"
+        },
+        {
+          "id": "C",
+          "teks": "Tuanku Imam Bonjol"
+        },
+        {
+          "id": "D",
+          "teks": "Cut Nyak Dien"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Pangeran Diponegoro memimpin Perang Jawa.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m3-lat-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Tokoh Pattimura",
+      "pertanyaan": "Rakyat Maluku melakukan perlawanan terhadap Belanda pada tahun 1817.\n\nTokoh yang memimpin perlawanan tersebut adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pattimura"
+        },
+        {
+          "id": "B",
+          "teks": "Sultan Hasanuddin"
+        },
+        {
+          "id": "C",
+          "teks": "Pangeran Antasari"
+        },
+        {
+          "id": "D",
+          "teks": "Ki Hajar Dewantara"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Pattimura memimpin perlawanan rakyat Maluku pada 1817.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m3-lat-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Kebangkitan Nasional",
+      "pertanyaan": "Organisasi Budi Utomo berdiri pada 20 Mei 1908 dan menjadi penanda penting kebangkitan kesadaran nasional.\n\nPeristiwa tersebut dikenal sebagai ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Proklamasi"
+        },
+        {
+          "id": "B",
+          "teks": "Kebangkitan Nasional"
+        },
+        {
+          "id": "C",
+          "teks": "Sumpah Pemuda"
+        },
+        {
+          "id": "D",
+          "teks": "Reformasi"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Budi Utomo menjadi penanda awal Kebangkitan Nasional.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m3-lat-05",
+      "jenis": "benar_salah",
+      "indikator": "Ciri perlawanan daerah",
+      "pertanyaan": "Sebelum tumbuhnya kesadaran nasional, perlawanan berlangsung di berbagai wilayah.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Perlawanan sering dipimpin tokoh daerah."
+        },
+        {
+          "teks": "Semua perlawanan telah terkoordinasi secara nasional."
+        },
+        {
+          "teks": "Perjuangan menunjukkan keberanian rakyat."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Perlawanan daerah menunjukkan keberanian, tetapi belum seluruhnya terkoordinasi sebagai gerakan nasional.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m3-lat-06",
+      "jenis": "benar_salah",
+      "indikator": "Pergerakan nasional",
+      "pertanyaan": "Organisasi modern membantu menyatukan gagasan dan tujuan perjuangan.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Pendidikan menjadi salah satu sarana perjuangan."
+        },
+        {
+          "teks": "Pers dapat menyebarkan gagasan kebangsaan."
+        },
+        {
+          "teks": "Pergerakan nasional hanya dilakukan dengan senjata."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Pergerakan nasional menggunakan organisasi, pendidikan, pers, dan diplomasi selain perlawanan fisik.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m3-lat-07",
+      "jenis": "menjodohkan",
+      "indikator": "Tokoh dan perjuangan",
+      "pertanyaan": "Tokoh dari berbagai daerah memimpin perlawanan terhadap penjajahan.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Perang Jawa"
+        },
+        {
+          "teks": "Perlawanan Maluku 1817"
+        },
+        {
+          "teks": "Perang Padri"
+        },
+        {
+          "teks": "Perlawanan di Aceh"
+        }
+      ],
+      "pilihan": [
+        "Pangeran Diponegoro",
+        "Pattimura",
+        "Tuanku Imam Bonjol",
+        "Cut Nyak Dien"
+      ],
+      "kunci": [
+        "Pangeran Diponegoro",
+        "Pattimura",
+        "Tuanku Imam Bonjol",
+        "Cut Nyak Dien"
+      ],
+      "pembahasan": "Setiap tokoh memiliki wilayah dan konteks perjuangan yang berbeda.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-m3-lat-08",
+      "jenis": "menjodohkan",
+      "indikator": "Urutan kronologi",
+      "pertanyaan": "Perjuangan bangsa Indonesia berkembang melalui beberapa peristiwa penting.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Budi Utomo berdiri"
+        },
+        {
+          "teks": "Sumpah Pemuda"
+        },
+        {
+          "teks": "Proklamasi"
+        },
+        {
+          "teks": "Perlawanan Diponegoro"
+        }
+      ],
+      "pilihan": [
+        "1825–1830",
+        "1908",
+        "1928",
+        "1945"
+      ],
+      "kunci": [
+        "1908",
+        "1928",
+        "1945",
+        "1825–1830"
+      ],
+      "pembahasan": "Perang Diponegoro terjadi lebih awal, disusul Budi Utomo, Sumpah Pemuda, dan Proklamasi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-m3-lat-09",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis sebab-akibat penjajahan",
+      "pertanyaan": "Monopoli perdagangan dan penguasaan wilayah oleh bangsa asing menimbulkan penderitaan bagi penduduk Nusantara.\n\nPilih TIGA akibat yang masuk akal.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Kebebasan perdagangan rakyat dibatasi."
+        },
+        {
+          "id": "B",
+          "teks": "Rakyat melakukan perlawanan."
+        },
+        {
+          "id": "C",
+          "teks": "Sumber daya dapat dikuasai pihak penjajah."
+        },
+        {
+          "id": "D",
+          "teks": "Semua rakyat memperoleh keuntungan setara."
+        },
+        {
+          "id": "E",
+          "teks": "Penjajahan menghapus seluruh konflik."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Monopoli dan penjajahan merugikan rakyat serta memicu perlawanan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m3-lat-10",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis perubahan strategi perjuangan",
+      "pertanyaan": "Organisasi pergerakan nasional mulai menghubungkan rakyat dari berbagai daerah.\n\nPilih TIGA ciri perjuangan setelah kesadaran nasional tumbuh.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Menggunakan organisasi modern."
+        },
+        {
+          "id": "B",
+          "teks": "Membangun persatuan lintas daerah."
+        },
+        {
+          "id": "C",
+          "teks": "Memanfaatkan pendidikan dan pers."
+        },
+        {
+          "id": "D",
+          "teks": "Hanya berjuang untuk satu kerajaan."
+        },
+        {
+          "id": "E",
+          "teks": "Menolak komunikasi antardaerah."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Perjuangan nasional lebih terorganisasi dan melibatkan berbagai daerah.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

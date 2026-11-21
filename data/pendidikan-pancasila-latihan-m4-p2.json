@@ -1,0 +1,290 @@
+{
+  "id": "pendidikan-pancasila-latihan-m4-p2",
+  "mataPelajaran": "Pendidikan Pancasila",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Musyawarah Mufakat",
+  "paket": 2,
+  "judul": "Musyawarah Mufakat • Paket 2",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghargai pendapat",
+      "pertanyaan": "Bagaimana cara menghargai pendapat?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menertawakan usulan"
+        },
+        {
+          "id": "B",
+          "teks": "memaksa teman diam"
+        },
+        {
+          "id": "C",
+          "teks": "mengabaikan pendapat minoritas"
+        },
+        {
+          "id": "D",
+          "teks": "mendengarkan tanpa mengejek atau memotong pembicaraan"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Setiap peserta musyawarah perlu diberi kesempatan berbicara dan didengarkan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m4-p2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Tidak memaksakan kehendak",
+      "pertanyaan": "Apa sikap yang tidak sesuai dengan musyawarah?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "mengancam peserta lain"
+        },
+        {
+          "id": "B",
+          "teks": "menolak diskusi"
+        },
+        {
+          "id": "C",
+          "teks": "bersedia mempertimbangkan usulan lain"
+        },
+        {
+          "id": "D",
+          "teks": "menuntut usulan sendiri diterima"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Memaksakan kehendak bertentangan dengan prinsip musyawarah.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m4-p2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Musyawarah keluarga: memaksa anak menerima keputusan."
+        },
+        {
+          "id": "B",
+          "teks": "Menerima keputusan: melaksanakan hasil kesepakatan dengan tanggung jawab."
+        },
+        {
+          "id": "C",
+          "teks": "Kepentingan bersama: menjadi pertimbangan utama dalam memilih usulan."
+        },
+        {
+          "id": "D",
+          "teks": "Kesempatan berpendapat: diberikan kepada semua peserta secara adil."
+        },
+        {
+          "id": "E",
+          "teks": "Perbedaan pendapat: menjadi alasan bermusuhan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m4-p2-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Kepentingan bersama: menjadi pertimbangan utama dalam memilih usulan."
+        },
+        {
+          "id": "B",
+          "teks": "Kesempatan berpendapat: diberikan kepada semua peserta secara adil."
+        },
+        {
+          "id": "C",
+          "teks": "Perbedaan pendapat: diselesaikan dengan dialog dan pertimbangan alasan."
+        },
+        {
+          "id": "D",
+          "teks": "Musyawarah keluarga: hanya orang tua yang boleh berbicara."
+        },
+        {
+          "id": "E",
+          "teks": "Manfaat musyawarah keluarga: membuat satu orang selalu menang."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m4-p2-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Kesempatan berpendapat adalah diberikan kepada semua peserta secara adil."
+        },
+        {
+          "teks": "Musyawarah keluarga adalah hanya orang tua yang boleh berbicara."
+        },
+        {
+          "teks": "Musyawarah adalah membahas persoalan bersama dengan saling mendengarkan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; musyawarah keluarga yang tepat adalah memberi kesempatan setiap anggota menyampaikan pendapat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m4-p2-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Perbedaan pendapat adalah diselesaikan dengan dialog dan pertimbangan alasan."
+        },
+        {
+          "teks": "Manfaat musyawarah keluarga adalah menambah perselisihan."
+        },
+        {
+          "teks": "Menghargai pendapat adalah mendengarkan tanpa mengejek atau memotong pembicaraan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; manfaat musyawarah keluarga yang tepat adalah membantu mencapai kesepakatan dan mengurangi pertengkaran.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m4-p2-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Menerima keputusan"
+        },
+        {
+          "teks": "Kepentingan bersama"
+        },
+        {
+          "teks": "Kesempatan berpendapat"
+        },
+        {
+          "teks": "Perbedaan pendapat"
+        }
+      ],
+      "pilihan": [
+        "menjadi pertimbangan utama dalam memilih usulan",
+        "diberikan kepada semua peserta secara adil",
+        "diselesaikan dengan dialog dan pertimbangan alasan",
+        "melaksanakan hasil kesepakatan dengan tanggung jawab"
+      ],
+      "kunci": [
+        "melaksanakan hasil kesepakatan dengan tanggung jawab",
+        "menjadi pertimbangan utama dalam memilih usulan",
+        "diberikan kepada semua peserta secara adil",
+        "diselesaikan dengan dialog dan pertimbangan alasan"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-m4-p2-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Kesempatan berpendapat"
+        },
+        {
+          "teks": "Perbedaan pendapat"
+        },
+        {
+          "teks": "Musyawarah keluarga"
+        },
+        {
+          "teks": "Manfaat musyawarah keluarga"
+        }
+      ],
+      "pilihan": [
+        "memberi kesempatan setiap anggota menyampaikan pendapat",
+        "membantu mencapai kesepakatan dan mengurangi pertengkaran",
+        "diberikan kepada semua peserta secara adil",
+        "diselesaikan dengan dialog dan pertimbangan alasan"
+      ],
+      "kunci": [
+        "diberikan kepada semua peserta secara adil",
+        "diselesaikan dengan dialog dan pertimbangan alasan",
+        "memberi kesempatan setiap anggota menyampaikan pendapat",
+        "membantu mencapai kesepakatan dan mengurangi pertengkaran"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-m4-p2-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Manfaat musyawarah keluarga",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Manfaat musyawarah keluarga?",
+      "kunci": [
+        "membantu mencapai kesepakatan dan mengurangi pertengkaran"
+      ],
+      "kataKunci": [
+        "membantu mencapai kesepakatan dan mengurangi pertengkaran"
+      ],
+      "pembahasan": "Musyawarah dapat mengurangi pertengkaran, menumbuhkan sikap saling menghargai, dan mempererat hubungan keluarga.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "pendidikan-pancasila-m4-p2-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Musyawarah",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Musyawarah?",
+      "kunci": [
+        "membahas persoalan bersama dengan saling mendengarkan"
+      ],
+      "kataKunci": [
+        "membahas persoalan bersama dengan saling mendengarkan"
+      ],
+      "pembahasan": "Musyawarah merupakan pembahasan bersama untuk mencapai keputusan yang dapat diterima.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "pendidikan-pancasila-m4-p2-q10"
+    }
+  ]
+}

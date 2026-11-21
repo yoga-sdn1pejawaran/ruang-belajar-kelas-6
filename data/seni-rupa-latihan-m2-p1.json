@@ -1,0 +1,321 @@
+{
+  "id": "seni-rupa-latihan-m2-p1",
+  "mataPelajaran": "Seni Rupa",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Perspektif Satu dan Dua Titik Hilang",
+  "paket": 1,
+  "judul": "Perspektif Satu dan Dua Titik Hilang • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Perspektif satu titik hilang",
+      "pertanyaan": "Perspektif satu titik hilang menggunakan ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "satu titik hilang"
+        },
+        {
+          "id": "B",
+          "teks": "dua titik hilang"
+        },
+        {
+          "id": "C",
+          "teks": "tiga titik pusat"
+        },
+        {
+          "id": "D",
+          "teks": "tanpa titik hilang"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Perspektif satu titik hilang menggunakan satu titik sebagai arah garis kedalaman.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Penggunaan perspektif satu titik hilang",
+      "pertanyaan": "Objek yang paling sesuai digambar dengan perspektif satu titik hilang adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "lorong yang dilihat lurus ke depan"
+        },
+        {
+          "id": "B",
+          "teks": "pojok gedung yang terlihat dari dua sisi"
+        },
+        {
+          "id": "C",
+          "teks": "vas bunga dari atas"
+        },
+        {
+          "id": "D",
+          "teks": "motif bunga melingkar"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Lorong lurus ke depan memiliki garis kedalaman yang menuju satu titik hilang.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Ciri perspektif satu titik hilang",
+      "pertanyaan": "Pilih tepat tiga ciri perspektif satu titik hilang.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Memiliki satu titik hilang."
+        },
+        {
+          "id": "B",
+          "teks": "Sisi depan objek menghadap lurus."
+        },
+        {
+          "id": "C",
+          "teks": "Garis vertikal tetap tegak."
+        },
+        {
+          "id": "D",
+          "teks": "Bangunan selalu terlihat dari dua sisi."
+        },
+        {
+          "id": "E",
+          "teks": "Memiliki dua titik hilang."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Perspektif satu titik hilang memiliki satu titik hilang, objek menghadap lurus, dan garis vertikal tetap tegak.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-lm2-q3"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Prinsip perspektif satu titik hilang",
+      "pertanyaan": "Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Perspektif satu titik hilang cocok untuk lorong lurus."
+        },
+        {
+          "teks": "Garis tinggi objek tetap vertikal tegak."
+        },
+        {
+          "teks": "Semua garis pada gambar, termasuk garis vertikal, wajib menuju titik hilang."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Garis kedalaman menuju titik hilang, tetapi garis vertikal tetap tegak.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-lm2-q4"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Perspektif dua titik hilang",
+      "pertanyaan": "Perspektif dua titik hilang paling tepat digunakan ketika bangunan dilihat ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "dari sudut sehingga dua sisi terlihat"
+        },
+        {
+          "id": "B",
+          "teks": "tepat dari depan dan hanya satu sisi terlihat"
+        },
+        {
+          "id": "C",
+          "teks": "dari atas seluruhnya"
+        },
+        {
+          "id": "D",
+          "teks": "dari bawah tanpa garis horizon"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Dua titik hilang digunakan saat objek terlihat dari sudut atau pojoknya sehingga dua sisi tampak.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm2-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Ciri perspektif dua titik hilang",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Memiliki dua titik hilang."
+        },
+        {
+          "id": "B",
+          "teks": "Bangunan dapat terlihat dari dua sisi."
+        },
+        {
+          "id": "C",
+          "teks": "Dua kelompok garis mendatar menuju titik hilang berbeda."
+        },
+        {
+          "id": "D",
+          "teks": "Semua garis vertikal harus menuju titik hilang."
+        },
+        {
+          "id": "E",
+          "teks": "Hanya digunakan untuk menggambar lingkaran."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Perspektif dua titik hilang memiliki dua titik, memperlihatkan dua sisi, dan garis mendatar menuju dua titik berbeda.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-lm2-q6"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Membedakan jenis perspektif",
+      "pertanyaan": "Lorong sekolah yang dilihat lurus dari depan paling tepat digambar menggunakan perspektif ....",
+      "pasangan": [
+        {
+          "teks": "Lorong sekolah dilihat lurus dari depan"
+        },
+        {
+          "teks": "Pojok gedung terlihat dari dua sisi"
+        },
+        {
+          "teks": "Jalan lurus dengan satu titik pertemuan garis"
+        },
+        {
+          "teks": "Bangunan dilihat dari sudut pojok"
+        }
+      ],
+      "pilihan": [
+        "Perspektif satu titik hilang",
+        "Perspektif dua titik hilang"
+      ],
+      "kunci": "A",
+      "pembahasan": "Objek atau lorong yang menghadap lurus ke depan umumnya digambar menggunakan perspektif satu titik hilang.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "sr-lm2-q7",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Satu titik hilang"
+        },
+        {
+          "id": "B",
+          "teks": "Dua titik hilang"
+        },
+        {
+          "id": "C",
+          "teks": "Tiga titik hilang"
+        },
+        {
+          "id": "D",
+          "teks": "Tanpa titik hilang"
+        }
+      ]
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menganalisis garis perspektif",
+      "pertanyaan": "Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Pada perspektif dua titik hilang, dua kelompok garis mendatar menuju titik yang berbeda."
+        },
+        {
+          "teks": "Garis horizon digambarkan mendatar."
+        },
+        {
+          "teks": "Perspektif dua titik hilang hanya memperlihatkan satu sisi bangunan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Perspektif dua titik hilang memperlihatkan dua sisi objek dan memiliki dua titik hilang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-lm2-q8"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Memilih teknik perspektif",
+      "pertanyaan": "Rani ingin menggambar gedung dari posisi berdiri tepat di depan salah satu sisi gedung. Garis sisi gedung tampak menjauh menuju satu titik. Teknik yang sesuai adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "perspektif satu titik hilang"
+        },
+        {
+          "id": "B",
+          "teks": "perspektif dua titik hilang"
+        },
+        {
+          "id": "C",
+          "teks": "stensil"
+        },
+        {
+          "id": "D",
+          "teks": "cetak tinggi"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Objek dilihat lurus dari depan dan kedalamannya menuju satu titik hilang.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "sr-lm2-q9"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Menganalisis sudut pandang",
+      "pertanyaan": "Seorang siswa menggambar pojok gedung. Sisi kiri dan kanan gedung tampak, sedangkan garis mendatar pada kedua sisi mengarah ke titik berbeda. Kesimpulan yang tepat adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menggunakan perspektif dua titik hilang"
+        },
+        {
+          "id": "B",
+          "teks": "menggunakan perspektif satu titik hilang"
+        },
+        {
+          "id": "C",
+          "teks": "tidak menggunakan perspektif"
+        },
+        {
+          "id": "D",
+          "teks": "menggunakan keseimbangan radial"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Dua sisi bangunan dan dua arah garis kedalaman menunjukkan perspektif dua titik hilang.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "sr-lm2-q10"
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

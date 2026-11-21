@@ -1,0 +1,316 @@
+{
+  "id": "bahasa-inggris-latihan-m3-p1",
+  "mataPelajaran": "Bahasa Inggris",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Subject + Verb",
+  "paket": 1,
+  "judul": "Subject + Verb • Paket 1",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengenali subject",
+      "pertanyaan": "Pada kalimat “The children play outside”, bagian yang merupakan subjek (subject) adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "play"
+        },
+        {
+          "id": "B",
+          "teks": "outside"
+        },
+        {
+          "id": "C",
+          "teks": "The children"
+        },
+        {
+          "id": "D",
+          "teks": "the"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "The children adalah pelaku atau subjek kalimat.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m3-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengenali verb",
+      "pertanyaan": "Pada kalimat “Mira reads a story”, kata yang merupakan kata kerja (verb) adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Mira"
+        },
+        {
+          "id": "B",
+          "teks": "reads"
+        },
+        {
+          "id": "C",
+          "teks": "a"
+        },
+        {
+          "id": "D",
+          "teks": "story"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Reads adalah kata kerja yang menyatakan kegiatan.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m3-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Urutan subject dan verb",
+      "pertanyaan": "Pilihlah kalimat bahasa Inggris yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Play the boys football."
+        },
+        {
+          "id": "B",
+          "teks": "The boys play football."
+        },
+        {
+          "id": "C",
+          "teks": "Football the boys play is."
+        },
+        {
+          "id": "D",
+          "teks": "The play boys football."
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Susunan dasar kalimat adalah subject diikuti verb.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m3-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Melengkapi subject dan verb",
+      "pertanyaan": "Lengkapilah kalimat berikut dengan kata kerja (verb) yang tepat:\n\nMy friends ___ in the park.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "plays"
+        },
+        {
+          "id": "B",
+          "teks": "playing"
+        },
+        {
+          "id": "C",
+          "teks": "play"
+        },
+        {
+          "id": "D",
+          "teks": "is play"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "My friends merupakan subjek jamak, sehingga menggunakan play.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m3-p1-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Mengenali subject dan verb",
+      "pertanyaan": "Pilih tepat tiga pasangan subject–verb yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Birds – fly"
+        },
+        {
+          "id": "B",
+          "teks": "Mother – cooks"
+        },
+        {
+          "id": "C",
+          "teks": "The baby – sleep"
+        },
+        {
+          "id": "D",
+          "teks": "Students – study"
+        },
+        {
+          "id": "E",
+          "teks": "A cat – are"
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Birds-fly, Mother-cooks, dan Students-study merupakan pasangan yang tepat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m3-p1-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Pola kalimat sederhana",
+      "pertanyaan": "Pilih tepat tiga kalimat dengan urutan subject + verb yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "The dog barks."
+        },
+        {
+          "id": "B",
+          "teks": "Runs Rani."
+        },
+        {
+          "id": "C",
+          "teks": "Father drives a car."
+        },
+        {
+          "id": "D",
+          "teks": "The flowers bloom."
+        },
+        {
+          "id": "E",
+          "teks": "Beautiful is garden."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Ketiganya memiliki subjek diikuti kata kerja.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m3-p1-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan penggunaan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Dalam “The bird sings”, The bird adalah subject."
+        },
+        {
+          "teks": "Dalam “Dina writes”, writes adalah subject."
+        },
+        {
+          "teks": "Verb menunjukkan kegiatan atau keadaan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Writes adalah verb, sedangkan Dina adalah subject.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m3-p1-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan penggunaan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "“My brother swims” memiliki verb swims."
+        },
+        {
+          "teks": "“The students study” memiliki subject study."
+        },
+        {
+          "teks": "Subject biasanya menunjukkan siapa atau apa yang dibicarakan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Subject pada kalimat kedua adalah The students.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m3-p1-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan contoh yang tepat",
+      "pertanyaan": "Pasangkan setiap bagian di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "The baby"
+        },
+        {
+          "teks": "My father"
+        },
+        {
+          "teks": "Birds"
+        },
+        {
+          "teks": "The students"
+        }
+      ],
+      "pilihan": [
+        "study",
+        "sleeps",
+        "fly",
+        "drives"
+      ],
+      "kunci": [
+        "sleeps",
+        "drives",
+        "fly",
+        "study"
+      ],
+      "pembahasan": "The baby-sleeps, My father-drives, Birds-fly, The students-study.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-latihan-m3-p1-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan contoh yang tepat",
+      "pertanyaan": "Pasangkan setiap bagian di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Subject"
+        },
+        {
+          "teks": "Verb"
+        },
+        {
+          "teks": "Object"
+        },
+        {
+          "teks": "Sentence"
+        }
+      ],
+      "pilihan": [
+        "kata yang menyatakan tindakan/kegiatan",
+        "pelaku atau pokok yang dibicarakan",
+        "susunan kata yang menyampaikan makna lengkap",
+        "penerima tindakan"
+      ],
+      "kunci": [
+        "pelaku atau pokok yang dibicarakan",
+        "kata yang menyatakan tindakan/kegiatan",
+        "penerima tindakan",
+        "susunan kata yang menyampaikan makna lengkap"
+      ],
+      "pembahasan": "Subject adalah pokok yang dibicarakan; verb menyatakan tindakan; object menerima tindakan; sentence menyampaikan makna lengkap.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-latihan-m3-p1-q10"
+    }
+  ]
+}

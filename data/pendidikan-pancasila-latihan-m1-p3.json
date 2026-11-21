@@ -1,0 +1,290 @@
+{
+  "id": "pendidikan-pancasila-latihan-m1-p3",
+  "mataPelajaran": "Pendidikan Pancasila",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Perumusan Pancasila dan Hubungan Antarsila",
+  "paket": 3,
+  "judul": "Perumusan Pancasila dan Hubungan Antarsila • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Panitia Sembilan",
+      "pertanyaan": "Dokumen apa yang dirumuskan Panitia Sembilan?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "memimpin Perang Jawa"
+        },
+        {
+          "id": "B",
+          "teks": "merumuskan Piagam Jakarta"
+        },
+        {
+          "id": "C",
+          "teks": "menyusun teks Sumpah Pemuda"
+        },
+        {
+          "id": "D",
+          "teks": "membentuk ASEAN"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Panitia Sembilan merumuskan Piagam Jakarta pada 22 Juni 1945.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m1-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "PPKI",
+      "pertanyaan": "Kapan UUD 1945 disahkan?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "mengesahkan UUD 1945 dan menetapkan presiden-wakil presiden pada 18 Agustus 1945"
+        },
+        {
+          "id": "B",
+          "teks": "membentuk BPUPKI"
+        },
+        {
+          "id": "C",
+          "teks": "mengikrarkan Sumpah Pemuda"
+        },
+        {
+          "id": "D",
+          "teks": "membuat perjanjian Renville"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "PPKI mengesahkan UUD 1945 serta memilih Soekarno dan Mohammad Hatta sebagai presiden dan wakil presiden.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m1-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Keterkaitan sila ketiga dan keempat: persatuan menjadi dasar musyawarah untuk kepentingan bersama."
+        },
+        {
+          "id": "B",
+          "teks": "Keterkaitan sila kedua dan kelima: kepedulian kepada sesama diwujudkan melalui perlakuan adil."
+        },
+        {
+          "id": "C",
+          "teks": "Gotong royong: bekerja bersama secara sukarela untuk kepentingan bersama."
+        },
+        {
+          "id": "D",
+          "teks": "BPUPKI: membentuk ASEAN."
+        },
+        {
+          "id": "E",
+          "teks": "Pidato 1 Juni 1945: Sumpah Pemuda."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m1-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Gotong royong: bekerja bersama secara sukarela untuk kepentingan bersama."
+        },
+        {
+          "id": "B",
+          "teks": "BPUPKI: membahas dasar negara dalam sidang menjelang kemerdekaan."
+        },
+        {
+          "id": "C",
+          "teks": "Pidato 1 Juni 1945: Proklamasi kemerdekaan."
+        },
+        {
+          "id": "D",
+          "teks": "Panitia Sembilan: membentuk ASEAN."
+        },
+        {
+          "id": "E",
+          "teks": "Keterkaitan sila kedua dan kelima: kepedulian kepada sesama diwujudkan melalui perlakuan adil."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m1-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Gotong royong adalah bekerja bersama secara sukarela untuk kepentingan bersama."
+        },
+        {
+          "teks": "Pidato 1 Juni 1945 adalah Proklamasi kemerdekaan."
+        },
+        {
+          "teks": "PPKI adalah mengesahkan UUD 1945 dan menetapkan presiden-wakil presiden pada 18 Agustus 1945."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; pidato 1 juni 1945 yang tepat adalah Soekarno menyampaikan gagasan dasar negara yang dinamai Pancasila.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m1-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "BPUPKI adalah membahas dasar negara dalam sidang menjelang kemerdekaan."
+        },
+        {
+          "teks": "Panitia Sembilan adalah menyusun teks Sumpah Pemuda."
+        },
+        {
+          "teks": "Keterkaitan sila pertama dan kedua adalah menghormati keyakinan sekaligus memperlakukan sesama manusia secara adil."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; panitia sembilan yang tepat adalah merumuskan Piagam Jakarta.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m1-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Gotong royong"
+        },
+        {
+          "teks": "BPUPKI"
+        },
+        {
+          "teks": "Pidato 1 Juni 1945"
+        },
+        {
+          "teks": "Panitia Sembilan"
+        }
+      ],
+      "pilihan": [
+        "Soekarno menyampaikan gagasan dasar negara yang dinamai Pancasila",
+        "merumuskan Piagam Jakarta",
+        "bekerja bersama secara sukarela untuk kepentingan bersama",
+        "membahas dasar negara dalam sidang menjelang kemerdekaan"
+      ],
+      "kunci": [
+        "bekerja bersama secara sukarela untuk kepentingan bersama",
+        "membahas dasar negara dalam sidang menjelang kemerdekaan",
+        "Soekarno menyampaikan gagasan dasar negara yang dinamai Pancasila",
+        "merumuskan Piagam Jakarta"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-m1-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Pidato 1 Juni 1945"
+        },
+        {
+          "teks": "Panitia Sembilan"
+        },
+        {
+          "teks": "PPKI"
+        },
+        {
+          "teks": "Keterkaitan sila pertama dan kedua"
+        }
+      ],
+      "pilihan": [
+        "menghormati keyakinan sekaligus memperlakukan sesama manusia secara adil",
+        "Soekarno menyampaikan gagasan dasar negara yang dinamai Pancasila",
+        "merumuskan Piagam Jakarta",
+        "mengesahkan UUD 1945 dan menetapkan presiden-wakil presiden pada 18 Agustus 1945"
+      ],
+      "kunci": [
+        "Soekarno menyampaikan gagasan dasar negara yang dinamai Pancasila",
+        "merumuskan Piagam Jakarta",
+        "mengesahkan UUD 1945 dan menetapkan presiden-wakil presiden pada 18 Agustus 1945",
+        "menghormati keyakinan sekaligus memperlakukan sesama manusia secara adil"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-m1-p3-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Panitia Sembilan",
+      "pertanyaan": "Lengkapi pernyataan berikut: Panitia Sembilan berarti ....",
+      "kunci": [
+        "merumuskan Piagam Jakarta"
+      ],
+      "kataKunci": [
+        "merumuskan Piagam Jakarta"
+      ],
+      "pembahasan": "Panitia Sembilan merumuskan Piagam Jakarta pada 22 Juni 1945.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "pendidikan-pancasila-m1-p3-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "PPKI",
+      "pertanyaan": "Lengkapi pernyataan berikut: PPKI berarti ....",
+      "kunci": [
+        "mengesahkan UUD 1945 dan menetapkan presiden-wakil presiden pada 18 Agustus 1945"
+      ],
+      "kataKunci": [
+        "mengesahkan UUD 1945 dan menetapkan presiden-wakil presiden pada 18 Agustus 1945"
+      ],
+      "pembahasan": "PPKI mengesahkan UUD 1945 serta memilih Soekarno dan Mohammad Hatta sebagai presiden dan wakil presiden.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "pendidikan-pancasila-m1-p3-q10"
+    }
+  ]
+}

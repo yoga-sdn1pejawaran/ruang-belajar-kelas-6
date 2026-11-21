@@ -1,0 +1,317 @@
+{
+  "id": "bahasa-indonesia-latihan-m5-p1",
+  "mataPelajaran": "Bahasa Indonesia",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Teks Eksplanasi Ilmiah dan Catatan Perjalanan",
+  "paket": 1,
+  "judul": "Teks Eksplanasi Ilmiah dan Catatan Perjalanan • Latihan",
+  "durasiMenit": 0,
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu.",
+  "soal": [
+    {
+      "id": "bi-m5-p1-q01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Membedakan cuaca dan iklim",
+      "pertanyaan": "Iklim adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pola rata-rata keadaan cuaca dalam waktu lama di suatu wilayah"
+        },
+        {
+          "id": "B",
+          "teks": "keadaan udara pada satu tempat dalam beberapa menit"
+        },
+        {
+          "id": "C",
+          "teks": "ramalan cuaca untuk satu hari saja"
+        },
+        {
+          "id": "D",
+          "teks": "perubahan suhu yang terjadi setiap jam"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Iklim merupakan pola rata-rata keadaan cuaca dalam jangka waktu lama di suatu wilayah.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "bi-m5-p1-q02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengidentifikasi isi catatan perjalanan",
+      "pertanyaan": "Informasi yang tepat dicantumkan dalam catatan perjalanan adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "waktu, tempat yang dikunjungi, kegiatan, dan pengalaman"
+        },
+        {
+          "id": "B",
+          "teks": "daftar rumus dan langkah menghitung"
+        },
+        {
+          "id": "C",
+          "teks": "pendapat tanpa urutan kejadian"
+        },
+        {
+          "id": "D",
+          "teks": "hanya nama penulis tanpa informasi perjalanan"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Catatan perjalanan memuat waktu, tujuan, tempat, kegiatan, hal yang diamati, dan pengalaman.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "bi-m5-p1-q03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Membedakan catatan perjalanan dan teks eksplanasi",
+      "pertanyaan": "Perbedaan tujuan catatan perjalanan dan teks eksplanasi adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "catatan perjalanan menceritakan pengalaman, sedangkan teks eksplanasi menjelaskan proses atau sebab fenomena"
+        },
+        {
+          "id": "B",
+          "teks": "keduanya hanya berisi dialog antartokoh"
+        },
+        {
+          "id": "C",
+          "teks": "catatan perjalanan menjelaskan proses alam, sedangkan teks eksplanasi menceritakan liburan"
+        },
+        {
+          "id": "D",
+          "teks": "keduanya selalu disusun tanpa urutan"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Catatan perjalanan berfokus pada pengalaman atau urutan kegiatan; teks eksplanasi berfokus pada proses atau sebab terjadinya fenomena.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "bi-m5-p1-q04",
+      "jenis": "benar_salah",
+      "indikator": "Memahami ciri catatan perjalanan dan teks eksplanasi",
+      "pertanyaan": "Bacalah setiap pernyataan, kemudian tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Catatan perjalanan dapat disusun berdasarkan urutan waktu."
+        },
+        {
+          "teks": "Teks eksplanasi menjelaskan proses atau sebab terjadinya suatu fenomena."
+        },
+        {
+          "teks": "Iklim adalah keadaan udara yang berubah setiap beberapa menit."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Catatan perjalanan umumnya runtut menurut waktu atau tempat. Teks eksplanasi menjelaskan proses atau sebab fenomena. Iklim diamati dalam jangka panjang, bukan berubah setiap beberapa menit.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "bi-m5-p1-q05",
+      "jenis": "menjodohkan",
+      "indikator": "Membedakan tema, gagasan utama, dan informasi pendukung",
+      "pertanyaan": "Pasangkan istilah dengan pengertian yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Tema"
+        },
+        {
+          "teks": "Gagasan utama"
+        },
+        {
+          "teks": "Informasi pendukung"
+        },
+        {
+          "teks": "Catatan perjalanan"
+        }
+      ],
+      "pilihan": [
+        "Pokok umum yang menaungi pembahasan teks",
+        "Inti pembahasan dalam satu paragraf",
+        "Rincian, contoh, atau data yang menjelaskan inti paragraf",
+        "Tulisan tentang pengalaman atau kunjungan ke suatu tempat"
+      ],
+      "kunci": [
+        "Pokok umum yang menaungi pembahasan teks",
+        "Inti pembahasan dalam satu paragraf",
+        "Rincian, contoh, atau data yang menjelaskan inti paragraf",
+        "Tulisan tentang pengalaman atau kunjungan ke suatu tempat"
+      ],
+      "pembahasan": "Tema bersifat umum; gagasan utama merupakan inti paragraf; informasi pendukung menjelaskan inti; catatan perjalanan menceritakan pengalaman kunjungan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "bi-m5-p1-q06",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Membaca infografis secara cermat",
+      "pertanyaan": "Saat membaca infografis tentang perubahan suhu selama beberapa hari, pilih TIGA langkah yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Membaca judul dan keterangan infografis."
+        },
+        {
+          "id": "B",
+          "teks": "Memeriksa angka, label, dan satuan yang digunakan."
+        },
+        {
+          "id": "C",
+          "teks": "Memperhatikan sumber data jika dicantumkan."
+        },
+        {
+          "id": "D",
+          "teks": "Menambahkan angka yang tidak ditampilkan agar cerita lebih menarik."
+        },
+        {
+          "id": "E",
+          "teks": "Menyimpulkan hal yang tidak didukung oleh data."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pembaca perlu memeriksa judul, label, satuan, dan sumber data. Kesimpulan tidak boleh menambahkan informasi yang tidak ditampilkan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "bi-m5-p1-q07",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menjelaskan hubungan sebab-akibat fenomena iklim",
+      "pertanyaan": "Peningkatan gas rumah kaca dapat memperkuat efek rumah kaca. Salah satu akibat yang dijelaskan dalam materi adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "lebih banyak panas tertahan di atmosfer sehingga suhu rata-rata bumi meningkat"
+        },
+        {
+          "id": "B",
+          "teks": "seluruh hujan berhenti secara permanen"
+        },
+        {
+          "id": "C",
+          "teks": "rotasi bumi menjadi lebih cepat"
+        },
+        {
+          "id": "D",
+          "teks": "semua wilayah memiliki suhu yang sama"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Peningkatan gas rumah kaca dapat membuat lebih banyak panas tertahan di atmosfer dan meningkatkan suhu rata-rata bumi.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "bi-m5-p1-q08",
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan informasi dalam catatan perjalanan",
+      "pertanyaan": "Tentukan Benar atau Salah untuk setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Catatan perjalanan dapat memuat tempat yang dikunjungi dan kegiatan yang dilakukan."
+        },
+        {
+          "teks": "Catatan perjalanan harus selalu menjelaskan proses ilmiah suatu fenomena."
+        },
+        {
+          "teks": "Catatan perjalanan dapat menggambarkan suasana tempat yang dikunjungi."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Catatan perjalanan berisi waktu, tempat, kegiatan, pengamatan, dan pengalaman. Penjelasan proses ilmiah merupakan tujuan teks eksplanasi.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "bi-m5-p1-q09",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis perbedaan teks eksplanasi dan catatan perjalanan",
+      "pertanyaan": "Pilih TIGA pernyataan yang tepat tentang catatan perjalanan dan teks eksplanasi.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Catatan perjalanan dapat disusun menurut urutan waktu atau tempat."
+        },
+        {
+          "id": "B",
+          "teks": "Teks eksplanasi dapat menjelaskan sebab dan akibat suatu fenomena."
+        },
+        {
+          "id": "C",
+          "teks": "Catatan perjalanan dapat memuat pengalaman dan hal yang diamati penulis."
+        },
+        {
+          "id": "D",
+          "teks": "Teks eksplanasi selalu menceritakan pengalaman pribadi penulis saat berlibur."
+        },
+        {
+          "id": "E",
+          "teks": "Catatan perjalanan tidak boleh memuat keterangan waktu."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Catatan perjalanan memuat pengalaman dan disusun runtut. Teks eksplanasi menjelaskan proses atau hubungan sebab-akibat. Pernyataan D dan E tidak tepat.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "bi-m5-p1-q10",
+      "jenis": "menjodohkan",
+      "indikator": "Mengidentifikasi informasi dalam catatan perjalanan",
+      "pertanyaan": "Pasangkan informasi dalam catatan perjalanan dengan contoh yang sesuai.",
+      "pasangan": [
+        {
+          "teks": "Waktu perjalanan"
+        },
+        {
+          "teks": "Tempat yang dikunjungi"
+        },
+        {
+          "teks": "Kegiatan"
+        },
+        {
+          "teks": "Pengalaman atau pengamatan"
+        }
+      ],
+      "pilihan": [
+        "Pukul delapan pagi",
+        "Museum daerah",
+        "Mengamati koleksi peninggalan sejarah",
+        "Melihat benda bersejarah dan mencatat keterangannya"
+      ],
+      "kunci": [
+        "Pukul delapan pagi",
+        "Museum daerah",
+        "Mengamati koleksi peninggalan sejarah",
+        "Melihat benda bersejarah dan mencatat keterangannya"
+      ],
+      "pembahasan": "Catatan perjalanan dapat memuat waktu, lokasi, kegiatan, serta pengalaman atau hasil pengamatan selama perjalanan.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 4
+    }
+  ]
+}

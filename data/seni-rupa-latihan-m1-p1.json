@@ -1,0 +1,310 @@
+{
+  "id": "seni-rupa-latihan-m1-p1",
+  "mataPelajaran": "Seni Rupa",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Pengertian dan Unsur Gambar Perspektif",
+  "paket": 1,
+  "judul": "Pengertian dan Unsur Gambar Perspektif • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pengertian gambar perspektif",
+      "pertanyaan": "Gambar perspektif adalah teknik menggambar yang bertujuan membuat benda pada bidang datar tampak memiliki ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "ruang, jarak, dan kedalaman"
+        },
+        {
+          "id": "B",
+          "teks": "warna yang selalu sama"
+        },
+        {
+          "id": "C",
+          "teks": "pola berulang"
+        },
+        {
+          "id": "D",
+          "teks": "permukaan yang berlubang"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Perspektif memberi kesan ruang, jarak, dan kedalaman sehingga gambar 2D tampak seperti memiliki bentuk 3D.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Perbedaan gambar 2D dan 3D",
+      "pertanyaan": "Ciri utama gambar dua dimensi adalah memiliki ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "panjang dan lebar"
+        },
+        {
+          "id": "B",
+          "teks": "panjang, lebar, dan volume nyata"
+        },
+        {
+          "id": "C",
+          "teks": "tinggi dan kedalaman saja"
+        },
+        {
+          "id": "D",
+          "teks": "tiga sisi yang terlihat"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Gambar 2D memiliki panjang dan lebar serta tampak datar.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Unsur penting perspektif",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang garis horizon dan titik hilang.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Garis horizon digambarkan mendatar."
+        },
+        {
+          "id": "B",
+          "teks": "Titik hilang adalah tempat garis yang menjauh seolah-olah bertemu."
+        },
+        {
+          "id": "C",
+          "teks": "Garis horizon menunjukkan ketinggian pandangan mata."
+        },
+        {
+          "id": "D",
+          "teks": "Titik hilang selalu berada di sudut bawah kertas."
+        },
+        {
+          "id": "E",
+          "teks": "Garis horizon harus berbentuk lengkung."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Garis horizon mendatar dan menjadi acuan pandangan mata; titik hilang merupakan tempat garis-garis perspektif seolah bertemu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-lm1-q3"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Prinsip dasar perspektif",
+      "pertanyaan": "Tentukan Benar atau Salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Benda yang dekat biasanya tampak lebih besar."
+        },
+        {
+          "teks": "Benda yang jauh biasanya tampak lebih kecil."
+        },
+        {
+          "teks": "Perspektif membantu memberikan kesan kedalaman."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "Ketiga pernyataan sesuai dengan prinsip dasar perspektif.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "sr-lm1-q4"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Fungsi garis horizon",
+      "pertanyaan": "Garis khayal mendatar yang sejajar dengan pandangan mata pengamat disebut garis ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "diagonal"
+        },
+        {
+          "id": "B",
+          "teks": "horizon"
+        },
+        {
+          "id": "C",
+          "teks": "lengkung"
+        },
+        {
+          "id": "D",
+          "teks": "vertikal"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Garis horizon adalah garis khayal mendatar yang sejajar dengan pandangan mata.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm1-q5"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan unsur perspektif",
+      "pertanyaan": "Pasangkan istilah di sebelah kiri dengan pengertian yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Garis horizon"
+        },
+        {
+          "teks": "Titik hilang"
+        },
+        {
+          "teks": "Gambar 2D"
+        },
+        {
+          "teks": "Gambar 3D"
+        }
+      ],
+      "pilihan": [
+        "Memiliki panjang, lebar, dan tinggi/volume",
+        "Garis khayal mendatar sejajar pandangan mata",
+        "Tempat garis-garis yang menjauh seolah bertemu",
+        "Memiliki panjang dan lebar"
+      ],
+      "kunci": [
+        "Garis khayal mendatar sejajar pandangan mata",
+        "Tempat garis-garis yang menjauh seolah bertemu",
+        "Memiliki panjang dan lebar",
+        "Memiliki panjang, lebar, dan tinggi/volume"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan ciri atau pengertiannya.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "sr-lm1-q6"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menerapkan prinsip perspektif",
+      "pertanyaan": "Sebuah gambar menunjukkan deretan pohon di tepi jalan. Pohon paling dekat digambar besar, sedangkan pohon yang jauh digambar kecil. Pilih tiga alasan yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Ukuran tampak berubah karena jarak pandang."
+        },
+        {
+          "id": "B",
+          "teks": "Objek jauh terlihat lebih kecil."
+        },
+        {
+          "id": "C",
+          "teks": "Perbedaan ukuran membantu menunjukkan kedalaman."
+        },
+        {
+          "id": "D",
+          "teks": "Objek jauh harus selalu lebih besar."
+        },
+        {
+          "id": "E",
+          "teks": "Perspektif menghilangkan kesan ruang."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Benda dekat tampak lebih besar, benda jauh lebih kecil, dan perbedaan itu memberi kesan kedalaman.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "sr-lm1-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menganalisis unsur perspektif",
+      "pertanyaan": "Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Titik hilang membantu menunjukkan arah garis perspektif."
+        },
+        {
+          "teks": "Garis horizon merupakan garis tegak dari atas ke bawah."
+        },
+        {
+          "teks": "Perspektif dapat membuat gambar datar tampak memiliki kedalaman."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Titik hilang menunjukkan arah kedalaman, garis horizon mendatar, dan perspektif memberi kesan ruang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-lm1-q8"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengidentifikasi penerapan perspektif",
+      "pertanyaan": "Ketika melihat rel kereta api dari kejauhan, kedua rel tampak semakin mendekat. Peristiwa ini menunjukkan prinsip ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "perspektif"
+        },
+        {
+          "id": "B",
+          "teks": "stensil"
+        },
+        {
+          "id": "C",
+          "teks": "anyaman"
+        },
+        {
+          "id": "D",
+          "teks": "keseimbangan radial"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Garis rel tampak saling mendekat ke arah titik hilang sehingga menunjukkan perspektif.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "sr-lm1-q9"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan fungsi perspektif",
+      "pertanyaan": "Mengapa benda yang jauh digambar lebih kecil dalam gambar perspektif?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Agar terlihat memiliki jarak dan kedalaman"
+        },
+        {
+          "id": "B",
+          "teks": "Agar semua benda memiliki ukuran sama"
+        },
+        {
+          "id": "C",
+          "teks": "Agar garis horizon menghilang"
+        },
+        {
+          "id": "D",
+          "teks": "Agar gambar menjadi pola simetris"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Perbedaan ukuran sesuai jarak membuat gambar tampak memiliki ruang dan kedalaman.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "sr-lm1-q10"
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

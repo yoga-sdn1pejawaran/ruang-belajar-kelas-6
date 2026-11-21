@@ -1,0 +1,290 @@
+{
+  "id": "ipas-latihan-m5-p2",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Benua, Samudra, dan Kerja Sama Global",
+  "paket": 2,
+  "judul": "Benua, Samudra, dan Kerja Sama Global • Paket 2",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Benua terkecil",
+      "pertanyaan": "Apa benua terkecil di dunia?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Afrika"
+        },
+        {
+          "id": "B",
+          "teks": "Amerika Utara"
+        },
+        {
+          "id": "C",
+          "teks": "Australia"
+        },
+        {
+          "id": "D",
+          "teks": "Asia"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Australia dikenal sebagai benua terkecil.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "ipas-m5-p2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Samudra terluas",
+      "pertanyaan": "Apa nama samudra terluas?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Atlantik"
+        },
+        {
+          "id": "B",
+          "teks": "Pasifik"
+        },
+        {
+          "id": "C",
+          "teks": "Arktik"
+        },
+        {
+          "id": "D",
+          "teks": "Hindia"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Samudra Pasifik merupakan samudra terluas.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "ipas-m5-p2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Benua terluas: Eropa."
+        },
+        {
+          "id": "B",
+          "teks": "Piramida Giza: Mesir di benua Afrika."
+        },
+        {
+          "id": "C",
+          "teks": "Patung Liberty: Amerika Serikat di Amerika Utara."
+        },
+        {
+          "id": "D",
+          "teks": "ASEAN: organisasi kerja sama negara-negara Asia Tenggara."
+        },
+        {
+          "id": "E",
+          "teks": "Impor dan ekspor: impor menjual ke luar; ekspor membeli dari luar."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m5-p2-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Patung Liberty: Amerika Serikat di Amerika Utara."
+        },
+        {
+          "id": "B",
+          "teks": "ASEAN: organisasi kerja sama negara-negara Asia Tenggara."
+        },
+        {
+          "id": "C",
+          "teks": "Impor dan ekspor: impor membeli barang dari luar negeri; ekspor menjual barang ke luar negeri."
+        },
+        {
+          "id": "D",
+          "teks": "Benua terluas: Australia."
+        },
+        {
+          "id": "E",
+          "teks": "Benua terkecil: Afrika."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m5-p2-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "ASEAN adalah organisasi kerja sama negara-negara Asia Tenggara."
+        },
+        {
+          "teks": "Benua terluas adalah Australia."
+        },
+        {
+          "teks": "Samudra terluas adalah Pasifik."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; benua terluas yang tepat adalah Asia.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m5-p2-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Impor dan ekspor adalah impor membeli barang dari luar negeri; ekspor menjual barang ke luar negeri."
+        },
+        {
+          "teks": "Benua terkecil adalah Asia."
+        },
+        {
+          "teks": "Menara Eiffel adalah Prancis di benua Eropa."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; benua terkecil yang tepat adalah Australia.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m5-p2-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "ASEAN"
+        },
+        {
+          "teks": "Impor dan ekspor"
+        },
+        {
+          "teks": "Benua terluas"
+        },
+        {
+          "teks": "Benua terkecil"
+        }
+      ],
+      "pilihan": [
+        "impor membeli barang dari luar negeri; ekspor menjual barang ke luar negeri",
+        "Asia",
+        "Australia",
+        "organisasi kerja sama negara-negara Asia Tenggara"
+      ],
+      "kunci": [
+        "organisasi kerja sama negara-negara Asia Tenggara",
+        "impor membeli barang dari luar negeri; ekspor menjual barang ke luar negeri",
+        "Asia",
+        "Australia"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m5-p2-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Benua terluas"
+        },
+        {
+          "teks": "Benua terkecil"
+        },
+        {
+          "teks": "Samudra terluas"
+        },
+        {
+          "teks": "Menara Eiffel"
+        }
+      ],
+      "pilihan": [
+        "Pasifik",
+        "Prancis di benua Eropa",
+        "Asia",
+        "Australia"
+      ],
+      "kunci": [
+        "Asia",
+        "Australia",
+        "Pasifik",
+        "Prancis di benua Eropa"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m5-p2-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Benua terkecil",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Benua terkecil?",
+      "kunci": [
+        "Australia"
+      ],
+      "kataKunci": [
+        "Australia"
+      ],
+      "pembahasan": "Australia dikenal sebagai benua terkecil.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m5-p2-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Samudra terluas",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Samudra terluas?",
+      "kunci": [
+        "Pasifik"
+      ],
+      "kataKunci": [
+        "Pasifik"
+      ],
+      "pembahasan": "Samudra Pasifik merupakan samudra terluas.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m5-p2-q10"
+    }
+  ]
+}

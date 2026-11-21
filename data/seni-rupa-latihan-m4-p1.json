@@ -1,0 +1,310 @@
+{
+  "id": "seni-rupa-latihan-m4-p1",
+  "mataPelajaran": "Seni Rupa",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Seni Grafis: Cetak Tinggi dan Stensil",
+  "paket": 1,
+  "judul": "Seni Grafis: Cetak Tinggi dan Stensil • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pengertian seni grafis",
+      "pertanyaan": "Seni grafis adalah karya seni rupa yang dibuat dengan cara ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "mencetak gambar atau motif pada media"
+        },
+        {
+          "id": "B",
+          "teks": "memahat batu menjadi patung"
+        },
+        {
+          "id": "C",
+          "teks": "menyusun bahan menjadi anyaman"
+        },
+        {
+          "id": "D",
+          "teks": "menggambar perspektif ruang"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Seni grafis menghasilkan karya melalui proses mencetak gambar atau motif pada media.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm4-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Teknik cetak tinggi",
+      "pertanyaan": "Teknik cetak tinggi memanfaatkan bagian permukaan cetakan yang ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menonjol"
+        },
+        {
+          "id": "B",
+          "teks": "berlubang seluruhnya"
+        },
+        {
+          "id": "C",
+          "teks": "terendam air"
+        },
+        {
+          "id": "D",
+          "teks": "berbentuk garis horizon"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Pada cetak tinggi, pewarna diberikan pada permukaan cetakan yang menonjol.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm4-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Alat dan bahan seni grafis",
+      "pertanyaan": "Pilih tepat tiga pasangan bahan dan fungsi yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pelepah pisang: bahan cetakan alami."
+        },
+        {
+          "id": "B",
+          "teks": "Karton bekas: membuat pola stensil."
+        },
+        {
+          "id": "C",
+          "teks": "Kertas gambar: media menerima hasil cetakan."
+        },
+        {
+          "id": "D",
+          "teks": "Wadah cat: bahan utama pembuat lubang pola."
+        },
+        {
+          "id": "E",
+          "teks": "Pewarna: alat untuk memotong karton."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pelepah pisang menjadi bahan cetakan, karton untuk pola stensil, dan kertas untuk menerima cetakan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-lm4-q3"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Prinsip cetak tinggi dan stensil",
+      "pertanyaan": "Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Cetak tinggi menggunakan permukaan cetakan yang menonjol."
+        },
+        {
+          "teks": "Stensil menggunakan pola berlubang."
+        },
+        {
+          "teks": "Cetak tinggi hanya dapat menggunakan bahan logam."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Cetak tinggi dapat menggunakan bahan sederhana seperti pelepah pisang atau spons.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "sr-lm4-q4"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Teknik stensil",
+      "pertanyaan": "Teknik yang menggunakan karton berpola lubang dan pewarna yang diusapkan melalui lubang adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "stensil"
+        },
+        {
+          "id": "B",
+          "teks": "cetak tinggi"
+        },
+        {
+          "id": "C",
+          "teks": "perspektif"
+        },
+        {
+          "id": "D",
+          "teks": "anyaman"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Stensil menggunakan pola berlubang; warna masuk melalui bagian yang terbuka.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm4-q5"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Mengurutkan langkah cetak tinggi",
+      "pertanyaan": "Pasangkan tahap kerja dengan urutan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Membuat rancangan motif"
+        },
+        {
+          "teks": "Menyiapkan alat dan bahan"
+        },
+        {
+          "teks": "Mengoleskan pewarna pada permukaan menonjol"
+        },
+        {
+          "teks": "Menekan cetakan pada kertas"
+        }
+      ],
+      "pilihan": [
+        "Tahap 4",
+        "Tahap 2",
+        "Tahap 1",
+        "Tahap 3"
+      ],
+      "kunci": [
+        "Tahap 1",
+        "Tahap 2",
+        "Tahap 3",
+        "Tahap 4"
+      ],
+      "pembahasan": "Urutan kerja dimulai dengan merancang motif, menyiapkan bahan, memberi warna, lalu menekan cetakan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "sr-lm4-q6"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Mengenali teknik seni grafis",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pelepah pisang dapat menjadi bahan cetak tinggi."
+        },
+        {
+          "id": "B",
+          "teks": "Karton berlubang dapat digunakan untuk stensil."
+        },
+        {
+          "id": "C",
+          "teks": "Spons dapat digunakan sebagai cetakan sederhana."
+        },
+        {
+          "id": "D",
+          "teks": "Stensil harus menggunakan permukaan menonjol."
+        },
+        {
+          "id": "E",
+          "teks": "Kertas gambar tidak dapat menerima hasil cetakan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pelepah pisang dan spons dapat digunakan untuk cetak tinggi, sedangkan karton berlubang digunakan untuk stensil.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-lm4-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Merancang karya grafis",
+      "pertanyaan": "Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Sketsa membantu menentukan motif sebelum mencetak."
+        },
+        {
+          "teks": "Susunan motif dan pemilihan warna memengaruhi keindahan karya."
+        },
+        {
+          "teks": "Bahan di sekitar tidak dapat dimanfaatkan untuk cetakan sederhana."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Sketsa dan penataan warna membantu perancangan; bahan sekitar dapat dimanfaatkan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-lm4-q8"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Penerapan teknik stensil",
+      "pertanyaan": "Kiki ingin membuat motif kupu-kupu berulang menggunakan karton yang dilubangi berbentuk kupu-kupu. Ia mengusapkan cat dengan spons melalui lubang. Teknik yang digunakan adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "stensil"
+        },
+        {
+          "id": "B",
+          "teks": "cetak tinggi"
+        },
+        {
+          "id": "C",
+          "teks": "cetak dalam"
+        },
+        {
+          "id": "D",
+          "teks": "perspektif dua titik"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Pola karton berlubang dan pewarna yang diaplikasikan melalui lubang merupakan teknik stensil.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "sr-lm4-q9"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Perbedaan teknik cetak",
+      "pertanyaan": "Pernyataan yang tepat untuk membedakan cetak tinggi dan stensil adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Cetak tinggi memakai permukaan menonjol, sedangkan stensil memakai pola berlubang."
+        },
+        {
+          "id": "B",
+          "teks": "Cetak tinggi memakai pola berlubang, sedangkan stensil memakai permukaan menonjol."
+        },
+        {
+          "id": "C",
+          "teks": "Keduanya hanya dapat memakai bahan logam."
+        },
+        {
+          "id": "D",
+          "teks": "Keduanya tidak menggunakan pewarna."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Perbedaan utama terletak pada bagian yang menerima warna: permukaan menonjol pada cetak tinggi dan lubang pola pada stensil.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "sr-lm4-q10"
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

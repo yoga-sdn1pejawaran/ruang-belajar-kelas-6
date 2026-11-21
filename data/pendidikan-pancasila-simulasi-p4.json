@@ -1,0 +1,845 @@
+{
+  "id": "pendidikan-pancasila-simulasi-p4",
+  "mataPelajaran": "Pendidikan Pancasila",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "paket": 4,
+  "judul": "Simulasi ASAS Pendidikan Pancasila • Paket 4",
+  "durasiMenit": 75,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghargai perbedaan",
+      "pertanyaan": "Mengapa perbedaan tidak boleh menjadi alasan perpecahan?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "mengejek pendapat berbeda"
+        },
+        {
+          "id": "B",
+          "teks": "memaksa semua orang setuju"
+        },
+        {
+          "id": "C",
+          "teks": "mengabaikan kelompok kecil"
+        },
+        {
+          "id": "D",
+          "teks": "mendengarkan pendapat orang lain tanpa merendahkan"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Menghargai perbedaan berarti mendengarkan dan mempertimbangkan pendapat orang lain dengan santun.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-sim-p4-q1"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Keteladanan pendiri bangsa: mengutamakan kepentingan umum dan menjaga persatuan."
+        },
+        {
+          "id": "B",
+          "teks": "Perjuangan melalui organisasi: membangun kesadaran dan persatuan secara terarah."
+        },
+        {
+          "id": "C",
+          "teks": "Kepentingan bersama: keputusan dan tindakan mempertimbangkan manfaat bagi semua."
+        },
+        {
+          "id": "D",
+          "teks": "Persatuan: mengutamakan kelompok sendiri."
+        },
+        {
+          "id": "E",
+          "teks": "Rela berkorban: menghindari tugas."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-sim-p4-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Kepentingan bersama: keputusan dan tindakan mempertimbangkan manfaat bagi semua."
+        },
+        {
+          "id": "B",
+          "teks": "Persatuan: mengutamakan kesatuan bangsa di atas perbedaan daerah."
+        },
+        {
+          "id": "C",
+          "teks": "Rela berkorban: menuntut keuntungan pribadi."
+        },
+        {
+          "id": "D",
+          "teks": "Kerja keras: menunggu orang lain bekerja."
+        },
+        {
+          "id": "E",
+          "teks": "Perjuangan melalui organisasi: membangun kesadaran dan persatuan secara terarah."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-sim-p4-q3"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Kepentingan bersama adalah keputusan dan tindakan mempertimbangkan manfaat bagi semua."
+        },
+        {
+          "teks": "Rela berkorban adalah menuntut keuntungan pribadi."
+        },
+        {
+          "teks": "Menghargai perbedaan adalah mendengarkan pendapat orang lain tanpa merendahkan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; rela berkorban yang tepat adalah mendahulukan kepentingan bangsa daripada kepentingan pribadi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-sim-p4-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Persatuan adalah mengutamakan kesatuan bangsa di atas perbedaan daerah."
+        },
+        {
+          "teks": "Kerja keras adalah berhenti saat gagal."
+        },
+        {
+          "teks": "Musyawarah adalah membahas masalah bersama untuk mencapai kesepakatan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; kerja keras yang tepat adalah terus berusaha meskipun menghadapi kesulitan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-sim-p4-q5"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Kepentingan bersama"
+        },
+        {
+          "teks": "Persatuan"
+        },
+        {
+          "teks": "Rela berkorban"
+        },
+        {
+          "teks": "Kerja keras"
+        }
+      ],
+      "pilihan": [
+        "mendahulukan kepentingan bangsa daripada kepentingan pribadi",
+        "terus berusaha meskipun menghadapi kesulitan",
+        "keputusan dan tindakan mempertimbangkan manfaat bagi semua",
+        "mengutamakan kesatuan bangsa di atas perbedaan daerah"
+      ],
+      "kunci": [
+        "keputusan dan tindakan mempertimbangkan manfaat bagi semua",
+        "mengutamakan kesatuan bangsa di atas perbedaan daerah",
+        "mendahulukan kepentingan bangsa daripada kepentingan pribadi",
+        "terus berusaha meskipun menghadapi kesulitan"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-sim-p4-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Rela berkorban"
+        },
+        {
+          "teks": "Kerja keras"
+        },
+        {
+          "teks": "Menghargai perbedaan"
+        },
+        {
+          "teks": "Musyawarah"
+        }
+      ],
+      "pilihan": [
+        "membahas masalah bersama untuk mencapai kesepakatan",
+        "mendahulukan kepentingan bangsa daripada kepentingan pribadi",
+        "terus berusaha meskipun menghadapi kesulitan",
+        "mendengarkan pendapat orang lain tanpa merendahkan"
+      ],
+      "kunci": [
+        "mendahulukan kepentingan bangsa daripada kepentingan pribadi",
+        "terus berusaha meskipun menghadapi kesulitan",
+        "mendengarkan pendapat orang lain tanpa merendahkan",
+        "membahas masalah bersama untuk mencapai kesepakatan"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-sim-p4-q7"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Kerja keras",
+      "pertanyaan": "Lengkapi pernyataan berikut: Kerja keras berarti ....",
+      "kunci": [
+        "terus berusaha meskipun menghadapi kesulitan"
+      ],
+      "kataKunci": [
+        "terus berusaha meskipun menghadapi kesulitan"
+      ],
+      "pembahasan": "Kerja keras dan pantang menyerah dibutuhkan dalam perjuangan mencapai kemerdekaan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "pendidikan-pancasila-sim-p4-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Menghargai perbedaan",
+      "pertanyaan": "Lengkapi pernyataan berikut: Menghargai perbedaan berarti ....",
+      "kunci": [
+        "mendengarkan pendapat orang lain tanpa merendahkan"
+      ],
+      "kataKunci": [
+        "mendengarkan pendapat orang lain tanpa merendahkan"
+      ],
+      "pembahasan": "Menghargai perbedaan berarti mendengarkan dan mempertimbangkan pendapat orang lain dengan santun.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "pendidikan-pancasila-sim-p4-q9"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Hak warga",
+      "pertanyaan": "Contoh hak warga masyarakat adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "mengganggu tetangga"
+        },
+        {
+          "id": "B",
+          "teks": "mendapatkan lingkungan yang bersih dan sehat"
+        },
+        {
+          "id": "C",
+          "teks": "membuang sampah sembarangan"
+        },
+        {
+          "id": "D",
+          "teks": "merusak taman"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Warga berhak menikmati lingkungan yang aman, bersih, dan sehat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-sim-p4-q10"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Kewajiban warga",
+      "pertanyaan": "Contoh kewajiban warga masyarakat adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menjaga kebersihan dan ketertiban lingkungan"
+        },
+        {
+          "id": "B",
+          "teks": "merusak fasilitas umum"
+        },
+        {
+          "id": "C",
+          "teks": "mengabaikan aturan"
+        },
+        {
+          "id": "D",
+          "teks": "mengambil hak tetangga"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Kewajiban warga antara lain menjaga kebersihan, keamanan, dan ketertiban lingkungan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-sim-p4-q11"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tanggung jawab bersama: dibebankan kepada satu orang terus-menerus."
+        },
+        {
+          "id": "B",
+          "teks": "Menghormati hak orang lain: membuat kebisingan kapan saja."
+        },
+        {
+          "id": "C",
+          "teks": "Fasilitas umum: digunakan bersama dan dirawat oleh seluruh pengguna."
+        },
+        {
+          "id": "D",
+          "teks": "Kerja bakti: bentuk pelaksanaan kewajiban dan gotong royong."
+        },
+        {
+          "id": "E",
+          "teks": "Hak menggunakan fasilitas: setiap warga berhak menggunakan secara tertib dan adil."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-sim-p4-q12"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Hak di tempat ibadah: mengganggu orang yang beribadah."
+        },
+        {
+          "id": "B",
+          "teks": "Kerja bakti: bentuk pelaksanaan kewajiban dan gotong royong."
+        },
+        {
+          "id": "C",
+          "teks": "Hak menggunakan fasilitas: setiap warga berhak menggunakan secara tertib dan adil."
+        },
+        {
+          "id": "D",
+          "teks": "Tanggung jawab bersama: dibagi sesuai kemampuan dan disepakati bersama."
+        },
+        {
+          "id": "E",
+          "teks": "Menghormati hak orang lain: menggunakan fasilitas secara berlebihan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-sim-p4-q13"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Hak menggunakan fasilitas adalah setiap warga berhak menggunakan secara tertib dan adil."
+        },
+        {
+          "teks": "Menghormati hak orang lain adalah menggunakan fasilitas secara berlebihan."
+        },
+        {
+          "teks": "Kewajiban di tempat ibadah adalah menjaga kebersihan dan merawat fasilitas bersama."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; menghormati hak orang lain yang tepat adalah tidak mengganggu kenyamanan dan keselamatan warga lain.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-sim-p4-q14"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Tanggung jawab bersama adalah dibagi sesuai kemampuan dan disepakati bersama."
+        },
+        {
+          "teks": "Hak di tempat ibadah adalah merusak perlengkapan."
+        },
+        {
+          "teks": "Hak warga adalah mendapatkan lingkungan yang bersih dan sehat."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; hak di tempat ibadah yang tepat adalah menggunakan fasilitas untuk beribadah sesuai ketentuan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-sim-p4-q15"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Fasilitas umum"
+        },
+        {
+          "teks": "Kerja bakti"
+        },
+        {
+          "teks": "Hak menggunakan fasilitas"
+        },
+        {
+          "teks": "Tanggung jawab bersama"
+        }
+      ],
+      "pilihan": [
+        "digunakan bersama dan dirawat oleh seluruh pengguna",
+        "bentuk pelaksanaan kewajiban dan gotong royong",
+        "setiap warga berhak menggunakan secara tertib dan adil",
+        "dibagi sesuai kemampuan dan disepakati bersama"
+      ],
+      "kunci": [
+        "digunakan bersama dan dirawat oleh seluruh pengguna",
+        "bentuk pelaksanaan kewajiban dan gotong royong",
+        "setiap warga berhak menggunakan secara tertib dan adil",
+        "dibagi sesuai kemampuan dan disepakati bersama"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-sim-p4-q16"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Hak menggunakan fasilitas"
+        },
+        {
+          "teks": "Tanggung jawab bersama"
+        },
+        {
+          "teks": "Menghormati hak orang lain"
+        },
+        {
+          "teks": "Hak di tempat ibadah"
+        }
+      ],
+      "pilihan": [
+        "dibagi sesuai kemampuan dan disepakati bersama",
+        "tidak mengganggu kenyamanan dan keselamatan warga lain",
+        "menggunakan fasilitas untuk beribadah sesuai ketentuan",
+        "setiap warga berhak menggunakan secara tertib dan adil"
+      ],
+      "kunci": [
+        "setiap warga berhak menggunakan secara tertib dan adil",
+        "dibagi sesuai kemampuan dan disepakati bersama",
+        "tidak mengganggu kenyamanan dan keselamatan warga lain",
+        "menggunakan fasilitas untuk beribadah sesuai ketentuan"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-sim-p4-q17"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Hak di tempat ibadah",
+      "pertanyaan": "Isilah dengan tepat: Hak di tempat ibadah adalah ....",
+      "kunci": [
+        "menggunakan fasilitas untuk beribadah sesuai ketentuan"
+      ],
+      "kataKunci": [
+        "menggunakan fasilitas untuk beribadah sesuai ketentuan"
+      ],
+      "pembahasan": "Warga berhak menggunakan fasilitas tempat ibadah untuk beribadah sesuai ketentuan dan memperoleh lingkungan yang aman serta nyaman.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "pendidikan-pancasila-sim-p4-q18"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Kewajiban di tempat ibadah",
+      "pertanyaan": "Isilah dengan tepat: Kewajiban di tempat ibadah adalah ....",
+      "kunci": [
+        "menjaga kebersihan dan merawat fasilitas bersama"
+      ],
+      "kataKunci": [
+        "menjaga kebersihan dan merawat fasilitas bersama"
+      ],
+      "pembahasan": "Warga wajib menjaga kebersihan, merawat fasilitas, dan tidak merusak barang bersama.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "pendidikan-pancasila-sim-p4-q19"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Kewajiban warga",
+      "pertanyaan": "Apa kewajiban warga terhadap lingkungan?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menjaga kebersihan dan ketertiban lingkungan"
+        },
+        {
+          "id": "B",
+          "teks": "merusak fasilitas umum"
+        },
+        {
+          "id": "C",
+          "teks": "mengabaikan aturan"
+        },
+        {
+          "id": "D",
+          "teks": "mengambil hak tetangga"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Kewajiban warga antara lain menjaga kebersihan, keamanan, dan ketertiban lingkungan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-sim-p4-q20"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Keseimbangan hak dan kewajiban",
+      "pertanyaan": "Apa akibat jika warga hanya menuntut hak?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menuntut hak tanpa tanggung jawab"
+        },
+        {
+          "id": "B",
+          "teks": "melaksanakan kewajiban orang lain saja"
+        },
+        {
+          "id": "C",
+          "teks": "menghilangkan hak warga lain"
+        },
+        {
+          "id": "D",
+          "teks": "hak dinikmati dengan tetap melaksanakan kewajiban"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Keseimbangan menjaga agar setiap orang memperoleh hak tanpa mengabaikan tanggung jawabnya.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-sim-p4-q21"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Hak di tempat ibadah: mengganggu orang yang beribadah."
+        },
+        {
+          "id": "B",
+          "teks": "Kerja bakti: bentuk pelaksanaan kewajiban dan gotong royong."
+        },
+        {
+          "id": "C",
+          "teks": "Hak menggunakan fasilitas: setiap warga berhak menggunakan secara tertib dan adil."
+        },
+        {
+          "id": "D",
+          "teks": "Tanggung jawab bersama: dibagi sesuai kemampuan dan disepakati bersama."
+        },
+        {
+          "id": "E",
+          "teks": "Menghormati hak orang lain: menggunakan fasilitas secara berlebihan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-sim-p4-q22"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Hak menggunakan fasilitas: setiap warga berhak menggunakan secara tertib dan adil."
+        },
+        {
+          "id": "B",
+          "teks": "Tanggung jawab bersama: dibagi sesuai kemampuan dan disepakati bersama."
+        },
+        {
+          "id": "C",
+          "teks": "Menghormati hak orang lain: tidak mengganggu kenyamanan dan keselamatan warga lain."
+        },
+        {
+          "id": "D",
+          "teks": "Hak di tempat ibadah: merusak perlengkapan."
+        },
+        {
+          "id": "E",
+          "teks": "Kewajiban di tempat ibadah: membuang sampah sembarangan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-sim-p4-q23"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Tanggung jawab bersama adalah dibagi sesuai kemampuan dan disepakati bersama."
+        },
+        {
+          "teks": "Hak di tempat ibadah adalah merusak perlengkapan."
+        },
+        {
+          "teks": "Hak warga adalah mendapatkan lingkungan yang bersih dan sehat."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; hak di tempat ibadah yang tepat adalah menggunakan fasilitas untuk beribadah sesuai ketentuan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-sim-p4-q24"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Menghormati hak orang lain adalah tidak mengganggu kenyamanan dan keselamatan warga lain."
+        },
+        {
+          "teks": "Kewajiban di tempat ibadah adalah mencoret dinding."
+        },
+        {
+          "teks": "Kewajiban warga adalah menjaga kebersihan dan ketertiban lingkungan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; kewajiban di tempat ibadah yang tepat adalah menjaga kebersihan dan merawat fasilitas bersama.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-sim-p4-q25"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Kerja bakti"
+        },
+        {
+          "teks": "Hak menggunakan fasilitas"
+        },
+        {
+          "teks": "Tanggung jawab bersama"
+        },
+        {
+          "teks": "Menghormati hak orang lain"
+        }
+      ],
+      "pilihan": [
+        "setiap warga berhak menggunakan secara tertib dan adil",
+        "dibagi sesuai kemampuan dan disepakati bersama",
+        "tidak mengganggu kenyamanan dan keselamatan warga lain",
+        "bentuk pelaksanaan kewajiban dan gotong royong"
+      ],
+      "kunci": [
+        "bentuk pelaksanaan kewajiban dan gotong royong",
+        "setiap warga berhak menggunakan secara tertib dan adil",
+        "dibagi sesuai kemampuan dan disepakati bersama",
+        "tidak mengganggu kenyamanan dan keselamatan warga lain"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-sim-p4-q26"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Tanggung jawab bersama"
+        },
+        {
+          "teks": "Menghormati hak orang lain"
+        },
+        {
+          "teks": "Hak di tempat ibadah"
+        },
+        {
+          "teks": "Kewajiban di tempat ibadah"
+        }
+      ],
+      "pilihan": [
+        "menggunakan fasilitas untuk beribadah sesuai ketentuan",
+        "menjaga kebersihan dan merawat fasilitas bersama",
+        "dibagi sesuai kemampuan dan disepakati bersama",
+        "tidak mengganggu kenyamanan dan keselamatan warga lain"
+      ],
+      "kunci": [
+        "dibagi sesuai kemampuan dan disepakati bersama",
+        "tidak mengganggu kenyamanan dan keselamatan warga lain",
+        "menggunakan fasilitas untuk beribadah sesuai ketentuan",
+        "menjaga kebersihan dan merawat fasilitas bersama"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-sim-p4-q27"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Kewajiban di tempat ibadah",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Kewajiban di tempat ibadah?",
+      "kunci": [
+        "menjaga kebersihan dan merawat fasilitas bersama"
+      ],
+      "kataKunci": [
+        "menjaga kebersihan dan merawat fasilitas bersama"
+      ],
+      "pembahasan": "Warga wajib menjaga kebersihan, merawat fasilitas, dan tidak merusak barang bersama.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "pendidikan-pancasila-sim-p4-q28"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Hak warga",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Hak warga?",
+      "kunci": [
+        "mendapatkan lingkungan yang bersih dan sehat"
+      ],
+      "kataKunci": [
+        "mendapatkan lingkungan yang bersih dan sehat"
+      ],
+      "pembahasan": "Warga berhak menikmati lingkungan yang aman, bersih, dan sehat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "pendidikan-pancasila-sim-p4-q29"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Keseimbangan hak dan kewajiban",
+      "pertanyaan": "Bagaimana hubungan hak dan kewajiban?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menuntut hak tanpa tanggung jawab"
+        },
+        {
+          "id": "B",
+          "teks": "melaksanakan kewajiban orang lain saja"
+        },
+        {
+          "id": "C",
+          "teks": "menghilangkan hak warga lain"
+        },
+        {
+          "id": "D",
+          "teks": "hak dinikmati dengan tetap melaksanakan kewajiban"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Keseimbangan menjaga agar setiap orang memperoleh hak tanpa mengabaikan tanggung jawabnya.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-sim-p4-q30"
+    }
+  ]
+}

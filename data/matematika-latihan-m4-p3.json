@@ -1,0 +1,265 @@
+{
+  "id": "matematika-latihan-m4-p3",
+  "mataPelajaran": "Matematika",
+  "mode": "Latihan Per Materi",
+  "materi": "Bilangan Desimal dan Persen",
+  "paket": 3,
+  "judul": "Bilangan Desimal dan Persen • Paket 3",
+  "durasiMenit": 0,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-M4P3-01-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah desimal menjadi persen",
+      "pertanyaan": "Ubah 0,35 menjadi persen. Tuliskan angka persennya saja tanpa tanda %. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "36"
+        },
+        {
+          "id": "B",
+          "teks": "34"
+        },
+        {
+          "id": "C",
+          "teks": "37"
+        },
+        {
+          "id": "D",
+          "teks": "35"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "0,35 × 100% = 35%. Jadi, jawaban yang benar adalah 35.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M4P3-02-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah persen menjadi desimal",
+      "pertanyaan": "Ubah 16% menjadi bilangan desimal. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-0,84"
+        },
+        {
+          "id": "B",
+          "teks": "2,16"
+        },
+        {
+          "id": "C",
+          "teks": "0,16"
+        },
+        {
+          "id": "D",
+          "teks": "1,16"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "16% = 16/100 = 0,16. Jadi, jawaban yang benar adalah 0,16.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M4P3-03-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menjumlahkan bilangan desimal",
+      "pertanyaan": "Hitung 3,45 + 5,8. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "11,25"
+        },
+        {
+          "id": "B",
+          "teks": "9,25"
+        },
+        {
+          "id": "C",
+          "teks": "10,25"
+        },
+        {
+          "id": "D",
+          "teks": "8,25"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "3,45 + 5,8 = 9,25. Jadi, jawaban yang benar adalah 9,25.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M4P3-04-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengurangkan bilangan desimal",
+      "pertanyaan": "Hitung 7,2 − 1,725. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "5,475"
+        },
+        {
+          "id": "B",
+          "teks": "6,475"
+        },
+        {
+          "id": "C",
+          "teks": "4,475"
+        },
+        {
+          "id": "D",
+          "teks": "7,475"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "7,2 − 1,725 = 5,475. Jadi, jawaban yang benar adalah 5,475.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M4P3-05-BS",
+      "jenis": "benar_salah",
+      "indikator": "Mengalikan bilangan desimal",
+      "pertanyaan": "Ubah 0,35 menjadi persen. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "0,35 sama dengan 35%."
+        },
+        {
+          "teks": "0,35 sama dengan 35/100."
+        },
+        {
+          "teks": "0,35 sama dengan 3,5%."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "0,35 = 35%.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M4P3-06-BS",
+      "jenis": "benar_salah",
+      "indikator": "Membagi bilangan desimal",
+      "pertanyaan": "Ubah 0,35 menjadi persen. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "0,35 sama dengan 35%."
+        },
+        {
+          "teks": "0,35 sama dengan 35/100."
+        },
+        {
+          "teks": "0,35 sama dengan 3,5%."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "0,35 = 35%.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M4P3-07-PGK",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menghitung persen dari suatu jumlah",
+      "pertanyaan": "Ubah 0,6 menjadi persen. Pilih tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "0,6 lebih besar daripada 0,5."
+        },
+        {
+          "id": "B",
+          "teks": "0,6 sama dengan 600%."
+        },
+        {
+          "id": "C",
+          "teks": "0,6 sama dengan 60%."
+        },
+        {
+          "id": "D",
+          "teks": "0,6 sama dengan 6%."
+        },
+        {
+          "id": "E",
+          "teks": "0,6 sama dengan 6/10."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "E"
+      ],
+      "pembahasan": "0,6 = 60/100 = 60% = 6/10.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M4P3-08-JODOH",
+      "jenis": "menjodohkan",
+      "indikator": "Mengubah pecahan menjadi desimal",
+      "pertanyaan": "Pasangkan setiap soal di kolom kiri dengan hasil yang tepat di kolom kanan.",
+      "pasangan": [
+        {
+          "teks": "Berapakah 25% dari 480?"
+        },
+        {
+          "teks": "Ubah pecahan 7/16 menjadi desimal. Bulatkan sampai 2 angka di belakang koma."
+        },
+        {
+          "teks": "Urutkan 0,35; 0,16; dan 0,25 dari yang terkecil. Tuliskan bilangan terkecil dalam bentuk perseratus."
+        },
+        {
+          "teks": "Ubah 0,35 menjadi persen. Tuliskan angka persennya saja tanpa tanda %."
+        }
+      ],
+      "pilihan": [
+        "0,44",
+        "16",
+        "35",
+        "120"
+      ],
+      "kunci": [
+        "120",
+        "0,44",
+        "16",
+        "35"
+      ],
+      "pembahasan": "Pasangkan setiap soal dengan hasil perhitungan yang sesuai. Periksa kembali setiap hasil sebelum melanjutkan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "MTK-M4P3-09",
+      "jenis": "isian_angka",
+      "indikator": "Membandingkan dan mengurutkan desimal",
+      "pertanyaan": "Urutkan 0,35; 0,16; dan 0,25 dari yang terkecil. Tuliskan bilangan terkecil dalam bentuk perseratus.",
+      "kunci": 16,
+      "pembahasan": "Bilangan terkecil adalah 0,16, yaitu 16 perseratus.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-M4P3-10",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan masalah diskon",
+      "pertanyaan": "Sebuah barang berharga Rp480,000. Barang mendapat diskon 25%. Berapa besar diskon dalam ribuan rupiah?",
+      "kunci": 120.0,
+      "pembahasan": "Diskon = 25% × 480 ribu rupiah = 120 ribu rupiah.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 5
+    }
+  ]
+}

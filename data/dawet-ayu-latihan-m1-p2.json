@@ -1,0 +1,317 @@
+{
+  "id": "dawet-ayu-latihan-b1-p2",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Bab I – Kreasi Dawet Ayu Banjarnegara",
+  "bab": 1,
+  "paket": 2,
+  "judul": "Bab I – Kreasi Dawet Ayu Banjarnegara • Latihan Paket 2",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bahan cendol",
+      "pertanyaan": "Berapa takaran tepung pati gelang dalam resep cendol?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "200 gram"
+        },
+        {
+          "id": "B",
+          "teks": "100 gram"
+        },
+        {
+          "id": "C",
+          "teks": "125 gram tepung pati gelang"
+        },
+        {
+          "id": "D",
+          "teks": "150 gram"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Takaran pada resep adalah 125 gram tepung pati gelang.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b1-p2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bahan cendol lainnya",
+      "pertanyaan": "Berapa takaran tepung beras dalam resep cendol?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "15 gram"
+        },
+        {
+          "id": "B",
+          "teks": "50 gram"
+        },
+        {
+          "id": "C",
+          "teks": "25 gram tepung beras"
+        },
+        {
+          "id": "D",
+          "teks": "75 gram"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Takaran tepung beras pada resep cendol adalah 25 gram.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b1-p2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Cairan pandan cendol",
+      "pertanyaan": "Berapa volume air sari daun pandan yang digunakan untuk adonan cendol?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "100 ml air sari daun pandan"
+        },
+        {
+          "id": "B",
+          "teks": "150 ml"
+        },
+        {
+          "id": "C",
+          "teks": "50 ml"
+        },
+        {
+          "id": "D",
+          "teks": "200 ml"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Resep cendol mencantumkan 100 ml air sari daun pandan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b1-p2-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Air untuk adonan cendol",
+      "pertanyaan": "Berapa volume air matang yang dicampurkan ke dalam adonan cendol?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "300 ml"
+        },
+        {
+          "id": "B",
+          "teks": "200 ml"
+        },
+        {
+          "id": "C",
+          "teks": "500 ml"
+        },
+        {
+          "id": "D",
+          "teks": "400 ml air matang"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Resep cendol menggunakan 400 ml air matang.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b1-p2-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Cara mengolah adonan cendol",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai cara mengolah adonan cendol.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Cara mengolah adonan cendol: digoreng sampai kering."
+        },
+        {
+          "id": "B",
+          "teks": "Bahan utama biji salak: kelapa parut."
+        },
+        {
+          "id": "C",
+          "teks": "Mencetak cendol: adonan dicetak ketika sudah dimasak."
+        },
+        {
+          "id": "D",
+          "teks": "Bahan cendol: 125 gram tepung pati gelang."
+        },
+        {
+          "id": "E",
+          "teks": "Bubur sumsum: dibuat dari tepung beras, santan, garam, dan daun pandan."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b1-p2-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Fungsi juruh",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai fungsi juruh.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Fungsi juruh: memberi warna biru pada cendol."
+        },
+        {
+          "id": "B",
+          "teks": "Fungsi juruh: memberi rasa manis pada Dawet Ayu."
+        },
+        {
+          "id": "C",
+          "teks": "Tape ketan hitam: dibuat dari ubi dan daun pandan."
+        },
+        {
+          "id": "D",
+          "teks": "Nama kreasi bubur sumsum: Dawet Ayu Banjarnegara Campur Bubur Sumsum."
+        },
+        {
+          "id": "E",
+          "teks": "Cairan pandan cendol: 100 ml air sari daun pandan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b1-p2-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Bahan cendol lainnya",
+      "pertanyaan": "Perhatikan tiga informasi tentang bahan cendol lainnya. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Bahan cendol lainnya: 25 gram tepung beras."
+        },
+        {
+          "teks": "Bahan santan: santan, kopi, dan merica."
+        },
+        {
+          "teks": "Bahan utama biji salak: beras hitam."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 1. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b1-p2-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Air untuk adonan cendol",
+      "pertanyaan": "Perhatikan tiga informasi tentang air untuk adonan cendol. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Air untuk adonan cendol: 400 ml air matang."
+        },
+        {
+          "teks": "Penyajian dasar: cendol, kecap, dan minyak."
+        },
+        {
+          "teks": "Tanda biji salak matang: mengapung saat direbus."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 1. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b1-p2-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Bahan cendol",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan bahan cendol dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Bahan cendol"
+        },
+        {
+          "teks": "Fungsi juruh"
+        },
+        {
+          "teks": "Biji salak"
+        },
+        {
+          "teks": "Persiapan ketan hitam"
+        }
+      ],
+      "pilihan": [
+        "125 gram tepung pati gelang",
+        "memberi rasa manis pada Dawet Ayu",
+        "makanan dari ubi yang dibentuk menjadi bola-bola kecil",
+        "dicuci bersih dan direndam semalam"
+      ],
+      "kunci": [
+        "125 gram tepung pati gelang",
+        "memberi rasa manis pada Dawet Ayu",
+        "makanan dari ubi yang dibentuk menjadi bola-bola kecil",
+        "dicuci bersih dan direndam semalam"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 1.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-b1-p2-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Cairan pandan cendol",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan cairan pandan cendol dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Cairan pandan cendol"
+        },
+        {
+          "teks": "Pengolahan santan"
+        },
+        {
+          "teks": "Bentuk biji salak"
+        },
+        {
+          "teks": "Pendinginan ketan"
+        }
+      ],
+      "pilihan": [
+        "bola-bola kecil",
+        "100 ml air sari daun pandan",
+        "direbus sambil diaduk agar tidak pecah",
+        "ketan didinginkan sebelum diberi ragi"
+      ],
+      "kunci": [
+        "100 ml air sari daun pandan",
+        "direbus sambil diaduk agar tidak pecah",
+        "bola-bola kecil",
+        "ketan didinginkan sebelum diberi ragi"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 1.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-b1-p2-q10"
+    }
+  ]
+}

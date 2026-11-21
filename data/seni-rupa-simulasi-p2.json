@@ -1,0 +1,922 @@
+{
+  "id": "seni-rupa-simulasi-p2",
+  "mataPelajaran": "Seni Rupa",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "materi": "Gabungan tiga materi Seni Rupa",
+  "paket": 2,
+  "judul": "Simulasi ASAS Seni Rupa • Paket 2",
+  "durasiMenit": 75,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Perspektif satu titik hilang berdasarkan gambar",
+      "pertanyaan": "Siswa menggambar ruang kelas dari pintu. Sisi lantai dan langit-langit tampak mengarah ke satu titik di belakang kelas. Teknik yang digunakan adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "perspektif satu titik hilang"
+        },
+        {
+          "id": "B",
+          "teks": "perspektif dua titik hilang"
+        },
+        {
+          "id": "C",
+          "teks": "keseimbangan radial"
+        },
+        {
+          "id": "D",
+          "teks": "stensil"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Ruang dilihat lurus dari depan dan garis kedalaman menuju satu titik.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis perspektif dua titik hilang",
+      "pertanyaan": "Perhatikan gambaran sebuah rumah yang dilihat dari pojok. Pilih tepat tiga ciri yang sesuai.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Dua sisi rumah terlihat."
+        },
+        {
+          "id": "B",
+          "teks": "Terdapat dua titik hilang."
+        },
+        {
+          "id": "C",
+          "teks": "Garis mendatar pada kedua sisi menuju titik yang berbeda."
+        },
+        {
+          "id": "D",
+          "teks": "Semua garis bertemu pada satu titik."
+        },
+        {
+          "id": "E",
+          "teks": "Rumah hanya tampak dari sisi depan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Objek terlihat dari dua sisi dan kelompok garis mendatar menuju dua titik hilang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Memasangkan unsur perspektif",
+      "pertanyaan": "Koridor sekolah yang dilihat lurus dari depan paling tepat digambar menggunakan perspektif ....",
+      "kunci": "A",
+      "pembahasan": "Objek atau koridor yang menghadap lurus ke depan umumnya digambar menggunakan perspektif satu titik hilang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q3",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Satu titik hilang"
+        },
+        {
+          "id": "B",
+          "teks": "Dua titik hilang"
+        },
+        {
+          "id": "C",
+          "teks": "Tiga titik hilang"
+        },
+        {
+          "id": "D",
+          "teks": "Tanpa titik hilang"
+        }
+      ]
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menganalisis ciri perspektif",
+      "pertanyaan": "Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Garis horizon sejajar dengan pandangan mata."
+        },
+        {
+          "teks": "Perspektif dua titik hilang memperlihatkan dua sisi objek."
+        },
+        {
+          "teks": "Benda yang lebih jauh biasanya tampak lebih besar."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Garis horizon mendatar, dua titik hilang menampilkan dua sisi, dan objek jauh tampak lebih kecil.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menerapkan perspektif satu titik hilang",
+      "pertanyaan": "Pilih tepat tiga tindakan yang tepat untuk menggambar lorong dengan perspektif satu titik hilang.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Membuat garis horizon mendatar."
+        },
+        {
+          "id": "B",
+          "teks": "Menentukan satu titik hilang."
+        },
+        {
+          "id": "C",
+          "teks": "Mengarahkan garis kedalaman menuju titik hilang."
+        },
+        {
+          "id": "D",
+          "teks": "Menentukan dua titik hilang pada ujung horizon."
+        },
+        {
+          "id": "E",
+          "teks": "Membuat garis vertikal condong menuju titik hilang."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Lorong lurus menggunakan garis horizon, satu titik hilang, dan garis kedalaman menuju titik tersebut.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q5"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pengertian titik hilang",
+      "pertanyaan": "Tempat garis-garis yang menjauh seolah-olah bertemu disebut ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "garis horizon"
+        },
+        {
+          "id": "B",
+          "teks": "titik hilang"
+        },
+        {
+          "id": "C",
+          "teks": "garis vertikal"
+        },
+        {
+          "id": "D",
+          "teks": "garis lengkung"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Titik hilang merupakan titik pertemuan semu garis-garis perspektif.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q6"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Ciri perspektif satu titik hilang",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Objek utama menghadap lurus ke depan."
+        },
+        {
+          "id": "B",
+          "teks": "Garis kedalaman menuju satu titik."
+        },
+        {
+          "id": "C",
+          "teks": "Garis vertikal tetap tegak."
+        },
+        {
+          "id": "D",
+          "teks": "Bangunan harus tampak dari dua sisi."
+        },
+        {
+          "id": "E",
+          "teks": "Terdapat dua titik hilang."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Ciri perspektif satu titik hilang adalah pandangan lurus, satu titik hilang, dan garis vertikal tegak.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Prinsip perspektif",
+      "pertanyaan": "Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Benda dekat tampak lebih besar."
+        },
+        {
+          "teks": "Garis-garis kedalaman dapat menuju titik hilang."
+        },
+        {
+          "teks": "Perspektif tidak memberikan kesan ruang."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Perspektif memberikan kesan ruang; benda dekat lebih besar dan garis kedalaman menuju titik hilang.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q8"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Perbedaan perspektif",
+      "pertanyaan": "Andi menggambar gedung dari posisi tepat menghadap bagian depan. Budi menggambar gedung dari posisi melihat pojok sehingga dua sisi terlihat. Teknik Andi dan Budi berturut-turut adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "satu titik hilang dan dua titik hilang"
+        },
+        {
+          "id": "B",
+          "teks": "dua titik hilang dan satu titik hilang"
+        },
+        {
+          "id": "C",
+          "teks": "stensil dan cetak tinggi"
+        },
+        {
+          "id": "D",
+          "teks": "simetris dan radial"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Pandangan lurus menggunakan satu titik hilang, sedangkan pandangan dari pojok menggunakan dua titik hilang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q9"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pengertian keseimbangan",
+      "pertanyaan": "Karya seni yang susunan unsur rupanya tidak terasa berat pada salah satu sisi menunjukkan prinsip ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "keseimbangan"
+        },
+        {
+          "id": "B",
+          "teks": "titik hilang"
+        },
+        {
+          "id": "C",
+          "teks": "cetak tinggi"
+        },
+        {
+          "id": "D",
+          "teks": "horizon"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Keseimbangan membuat susunan bentuk, ukuran, warna, dan posisi terasa stabil.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q10"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Keseimbangan simetris",
+      "pertanyaan": "Pilih tepat tiga ciri keseimbangan simetris.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Sisi kiri dan kanan sama atau mirip."
+        },
+        {
+          "id": "B",
+          "teks": "Memberi kesan teratur."
+        },
+        {
+          "id": "C",
+          "teks": "Susunan dapat dibandingkan seperti cermin."
+        },
+        {
+          "id": "D",
+          "teks": "Sisi kiri dan kanan harus berbeda."
+        },
+        {
+          "id": "E",
+          "teks": "Unsur menyebar dari titik pusat."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Simetris memiliki kesamaan atau kemiripan antara sisi kiri dan kanan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q11"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Jenis keseimbangan dalam ragam hias",
+      "pertanyaan": "Pasangkan deskripsi berikut dengan jenis keseimbangan.",
+      "pasangan": [
+        {
+          "teks": "Susunan kiri dan kanan sama"
+        },
+        {
+          "teks": "Susunan kiri dan kanan berbeda tetapi terasa seimbang"
+        },
+        {
+          "teks": "Motif memancar dari pusat"
+        },
+        {
+          "teks": "Ukuran bagian-bagian dibandingkan agar wajar"
+        }
+      ],
+      "pilihan": [
+        "Radial",
+        "Simetris",
+        "Proporsi",
+        "Asimetris"
+      ],
+      "kunci": [
+        "Simetris",
+        "Asimetris",
+        "Radial",
+        "Proporsi"
+      ],
+      "pembahasan": "Simetris sama/mirip; asimetris berbeda tetapi seimbang; radial memancar dari pusat; proporsi membandingkan ukuran.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "sr-s2-q12"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Contoh benda radial",
+      "pertanyaan": "Pilih tepat tiga contoh penerapan keseimbangan radial.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Roda dengan jari-jari yang menyebar dari pusat."
+        },
+        {
+          "id": "B",
+          "teks": "Bunga dengan kelopak mengelilingi bagian tengah."
+        },
+        {
+          "id": "C",
+          "teks": "Hiasan lingkaran dengan pola memancar dari pusat."
+        },
+        {
+          "id": "D",
+          "teks": "Pintu persegi panjang."
+        },
+        {
+          "id": "E",
+          "teks": "Papan tulis berbentuk persegi."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Keseimbangan radial memiliki unsur yang memancar dari titik pusat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q13"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Gunungan wayang",
+      "pertanyaan": "Gunungan wayang dalam materi menunjukkan keseimbangan ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "simetris"
+        },
+        {
+          "id": "B",
+          "teks": "asimetris"
+        },
+        {
+          "id": "C",
+          "teks": "radial"
+        },
+        {
+          "id": "D",
+          "teks": "perspektif satu titik"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Gunungan memiliki susunan motif yang seimbang pada kedua sisi.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q14"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Benda dengan keseimbangan asimetris",
+      "pertanyaan": "Pilih tepat tiga contoh komposisi asimetris.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Bunga besar di satu sisi diimbangi beberapa daun kecil di sisi lain."
+        },
+        {
+          "id": "B",
+          "teks": "Dua bentuk berbeda yang terasa sama berat secara visual."
+        },
+        {
+          "id": "C",
+          "teks": "Tanaman hias dengan arah daun tidak sama tetapi tetap seimbang."
+        },
+        {
+          "id": "D",
+          "teks": "Kupu-kupu dengan kedua sayap sama persis."
+        },
+        {
+          "id": "E",
+          "teks": "Motif lingkaran yang memancar teratur dari pusat."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Asimetris menyeimbangkan susunan yang tidak sama bentuk atau ukurannya.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q15"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Motif batik daerah",
+      "pertanyaan": "Pasangkan nama motif batik dengan daerah asalnya.",
+      "pasangan": [
+        {
+          "teks": "Parang"
+        },
+        {
+          "teks": "Mega Mendung"
+        },
+        {
+          "teks": "Jlamprang"
+        },
+        {
+          "teks": "Susukan"
+        }
+      ],
+      "pilihan": [
+        "Cirebon",
+        "Pekalongan",
+        "Yogyakarta",
+        "Banjarnegara"
+      ],
+      "kunci": [
+        "Yogyakarta",
+        "Cirebon",
+        "Pekalongan",
+        "Banjarnegara"
+      ],
+      "pembahasan": "Parang berasal dari Yogyakarta; Mega Mendung dari Cirebon; Jlamprang dari Pekalongan; Susukan dari Banjarnegara.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "sr-s2-q16"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Membuat karya simetris",
+      "pertanyaan": "Untuk membuat motif hias simetris, seorang siswa sebaiknya ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "membuat susunan kiri dan kanan sama atau mirip"
+        },
+        {
+          "id": "B",
+          "teks": "menempatkan seluruh motif di sisi kiri"
+        },
+        {
+          "id": "C",
+          "teks": "membuat semua bagian berbeda tanpa keseimbangan"
+        },
+        {
+          "id": "D",
+          "teks": "menghilangkan garis tengah sebagai acuan"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Susunan simetris dapat dibuat dengan menjadikan garis tengah sebagai acuan agar kedua sisi sama atau mirip.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q17"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Fungsi ragam hias",
+      "pertanyaan": "Pilih tepat tiga manfaat ragam hias pada benda atau kerajinan.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Memperindah tampilan benda."
+        },
+        {
+          "id": "B",
+          "teks": "Menambah nilai estetika karya."
+        },
+        {
+          "id": "C",
+          "teks": "Dapat menjadi simbol atau identitas daerah."
+        },
+        {
+          "id": "D",
+          "teks": "Membuat benda kehilangan nilai seni."
+        },
+        {
+          "id": "E",
+          "teks": "Selalu mengubah bahan menjadi logam."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Ragam hias memperindah, meningkatkan nilai estetika, dan dapat menyampaikan identitas budaya.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q18"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Motif anyaman dan cirinya",
+      "pertanyaan": "Pasangkan istilah dengan penjelasan yang benar.",
+      "pasangan": [
+        {
+          "teks": "Bambu dan rotan"
+        },
+        {
+          "teks": "Keranjang dan tikar"
+        },
+        {
+          "teks": "Menyilang bahan"
+        },
+        {
+          "teks": "Anyaman"
+        }
+      ],
+      "pilihan": [
+        "Contoh hasil anyaman",
+        "Bahan yang dapat dianyam",
+        "Teknik menyusun bahan",
+        "Kerajinan dari susunan silang bahan"
+      ],
+      "kunci": [
+        "Bahan yang dapat dianyam",
+        "Contoh hasil anyaman",
+        "Teknik menyusun bahan",
+        "Kerajinan dari susunan silang bahan"
+      ],
+      "pembahasan": "Bambu dan rotan merupakan bahan; keranjang dan tikar merupakan hasil; tekniknya menyilangkan bahan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "sr-s2-q19"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Proporsi",
+      "pertanyaan": "Sebuah gambar manusia tampak wajar karena ukuran kepala, badan, dan kaki dibandingkan secara tepat. Prinsip yang diterapkan adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "proporsi"
+        },
+        {
+          "id": "B",
+          "teks": "stensil"
+        },
+        {
+          "id": "C",
+          "teks": "titik hilang"
+        },
+        {
+          "id": "D",
+          "teks": "radial"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Proporsi adalah perbandingan ukuran antarbagian dalam sebuah karya.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q20"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Makna seni grafis",
+      "pertanyaan": "Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Seni grafis dibuat dengan cara mencetak gambar atau motif."
+        },
+        {
+          "teks": "Hasil cetak dapat diterima pada kertas gambar."
+        },
+        {
+          "teks": "Seni grafis hanya dapat dibuat dengan cara memahat."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Seni grafis menggunakan proses mencetak, bukan hanya memahat.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q21"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Bahan untuk seni grafis",
+      "pertanyaan": "Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Spons bekas dapat digunakan sebagai cetakan sederhana."
+        },
+        {
+          "teks": "Karton bekas dapat dijadikan pola stensil."
+        },
+        {
+          "teks": "Pelepah pisang tidak dapat digunakan untuk mencetak."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Spons dan pelepah pisang dapat digunakan sebagai bahan cetak tinggi; karton untuk pola stensil.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q22"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Urutan langkah cetak tinggi",
+      "pertanyaan": "Setelah sketsa motif dan bahan cetakan disiapkan, tindakan berikutnya adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "mengoleskan pewarna pada permukaan cetakan yang menonjol"
+        },
+        {
+          "id": "B",
+          "teks": "mengangkat cetakan sebelum diberi warna"
+        },
+        {
+          "id": "C",
+          "teks": "menggunting lubang pada kertas gambar"
+        },
+        {
+          "id": "D",
+          "teks": "menyusun bahan menjadi anyaman"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Setelah motif dan alat disiapkan, pewarna dioleskan pada permukaan cetakan yang menonjol.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q23"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Penggunaan stensil",
+      "pertanyaan": "Siswa menempelkan pola karton berlubang di atas kertas, lalu menepuk-nepuk spons berisi cat pada bagian lubang. Teknik tersebut adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "stensil"
+        },
+        {
+          "id": "B",
+          "teks": "cetak tinggi"
+        },
+        {
+          "id": "C",
+          "teks": "perspektif"
+        },
+        {
+          "id": "D",
+          "teks": "radial"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Warna diaplikasikan melalui lubang pola stensil.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q24"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Mengenali teknik seni grafis",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Cetak tinggi menggunakan bagian permukaan yang menonjol."
+        },
+        {
+          "id": "B",
+          "teks": "Stensil menggunakan pola berlubang."
+        },
+        {
+          "id": "C",
+          "teks": "Kertas gambar menjadi media menerima hasil cetak."
+        },
+        {
+          "id": "D",
+          "teks": "Stensil harus memakai pelepah pisang sebagai pola."
+        },
+        {
+          "id": "E",
+          "teks": "Cetak tinggi menggunakan warna yang hanya diletakkan di bagian lubang."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Cetak tinggi menggunakan permukaan menonjol; stensil memakai pola berlubang; kertas menerima hasil cetak.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q25"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan teknik stensil",
+      "pertanyaan": "Mira membuat pola daun pada karton, melubangi bagian gambar, lalu memberi warna melalui lubang tersebut. Teknik yang dipakai adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "cetak tinggi"
+        },
+        {
+          "id": "B",
+          "teks": "stensil"
+        },
+        {
+          "id": "C",
+          "teks": "cetak dalam"
+        },
+        {
+          "id": "D",
+          "teks": "cetak datar"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Pola berlubang yang menjadi jalur pewarna merupakan ciri teknik stensil.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q26"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Langkah teknik cetak tinggi",
+      "pertanyaan": "Agar hasil cetak dari spons terlihat jelas, pewarna sebaiknya dioleskan pada ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "permukaan spons yang menonjol"
+        },
+        {
+          "id": "B",
+          "teks": "bagian kertas yang belum digunakan"
+        },
+        {
+          "id": "C",
+          "teks": "seluruh bagian belakang kertas"
+        },
+        {
+          "id": "D",
+          "teks": "lubang pada karton stensil"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Pada cetak tinggi, warna diberikan pada bagian permukaan cetakan yang menonjol.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q27"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bahan alam cetak tinggi",
+      "pertanyaan": "Bahan alami yang dapat digunakan untuk membuat cetakan sederhana adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pelepah pisang"
+        },
+        {
+          "id": "B",
+          "teks": "plastik mika bening"
+        },
+        {
+          "id": "C",
+          "teks": "kaca"
+        },
+        {
+          "id": "D",
+          "teks": "kawat"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Pelepah pisang merupakan bahan alami yang dapat dimanfaatkan sebagai cetakan.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q28"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Merancang karya grafis",
+      "pertanyaan": "Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Membuat sketsa merupakan bagian dari merancang karya grafis."
+        },
+        {
+          "teks": "Letak motif sebaiknya disusun dengan rapi dan seimbang."
+        },
+        {
+          "teks": "Pemilihan warna tidak berpengaruh pada keindahan hasil karya."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Sketsa, susunan motif, dan pemilihan warna merupakan bagian dari perancangan karya grafis.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-s2-q29"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Perbedaan cetak tinggi dan stensil",
+      "pertanyaan": "Manakah pernyataan yang benar?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Cetak tinggi mencetak dari permukaan menonjol, sedangkan stensil melalui lubang pola."
+        },
+        {
+          "id": "B",
+          "teks": "Keduanya menggunakan pola berlubang."
+        },
+        {
+          "id": "C",
+          "teks": "Cetak tinggi tidak menggunakan pewarna."
+        },
+        {
+          "id": "D",
+          "teks": "Stensil harus menggunakan permukaan menonjol."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Cetak tinggi memakai permukaan menonjol; stensil menggunakan pola berlubang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "sr-s2-q30"
+    }
+  ]
+}

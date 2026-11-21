@@ -1,0 +1,316 @@
+{
+  "id": "dawet-ayu-latihan-m4-p3",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Strategi Pemasaran Produk",
+  "paket": 3,
+  "judul": "Strategi Pemasaran Produk • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Promosi digital",
+      "pertanyaan": "Informasi apa yang perlu dicantumkan pada promosi daring?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menyebarkan berita palsu"
+        },
+        {
+          "id": "B",
+          "teks": "menghapus kontak pelanggan"
+        },
+        {
+          "id": "C",
+          "teks": "mengunggah foto atau informasi produk melalui media sosial"
+        },
+        {
+          "id": "D",
+          "teks": "menutup informasi produk"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Promosi digital dapat dilakukan dengan foto, informasi harga, lokasi, dan kontak pemesanan yang jelas.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-m4-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Diskon bersyarat",
+      "pertanyaan": "Promosi dengan potongan harga disebut apa?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pembeli dilarang bertanya"
+        },
+        {
+          "id": "B",
+          "teks": "potongan harga dengan ketentuan tertentu seperti pembeli awal"
+        },
+        {
+          "id": "C",
+          "teks": "harga dinaikkan setelah dibayar"
+        },
+        {
+          "id": "D",
+          "teks": "produk diberikan tanpa aturan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Diskon bersyarat dapat menarik minat pembeli jika ketentuannya jelas.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-m4-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Lokasi strategis: tempat ramai dan mudah dijangkau calon pembeli."
+        },
+        {
+          "id": "B",
+          "teks": "Layanan pesan antar: memudahkan konsumen menerima produk tanpa datang ke kios."
+        },
+        {
+          "id": "C",
+          "teks": "Evaluasi pemasaran: menilai hasil promosi dan memperbaiki strategi yang kurang efektif."
+        },
+        {
+          "id": "D",
+          "teks": "Timing penjualan: mengabaikan musim dan cuaca."
+        },
+        {
+          "id": "E",
+          "teks": "Inovasi produk: mengurangi kebersihan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-m4-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Evaluasi pemasaran: menilai hasil promosi dan memperbaiki strategi yang kurang efektif."
+        },
+        {
+          "id": "B",
+          "teks": "Timing penjualan: memperhatikan waktu dan kondisi kebutuhan pembeli."
+        },
+        {
+          "id": "C",
+          "teks": "Inovasi produk: menjual produk basi."
+        },
+        {
+          "id": "D",
+          "teks": "Promosi digital: menyebarkan berita palsu."
+        },
+        {
+          "id": "E",
+          "teks": "Layanan pesan antar: memudahkan konsumen menerima produk tanpa datang ke kios."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-m4-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Evaluasi pemasaran adalah menilai hasil promosi dan memperbaiki strategi yang kurang efektif."
+        },
+        {
+          "teks": "Inovasi produk adalah menjual produk basi."
+        },
+        {
+          "teks": "Diskon bersyarat adalah potongan harga dengan ketentuan tertentu seperti pembeli awal."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; inovasi produk yang tepat adalah membuat variasi rasa atau kreasi baru sesuai minat konsumen.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-m4-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Timing penjualan adalah memperhatikan waktu dan kondisi kebutuhan pembeli."
+        },
+        {
+          "teks": "Promosi digital adalah menutup informasi produk."
+        },
+        {
+          "teks": "Kupon loyalitas adalah hadiah setelah pembelian dalam jumlah tertentu."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; promosi digital yang tepat adalah mengunggah foto atau informasi produk melalui media sosial.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-m4-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Evaluasi pemasaran"
+        },
+        {
+          "teks": "Timing penjualan"
+        },
+        {
+          "teks": "Inovasi produk"
+        },
+        {
+          "teks": "Promosi digital"
+        }
+      ],
+      "pilihan": [
+        "membuat variasi rasa atau kreasi baru sesuai minat konsumen",
+        "mengunggah foto atau informasi produk melalui media sosial",
+        "menilai hasil promosi dan memperbaiki strategi yang kurang efektif",
+        "memperhatikan waktu dan kondisi kebutuhan pembeli"
+      ],
+      "kunci": [
+        "menilai hasil promosi dan memperbaiki strategi yang kurang efektif",
+        "memperhatikan waktu dan kondisi kebutuhan pembeli",
+        "membuat variasi rasa atau kreasi baru sesuai minat konsumen",
+        "mengunggah foto atau informasi produk melalui media sosial"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-m4-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Inovasi produk"
+        },
+        {
+          "teks": "Promosi digital"
+        },
+        {
+          "teks": "Diskon bersyarat"
+        },
+        {
+          "teks": "Kupon loyalitas"
+        }
+      ],
+      "pilihan": [
+        "hadiah setelah pembelian dalam jumlah tertentu",
+        "membuat variasi rasa atau kreasi baru sesuai minat konsumen",
+        "mengunggah foto atau informasi produk melalui media sosial",
+        "potongan harga dengan ketentuan tertentu seperti pembeli awal"
+      ],
+      "kunci": [
+        "membuat variasi rasa atau kreasi baru sesuai minat konsumen",
+        "mengunggah foto atau informasi produk melalui media sosial",
+        "potongan harga dengan ketentuan tertentu seperti pembeli awal",
+        "hadiah setelah pembelian dalam jumlah tertentu"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-m4-p3-q8"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Promosi digital",
+      "pertanyaan": "Lengkapi pernyataan berikut: Promosi digital berarti ?",
+      "kunci": "B",
+      "pembahasan": "Promosi digital dapat dilakukan dengan foto, informasi harga, lokasi, dan kontak pemesanan yang jelas.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-m4-p3-q9",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menilai hasil promosi dan memperbaiki strategi yang kurang efektif"
+        },
+        {
+          "id": "B",
+          "teks": "mengunggah foto atau informasi produk melalui media sosial"
+        },
+        {
+          "id": "C",
+          "teks": "salah"
+        },
+        {
+          "id": "D",
+          "teks": "benar"
+        }
+      ]
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Diskon bersyarat",
+      "pertanyaan": "Lengkapi pernyataan berikut: Diskon bersyarat berarti ?",
+      "kunci": "D",
+      "pembahasan": "Diskon bersyarat dapat menarik minat pembeli jika ketentuannya jelas.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-m4-p3-q10",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "salah"
+        },
+        {
+          "id": "B",
+          "teks": "menilai hasil promosi dan memperbaiki strategi yang kurang efektif"
+        },
+        {
+          "id": "C",
+          "teks": "benar"
+        },
+        {
+          "id": "D",
+          "teks": "potongan harga dengan ketentuan tertentu seperti pembeli awal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "id": "ipas-latihan-m1-p1",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Sistem Gerak dan Koordinasi Manusia",
+  "paket": 1,
+  "judul": "Sistem Gerak dan Koordinasi Manusia • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "id": "ipas-m1-lat-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Fungsi rangka",
+      "pertanyaan": "Saat bermain, kepala seorang anak perlu terlindungi dari benturan.\n\nOrgan yang dilindungi tulang tengkorak adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Jantung"
+        },
+        {
+          "id": "B",
+          "teks": "Otak"
+        },
+        {
+          "id": "C",
+          "teks": "Paru-paru"
+        },
+        {
+          "id": "D",
+          "teks": "Lambung"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Tengkorak melindungi otak.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m1-lat-02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Fungsi tulang rusuk",
+      "pertanyaan": "Ketika bermain bola, dada seorang anak terkena benturan. Tulang rusuk dan tulang dada membentuk rongga pelindung.\n\nOrgan yang terutama dilindungi tulang rusuk adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Jantung dan paru-paru"
+        },
+        {
+          "id": "B",
+          "teks": "Otak dan mata"
+        },
+        {
+          "id": "C",
+          "teks": "Lambung dan usus"
+        },
+        {
+          "id": "D",
+          "teks": "Ginjal dan kandung kemih"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Tulang rusuk dan tulang dada melindungi jantung serta paru-paru.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m1-lat-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Sendi engsel",
+      "pertanyaan": "Riko menekuk siku untuk mengangkat gelas. Gerakan siku terutama berlangsung satu arah.\n\nJenis sendi pada siku adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Peluru"
+        },
+        {
+          "id": "B",
+          "teks": "Putar"
+        },
+        {
+          "id": "C",
+          "teks": "Engsel"
+        },
+        {
+          "id": "D",
+          "teks": "Pelana"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Sendi siku merupakan sendi engsel yang memungkinkan gerak satu arah.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m1-lat-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Sendi peluru",
+      "pertanyaan": "Seseorang dapat mengayunkan lengan ke depan, ke belakang, dan memutar pada bahu.\n\nJenis sendi yang memungkinkan gerakan ke berbagai arah tersebut adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Sendi peluru"
+        },
+        {
+          "id": "B",
+          "teks": "Sendi engsel"
+        },
+        {
+          "id": "C",
+          "teks": "Sendi geser"
+        },
+        {
+          "id": "D",
+          "teks": "Sendi putar"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Sendi bahu merupakan sendi peluru yang memungkinkan gerak ke berbagai arah.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m1-lat-05",
+      "jenis": "benar_salah",
+      "indikator": "Peran rangka",
+      "pertanyaan": "Saat siswa berdiri dan berjalan, rangka menopang tubuh dan melindungi organ.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Rangka memberi bentuk dan menopang tubuh."
+        },
+        {
+          "teks": "Tulang tengkorak melindungi otak."
+        },
+        {
+          "teks": "Tulang dapat berkontraksi sendiri untuk menggerakkan tubuh."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Rangka menopang dan melindungi tubuh. Gerakan terjadi karena otot berkontraksi menarik tulang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m1-lat-06",
+      "jenis": "benar_salah",
+      "indikator": "Gerak refleks",
+      "pertanyaan": "Seorang anak segera menarik tangan setelah menyentuh benda panas.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Gerak refleks berlangsung cepat dan otomatis."
+        },
+        {
+          "teks": "Sumsum tulang belakang dapat menjadi pusat gerak refleks."
+        },
+        {
+          "teks": "Saraf sensorik membawa perintah dari pusat saraf ke otot."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Gerak refleks cepat dan otomatis. Saraf sensorik membawa rangsangan ke pusat saraf, sedangkan saraf motorik membawa perintah ke otot.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m1-lat-07",
+      "jenis": "menjodohkan",
+      "indikator": "Macam-macam sendi",
+      "pertanyaan": "Tubuh memiliki beberapa sendi dengan arah gerak berbeda.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Siku"
+        },
+        {
+          "teks": "Bahu"
+        },
+        {
+          "teks": "Pangkal ibu jari"
+        },
+        {
+          "teks": "Leher"
+        }
+      ],
+      "pilihan": [
+        "Engsel",
+        "Peluru",
+        "Pelana",
+        "Putar"
+      ],
+      "kunci": [
+        "Engsel",
+        "Peluru",
+        "Pelana",
+        "Putar"
+      ],
+      "pembahasan": "Siku: engsel; bahu: peluru; pangkal ibu jari: pelana; leher: putar.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-m1-lat-08",
+      "jenis": "menjodohkan",
+      "indikator": "Bagian sistem saraf",
+      "pertanyaan": "Sistem saraf menerima rangsangan, mengolah informasi, dan mengirim perintah.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Pusat pengendali tubuh"
+        },
+        {
+          "teks": "Pusat beberapa gerak refleks"
+        },
+        {
+          "teks": "Membawa rangsangan dari indra"
+        },
+        {
+          "teks": "Membawa perintah ke otot"
+        }
+      ],
+      "pilihan": [
+        "Otak",
+        "Sumsum tulang belakang",
+        "Saraf sensorik",
+        "Saraf motorik"
+      ],
+      "kunci": [
+        "Otak",
+        "Sumsum tulang belakang",
+        "Saraf sensorik",
+        "Saraf motorik"
+      ],
+      "pembahasan": "Otak mengendalikan tubuh; sumsum tulang belakang menjadi jalur pesan dan pusat refleks; saraf sensorik menerima rangsangan; saraf motorik mengirim perintah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-m1-lat-09",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis koordinasi tubuh",
+      "pertanyaan": "Nisa mengangkat kardus. Otak mengirim perintah, otot menarik tulang, dan jantung memasok darah ke otot.\n\nPilih TIGA pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Otak mengatur perintah gerak melalui saraf."
+        },
+        {
+          "id": "B",
+          "teks": "Otot menarik tulang sehingga terjadi gerakan."
+        },
+        {
+          "id": "C",
+          "teks": "Darah memasok oksigen bagi otot."
+        },
+        {
+          "id": "D",
+          "teks": "Tulang berkontraksi untuk menarik otot."
+        },
+        {
+          "id": "E",
+          "teks": "Saraf sensorik membawa perintah ke otot."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Gerak melibatkan pengaturan saraf, kontraksi otot, dan pasokan oksigen melalui darah.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m1-lat-10",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis cedera saraf",
+      "pertanyaan": "Seorang pasien mengalami kerusakan sumsum tulang belakang. Setelah itu, gerakan kaki terganggu meskipun otot tidak mengalami luka langsung.\n\nPilih TIGA penjelasan yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Jalur penghantaran pesan saraf dapat terganggu."
+        },
+        {
+          "id": "B",
+          "teks": "Perintah gerak dari otak mungkin tidak tersampaikan dengan baik."
+        },
+        {
+          "id": "C",
+          "teks": "Gangguan saraf dapat memengaruhi gerak dan sensasi."
+        },
+        {
+          "id": "D",
+          "teks": "Tulang kaki pasti berubah menjadi sendi engsel."
+        },
+        {
+          "id": "E",
+          "teks": "Sumsum tulang belakang berfungsi memompa darah."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Sumsum tulang belakang menjadi jalur komunikasi antara otak dan tubuh. Kerusakan dapat mengganggu gerak atau sensasi.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

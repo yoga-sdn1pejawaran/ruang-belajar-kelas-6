@@ -1,0 +1,297 @@
+{
+  "id": "matematika-latihan-m3-p1",
+  "mataPelajaran": "Matematika",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Bilangan Desimal",
+  "paket": 1,
+  "judul": "Bilangan Desimal • Latihan",
+  "durasiMenit": 0,
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu.",
+  "soal": [
+    {
+      "id": "mtk-m3-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan nilai tempat desimal",
+      "pertanyaan": "Pada bilangan 5,8 angka 8 menempati nilai tempat ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "satuan"
+        },
+        {
+          "id": "B",
+          "teks": "persepuluhan"
+        },
+        {
+          "id": "C",
+          "teks": "perseratus"
+        },
+        {
+          "id": "D",
+          "teks": "puluhan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Angka pertama setelah koma menunjukkan persepuluhan.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m3-02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Membandingkan bilangan desimal",
+      "pertanyaan": "Bilangan yang lebih besar antara 3,45 dan 3,5 adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "3,45"
+        },
+        {
+          "id": "B",
+          "teks": "3,5"
+        },
+        {
+          "id": "C",
+          "teks": "keduanya sama"
+        },
+        {
+          "id": "D",
+          "teks": "tidak dapat dibandingkan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "3,5 dapat ditulis 3,50. Karena 3,50 > 3,45, maka 3,5 lebih besar.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m3-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah desimal menjadi pecahan",
+      "pertanyaan": "Bentuk pecahan paling sederhana dari 0,75 adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "3/4"
+        },
+        {
+          "id": "B",
+          "teks": "7/5"
+        },
+        {
+          "id": "C",
+          "teks": "75/10"
+        },
+        {
+          "id": "D",
+          "teks": "1/4"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "0,75 = 75/100 = 3/4.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m3-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menjumlahkan bilangan desimal",
+      "pertanyaan": "Hitung 2,35 + 1,8.",
+      "kunci": "A",
+      "pembahasan": "2,35 + 1,8 = 4,15.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "4,15"
+        },
+        {
+          "id": "B",
+          "teks": "4,25"
+        },
+        {
+          "id": "C",
+          "teks": "4,05"
+        },
+        {
+          "id": "D",
+          "teks": "4,35"
+        }
+      ]
+    },
+    {
+      "id": "mtk-m3-05",
+      "jenis": "benar_salah",
+      "indikator": "Menilai pernyataan tentang desimal",
+      "pertanyaan": "Sebuah pita panjangnya 4,5 meter. Dipotong 1,25 meter. Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Panjang pita yang dipotong 1,25 meter."
+        },
+        {
+          "teks": "Sisa pita adalah 3,25 meter."
+        },
+        {
+          "teks": "Sisa pita lebih pendek daripada 1 meter."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "4,5 − 1,25 = 3,25 meter. Sisa lebih dari 1 meter.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "mtk-m3-06",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengalikan bilangan desimal",
+      "pertanyaan": "Hasil dari 2,4 × 1,5 adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "3,6"
+        },
+        {
+          "id": "B",
+          "teks": "2,9"
+        },
+        {
+          "id": "C",
+          "teks": "4,0"
+        },
+        {
+          "id": "D",
+          "teks": "36"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "24 × 15 = 360. Ada dua angka di belakang koma, jadi hasilnya 3,60 = 3,6.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m3-07",
+      "jenis": "pilihan_ganda",
+      "indikator": "Membagi bilangan desimal",
+      "pertanyaan": "Hitung 8,4 ÷ 0,7.",
+      "kunci": "A",
+      "pembahasan": "Kalikan kedua bilangan dengan 10: 84 ÷ 7 = 12.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "12"
+        },
+        {
+          "id": "B",
+          "teks": "13"
+        },
+        {
+          "id": "C",
+          "teks": "11"
+        },
+        {
+          "id": "D",
+          "teks": "14"
+        }
+      ]
+    },
+    {
+      "id": "mtk-m3-08",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menganalisis data berat desimal",
+      "pertanyaan": "Tiga paket memiliki berat 1,25 kg; 0,88 kg; dan 1,4 kg. Urutan dari paling ringan ke paling berat adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "0,88; 1,25; 1,4"
+        },
+        {
+          "id": "B",
+          "teks": "1,25; 0,88; 1,4"
+        },
+        {
+          "id": "C",
+          "teks": "1,4; 1,25; 0,88"
+        },
+        {
+          "id": "D",
+          "teks": "0,88; 1,4; 1,25"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Urutan dari yang terkecil adalah 0,88 kg; 1,25 kg; 1,4 kg.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m3-09",
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan operasi desimal dengan hasil",
+      "pertanyaan": "Pasangkan operasi dengan hasilnya.",
+      "pasangan": [
+        {
+          "teks": "1,2 + 0,35"
+        },
+        {
+          "teks": "4,5 − 2,75"
+        },
+        {
+          "teks": "0,6 × 0,5"
+        },
+        {
+          "teks": "3,6 ÷ 0,9"
+        }
+      ],
+      "pilihan": [
+        "4",
+        "0,3",
+        "1,55",
+        "1,75"
+      ],
+      "kunci": [
+        "1,55",
+        "1,75",
+        "0,3",
+        "4"
+      ],
+      "pembahasan": "Hasil operasi berturut-turut adalah 1,55; 1,75; 0,3; dan 4.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "mtk-m3-10",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyelesaikan masalah pembagian desimal",
+      "pertanyaan": "Ibu memiliki 5,4 liter jus. Jus dibagi sama banyak ke dalam 6 botol. Berapa liter isi setiap botol?",
+      "kunci": "A",
+      "pembahasan": "5,4 ÷ 6 = 0,9 liter per botol.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "0,9"
+        },
+        {
+          "id": "B",
+          "teks": "1"
+        },
+        {
+          "id": "C",
+          "teks": "0,8"
+        },
+        {
+          "id": "D",
+          "teks": "1,1"
+        }
+      ]
+    }
+  ]
+}

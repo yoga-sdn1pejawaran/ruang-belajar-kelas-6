@@ -1,0 +1,297 @@
+{
+  "id": "matematika-latihan-m6-p1",
+  "mataPelajaran": "Matematika",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Skala, Jarak pada Gambar, dan Jarak Sebenarnya",
+  "paket": 1,
+  "judul": "Skala, Jarak pada Gambar, dan Jarak Sebenarnya • Latihan",
+  "durasiMenit": 0,
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu.",
+  "soal": [
+    {
+      "id": "mtk-m6-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Memahami arti skala",
+      "pertanyaan": "Skala 1 : 10.000 berarti ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "1 cm pada gambar mewakili 10.000 cm sebenarnya"
+        },
+        {
+          "id": "B",
+          "teks": "10.000 cm pada gambar mewakili 1 cm sebenarnya"
+        },
+        {
+          "id": "C",
+          "teks": "1 cm pada gambar mewakili 10.000 meter"
+        },
+        {
+          "id": "D",
+          "teks": "1 cm pada gambar mewakili 10.000 km"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Skala membandingkan jarak pada gambar dengan jarak sebenarnya dalam satuan yang sama.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m6-02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah satuan panjang",
+      "pertanyaan": "2,5 km sama dengan .... meter.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "25"
+        },
+        {
+          "id": "B",
+          "teks": "250"
+        },
+        {
+          "id": "C",
+          "teks": "2.500"
+        },
+        {
+          "id": "D",
+          "teks": "25.000"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "1 km = 1.000 m, sehingga 2,5 km = 2.500 m.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m6-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung jarak sebenarnya",
+      "pertanyaan": "Jarak pada peta 4 cm. Skala peta 1 : 25.000. Jarak sebenarnya adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "100 m"
+        },
+        {
+          "id": "B",
+          "teks": "250 m"
+        },
+        {
+          "id": "C",
+          "teks": "1.000 m"
+        },
+        {
+          "id": "D",
+          "teks": "10.000 m"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "4 × 25.000 = 100.000 cm = 1.000 m. Jawaban yang benar adalah C.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m6-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung jarak pada gambar",
+      "pertanyaan": "Jarak sebenarnya 2 km. Skala peta 1 : 50.000. Berapa cm jarak pada peta?",
+      "kunci": "A",
+      "pembahasan": "2 km = 200.000 cm. Jarak peta = 200.000 ÷ 50.000 = 4 cm.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "4"
+        },
+        {
+          "id": "B",
+          "teks": "5"
+        },
+        {
+          "id": "C",
+          "teks": "3"
+        },
+        {
+          "id": "D",
+          "teks": "6"
+        }
+      ]
+    },
+    {
+      "id": "mtk-m6-05",
+      "jenis": "benar_salah",
+      "indikator": "Menilai pernyataan tentang skala",
+      "pertanyaan": "Tinggi pohon sebenarnya 12 meter digambar dengan skala 1 : 40. Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Tinggi sebenarnya sama dengan 1.200 cm."
+        },
+        {
+          "teks": "Tinggi pada gambar adalah 30 cm."
+        },
+        {
+          "teks": "Jika tinggi gambar menjadi 15 cm dengan skala sama, tinggi sebenarnya 6 meter."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "12 m = 1.200 cm; 1.200 ÷ 40 = 30 cm. Tinggi sebenarnya untuk gambar 15 cm adalah 15 × 40 = 600 cm = 6 m.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "mtk-m6-06",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan skala gambar",
+      "pertanyaan": "Sebuah benda sepanjang 8 meter digambar sepanjang 4 cm. Skala gambar tersebut adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "1 : 20"
+        },
+        {
+          "id": "B",
+          "teks": "1 : 100"
+        },
+        {
+          "id": "C",
+          "teks": "1 : 200"
+        },
+        {
+          "id": "D",
+          "teks": "1 : 2.000"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "8 m = 800 cm. Skala 4 : 800 disederhanakan menjadi 1 : 200.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m6-07",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung ukuran gambar berdasarkan skala",
+      "pertanyaan": "Tinggi menara 24 meter. Jika digambar dengan skala 1 : 300, berapa cm tinggi menara pada gambar?",
+      "kunci": "A",
+      "pembahasan": "24 m = 2.400 cm. Ukuran gambar = 2.400 ÷ 300 = 8 cm.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "8"
+        },
+        {
+          "id": "B",
+          "teks": "9"
+        },
+        {
+          "id": "C",
+          "teks": "7"
+        },
+        {
+          "id": "D",
+          "teks": "10"
+        }
+      ]
+    },
+    {
+      "id": "mtk-m6-08",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menganalisis jarak pada peta",
+      "pertanyaan": "Pada peta, jarak sekolah ke pasar 6 cm. Skala 1 : 25.000. Jarak sebenarnya adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "1 km"
+        },
+        {
+          "id": "B",
+          "teks": "1,5 km"
+        },
+        {
+          "id": "C",
+          "teks": "2 km"
+        },
+        {
+          "id": "D",
+          "teks": "2,5 km"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "6 × 25.000 = 150.000 cm = 1.500 m = 1,5 km.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m6-09",
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan skala dengan jarak sebenarnya",
+      "pertanyaan": "Pasangkan jarak pada peta dengan jarak sebenarnya.",
+      "pasangan": [
+        {
+          "teks": "2 cm, skala 1 : 10.000"
+        },
+        {
+          "teks": "3 cm, skala 1 : 20.000"
+        },
+        {
+          "teks": "4 cm, skala 1 : 7.500"
+        },
+        {
+          "teks": "5 cm, skala 1 : 40.000"
+        }
+      ],
+      "pilihan": [
+        "200 m",
+        "600 m",
+        "300 m",
+        "2.000 m"
+      ],
+      "kunci": [
+        "200 m",
+        "600 m",
+        "300 m",
+        "2.000 m"
+      ],
+      "pembahasan": "2×10.000 cm = 200 m; 3×20.000 cm = 600 m; 4×7.500 cm = 300 m; 5×40.000 cm = 2.000 m.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "mtk-m6-10",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyelesaikan masalah skala bertahap",
+      "pertanyaan": "Jarak sebenarnya dua desa 7,5 km. Pada peta jaraknya 15 cm. Berapa nilai penyebut skala peta?",
+      "kunci": "A",
+      "pembahasan": "7,5 km = 750.000 cm. Skala = 15 : 750.000 = 1 : 50.000.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "50000"
+        },
+        {
+          "id": "B",
+          "teks": "50001"
+        },
+        {
+          "id": "C",
+          "teks": "49999"
+        },
+        {
+          "id": "D",
+          "teks": "50002"
+        }
+      ]
+    }
+  ]
+}

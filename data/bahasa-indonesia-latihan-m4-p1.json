@@ -1,0 +1,309 @@
+{
+  "id": "bahasa-indonesia-latihan-mTeks Eksplanasi Ilmiah dan Gagasan Utama-p1",
+  "mataPelajaran": "Bahasa Indonesia",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Teks Eksplanasi: Menjelaskan Proses dan Sebab-Akibat",
+  "paket": 1,
+  "judul": "Teks Eksplanasi: Menjelaskan Proses dan Sebab-Akibat • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Teks yang menjelaskan proses terjadinya gunung meletus berdasarkan urutan sebab dan proses disebut teks ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "narasi"
+        },
+        {
+          "id": "B",
+          "teks": "eksplanasi"
+        },
+        {
+          "id": "C",
+          "teks": "biografi"
+        },
+        {
+          "id": "D",
+          "teks": "surat resmi"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Teks eksplanasi menjelaskan bagaimana atau mengapa suatu fenomena terjadi.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "BI6-M4-P1-01",
+      "stimulus": "Gunung meletus merupakan fenomena alam yang terjadi ketika magma dan material dari dalam bumi keluar melalui kawah. Peristiwa ini berkaitan dengan tekanan di dalam gunung, pergerakan magma, dan kondisi saluran keluarnya. Teks yang membahas fenomena tersebut biasanya menjelaskan pengertian, penyebab, urutan proses, serta dampak yang mungkin terjadi. Penjelasan disusun berdasarkan proses alam agar pembaca memahami peristiwa secara runtut."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Bacalah ringkasan: 'Air laut menguap karena panas matahari. Uap naik, mendingin, lalu membentuk awan. Butiran air kemudian jatuh sebagai hujan.'",
+      "pernyataan": [
+        {
+          "teks": "Panas matahari menjadi penyebab penguapan."
+        },
+        {
+          "teks": "Pembentukan awan terjadi setelah uap air mendingin."
+        },
+        {
+          "teks": "Hujan turun sebelum air menguap."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Urutan prosesnya dimulai dari penguapan, pembentukan awan, lalu hujan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-M4-P1-02",
+      "stimulus": "Panas matahari menyebabkan air di laut, sungai, dan danau menguap. Uap air naik ke atmosfer dan mengalami pendinginan. Setelah suhu turun, uap berubah menjadi titik-titik air yang berkumpul membentuk awan. Ketika butiran air semakin berat, air jatuh ke permukaan bumi sebagai hujan. Urutan ini merupakan bagian dari siklus air. Setiap tahap terjadi berurutan dan saling berhubungan dalam perputaran air di alam."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Gagasan utama sebuah paragraf paling tepat diartikan sebagai ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "contoh tambahan dalam paragraf"
+        },
+        {
+          "id": "B",
+          "teks": "inti pembahasan paragraf"
+        },
+        {
+          "id": "C",
+          "teks": "kata yang paling panjang"
+        },
+        {
+          "id": "D",
+          "teks": "kalimat penutup sebuah cerita"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Gagasan utama merupakan inti informasi yang dibahas dalam paragraf.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "BI6-M4-P1-03",
+      "stimulus": "Sebuah paragraf membahas manfaat hutan mangrove bagi wilayah pesisir. Kalimat-kalimat berikutnya menjelaskan bahwa akar mangrove membantu menahan abrasi, menjadi tempat hidup berbagai hewan, dan mendukung kehidupan masyarakat pesisir. Semua rincian itu mengembangkan satu pokok pembahasan yang menjadi inti paragraf. Gagasan utama menjadi dasar untuk memahami hubungan antara kalimat utama dan kalimat penjelas."
+    },
+    {
+      "jenis": "menjodohkan",
+      "pertanyaan": "Pasangkan istilah proses siklus air dengan keterangannya.",
+      "pasangan": [
+        {
+          "teks": "Evaporasi"
+        },
+        {
+          "teks": "Kondensasi"
+        },
+        {
+          "teks": "Presipitasi"
+        },
+        {
+          "teks": "Infiltrasi"
+        }
+      ],
+      "pilihan": [
+        "Air meresap ke dalam tanah",
+        "Air jatuh dari awan ke permukaan bumi",
+        "Uap air mendingin membentuk titik air",
+        "Air berubah menjadi uap karena panas"
+      ],
+      "kunci": [
+        "Air berubah menjadi uap karena panas",
+        "Uap air mendingin membentuk titik air",
+        "Air jatuh dari awan ke permukaan bumi",
+        "Air meresap ke dalam tanah"
+      ],
+      "pembahasan": "Keempat istilah menunjukkan tahapan berbeda dalam siklus air.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "BI6-M4-P1-04",
+      "stimulus": "Air laut menguap karena panas matahari. Uap air yang naik kemudian mendingin dan berubah menjadi titik-titik air di atmosfer. Titik-titik itu berkumpul membentuk awan. Ketika awan tidak mampu menahan air lebih banyak, butiran air jatuh sebagai hujan. Sebagian air meresap ke tanah dan sebagian lainnya mengalir menuju sungai serta laut. Istilah tersebut menunjukkan perubahan air pada tahap yang berbeda dalam siklus hidrologi."
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "pertanyaan": "Dalam teks tentang banjir, pilih TIGA hubungan sebab-akibat yang logis.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Saluran tersumbat sampah dapat menghambat aliran air."
+        },
+        {
+          "id": "B",
+          "teks": "Hujan deras dalam waktu lama dapat meningkatkan risiko banjir."
+        },
+        {
+          "id": "C",
+          "teks": "Daerah resapan berkurang dapat memperbesar limpasan air."
+        },
+        {
+          "id": "D",
+          "teks": "Menanam pohon selalu menyebabkan banjir."
+        },
+        {
+          "id": "E",
+          "teks": "Membersihkan selokan membuat air semakin sulit mengalir."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Saluran tersumbat, hujan deras, dan berkurangnya resapan dapat meningkatkan risiko banjir.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "BI6-M4-P1-05",
+      "stimulus": "Setelah hujan deras selama beberapa jam, saluran air di permukiman tidak mampu menampung aliran yang datang. Sampah yang menyumbat selokan memperlambat aliran air. Di daerah yang banyak permukaan tertutup beton, air sulit meresap ke tanah. Akibatnya, genangan dapat meluas dan mengganggu aktivitas warga. Penjelasan sebab-akibat membantu warga memahami mengapa genangan dapat terjadi di permukiman."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Kalimat utama yang terletak di awal paragraf disebut paragraf ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "induktif"
+        },
+        {
+          "id": "B",
+          "teks": "deduktif"
+        },
+        {
+          "id": "C",
+          "teks": "campuran"
+        },
+        {
+          "id": "D",
+          "teks": "naratif"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Paragraf deduktif menyampaikan gagasan utama di awal kemudian diikuti penjelas.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-M4-P1-06",
+      "stimulus": "Paragraf tentang terumbu karang diawali dengan pernyataan bahwa terumbu karang menjadi tempat hidup berbagai biota laut. Kalimat berikutnya menjelaskan bahwa ikan mencari makan dan berlindung di sana. Paragraf ditutup dengan keterangan bahwa terumbu karang membantu menjaga keseimbangan ekosistem. Rincian tersebut mendukung satu gagasan utama. Kalimat-kalimat penjelas memberikan rincian yang mendukung gagasan utama paragraf."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Perhatikan paragraf: 'Terumbu karang menjadi tempat hidup berbagai biota laut. Beragam ikan mencari makan dan berlindung di sana. Terumbu karang juga membantu menjaga keseimbangan ekosistem laut.'",
+      "pernyataan": [
+        {
+          "teks": "Gagasan utama paragraf membahas fungsi terumbu karang."
+        },
+        {
+          "teks": "Kalimat kedua memberikan informasi pendukung."
+        },
+        {
+          "teks": "Paragraf tersebut menjelaskan cara mengisi formulir."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Isi paragraf membahas peran terumbu karang, bukan formulir.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-M4-P1-07",
+      "stimulus": "Terumbu karang menjadi tempat hidup berbagai biota laut. Beragam ikan mencari makan dan berlindung di antara cabang karang. Terumbu karang juga menjadi tempat hidup hewan kecil dan membantu menjaga keseimbangan ekosistem laut. Karena itu, kondisi terumbu karang perlu dijaga dari pencemaran dan kerusakan. Pembaca perlu memperhatikan judul, keterangan, dan angka sebelum menarik kesimpulan dari grafik."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Jika sebuah infografis menunjukkan suhu udara meningkat selama lima hari berturut-turut, informasi yang paling tepat disampaikan adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "suhu udara mengalami kenaikan selama periode pengamatan"
+        },
+        {
+          "id": "B",
+          "teks": "hujan turun sepanjang lima hari"
+        },
+        {
+          "id": "C",
+          "teks": "angin berhenti bertiup"
+        },
+        {
+          "id": "D",
+          "teks": "jumlah penduduk bertambah"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Kesimpulan harus sesuai data yang ditampilkan pada infografis.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-M4-P1-08",
+      "stimulus": "Petugas mencatat suhu udara setiap sore selama lima hari. Hasil pencatatan menunjukkan suhu meningkat dari hari pertama hingga hari kelima. Data itu disajikan dalam infografis berbentuk grafik garis. Pembaca dapat membandingkan angka pada setiap hari untuk mengetahui kecenderungan perubahan suhu, tetapi tidak boleh menyimpulkan penyebab yang tidak dicantumkan. Kata penghubung membuat hubungan antarkalimat menjadi jelas bagi pembaca."
+    },
+    {
+      "jenis": "menjodohkan",
+      "pertanyaan": "Pasangkan kata penghubung dengan hubungan maknanya.",
+      "pasangan": [
+        {
+          "teks": "Karena"
+        },
+        {
+          "teks": "Akibatnya"
+        },
+        {
+          "teks": "Kemudian"
+        },
+        {
+          "teks": "Meskipun"
+        }
+      ],
+      "pilihan": [
+        "Pertentangan",
+        "Urutan waktu",
+        "Dampak",
+        "Sebab"
+      ],
+      "kunci": [
+        "Sebab",
+        "Dampak",
+        "Urutan waktu",
+        "Pertentangan"
+      ],
+      "pembahasan": "Kata penghubung menandai hubungan sebab, akibat, urutan, dan pertentangan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "BI6-M4-P1-09",
+      "stimulus": "Dalam teks eksplanasi, kata penghubung membantu menjelaskan hubungan antarkejadian. Kata “karena” dapat memperkenalkan penyebab, “akibatnya” menunjukkan dampak, “kemudian” menandai urutan waktu, dan “meskipun” menunjukkan pertentangan. Pemilihan kata penghubung yang tepat membuat penjelasan proses lebih runtut dan mudah dipahami. Penggunaan kata penghubung yang tepat mencegah urutan proses disalahartikan."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Bagian teks eksplanasi yang menjelaskan urutan proses atau hubungan sebab-akibat disebut ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pernyataan umum"
+        },
+        {
+          "id": "B",
+          "teks": "deretan penjelas"
+        },
+        {
+          "id": "C",
+          "teks": "orientasi tokoh"
+        },
+        {
+          "id": "D",
+          "teks": "salam penutup"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Deretan penjelas memuat tahapan proses dan hubungan sebab-akibat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-M4-P1-10",
+      "stimulus": "Teks tentang proses terjadinya hujan menjelaskan bagaimana air menguap, membentuk awan, lalu jatuh kembali ke bumi. Penulis menyusun peristiwa secara berurutan dan menjelaskan hubungan antara panas matahari, pendinginan uap air, serta turunnya hujan. Bagian yang berisi uraian proses dan hubungan sebab-akibat menjadi inti penjelasan fenomena. Pembaca dapat mengenali bagian tersebut dari uraian tahapan dan hubungan penyebab dengan akibat."
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

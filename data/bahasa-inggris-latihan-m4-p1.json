@@ -1,0 +1,316 @@
+{
+  "id": "bahasa-inggris-latihan-m4-p1",
+  "mataPelajaran": "Bahasa Inggris",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Kata Kerja Dasar (Verb)",
+  "paket": 1,
+  "judul": "Kata Kerja Dasar (Verb) • Paket 1",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna kata kerja",
+      "pertanyaan": "Manakah kata berikut yang merupakan kata kerja (verb)?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "beautiful"
+        },
+        {
+          "id": "B",
+          "teks": "quickly"
+        },
+        {
+          "id": "C",
+          "teks": "jump"
+        },
+        {
+          "id": "D",
+          "teks": "blue"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Jump adalah kata kerja yang berarti melompat.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m4-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Memilih kata kerja sesuai gambar mental",
+      "pertanyaan": "Seekor burung dapat ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "sing"
+        },
+        {
+          "id": "B",
+          "teks": "blue"
+        },
+        {
+          "id": "C",
+          "teks": "small"
+        },
+        {
+          "id": "D",
+          "teks": "happy"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Sing adalah kata kerja yang berarti bernyanyi.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m4-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna verb",
+      "pertanyaan": "Arti kata kerja “write” adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "membaca"
+        },
+        {
+          "id": "B",
+          "teks": "menulis"
+        },
+        {
+          "id": "C",
+          "teks": "berlari"
+        },
+        {
+          "id": "D",
+          "teks": "makan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Write berarti menulis.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m4-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Membedakan verb dan adjective",
+      "pertanyaan": "Manakah kata berikut yang BUKAN merupakan kata kerja (verb)?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "eat"
+        },
+        {
+          "id": "B",
+          "teks": "drink"
+        },
+        {
+          "id": "C",
+          "teks": "sleep"
+        },
+        {
+          "id": "D",
+          "teks": "kind"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Kind adalah adjective (kata sifat), bukan verb.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m4-p1-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Mengidentifikasi kata kerja",
+      "pertanyaan": "Pilih tepat tiga kata yang merupakan verbs.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "read"
+        },
+        {
+          "id": "B",
+          "teks": "teacher"
+        },
+        {
+          "id": "C",
+          "teks": "dance"
+        },
+        {
+          "id": "D",
+          "teks": "sleep"
+        },
+        {
+          "id": "E",
+          "teks": "green"
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Read, dance, dan sleep adalah kata kerja.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m4-p1-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Memahami arti verb",
+      "pertanyaan": "Pilih tepat tiga pasangan kata kerja dan artinya yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "eat = makan"
+        },
+        {
+          "id": "B",
+          "teks": "run = tidur"
+        },
+        {
+          "id": "C",
+          "teks": "write = menulis"
+        },
+        {
+          "id": "D",
+          "teks": "drink = minum"
+        },
+        {
+          "id": "E",
+          "teks": "sing = membaca"
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Eat=makan, write=menulis, drink=minum.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m4-p1-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan penggunaan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Read berarti membaca."
+        },
+        {
+          "teks": "Sleep berarti berlari."
+        },
+        {
+          "teks": "Play merupakan kata kerja."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Sleep berarti tidur, bukan berlari.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m4-p1-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan penggunaan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Swim berarti berenang."
+        },
+        {
+          "teks": "Beautiful merupakan kata kerja."
+        },
+        {
+          "teks": "Cook dapat berarti memasak."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Beautiful adalah kata sifat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m4-p1-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan contoh yang tepat",
+      "pertanyaan": "Pasangkan setiap bagian di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "eat"
+        },
+        {
+          "teks": "read"
+        },
+        {
+          "teks": "swim"
+        },
+        {
+          "teks": "sleep"
+        }
+      ],
+      "pilihan": [
+        "tidur",
+        "berenang",
+        "makan",
+        "membaca"
+      ],
+      "kunci": [
+        "makan",
+        "membaca",
+        "berenang",
+        "tidur"
+      ],
+      "pembahasan": "Eat-makan, read-membaca, swim-berenang, sleep-tidur.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-latihan-m4-p1-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan contoh yang tepat",
+      "pertanyaan": "Pasangkan setiap bagian di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "write"
+        },
+        {
+          "teks": "sing"
+        },
+        {
+          "teks": "run"
+        },
+        {
+          "teks": "drink"
+        }
+      ],
+      "pilihan": [
+        "minum",
+        "berlari",
+        "menulis",
+        "bernyanyi"
+      ],
+      "kunci": [
+        "menulis",
+        "bernyanyi",
+        "berlari",
+        "minum"
+      ],
+      "pembahasan": "Write-menulis, sing-bernyanyi, run-berlari, drink-minum.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-latihan-m4-p1-q10"
+    }
+  ]
+}

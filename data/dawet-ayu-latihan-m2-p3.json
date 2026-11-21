@@ -1,0 +1,317 @@
+{
+  "id": "dawet-ayu-latihan-b2-p3",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Bab II – Strategi Pemasaran",
+  "bab": 2,
+  "paket": 3,
+  "judul": "Bab II – Strategi Pemasaran • Latihan Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Harga",
+      "pertanyaan": "Apa yang dimaksud dengan harga dalam kegiatan jual beli?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "biaya yang dikeluarkan untuk membuat produk"
+        },
+        {
+          "id": "B",
+          "teks": "jumlah barang yang dibeli konsumen"
+        },
+        {
+          "id": "C",
+          "teks": "keuntungan yang diperoleh penjual"
+        },
+        {
+          "id": "D",
+          "teks": "nilai uang yang harus dibayar pembeli untuk memperoleh produk"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Bagian manajemen harga membahas penetapan harga produk.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b2-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Contoh harga pembanding",
+      "pertanyaan": "Berapa harga Dawet Ayu dalam contoh perbandingan harga pada buku?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Rp3.500"
+        },
+        {
+          "id": "B",
+          "teks": "Rp4.000"
+        },
+        {
+          "id": "C",
+          "teks": "Rp3.100"
+        },
+        {
+          "id": "D",
+          "teks": "Rp3.000"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Buku memberi contoh harga Dawet Ayu Rp3.500 dan sabun mandi Rp3.100.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b2-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pertimbangan harga",
+      "pertanyaan": "Apa yang perlu diperhatikan saat menetapkan harga jual?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "nama penjual dan ukuran poster"
+        },
+        {
+          "id": "B",
+          "teks": "memperhatikan harga produk sejenis di pasaran"
+        },
+        {
+          "id": "C",
+          "teks": "warna produk dan bentuk gerobak"
+        },
+        {
+          "id": "D",
+          "teks": "jumlah foto dan jenis huruf"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Penjual perlu mempertimbangkan harga produk sejenis.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b2-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Persaingan harga",
+      "pertanyaan": "Apa contoh cara menarik pembeli dalam persaingan harga yang disebutkan buku?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "mengganti produk dengan barang lain"
+        },
+        {
+          "id": "B",
+          "teks": "menghentikan penjualan sementara"
+        },
+        {
+          "id": "C",
+          "teks": "penjual dapat memberi bonus atau paket untuk menarik pembeli"
+        },
+        {
+          "id": "D",
+          "teks": "mengurangi informasi produk"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Buku memberi contoh bonus satu sachet kopi dalam persaingan harga.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b2-p3-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Contoh ciri khas",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai contoh ciri khas.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Contoh ciri khas: memberi nama atau kemasan yang menarik."
+        },
+        {
+          "id": "B",
+          "teks": "Pelayanan distribusi: menjauhkan produk dari pembeli."
+        },
+        {
+          "id": "C",
+          "teks": "Distribusi: cara menyalurkan produk agar mudah diperoleh konsumen."
+        },
+        {
+          "id": "D",
+          "teks": "Contoh media promosi elektronik: papan reklame saja."
+        },
+        {
+          "id": "E",
+          "teks": "Harga: nilai uang yang harus dibayar pembeli untuk memperoleh produk."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "E"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b2-p3-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Ide kreatif",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai ide kreatif.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Ide kreatif: menyalin semua hal tanpa perubahan."
+        },
+        {
+          "id": "B",
+          "teks": "Penjualan langsung: mendatangi konsumen atau menawarkan produk secara langsung."
+        },
+        {
+          "id": "C",
+          "teks": "Promosi: kegiatan memperkenalkan dan menawarkan produk kepada calon pembeli."
+        },
+        {
+          "id": "D",
+          "teks": "Pertimbangan harga: memperhatikan harga produk sejenis di pasaran."
+        },
+        {
+          "id": "E",
+          "teks": "Pangsa pasar: alat untuk mengaduk cendol."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b2-p3-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Contoh harga pembanding",
+      "pertanyaan": "Perhatikan tiga informasi tentang contoh harga pembanding. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Contoh harga pembanding: harga Dawet Ayu Rp3.500 dan harga sabun mandi Rp3.100."
+        },
+        {
+          "teks": "Penjualan keliling: menunggu pembeli di tempat yang tidak diketahui."
+        },
+        {
+          "teks": "Iklan media cetak: iklan yang hanya disiarkan lewat radio."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 2. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b2-p3-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Persaingan harga",
+      "pertanyaan": "Perhatikan tiga informasi tentang persaingan harga. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Persaingan harga: penjual dapat memberi bonus atau paket untuk menarik pembeli."
+        },
+        {
+          "teks": "Ciri khas produk: daftar harga semua toko."
+        },
+        {
+          "teks": "Iklan luar ruang: iklan yang dipasang di luar ruangan, misalnya papan reklame."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 2. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b2-p3-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Harga",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan harga dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Harga"
+        },
+        {
+          "teks": "Penjualan langsung"
+        },
+        {
+          "teks": "Tujuan promosi"
+        },
+        {
+          "teks": "Contoh media promosi elektronik"
+        }
+      ],
+      "pilihan": [
+        "menarik perhatian pembeli agar tertarik membeli produk",
+        "mendatangi konsumen atau menawarkan produk secara langsung",
+        "website, radio, dan televisi",
+        "nilai uang yang harus dibayar pembeli untuk memperoleh produk"
+      ],
+      "kunci": [
+        "nilai uang yang harus dibayar pembeli untuk memperoleh produk",
+        "mendatangi konsumen atau menawarkan produk secara langsung",
+        "menarik perhatian pembeli agar tertarik membeli produk",
+        "website, radio, dan televisi"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 2.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-b2-p3-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Pertimbangan harga",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan pertimbangan harga dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Pertimbangan harga"
+        },
+        {
+          "teks": "Ide kreatif"
+        },
+        {
+          "teks": "Iklan media elektronik"
+        },
+        {
+          "teks": "Strategi pemasaran produk"
+        }
+      ],
+      "pilihan": [
+        "memperhatikan harga produk sejenis di pasaran",
+        "iklan melalui website, radio, dan televisi",
+        "gagasan baru untuk meningkatkan nilai jual produk",
+        "dapat mencakup pangsa pasar, waktu, harga, distribusi, ide kreatif, dan promosi"
+      ],
+      "kunci": [
+        "memperhatikan harga produk sejenis di pasaran",
+        "gagasan baru untuk meningkatkan nilai jual produk",
+        "iklan melalui website, radio, dan televisi",
+        "dapat mencakup pangsa pasar, waktu, harga, distribusi, ide kreatif, dan promosi"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 2.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-b2-p3-q10"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "matematika-paket-3",
+  "mataPelajaran": "Matematika",
+  "paket": 3,
+  "judul": "Operasi Pecahan Biasa dan Campuran",
+  "durasiMenit": 45,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-P3-01",
+      "jenis": "isian_angka",
+      "indikator": "Menjumlahkan pecahan biasa",
+      "pertanyaan": "Hitunglah 3/4 + 1/8. Tuliskan hasilnya dalam bentuk desimal.",
+      "kunci": 0.875,
+      "pembahasan": "3/4 = 6/8. Jadi 6/8 + 1/8 = 7/8 = 0,875.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P3-02",
+      "jenis": "isian_angka",
+      "indikator": "Mengurangkan pecahan biasa",
+      "pertanyaan": "Hitunglah 5/6 − 1/3. Tuliskan hasilnya dalam bentuk desimal.",
+      "kunci": 0.5,
+      "pembahasan": "1/3 = 2/6. Jadi 5/6 − 2/6 = 3/6 = 1/2 = 0,5.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P3-03",
+      "jenis": "isian_angka",
+      "indikator": "Mengalikan pecahan campuran dengan bilangan bulat",
+      "pertanyaan": "Hitunglah hasil dari 2 1/2 × 4.",
+      "kunci": 10,
+      "pembahasan": "2 1/2 = 5/2. Kemudian 5/2 × 4 = 10.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P3-04",
+      "jenis": "isian_angka",
+      "indikator": "Membagi pecahan campuran dengan pecahan biasa",
+      "pertanyaan": "Hitunglah hasil dari 3 1/3 ÷ 2/3.",
+      "kunci": 5,
+      "pembahasan": "3 1/3 = 10/3. Maka 10/3 ÷ 2/3 = 10/3 × 3/2 = 5.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P3-05",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan perkalian pecahan dalam konteks",
+      "pertanyaan": "Sebuah pita panjangnya 3/4 meter. Ibu memiliki 6 pita dengan panjang yang sama. Berapa meter jumlah panjang seluruh pita?",
+      "kunci": 4.5,
+      "pembahasan": "6 × 3/4 = 18/4 = 4 1/2 = 4,5 meter.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P3-06",
+      "jenis": "isian_angka",
+      "indikator": "Mengalikan pecahan biasa",
+      "pertanyaan": "Hitunglah hasil dari 7/8 × 4/7. Tuliskan hasilnya dalam bentuk desimal.",
+      "kunci": 0.5,
+      "pembahasan": "7/8 × 4/7 = 4/8 = 1/2 = 0,5.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P3-07",
+      "jenis": "isian_angka",
+      "indikator": "Membagi pecahan campuran",
+      "pertanyaan": "Hitunglah hasil dari 1 1/2 ÷ 3/4.",
+      "kunci": 2,
+      "pembahasan": "1 1/2 = 3/2. Maka 3/2 ÷ 3/4 = 3/2 × 4/3 = 2.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P3-08",
+      "jenis": "isian_angka",
+      "indikator": "Mengubah pecahan campuran menjadi desimal",
+      "pertanyaan": "Ubah pecahan campuran 2 1/4 menjadi bilangan desimal.",
+      "kunci": 2.25,
+      "pembahasan": "2 1/4 = 2 + 1/4 = 2 + 0,25 = 2,25.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P3-09",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung operasi bilangan bulat dan pecahan campuran",
+      "pertanyaan": "Hitunglah −2 + 1 1/2. Tuliskan hasilnya dalam bentuk desimal.",
+      "kunci": -0.5,
+      "pembahasan": "1 1/2 = 1,5. Maka −2 + 1,5 = −0,5.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P3-10",
+      "jenis": "isian_angka",
+      "indikator": "Membagi pecahan campuran dalam masalah sehari-hari",
+      "pertanyaan": "Sebuah wadah berisi 2 2/3 liter sari buah. Setiap botol diisi 2/3 liter. Berapa botol penuh yang dapat diisi?",
+      "kunci": 4,
+      "pembahasan": "2 2/3 = 8/3. Banyak botol = 8/3 ÷ 2/3 = 8/3 × 3/2 = 4 botol.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    }
+  ]
+}

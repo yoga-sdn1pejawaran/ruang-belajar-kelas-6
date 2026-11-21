@@ -1,0 +1,923 @@
+{
+  "id": "dawet-ayu-simulasi-p1",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "paket": 1,
+  "judul": "Simulasi ASAS 1 Dawet Ayu Banjarnegara • Paket 1",
+  "durasiMenit": 75,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Cara mengolah adonan cendol",
+      "pertanyaan": "Bagaimana cara memasak adonan cendol sebelum dicetak?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "direbus sambil terus diaduk hingga mengental"
+        },
+        {
+          "id": "B",
+          "teks": "dipanggang sampai kecokelatan"
+        },
+        {
+          "id": "C",
+          "teks": "digoreng hingga kering"
+        },
+        {
+          "id": "D",
+          "teks": "dijemur hingga mengeras"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Adonan cendol direbus sambil diaduk terus hingga mengental.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bahan juruh",
+      "pertanyaan": "Bahan apa saja yang digunakan untuk membuat juruh?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "air kelapa, garam, dan tepung beras"
+        },
+        {
+          "id": "B",
+          "teks": "gula merah, air, daun pandan, nangka, dan garam"
+        },
+        {
+          "id": "C",
+          "teks": "teh, jahe, dan gula pasir"
+        },
+        {
+          "id": "D",
+          "teks": "susu, kopi, dan tepung terigu"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Daftar bahan juruh memuat air, pandan, nangka, gula merah, dan garam.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Fungsi juruh",
+      "pertanyaan": "Apa fungsi juruh dalam sajian Dawet Ayu?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "memberi warna hijau pada cendol"
+        },
+        {
+          "id": "B",
+          "teks": "memberi rasa manis pada Dawet Ayu"
+        },
+        {
+          "id": "C",
+          "teks": "memberi rasa gurih"
+        },
+        {
+          "id": "D",
+          "teks": "membuat cendol menjadi kenyal"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Juruh adalah kuah gula merah untuk penyajian.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bahan santan",
+      "pertanyaan": "Bahan apa saja yang digunakan untuk membuat kuah santan?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "santan, jahe, dan gula pasir"
+        },
+        {
+          "id": "B",
+          "teks": "santan, kopi, dan merica"
+        },
+        {
+          "id": "C",
+          "teks": "santan, tepung terigu, dan cabai"
+        },
+        {
+          "id": "D",
+          "teks": "santan, daun pandan, dan garam"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Bahan kuah santan dalam buku adalah santan, pandan, dan garam.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p1-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis pembuatan tape ketan hitam",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang persiapan ketan hitam, memasak ketan hitam, pendinginan ketan.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pendinginan ketan: ketan didinginkan sebelum diberi ragi."
+        },
+        {
+          "id": "B",
+          "teks": "Fermentasi tape ketan: sekitar 3 jam."
+        },
+        {
+          "id": "C",
+          "teks": "Memasak ketan hitam: dikukus hingga setengah matang, diberi air panas, lalu dikukus kembali."
+        },
+        {
+          "id": "D",
+          "teks": "Manfaat ketan hitam menurut buku: menyembuhkan semua penyakit."
+        },
+        {
+          "id": "E",
+          "teks": "Persiapan ketan hitam: dicuci bersih dan direndam semalam."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "E"
+      ],
+      "pembahasan": "Tiga pilihan yang benar sesuai dengan keterangan pada buku. Dua pilihan lainnya memuat informasi yang tidak sesuai.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p1-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis istilah bahan pangan",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang komponen minuman, pengolahan santan, penyajian dasar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tepung tapioka: tepung dari beras hitam."
+        },
+        {
+          "id": "B",
+          "teks": "Penyajian dasar: cendol, juruh, santan, dan es sesuai selera."
+        },
+        {
+          "id": "C",
+          "teks": "Pengolahan santan: direbus sambil diaduk agar tidak pecah."
+        },
+        {
+          "id": "D",
+          "teks": "Pati gelang: tepung dari sari ketela pohon."
+        },
+        {
+          "id": "E",
+          "teks": "Komponen minuman: santan, air gula jawa atau gula merah, dan cendol."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "E"
+      ],
+      "pembahasan": "Tiga pilihan yang benar sesuai dengan keterangan pada buku. Dua pilihan lainnya memuat informasi yang tidak sesuai.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p1-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai informasi bahan dan takaran cendol",
+      "pertanyaan": "Tentukan Benar atau Salah untuk informasi tentang bahan pewarna cendol, tepung cendol, bahan cendol.",
+      "pernyataan": [
+        {
+          "teks": "Bahan pewarna cendol: air sari daun pandan."
+        },
+        {
+          "teks": "Tepung cendol: tepung beras dan tepung pati gelang."
+        },
+        {
+          "teks": "Bahan cendol: 125 gram tepung terigu."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Cocokkan setiap pernyataan dengan fakta dan langkah yang dijelaskan dalam buku.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p1-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai informasi pembuatan juruh dan santan",
+      "pertanyaan": "Tentukan Benar atau Salah untuk informasi tentang cara mengolah adonan cendol, mencetak cendol, bahan juruh.",
+      "pernyataan": [
+        {
+          "teks": "Cara mengolah adonan cendol: direbus sambil terus diaduk hingga mengental."
+        },
+        {
+          "teks": "Mencetak cendol: adonan dibekukan dahulu."
+        },
+        {
+          "teks": "Bahan juruh: gula pasir, kopi, dan tepung jagung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Cocokkan setiap pernyataan dengan fakta dan langkah yang dijelaskan dalam buku.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p1-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Menghubungkan istilah bahan pangan",
+      "pertanyaan": "Pasangkan komponen minuman, pengolahan santan, penyajian dasar dan pati gelang dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Komponen minuman"
+        },
+        {
+          "teks": "Pengolahan santan"
+        },
+        {
+          "teks": "Penyajian dasar"
+        },
+        {
+          "teks": "Pati gelang"
+        }
+      ],
+      "pilihan": [
+        "santan, air gula jawa atau gula merah, dan cendol",
+        "direbus sambil diaduk agar tidak pecah",
+        "cendol, juruh, santan, dan es sesuai selera",
+        "tepung dari pohon aren"
+      ],
+      "kunci": [
+        "santan, air gula jawa atau gula merah, dan cendol",
+        "direbus sambil diaduk agar tidak pecah",
+        "cendol, juruh, santan, dan es sesuai selera",
+        "tepung dari pohon aren"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan arti, bahan, atau proses yang sesuai dengan penjelasan dalam buku.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-simulasi-p1-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Menghubungkan bahan dan takaran cendol",
+      "pertanyaan": "Pasangkan bahan pewarna cendol, tepung cendol, bahan cendol dan bahan cendol lainnya dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Bahan pewarna cendol"
+        },
+        {
+          "teks": "Tepung cendol"
+        },
+        {
+          "teks": "Bahan cendol"
+        },
+        {
+          "teks": "Bahan cendol lainnya"
+        }
+      ],
+      "pilihan": [
+        "25 gram tepung beras",
+        "air sari daun pandan",
+        "125 gram tepung pati gelang",
+        "tepung beras dan tepung pati gelang"
+      ],
+      "kunci": [
+        "air sari daun pandan",
+        "tepung beras dan tepung pati gelang",
+        "125 gram tepung pati gelang",
+        "25 gram tepung beras"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan arti, bahan, atau proses yang sesuai dengan penjelasan dalam buku.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-simulasi-p1-q10"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Contoh harga pembanding",
+      "pertanyaan": "Berapa harga Dawet Ayu dalam contoh perbandingan harga pada buku?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Rp3.000"
+        },
+        {
+          "id": "B",
+          "teks": "Rp4.000"
+        },
+        {
+          "id": "C",
+          "teks": "Rp3.500"
+        },
+        {
+          "id": "D",
+          "teks": "Rp3.100"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Buku memberi contoh perbandingan harga Dawet Ayu dan sabun mandi di toko.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p1-q11"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pertimbangan harga",
+      "pertanyaan": "Apa yang perlu diperhatikan saat menetapkan harga jual?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "warna produk dan bentuk gerobak"
+        },
+        {
+          "id": "B",
+          "teks": "memperhatikan harga produk sejenis di pasaran"
+        },
+        {
+          "id": "C",
+          "teks": "nama penjual dan ukuran poster"
+        },
+        {
+          "id": "D",
+          "teks": "jumlah foto dan jenis huruf"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Penjual perlu mempertimbangkan harga produk sejenis.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p1-q12"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Persaingan harga",
+      "pertanyaan": "Apa contoh cara menarik pembeli dalam persaingan harga yang disebutkan buku?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "mengurangi informasi produk"
+        },
+        {
+          "id": "B",
+          "teks": "mengganti produk dengan barang lain"
+        },
+        {
+          "id": "C",
+          "teks": "penjual dapat memberi bonus atau paket untuk menarik pembeli"
+        },
+        {
+          "id": "D",
+          "teks": "menghentikan penjualan sementara"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Buku memberi contoh bonus satu sachet kopi dalam persaingan harga.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p1-q13"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Distribusi",
+      "pertanyaan": "Dalam pemasaran, distribusi berkaitan dengan ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "cara menentukan warna minuman"
+        },
+        {
+          "id": "B",
+          "teks": "cara menyalurkan produk agar mudah diperoleh konsumen"
+        },
+        {
+          "id": "C",
+          "teks": "cara membuat logo produk"
+        },
+        {
+          "id": "D",
+          "teks": "cara menulis daftar bahan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Distribusi membahas bagaimana produk sampai kepada pembeli.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p1-q14"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis ide kreatif dan ciri khas produk",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang bentuk layanan, promosi, tujuan promosi.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Iklan media elektronik: iklan pada papan di pinggir jalan saja."
+        },
+        {
+          "id": "B",
+          "teks": "Iklan media cetak: iklan yang hanya disiarkan lewat radio."
+        },
+        {
+          "id": "C",
+          "teks": "Promosi: kegiatan memperkenalkan dan menawarkan produk kepada calon pembeli."
+        },
+        {
+          "id": "D",
+          "teks": "Bentuk layanan: pelayanan tambahan seperti mengantar pesanan ke rumah."
+        },
+        {
+          "id": "E",
+          "teks": "Tujuan promosi: menarik perhatian pembeli agar tertarik membeli produk."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Tiga pilihan yang benar sesuai dengan keterangan pada buku. Dua pilihan lainnya memuat informasi yang tidak sesuai.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p1-q15"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis promosi dan media iklan",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang iklan luar ruang, papan reklame, media promosi.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Contoh media promosi elektronik: papan reklame saja."
+        },
+        {
+          "id": "B",
+          "teks": "Papan reklame: media iklan yang dipasang di pinggir jalan."
+        },
+        {
+          "id": "C",
+          "teks": "Iklan luar ruang: iklan yang dipasang di luar ruangan, misalnya papan reklame."
+        },
+        {
+          "id": "D",
+          "teks": "Media promosi: media yang digunakan untuk menyampaikan iklan kepada masyarakat."
+        },
+        {
+          "id": "E",
+          "teks": "Contoh media promosi cetak: radio dan televisi."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Tiga pilihan yang benar sesuai dengan keterangan pada buku. Dua pilihan lainnya memuat informasi yang tidak sesuai.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p1-q16"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai informasi pangsa pasar dan calon pembeli",
+      "pertanyaan": "Tentukan Benar atau Salah untuk informasi tentang arti strategi, tujuan strategi pemasaran, pangsa pasar.",
+      "pernyataan": [
+        {
+          "teks": "Arti strategi: cara-cara yang digunakan penjual atau perusahaan untuk memperoleh konsumen sebanyak-banyaknya."
+        },
+        {
+          "teks": "Tujuan strategi pemasaran: mendapatkan konsumen sebanyak-banyaknya."
+        },
+        {
+          "teks": "Pangsa pasar: tempat menyimpan bahan makanan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Cocokkan setiap pernyataan dengan fakta dan langkah yang dijelaskan dalam buku.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p1-q17"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai informasi waktu dan harga penjualan",
+      "pertanyaan": "Tentukan Benar atau Salah untuk informasi tentang waktu penjualan, waktu yang cocok menurut buku, pertimbangan penjualan malam.",
+      "pernyataan": [
+        {
+          "teks": "Waktu penjualan: memperhatikan waktu ketika konsumen ingin membeli produk."
+        },
+        {
+          "teks": "Waktu yang cocok menurut buku: tengah malam saat toko tutup."
+        },
+        {
+          "teks": "Pertimbangan penjualan malam: mengabaikan keadaan udara."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Cocokkan setiap pernyataan dengan fakta dan langkah yang dijelaskan dalam buku.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p1-q18"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Menghubungkan promosi dan media iklan",
+      "pertanyaan": "Pasangkan iklan luar ruang, papan reklame, media promosi dan contoh media promosi cetak dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Iklan luar ruang"
+        },
+        {
+          "teks": "Papan reklame"
+        },
+        {
+          "teks": "Media promosi"
+        },
+        {
+          "teks": "Contoh media promosi cetak"
+        }
+      ],
+      "pilihan": [
+        "media iklan yang dipasang di pinggir jalan",
+        "surat kabar dan majalah",
+        "media yang digunakan untuk menyampaikan iklan kepada masyarakat",
+        "iklan yang dipasang di luar ruangan, misalnya papan reklame"
+      ],
+      "kunci": [
+        "iklan yang dipasang di luar ruangan, misalnya papan reklame",
+        "media iklan yang dipasang di pinggir jalan",
+        "media yang digunakan untuk menyampaikan iklan kepada masyarakat",
+        "surat kabar dan majalah"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan arti, bahan, atau proses yang sesuai dengan penjelasan dalam buku.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-simulasi-p1-q19"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Menghubungkan pangsa pasar dan calon pembeli",
+      "pertanyaan": "Pasangkan arti strategi, tujuan strategi pemasaran, pangsa pasar dan menentukan pangsa pasar dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Arti strategi"
+        },
+        {
+          "teks": "Tujuan strategi pemasaran"
+        },
+        {
+          "teks": "Pangsa pasar"
+        },
+        {
+          "teks": "Menentukan pangsa pasar"
+        }
+      ],
+      "pilihan": [
+        "cara-cara yang digunakan penjual atau perusahaan untuk memperoleh konsumen sebanyak-banyaknya",
+        "mendapatkan konsumen sebanyak-banyaknya",
+        "mengetahui siapa saja yang berpotensi membeli produk",
+        "kelompok calon pembeli yang menjadi sasaran penjualan"
+      ],
+      "kunci": [
+        "cara-cara yang digunakan penjual atau perusahaan untuk memperoleh konsumen sebanyak-banyaknya",
+        "mendapatkan konsumen sebanyak-banyaknya",
+        "kelompok calon pembeli yang menjadi sasaran penjualan",
+        "mengetahui siapa saja yang berpotensi membeli produk"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan arti, bahan, atau proses yang sesuai dengan penjelasan dalam buku.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-simulasi-p1-q20"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Ice",
+      "pertanyaan": "Apa arti kata “Ice” dalam tabel kosakata?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "rasa"
+        },
+        {
+          "id": "B",
+          "teks": "es"
+        },
+        {
+          "id": "C",
+          "teks": "segar"
+        },
+        {
+          "id": "D",
+          "teks": "manis"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Tabel kosakata Inggris mencantumkan Ice berarti es.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p1-q21"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Durian smell",
+      "pertanyaan": "Apa arti ungkapan “Durian smell” dalam tabel kosakata?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "wangi durian"
+        },
+        {
+          "id": "B",
+          "teks": "rasa durian"
+        },
+        {
+          "id": "C",
+          "teks": "bentuk durian"
+        },
+        {
+          "id": "D",
+          "teks": "warna durian"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Tabel kosakata Inggris mencantumkan Durian smell berarti wangi durian.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p1-q22"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Green",
+      "pertanyaan": "Apa arti kata “Green” dalam tabel kosakata?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "hijau"
+        },
+        {
+          "id": "B",
+          "teks": "kuning"
+        },
+        {
+          "id": "C",
+          "teks": "biru"
+        },
+        {
+          "id": "D",
+          "teks": "merah"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Tabel kosakata Inggris mencantumkan Green berarti hijau.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p1-q23"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Oishii",
+      "pertanyaan": "Apa arti kata “Oishii” dalam tabel kosakata Jepang?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "asin"
+        },
+        {
+          "id": "B",
+          "teks": "pahit"
+        },
+        {
+          "id": "C",
+          "teks": "manis"
+        },
+        {
+          "id": "D",
+          "teks": "lezat"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Tabel kosakata Jepang mencantumkan Oishii berarti lezat.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p1-q24"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis langkah promosi elektronik",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang makna hao shi, persiapan promosi elektronik, menulis kata kunci.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Membuka media sosial: membuka aplikasi kalkulator."
+        },
+        {
+          "id": "B",
+          "teks": "Menulis kata kunci: menuliskan beberapa kata kunci dalam gambar atau animasi yang berkaitan dengan produk."
+        },
+        {
+          "id": "C",
+          "teks": "Menyimpan file: membuang file sebelum digunakan."
+        },
+        {
+          "id": "D",
+          "teks": "Makna hao shi: enak, lezat, sedap."
+        },
+        {
+          "id": "E",
+          "teks": "Persiapan promosi elektronik: menyiapkan gambar atau animasi yang akan diunggah."
+        }
+      ],
+      "kunci": [
+        "B",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Tiga pilihan yang benar sesuai dengan keterangan pada buku. Dua pilihan lainnya memuat informasi yang tidak sesuai.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p1-q25"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis media sosial dan isi promosi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang memilih foto atau video, menambahkan caption, mengunggah promosi.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Memilih foto atau video: memilih foto atau video yang akan diunggah."
+        },
+        {
+          "id": "B",
+          "teks": "Twitter: jenis tepung untuk cendol."
+        },
+        {
+          "id": "C",
+          "teks": "Facebook: alat untuk memasak bubur sumsum."
+        },
+        {
+          "id": "D",
+          "teks": "Menambahkan caption: menambahkan komentar atau keterangan tentang Dawet Ayu yang dipromosikan."
+        },
+        {
+          "id": "E",
+          "teks": "Mengunggah promosi: mengunggah foto atau gambar agar dapat dilihat orang lain."
+        }
+      ],
+      "kunci": [
+        "A",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Tiga pilihan yang benar sesuai dengan keterangan pada buku. Dua pilihan lainnya memuat informasi yang tidak sesuai.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p1-q26"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai informasi kosakata bahasa Inggris",
+      "pertanyaan": "Tentukan Benar atau Salah untuk informasi tentang tujuan promosi, promosi berbahasa asing, bahasa asing dalam buku.",
+      "pernyataan": [
+        {
+          "teks": "Tujuan promosi: memperkenalkan barang dagangan kepada masyarakat."
+        },
+        {
+          "teks": "Promosi berbahasa asing: menggunakan kata atau ungkapan bahasa lain untuk menarik perhatian."
+        },
+        {
+          "teks": "Bahasa asing dalam buku: Bahasa Jerman, Prancis, dan Latin."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Cocokkan setiap pernyataan dengan fakta dan langkah yang dijelaskan dalam buku.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p1-q27"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai informasi kosakata bahasa Jepang",
+      "pertanyaan": "Tentukan Benar atau Salah untuk informasi tentang makna cool, makna fresh, makna good.",
+      "pernyataan": [
+        {
+          "teks": "Makna Cool: dingin."
+        },
+        {
+          "teks": "Makna Fresh: rasa."
+        },
+        {
+          "teks": "Makna Good: manis."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Cocokkan setiap pernyataan dengan fakta dan langkah yang dijelaskan dalam buku.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p1-q28"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Menghubungkan media sosial dan isi promosi",
+      "pertanyaan": "Pasangkan memilih foto atau video, menambahkan caption, mengunggah promosi dan facebook dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Memilih foto atau video"
+        },
+        {
+          "teks": "Menambahkan caption"
+        },
+        {
+          "teks": "Mengunggah promosi"
+        },
+        {
+          "teks": "Facebook"
+        }
+      ],
+      "pilihan": [
+        "menambahkan komentar atau keterangan tentang Dawet Ayu yang dipromosikan",
+        "contoh media sosial untuk mengunggah promosi Dawet Ayu",
+        "mengunggah foto atau gambar agar dapat dilihat orang lain",
+        "memilih foto atau video yang akan diunggah"
+      ],
+      "kunci": [
+        "memilih foto atau video yang akan diunggah",
+        "menambahkan komentar atau keterangan tentang Dawet Ayu yang dipromosikan",
+        "mengunggah foto atau gambar agar dapat dilihat orang lain",
+        "contoh media sosial untuk mengunggah promosi Dawet Ayu"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan arti, bahan, atau proses yang sesuai dengan penjelasan dalam buku.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-simulasi-p1-q29"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Menghubungkan kosakata bahasa Inggris",
+      "pertanyaan": "Pasangkan tujuan promosi, promosi berbahasa asing, bahasa asing dalam buku dan makna taste dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Tujuan promosi"
+        },
+        {
+          "teks": "Promosi berbahasa asing"
+        },
+        {
+          "teks": "Bahasa asing dalam buku"
+        },
+        {
+          "teks": "Makna Taste"
+        }
+      ],
+      "pilihan": [
+        "menggunakan kata atau ungkapan bahasa lain untuk menarik perhatian",
+        "memperkenalkan barang dagangan kepada masyarakat",
+        "rasa",
+        "Bahasa Inggris, Jepang, dan Mandarin"
+      ],
+      "kunci": [
+        "memperkenalkan barang dagangan kepada masyarakat",
+        "menggunakan kata atau ungkapan bahasa lain untuk menarik perhatian",
+        "Bahasa Inggris, Jepang, dan Mandarin",
+        "rasa"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan arti, bahan, atau proses yang sesuai dengan penjelasan dalam buku.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-simulasi-p1-q30"
+    }
+  ]
+}

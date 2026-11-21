@@ -1,0 +1,316 @@
+{
+  "id": "bahasa-inggris-latihan-m5-p1",
+  "mataPelajaran": "Bahasa Inggris",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Simple Present Tense",
+  "paket": 1,
+  "judul": "Simple Present Tense • Paket 1",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Simple present untuk I",
+      "pertanyaan": "Lengkapilah kalimat Simple Present Tense berikut dengan kata kerja yang tepat:\n\nI ___ breakfast every morning.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "eats"
+        },
+        {
+          "id": "B",
+          "teks": "eat"
+        },
+        {
+          "id": "C",
+          "teks": "eating"
+        },
+        {
+          "id": "D",
+          "teks": "ate"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Subjek I menggunakan bentuk dasar verb: eat.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m5-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Akhiran -s",
+      "pertanyaan": "Lengkapilah kalimat Simple Present Tense berikut dengan kata kerja yang tepat:\n\nRina ___ to school every day.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "walk"
+        },
+        {
+          "id": "B",
+          "teks": "walks"
+        },
+        {
+          "id": "C",
+          "teks": "walking"
+        },
+        {
+          "id": "D",
+          "teks": "walked"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Rina adalah subjek orang ketiga tunggal, sehingga walk menjadi walks.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m5-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Akhiran -es",
+      "pertanyaan": "Pilihlah kalimat bahasa Inggris yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "He watch TV."
+        },
+        {
+          "id": "B",
+          "teks": "He watches TV."
+        },
+        {
+          "id": "C",
+          "teks": "He watching TV."
+        },
+        {
+          "id": "D",
+          "teks": "He watched TV every day."
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Watch berakhiran -ch, sehingga ditambah -es menjadi watches.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m5-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Kata kerja berakhiran consonant + y",
+      "pertanyaan": "Lengkapilah kalimat Simple Present Tense berikut dengan kata kerja yang tepat:\n\nSita ___ English at school.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "study"
+        },
+        {
+          "id": "B",
+          "teks": "studys"
+        },
+        {
+          "id": "C",
+          "teks": "studies"
+        },
+        {
+          "id": "D",
+          "teks": "studying"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Study berubah menjadi studies untuk subjek tunggal orang ketiga.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-latihan-m5-p1-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Aturan simple present positif",
+      "pertanyaan": "Pilih tepat tiga kalimat yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "They play chess."
+        },
+        {
+          "id": "B",
+          "teks": "She play badminton."
+        },
+        {
+          "id": "C",
+          "teks": "My mother cooks rice."
+        },
+        {
+          "id": "D",
+          "teks": "I drinks milk."
+        },
+        {
+          "id": "E",
+          "teks": "The sun rises in the east."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "E"
+      ],
+      "pembahasan": "They play, My mother cooks, dan The sun rises menggunakan bentuk verb yang tepat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m5-p1-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Memilih bentuk verb sesuai subjek",
+      "pertanyaan": "Pilih tepat tiga pasangan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "I – reads"
+        },
+        {
+          "id": "B",
+          "teks": "He – runs"
+        },
+        {
+          "id": "C",
+          "teks": "We – study"
+        },
+        {
+          "id": "D",
+          "teks": "Dina – studies"
+        },
+        {
+          "id": "E",
+          "teks": "They – plays"
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "He-runs, We-study, dan Dina-studies sesuai aturan simple present.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m5-p1-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan penggunaan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "I drink water every day."
+        },
+        {
+          "teks": "She go to school every morning."
+        },
+        {
+          "teks": "My father works in a hospital."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "She harus menggunakan goes; dua kalimat lainnya benar.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m5-p1-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan penggunaan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "They watches television every night."
+        },
+        {
+          "teks": "The baby cries loudly."
+        },
+        {
+          "teks": "We study English at school."
+        }
+      ],
+      "kunci": [
+        "salah",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "They menggunakan watch tanpa -es; dua kalimat lainnya benar.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-latihan-m5-p1-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan contoh yang tepat",
+      "pertanyaan": "Pasangkan setiap bagian di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "I"
+        },
+        {
+          "teks": "She"
+        },
+        {
+          "teks": "They"
+        },
+        {
+          "teks": "My brother"
+        }
+      ],
+      "pilihan": [
+        "plays football",
+        "read books",
+        "goes to school",
+        "drink milk"
+      ],
+      "kunci": [
+        "drink milk",
+        "plays football",
+        "read books",
+        "goes to school"
+      ],
+      "pembahasan": "I-drink milk, She-plays football, They-read books, My brother-goes to school.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-latihan-m5-p1-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan contoh yang tepat",
+      "pertanyaan": "Pasangkan setiap bagian di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "go"
+        },
+        {
+          "teks": "watch"
+        },
+        {
+          "teks": "study"
+        },
+        {
+          "teks": "play"
+        }
+      ],
+      "pilihan": [
+        "plays (untuk he/she/it)",
+        "watches (untuk he/she/it)",
+        "goes (untuk he/she/it)",
+        "studies (untuk he/she/it)"
+      ],
+      "kunci": [
+        "goes (untuk he/she/it)",
+        "watches (untuk he/she/it)",
+        "studies (untuk he/she/it)",
+        "plays (untuk he/she/it)"
+      ],
+      "pembahasan": "Go-goes, watch-watches, study-studies, play-plays.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-latihan-m5-p1-q10"
+    }
+  ]
+}

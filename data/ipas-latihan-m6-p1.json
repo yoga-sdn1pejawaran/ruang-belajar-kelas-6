@@ -1,0 +1,317 @@
+{
+  "id": "ipas-latihan-m6-p1",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Ekspor, Impor, dan Globalisasi",
+  "paket": 1,
+  "judul": "Ekspor, Impor, dan Globalisasi • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "id": "ipas-m6-lat-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Pengertian ekspor",
+      "pertanyaan": "Sebuah perusahaan Indonesia mengirim kopi ke Jepang untuk dijual di sana.\n\nKegiatan tersebut disebut ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Impor"
+        },
+        {
+          "id": "B",
+          "teks": "Ekspor"
+        },
+        {
+          "id": "C",
+          "teks": "Konsumsi"
+        },
+        {
+          "id": "D",
+          "teks": "Distribusi lokal"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Ekspor adalah menjual atau mengirim barang/jasa ke luar negeri.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m6-lat-02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Pengertian impor",
+      "pertanyaan": "Sebuah pabrik membeli mesin dari negara lain dan memasukkannya ke Indonesia.\n\nKegiatan tersebut disebut ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Ekspor"
+        },
+        {
+          "id": "B",
+          "teks": "Impor"
+        },
+        {
+          "id": "C",
+          "teks": "Produksi"
+        },
+        {
+          "id": "D",
+          "teks": "Promosi"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Impor adalah membeli atau memasukkan barang/jasa dari luar negeri.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m6-lat-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Globalisasi",
+      "pertanyaan": "Anak-anak dapat mengikuti berita dari berbagai negara melalui internet dalam waktu singkat.\n\nFenomena tersebut merupakan contoh ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Globalisasi"
+        },
+        {
+          "id": "B",
+          "teks": "Isolasi"
+        },
+        {
+          "id": "C",
+          "teks": "Urbanisasi"
+        },
+        {
+          "id": "D",
+          "teks": "Erosi"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Globalisasi membuat informasi dan komunikasi antarnegara semakin terhubung.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m6-lat-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Dampak positif globalisasi",
+      "pertanyaan": "Seorang siswa menggunakan internet untuk mengikuti kelas daring dari lembaga pendidikan luar negeri.\n\nDampak positif yang terlihat adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Akses pengetahuan lebih luas"
+        },
+        {
+          "id": "B",
+          "teks": "Hilangnya seluruh budaya lokal"
+        },
+        {
+          "id": "C",
+          "teks": "Berkurangnya komunikasi"
+        },
+        {
+          "id": "D",
+          "teks": "Terhentinya perdagangan"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Teknologi global memudahkan masyarakat memperoleh informasi dan pendidikan.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m6-lat-05",
+      "jenis": "benar_salah",
+      "indikator": "Ekspor dan impor",
+      "pertanyaan": "Indonesia melakukan perdagangan dengan negara lain.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Ekspor berarti mengirim barang ke luar negeri."
+        },
+        {
+          "teks": "Impor berarti memasukkan barang dari luar negeri."
+        },
+        {
+          "teks": "Ekspor dan impor memiliki arti yang sama."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Ekspor adalah kegiatan menjual ke luar negeri, sedangkan impor memasukkan barang dari luar negeri.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m6-lat-06",
+      "jenis": "benar_salah",
+      "indikator": "Dampak globalisasi",
+      "pertanyaan": "Teknologi membuat hubungan masyarakat dunia semakin dekat.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Globalisasi memudahkan komunikasi."
+        },
+        {
+          "teks": "Globalisasi dapat memperluas akses informasi."
+        },
+        {
+          "teks": "Globalisasi selalu membawa dampak positif saja."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Globalisasi memiliki dampak positif dan negatif bergantung pada cara masyarakat menyikapinya.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m6-lat-07",
+      "jenis": "menjodohkan",
+      "indikator": "Istilah perdagangan",
+      "pertanyaan": "Perdagangan internasional memiliki beberapa istilah.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Menjual barang ke luar negeri"
+        },
+        {
+          "teks": "Membeli barang dari luar negeri"
+        },
+        {
+          "teks": "Barang yang dihasilkan di dalam negeri"
+        },
+        {
+          "teks": "Kegiatan jual beli antarnegara"
+        }
+      ],
+      "pilihan": [
+        "Ekspor",
+        "Impor",
+        "Produk lokal",
+        "Perdagangan internasional"
+      ],
+      "kunci": [
+        "Ekspor",
+        "Impor",
+        "Produk lokal",
+        "Perdagangan internasional"
+      ],
+      "pembahasan": "Ekspor menjual ke luar negeri; impor membeli dari luar; produk lokal dibuat di dalam negeri; perdagangan internasional melibatkan antarnegara.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-m6-lat-08",
+      "jenis": "menjodohkan",
+      "indikator": "Dampak globalisasi",
+      "pertanyaan": "Globalisasi membawa perubahan dalam kehidupan masyarakat.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Informasi lebih mudah diperoleh"
+        },
+        {
+          "teks": "Membeli barang berlebihan karena tren"
+        },
+        {
+          "teks": "Memeriksa kebenaran berita"
+        },
+        {
+          "teks": "Menggunakan teknologi untuk belajar"
+        }
+      ],
+      "pilihan": [
+        "Dampak positif",
+        "Dampak negatif",
+        "Sikap kritis",
+        "Pemanfaatan positif"
+      ],
+      "kunci": [
+        "Dampak positif",
+        "Dampak negatif",
+        "Sikap kritis",
+        "Pemanfaatan positif"
+      ],
+      "pembahasan": "Akses informasi merupakan dampak positif; perilaku konsumtif merupakan dampak negatif; memeriksa berita menunjukkan sikap kritis; teknologi dapat dimanfaatkan secara positif untuk belajar.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-m6-lat-09",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis impor dan petani",
+      "pertanyaan": "Beras impor masuk saat panen raya sehingga petani lokal kesulitan menjual hasilnya.\n\nPilih TIGA langkah yang dapat dipertimbangkan.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Mengatur impor berdasarkan kebutuhan dan data stok."
+        },
+        {
+          "id": "B",
+          "teks": "Meningkatkan penyerapan hasil panen lokal."
+        },
+        {
+          "id": "C",
+          "teks": "Meningkatkan kualitas dan distribusi hasil pertanian."
+        },
+        {
+          "id": "D",
+          "teks": "Membiarkan harga petani jatuh tanpa solusi."
+        },
+        {
+          "id": "E",
+          "teks": "Melarang petani menjual hasil panen."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Kebijakan seimbang menjaga kebutuhan konsumen sekaligus melindungi keberlangsungan petani.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m6-lat-10",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis dampak globalisasi",
+      "pertanyaan": "Siswa menggunakan internet untuk belajar, tetapi juga menerima banyak informasi yang belum jelas kebenarannya.\n\nPilih TIGA sikap yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Memeriksa sumber informasi."
+        },
+        {
+          "id": "B",
+          "teks": "Menggunakan internet untuk kegiatan belajar."
+        },
+        {
+          "id": "C",
+          "teks": "Tidak membagikan berita yang belum terverifikasi."
+        },
+        {
+          "id": "D",
+          "teks": "Menyebarkan semua pesan secepat mungkin."
+        },
+        {
+          "id": "E",
+          "teks": "Mengikuti semua tren tanpa pertimbangan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Literasi digital menuntut verifikasi informasi dan pemanfaatan teknologi secara bertanggung jawab.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

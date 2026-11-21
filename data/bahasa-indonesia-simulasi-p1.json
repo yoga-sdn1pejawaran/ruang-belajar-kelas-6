@@ -1,0 +1,899 @@
+{
+  "id": "bahasa-indonesia-simulasi-p1",
+  "mataPelajaran": "Bahasa Indonesia",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "materi": "Gabungan Materi ASAS 1",
+  "paket": 1,
+  "judul": "Simulasi ASAS • Paket 1",
+  "durasiMenit": 40,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Pada cerita tentang Sinta yang membantu tetangga lanjut usia menyeberang jalan, unsur yang paling jelas ditunjukkan oleh tindakan Sinta adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "watak tokoh"
+        },
+        {
+          "id": "B",
+          "teks": "latar waktu"
+        },
+        {
+          "id": "C",
+          "teks": "sudut pandang"
+        },
+        {
+          "id": "D",
+          "teks": "urutan paragraf"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Tindakan tokoh membantu menunjukkan watak peduli.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-01",
+      "stimulus": "Pagi hari, Sinta melihat seorang tetangga lanjut usia kesulitan menyeberangi jalan yang ramai. Ia menghampiri tetangganya, meminta kendaraan berhenti, lalu membantu menyeberangkan dengan hati-hati. Setelah sampai di seberang, Sinta memastikan tetangganya berada di tempat aman sebelum melanjutkan perjalanan ke sekolah. Tindakan Sinta menunjukkan kepedulian terhadap orang lain. Peristiwa itu menunjukkan bahwa keputusan dan tindakan setiap tokoh dapat memengaruhi jalannya cerita serta keadaan tokoh lain."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Berdasarkan bacaan, tentukan benar atau salah untuk setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Latar waktu cerita adalah pagi hari."
+        },
+        {
+          "teks": "Beni menjadi tokoh dalam cerita."
+        },
+        {
+          "teks": "Amanat cerita adalah membiarkan hewan kehausan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Cerita menunjukkan kepedulian terhadap hewan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-SIM1-02",
+      "stimulus": "Pada pagi hari, Beni dan teman-temannya menemukan seekor anak burung di dekat pohon sekolah. Mereka tidak langsung membawanya pulang. Anak-anak memanggil guru untuk meminta bantuan dan mencari tahu apakah sarangnya berada di dahan sekitar. Guru meminta mereka meletakkan burung di tempat aman dekat pohon, kemudian mengamati dari kejauhan agar induknya dapat mendekat. Peristiwa itu menunjukkan bahwa keputusan dan tindakan setiap tokoh dapat memengaruhi jalannya cerita serta keadaan tokoh lain."
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "pertanyaan": "Dalam cerita tentang warga yang menyelamatkan perpustakaan desa dari kebakaran kecil, pilih TIGA informasi yang sesuai jika teks menyebut warga bekerja sama dan memanggil petugas pemadam.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Warga menunjukkan kepedulian."
+        },
+        {
+          "id": "B",
+          "teks": "Kerja sama menjadi bagian penting peristiwa."
+        },
+        {
+          "id": "C",
+          "teks": "Perpustakaan pasti berada di pusat kota."
+        },
+        {
+          "id": "D",
+          "teks": "Petugas pemadam diminta membantu."
+        },
+        {
+          "id": "E",
+          "teks": "Cerita memiliki latar di dasar laut."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Pilihan tersebut didukung oleh informasi cerita.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "BI6-SIM1-03",
+      "stimulus": "Asap tipis terlihat keluar dari ruang penyimpanan perpustakaan desa. Penjaga segera memberi tahu warga dan menghubungi petugas pemadam. Beberapa warga membantu mengarahkan anak-anak menjauh dari bangunan, sementara petugas memeriksa sumber api. Berkat kerja sama dan tindakan cepat, api kecil dapat dipadamkan sebelum merambat ke rak-rak buku. Peristiwa itu menunjukkan bahwa keputusan dan tindakan setiap tokoh dapat memengaruhi jalannya cerita serta keadaan tokoh lain."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Formulir yang digunakan untuk mencatat data anggota baru klub sekolah bertujuan untuk ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "mengumpulkan informasi calon anggota"
+        },
+        {
+          "id": "B",
+          "teks": "mengumumkan nilai ujian"
+        },
+        {
+          "id": "C",
+          "teks": "mengundang orang tua"
+        },
+        {
+          "id": "D",
+          "teks": "menyampaikan cerita pengalaman"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Formulir menghimpun data yang dibutuhkan penyelenggara.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-04",
+      "stimulus": "Klub sains sekolah membuka pendaftaran anggota baru untuk kegiatan percobaan sederhana dan kunjungan edukasi. Siswa yang berminat diminta mengisi nama lengkap, kelas, alamat, pilihan kegiatan, serta nomor telepon orang tua. Pengurus memakai data itu untuk menyusun daftar anggota, membagi kelompok, dan menghubungi keluarga jika jadwal pertemuan berubah. Formulir membantu pencatatan anggota secara tertib. Dokumen disusun dengan urutan yang jelas agar informasi dapat ditemukan dan dipahami oleh penerima."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Sebuah formulir keikutsertaan lomba meminta nama, kelas, cabang lomba, dan tanda tangan peserta.",
+      "pernyataan": [
+        {
+          "teks": "Cabang lomba menunjukkan kegiatan yang diikuti."
+        },
+        {
+          "teks": "Tanda tangan dapat menjadi bentuk persetujuan peserta."
+        },
+        {
+          "teks": "Nama peserta tidak diperlukan karena sudah ada nama sekolah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Nama peserta tetap diperlukan untuk mengidentifikasi orang yang mendaftar.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-SIM1-05",
+      "stimulus": "Untuk mengikuti lomba kebersihan kelas, setiap peserta mengisi formulir yang memuat nama, kelas, cabang lomba, dan tanda tangan. Nama serta kelas menunjukkan identitas peserta, sedangkan cabang lomba menjelaskan kegiatan yang dipilih. Tanda tangan menjadi bukti bahwa peserta menyetujui pendaftaran dan bersedia mengikuti ketentuan lomba. Dokumen disusun dengan urutan yang jelas agar informasi dapat ditemukan dan dipahami oleh penerima."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Surat pemberitahuan dari dinas pendidikan kepada kepala sekolah tentang jadwal kegiatan termasuk surat ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pribadi"
+        },
+        {
+          "id": "B",
+          "teks": "resmi"
+        },
+        {
+          "id": "C",
+          "teks": "undangan keluarga"
+        },
+        {
+          "id": "D",
+          "teks": "pesan singkat"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Surat antarinstansi untuk urusan kedinasan termasuk surat resmi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-06",
+      "stimulus": "Dinas Pendidikan mengirim pemberitahuan kepada kepala sekolah mengenai jadwal pelatihan guru. Surat itu menggunakan bahasa baku dan mencantumkan identitas instansi, nomor, tanggal, perihal, alamat tujuan, isi pemberitahuan, serta tanda tangan pejabat. Karena dikirim oleh lembaga kepada lembaga lain untuk urusan kedinasan, surat tersebut termasuk surat resmi atau dinas. Dokumen disusun dengan urutan yang jelas agar informasi dapat ditemukan dan dipahami oleh penerima."
+    },
+    {
+      "jenis": "menjodohkan",
+      "pertanyaan": "Cocokkan bagian surat dengan keterangannya.",
+      "pasangan": [
+        {
+          "teks": "Perihal"
+        },
+        {
+          "teks": "Lampiran"
+        },
+        {
+          "teks": "Salam pembuka"
+        },
+        {
+          "teks": "Tembusan"
+        }
+      ],
+      "pilihan": [
+        "Pihak lain yang menerima salinan",
+        "Sapaan awal surat",
+        "Dokumen yang disertakan",
+        "Pokok atau maksud surat"
+      ],
+      "kunci": [
+        "Pokok atau maksud surat",
+        "Dokumen yang disertakan",
+        "Sapaan awal surat",
+        "Pihak lain yang menerima salinan"
+      ],
+      "pembahasan": "Keempat bagian memiliki fungsi administrasi surat yang berbeda.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "BI6-SIM1-07",
+      "stimulus": "Sebuah surat undangan rapat memuat kop sekolah, nomor surat, tanggal, alamat penerima, perihal, isi undangan, lampiran jika ada, salam pembuka, tanda tangan, dan tembusan bila salinannya diberikan kepada pihak lain. Setiap bagian memiliki fungsi tertentu sehingga penerima dapat mengetahui asal surat, maksud pengiriman, dan pihak yang bertanggung jawab. Dokumen disusun dengan urutan yang jelas agar informasi dapat ditemukan dan dipahami oleh penerima."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Kalimat deskripsi budaya yang paling informatif adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tari itu sangat bagus sekali."
+        },
+        {
+          "id": "B",
+          "teks": "Tari piring berasal dari Sumatra Barat dan menggunakan piring sebagai properti gerak."
+        },
+        {
+          "id": "C",
+          "teks": "Semua orang harus menyukai tari itu."
+        },
+        {
+          "id": "D",
+          "teks": "Tari tersebut pasti lebih baik daripada semua tarian."
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Kalimat menyebut asal dan ciri objek secara jelas dan faktual.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-08",
+      "stimulus": "Siswa kelas VI mengamati pertunjukan tari tradisional dari beberapa daerah. Mereka mencatat gerakan yang dilakukan penari, warna dan bentuk busana, alat musik pengiring, serta daerah asal tarian. Catatan tersebut kemudian digunakan untuk menulis deskripsi yang membantu pembaca membayangkan pertunjukan tanpa menambahkan informasi yang tidak diamati. Rincian yang dipilih harus sesuai dengan objek dan konteks agar pembaca memperoleh gambaran yang tepat."
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "pertanyaan": "Pilih TIGA gabungan kata yang lazim digunakan sebagai kata majemuk bermakna khusus.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "rumah sakit"
+        },
+        {
+          "id": "B",
+          "teks": "buah tangan"
+        },
+        {
+          "id": "C",
+          "teks": "meja kayu"
+        },
+        {
+          "id": "D",
+          "teks": "kambing hitam"
+        },
+        {
+          "id": "E",
+          "teks": "buku tebal"
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Rumah sakit, buah tangan, dan kambing hitam memiliki makna khusus sebagai satu kesatuan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "BI6-SIM1-09",
+      "stimulus": "Dalam pelajaran kosakata, guru meminta siswa mencari gabungan kata yang maknanya tidak selalu sama dengan arti kata pembentuknya. Mereka menemukan ungkapan seperti “buah tangan”, “kambing hitam”, dan “rendah hati”. Siswa lalu membaca kalimat lengkap untuk memahami makna ungkapan sesuai konteks, bukan menafsirkan setiap kata secara terpisah. Rincian yang dipilih harus sesuai dengan objek dan konteks agar pembaca memperoleh gambaran yang tepat."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Dalam laporan wawancara mengenai penggunaan air bersih, objek yang tepat adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "penggunaan air bersih"
+        },
+        {
+          "id": "B",
+          "teks": "nama pewawancara"
+        },
+        {
+          "id": "C",
+          "teks": "warna seragam"
+        },
+        {
+          "id": "D",
+          "teks": "hari libur"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Objek adalah hal yang menjadi fokus pengamatan atau wawancara.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-10",
+      "stimulus": "Kelompok siswa ingin mengetahui penggunaan air bersih di lingkungan sekolah. Mereka mencatat tempat yang menggunakan air, kebiasaan warga sekolah, dan cara menghemat air. Untuk memperoleh keterangan, mereka mewawancarai petugas kebersihan yang mengetahui penggunaan keran dan tempat penampungan. Fokus informasi yang diamati adalah penggunaan air bersih di sekolah. Setelah kegiatan selesai, laporan diperiksa kembali agar nama, waktu, tempat, dan isi keterangan tidak tertukar."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Laporan menyebut narasumber menjelaskan bahwa warga menghemat air dengan menutup keran setelah digunakan.",
+      "pernyataan": [
+        {
+          "teks": "Menutup keran termasuk tindakan hemat air."
+        },
+        {
+          "teks": "Informasi tersebut berasal dari penjelasan narasumber."
+        },
+        {
+          "teks": "Laporan menyatakan warga membiarkan keran terbuka."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Isi laporan menyebut tindakan menutup keran.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-SIM1-11",
+      "stimulus": "Dalam wawancara tentang penggunaan air bersih, petugas sekolah menjelaskan bahwa siswa dibiasakan menutup keran setelah mencuci tangan. Petugas juga memeriksa keran yang menetes dan mengingatkan warga sekolah agar menggunakan air secukupnya. Keterangan tersebut dicatat oleh kelompok siswa sebagai hasil wawancara. Informasi dalam laporan harus sesuai dengan jawaban narasumber. Setelah kegiatan selesai, laporan diperiksa kembali agar nama, waktu, tempat, dan isi keterangan tidak tertukar."
+    },
+    {
+      "jenis": "menjodohkan",
+      "pertanyaan": "Pasangkan langkah wawancara sesuai fungsinya.",
+      "pasangan": [
+        {
+          "teks": "Menentukan topik"
+        },
+        {
+          "teks": "Menyusun pertanyaan"
+        },
+        {
+          "teks": "Meminta izin"
+        },
+        {
+          "teks": "Mencatat jawaban"
+        }
+      ],
+      "pilihan": [
+        "Merekam informasi penting",
+        "Memastikan narasumber bersedia",
+        "Menyiapkan hal yang akan ditanyakan",
+        "Menetapkan fokus pembicaraan"
+      ],
+      "kunci": [
+        "Menetapkan fokus pembicaraan",
+        "Menyiapkan hal yang akan ditanyakan",
+        "Memastikan narasumber bersedia",
+        "Merekam informasi penting"
+      ],
+      "pembahasan": "Langkah persiapan membantu wawancara berlangsung terarah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "BI6-SIM1-12",
+      "stimulus": "Kelompok siswa akan membuat laporan tentang kebiasaan menghemat air. Mereka menentukan topik lebih dahulu, menyusun pertanyaan tentang penggunaan keran dan penampungan air, lalu menghubungi petugas sekolah untuk meminta kesediaan diwawancarai. Saat wawancara berlangsung, mereka mendengarkan dan mencatat jawaban. Setelah itu, catatan disusun menjadi laporan yang runtut. Setelah kegiatan selesai, laporan diperiksa kembali agar nama, waktu, tempat, dan isi keterangan tidak tertukar."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Dalam biografi seorang dokter, informasi tentang tempat ia menempuh pendidikan termasuk ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "latar pendidikan"
+        },
+        {
+          "id": "B",
+          "teks": "konflik fabel"
+        },
+        {
+          "id": "C",
+          "teks": "alamat surat"
+        },
+        {
+          "id": "D",
+          "teks": "hasil observasi cuaca"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Riwayat sekolah atau kuliah merupakan bagian latar pendidikan tokoh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-13",
+      "stimulus": "Biografi seorang dokter menceritakan perjalanan pendidikannya sejak sekolah dasar hingga menyelesaikan pendidikan kedokteran. Penulis menyebutkan kota tempat ia belajar, pengalaman praktik, dan alasan memilih profesi tersebut. Informasi tentang tempat menempuh pendidikan merupakan bagian dari riwayat pendidikan tokoh dan membantu pembaca memahami proses persiapannya sebelum bekerja. Riwayat tersebut menunjukkan bahwa perjalanan hidup tokoh tersusun dari identitas, pendidikan, usaha, dan hasil karya."
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "pertanyaan": "Biografi seorang atlet menceritakan bahwa ia disiplin berlatih, menerima kekalahan, dan terus memperbaiki teknik. Pilih TIGA kesimpulan yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tokoh memiliki sikap disiplin."
+        },
+        {
+          "id": "B",
+          "teks": "Tokoh mampu belajar dari kegagalan."
+        },
+        {
+          "id": "C",
+          "teks": "Tokoh tidak pernah mengalami kesulitan."
+        },
+        {
+          "id": "D",
+          "teks": "Tokoh menunjukkan semangat memperbaiki diri."
+        },
+        {
+          "id": "E",
+          "teks": "Tokoh selalu menghindari latihan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Kesimpulan harus diambil dari perilaku yang dijelaskan dalam biografi.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "BI6-SIM1-14",
+      "stimulus": "Seorang atlet muda menjalani latihan teratur setiap pagi dan sore. Ketika kalah dalam pertandingan, ia tidak menyalahkan orang lain. Ia menerima hasil pertandingan, mendengarkan masukan pelatih, lalu memperbaiki teknik yang masih lemah. Setelah berlatih lebih disiplin, ia berhasil meningkatkan prestasi. Biografi tersebut menunjukkan usaha dan sikap tokoh dalam menghadapi tantangan. Riwayat tersebut menunjukkan bahwa perjalanan hidup tokoh tersusun dari identitas, pendidikan, usaha, dan hasil karya."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Makna kata 'dedikasi' dalam kalimat 'Dedikasinya pada pendidikan membuatnya dihormati' adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pengabdian"
+        },
+        {
+          "id": "B",
+          "teks": "kemarahan"
+        },
+        {
+          "id": "C",
+          "teks": "keraguan"
+        },
+        {
+          "id": "D",
+          "teks": "keberuntungan"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Dedikasi berarti pengabdian atau komitmen kuat terhadap suatu hal.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-15",
+      "stimulus": "Seorang pendidik mengabdikan dirinya untuk membantu anak-anak di desa terpencil memperoleh pendidikan. Ia tetap datang mengajar meskipun perjalanan menuju sekolah sulit dan fasilitas belajar terbatas. Ia mengumpulkan buku dari berbagai pihak serta mengajak warga memperbaiki ruang kelas. Dedikasi tokoh terlihat dari kesungguhan dan pengabdiannya menjalankan tugas untuk kepentingan orang lain. Riwayat tersebut menunjukkan bahwa perjalanan hidup tokoh tersusun dari identitas, pendidikan, usaha, dan hasil karya."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Teks biografi memuat tanggal lahir tokoh, pendidikan, karya, dan penghargaan.",
+      "pernyataan": [
+        {
+          "teks": "Tanggal lahir merupakan informasi identitas."
+        },
+        {
+          "teks": "Karya dan penghargaan dapat menunjukkan kontribusi tokoh."
+        },
+        {
+          "teks": "Biografi tidak boleh menyebutkan perjalanan pendidikan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Pendidikan merupakan bagian penting perjalanan hidup tokoh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-SIM1-16",
+      "stimulus": "Biografi seorang tokoh biasanya memuat tanggal dan tempat lahir, riwayat pendidikan, karya, serta penghargaan. Dalam sebuah kisah, penulis menyebutkan tempat tokoh dilahirkan, sekolah yang pernah ditempuh, alat yang berhasil diciptakan, dan penghargaan yang diterima. Rangkaian informasi itu membantu pembaca mengenali identitas, perjalanan, dan kontribusi tokoh. Riwayat tersebut menunjukkan bahwa perjalanan hidup tokoh tersusun dari identitas, pendidikan, usaha, dan hasil karya."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Kalimat 'Bintang-bintang mengedipkan mata di langit malam' menggunakan majas ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "metafora"
+        },
+        {
+          "id": "B",
+          "teks": "personifikasi"
+        },
+        {
+          "id": "C",
+          "teks": "asosiasi"
+        },
+        {
+          "id": "D",
+          "teks": "litotes"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Bintang diberi perilaku manusia, yaitu mengedipkan mata.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-17",
+      "stimulus": "Pada malam yang cerah, seorang anak memandang langit dari halaman rumah. Ia melihat bintang-bintang berkelip di antara awan tipis. Untuk membuat gambaran lebih hidup, penulis menuliskan bahwa bintang-bintang seolah mengedipkan mata kepada manusia. Bintang tentu tidak memiliki mata seperti manusia; ungkapan itu merupakan penggunaan bahasa kias. Makna ungkapan dapat diketahui dengan membaca kalimat secara utuh dan memperhatikan kesan yang ingin dibangun penulis."
+    },
+    {
+      "jenis": "menjodohkan",
+      "pertanyaan": "Pasangkan kalimat dengan majasnya.",
+      "pasangan": [
+        {
+          "teks": "Pohon itu melambaikan rantingnya."
+        },
+        {
+          "teks": "Wajahnya laksana rembulan."
+        },
+        {
+          "teks": "Dia tulang punggung keluarga."
+        },
+        {
+          "teks": "Air matanya mengalir seperti sungai tak berujung."
+        }
+      ],
+      "pilihan": [
+        "Hiperbola",
+        "Metafora",
+        "Asosiasi",
+        "Personifikasi"
+      ],
+      "kunci": [
+        "Personifikasi",
+        "Asosiasi",
+        "Metafora",
+        "Hiperbola"
+      ],
+      "pembahasan": "Jenis majas ditentukan dari cara perbandingan atau pemberian sifat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "BI6-SIM1-18",
+      "stimulus": "Dalam latihan menulis, siswa membaca empat kalimat: pohon melambaikan rantingnya, wajahnya laksana rembulan, ia menjadi tulang punggung keluarga, dan soraknya mengguncang seluruh dunia. Mereka memperhatikan apakah kalimat memberi sifat manusia pada benda, membandingkan dua hal, menyamakan sesuatu secara langsung, atau melebih-lebihkan keadaan. Makna ungkapan dapat diketahui dengan membaca kalimat secara utuh dan memperhatikan kesan yang ingin dibangun penulis."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Dalam fabel, pesan yang dapat dipetik dari tokoh yang menyesal karena berbohong adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "kebohongan dapat merugikan diri sendiri"
+        },
+        {
+          "id": "B",
+          "teks": "berbohong membuat semua masalah selesai"
+        },
+        {
+          "id": "C",
+          "teks": "teman harus selalu ditipu"
+        },
+        {
+          "id": "D",
+          "teks": "kejujuran tidak penting"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Fabel sering menyampaikan pesan moral melalui akibat tindakan tokoh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-19",
+      "stimulus": "Seekor kelinci pernah berbohong kepada teman-temannya dengan mengatakan bahwa ada bahaya di tepi hutan. Teman-temannya berlari meninggalkan pekerjaan, tetapi ternyata tidak ada bahaya. Ketika kelinci benar-benar membutuhkan pertolongan, teman-temannya ragu mempercayainya. Kelinci menyesal dan menyadari bahwa kebohongan dapat merusak kepercayaan. Makna ungkapan dapat diketahui dengan membaca kalimat secara utuh dan memperhatikan kesan yang ingin dibangun penulis."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Cerita fabel tentang burung yang menolong semut menunjukkan hubungan sebab-akibat.",
+      "pernyataan": [
+        {
+          "teks": "Tindakan menolong dapat menjadi awal peristiwa berikutnya."
+        },
+        {
+          "teks": "Tokoh binatang dapat menyampaikan nilai kehidupan."
+        },
+        {
+          "teks": "Fabel harus ditulis berdasarkan hasil sensus."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Fabel merupakan cerita rekaan dengan tokoh binatang, bukan laporan sensus.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-SIM1-20",
+      "stimulus": "Seekor burung kecil melihat semut terseret arus air. Burung itu menjatuhkan sehelai daun ke dekat semut sehingga semut dapat naik dan mencapai tepian. Beberapa hari kemudian, seorang pemburu mendekati sarang burung. Semut menggigit kaki pemburu hingga ia terkejut dan menjauh. Pertolongan burung dibalas dengan pertolongan semut. Makna ungkapan dapat diketahui dengan membaca kalimat secara utuh dan memperhatikan kesan yang ingin dibangun penulis."
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "pertanyaan": "Pilih TIGA kalimat yang mengandung majas asosiasi.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Geraknya lincah seperti kijang."
+        },
+        {
+          "id": "B",
+          "teks": "Suaranya merdu bagai seruling."
+        },
+        {
+          "id": "C",
+          "teks": "Awan berarak menari di langit."
+        },
+        {
+          "id": "D",
+          "teks": "Kulitnya putih seperti kapas."
+        },
+        {
+          "id": "E",
+          "teks": "Bulan tersenyum di balik awan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Kata seperti dan bagai menandai perbandingan eksplisit.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "BI6-SIM1-21",
+      "stimulus": "Dalam sebuah cerita, penulis menggunakan beberapa perbandingan untuk menggambarkan tokoh dan suasana. Wajah tokoh disebut bersinar seperti bulan, langkahnya ringan bagai kapas, dan suaranya merdu laksana seruling. Ungkapan pembanding membantu pembaca membayangkan sifat atau keadaan yang dijelaskan melalui kemiripan dua hal. Makna ungkapan dapat diketahui dengan membaca kalimat secara utuh dan memperhatikan kesan yang ingin dibangun penulis."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Kata 'terperangah' paling dekat maknanya dengan ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "terkejut hingga terdiam"
+        },
+        {
+          "id": "B",
+          "teks": "berjalan perlahan"
+        },
+        {
+          "id": "C",
+          "teks": "berbicara keras"
+        },
+        {
+          "id": "D",
+          "teks": "merasa mengantuk"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Terperangah berarti sangat terkejut atau tercengang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-22",
+      "stimulus": "Ketika pintu gudang sekolah dibuka, Rudi terperangah melihat tumpukan buku yang hampir memenuhi ruangan. Ia mengira gudang itu hanya menyimpan alat kebersihan. Ternyata, banyak buku lama tersusun rapi di rak. Rudi berhenti sejenak karena sangat terkejut, lalu bertanya kepada penjaga mengapa buku-buku itu disimpan di sana. Makna ungkapan dapat diketahui dengan membaca kalimat secara utuh dan memperhatikan kesan yang ingin dibangun penulis."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Dalam teks eksplanasi, pernyataan umum biasanya berisi ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pengenalan fenomena yang akan dijelaskan"
+        },
+        {
+          "id": "B",
+          "teks": "daftar tokoh cerita"
+        },
+        {
+          "id": "C",
+          "teks": "alamat penerima surat"
+        },
+        {
+          "id": "D",
+          "teks": "dialog antartokoh"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Pernyataan umum memperkenalkan fenomena sebelum proses dijelaskan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-23",
+      "stimulus": "Teks eksplanasi tentang hujan diawali dengan pengenalan hujan sebagai fenomena alam. Selanjutnya, penulis menerangkan panas matahari yang menguapkan air, uap yang naik dan mendingin, pembentukan awan, serta jatuhnya titik air ke bumi. Urutan proses tersebut membantu pembaca memahami bagaimana hujan terjadi. Hubungan antartahap perlu dijelaskan berdasarkan proses yang masuk akal dan informasi yang mendukungnya."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Paragraf menjelaskan bahwa tanah longsor dapat terjadi ketika tanah jenuh air dan lereng kehilangan kestabilan.",
+      "pernyataan": [
+        {
+          "teks": "Kondisi tanah jenuh air dapat menjadi faktor penyebab longsor."
+        },
+        {
+          "teks": "Lereng yang tidak stabil berkaitan dengan risiko longsor."
+        },
+        {
+          "teks": "Paragraf tersebut menjelaskan cara membuat surat resmi."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Informasi membahas fenomena alam dan hubungan sebab-akibat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-SIM1-24",
+      "stimulus": "Setelah hujan deras, tanah di lereng bukit menyerap banyak air hingga menjadi jenuh. Penebangan pohon membuat jumlah akar yang mengikat tanah berkurang. Pada lereng curam, tanah yang basah menjadi lebih mudah bergerak menuruni lereng. Keadaan tersebut dapat memicu tanah longsor, terutama ketika hujan berlangsung lama. Hubungan antartahap perlu dijelaskan berdasarkan proses yang masuk akal dan informasi yang mendukungnya."
+    },
+    {
+      "jenis": "menjodohkan",
+      "pertanyaan": "Pasangkan istilah kebencanaan dengan maknanya.",
+      "pasangan": [
+        {
+          "teks": "Erosi"
+        },
+        {
+          "teks": "Evakuasi"
+        },
+        {
+          "teks": "Mitigasi"
+        },
+        {
+          "teks": "Reboisasi"
+        }
+      ],
+      "pilihan": [
+        "Penanaman kembali hutan",
+        "Upaya mengurangi risiko bencana",
+        "Pemindahan orang ke tempat aman",
+        "Pengikisan tanah oleh air atau angin"
+      ],
+      "kunci": [
+        "Pengikisan tanah oleh air atau angin",
+        "Pemindahan orang ke tempat aman",
+        "Upaya mengurangi risiko bencana",
+        "Penanaman kembali hutan"
+      ],
+      "pembahasan": "Istilah-istilah tersebut berkaitan dengan lingkungan dan pengurangan risiko.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "BI6-SIM1-25",
+      "stimulus": "Warga di daerah rawan bencana mempelajari istilah yang sering digunakan dalam penyuluhan. Pengikisan tanah oleh air atau angin disebut erosi. Pemindahan penduduk dari wilayah berbahaya ke tempat aman disebut evakuasi. Upaya mengurangi risiko bencana disebut mitigasi, sedangkan penanaman kembali hutan yang gundul disebut reboisasi. Hubungan antartahap perlu dijelaskan berdasarkan proses yang masuk akal dan informasi yang mendukungnya."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Gagasan utama paragraf yang membahas manfaat hutan sebagai penyerap air, habitat hewan, dan penghasil oksigen adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "hutan memiliki berbagai fungsi penting bagi lingkungan"
+        },
+        {
+          "id": "B",
+          "teks": "hewan hidup di dalam air"
+        },
+        {
+          "id": "C",
+          "teks": "oksigen tidak diperlukan manusia"
+        },
+        {
+          "id": "D",
+          "teks": "hutan hanya digunakan untuk wisata"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Semua rincian mendukung gagasan tentang fungsi penting hutan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-26",
+      "stimulus": "Hutan membantu menjaga keseimbangan lingkungan. Akar pohon menyerap dan menahan air hujan sehingga sebagian air dapat masuk ke dalam tanah. Pepohonan juga menjadi habitat bagi burung, serangga, dan mamalia, serta membantu menghasilkan oksigen. Berbagai manfaat tersebut menunjukkan bahwa hutan berperan penting bagi kehidupan manusia dan makhluk hidup lainnya. Hubungan antartahap perlu dijelaskan berdasarkan proses yang masuk akal dan informasi yang mendukungnya."
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "pertanyaan": "Dari infografis kualitas udara yang menunjukkan polusi meningkat saat volume kendaraan bertambah, pilih TIGA pernyataan yang paling didukung.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Jumlah kendaraan berkaitan dengan peningkatan polusi pada data tersebut."
+        },
+        {
+          "id": "B",
+          "teks": "Mengurangi penggunaan kendaraan pribadi dapat menjadi salah satu upaya."
+        },
+        {
+          "id": "C",
+          "teks": "Data tersebut membuktikan semua polusi berasal dari kendaraan."
+        },
+        {
+          "id": "D",
+          "teks": "Kualitas udara perlu dipantau."
+        },
+        {
+          "id": "E",
+          "teks": "Menambah kendaraan pasti memperbaiki kualitas udara."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Kesimpulan harus proporsional dengan data dan tidak menyatakan sebab tunggal tanpa bukti.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "BI6-SIM1-27",
+      "stimulus": "Sebuah infografis membandingkan jumlah kendaraan dan tingkat polusi udara di pusat kota selama beberapa hari. Ketika jumlah kendaraan meningkat, angka polusi yang tercatat juga cenderung naik. Data tersebut dapat digunakan untuk membahas kemungkinan hubungan antara lalu lintas dan kualitas udara. Namun, pembaca tetap perlu mempertimbangkan sumber pencemaran lain sebelum membuat kesimpulan. Hubungan antartahap perlu dijelaskan berdasarkan proses yang masuk akal dan informasi yang mendukungnya."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Kalimat penutup teks eksplanasi biasanya berfungsi untuk ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "memberikan simpulan atau penegasan akhir"
+        },
+        {
+          "id": "B",
+          "teks": "memperkenalkan tokoh utama"
+        },
+        {
+          "id": "C",
+          "teks": "menuliskan alamat surat"
+        },
+        {
+          "id": "D",
+          "teks": "menyebutkan daftar peserta"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Penutup menegaskan kembali inti penjelasan atau dampak fenomena.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-28",
+      "stimulus": "Pada bagian akhir teks eksplanasi tentang banjir, penulis merangkum hubungan antara hujan deras, saluran tersumbat, dan berkurangnya daerah resapan. Penulis kemudian mengingatkan pentingnya menjaga saluran air serta lingkungan. Bagian penutup membantu pembaca memahami kembali inti penjelasan dan dapat memuat simpulan atau tanggapan terhadap fenomena. Hubungan antartahap perlu dijelaskan berdasarkan proses yang masuk akal dan informasi yang mendukungnya."
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "pertanyaan": "Dalam teks deskripsi, penggunaan kata-kata yang merangsang pancaindra bertujuan untuk ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "membantu pembaca membayangkan objek"
+        },
+        {
+          "id": "B",
+          "teks": "mengubah teks menjadi surat dinas"
+        },
+        {
+          "id": "C",
+          "teks": "menghilangkan ciri objek"
+        },
+        {
+          "id": "D",
+          "teks": "menyembunyikan informasi"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Rincian pancaindra membuat gambaran objek lebih jelas bagi pembaca.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "BI6-SIM1-29",
+      "stimulus": "Ketika mendeskripsikan taman sekolah, penulis menyebut rumput yang terasa lembut, aroma bunga melati yang harum, warna merah pada kelopak, dan suara burung di dahan. Rincian yang melibatkan penglihatan, penciuman, pendengaran, dan perabaan membuat pembaca seolah-olah berada di taman tersebut. Pilihan kata yang melibatkan pancaindra membuat pembaca dapat membayangkan suasana tempat secara lebih jelas."
+    },
+    {
+      "jenis": "benar_salah",
+      "pertanyaan": "Perhatikan kalimat: 'Udara di kebun terasa sejuk dan aroma bunga melati tercium lembut.'",
+      "pernyataan": [
+        {
+          "teks": "Kalimat tersebut memuat kesan indra peraba dan penciuman."
+        },
+        {
+          "teks": "Kalimat tersebut menggambarkan suasana tempat."
+        },
+        {
+          "teks": "Kalimat tersebut merupakan petunjuk mengisi formulir."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Sejuk berkaitan dengan peraba, aroma berkaitan dengan penciuman.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "BI6-SIM1-30",
+      "stimulus": "Pagi hari di kebun sekolah terasa sejuk. Udara yang segar menyentuh kulit, sementara aroma bunga melati tercium lembut dari dekat pagar. Daun-daun masih basah oleh embun dan beberapa kupu-kupu hinggap pada bunga. Rincian itu menggambarkan suasana kebun melalui kesan yang ditangkap oleh pancaindra. Pilihan kata yang melibatkan pancaindra membuat pembaca dapat membayangkan suasana tempat secara lebih jelas."
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "id": "matematika-latihan-m2-p2",
+  "mataPelajaran": "Matematika",
+  "mode": "Latihan Per Materi",
+  "materi": "Operasi Hitung Bilangan Bulat",
+  "paket": 2,
+  "judul": "Operasi Hitung Bilangan Bulat • Paket 2",
+  "durasiMenit": 0,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-M2P2-01-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menjumlahkan bilangan bulat berbeda tanda",
+      "pertanyaan": "Hitung hasil dari −46 + 39. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-6"
+        },
+        {
+          "id": "B",
+          "teks": "-8"
+        },
+        {
+          "id": "C",
+          "teks": "-5"
+        },
+        {
+          "id": "D",
+          "teks": "-7"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "−46 + 39 = -7. Jadi, jawaban yang benar adalah -7.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M2P2-02-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengurangkan bilangan bulat",
+      "pertanyaan": "Hitung 55 − 49 − 7. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-2"
+        },
+        {
+          "id": "B",
+          "teks": "1"
+        },
+        {
+          "id": "C",
+          "teks": "-1"
+        },
+        {
+          "id": "D",
+          "teks": "0"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "55 − 49 − 7 = 6 − 7 = -1. Jadi, jawaban yang benar adalah -1.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M2P2-03-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengalikan bilangan bulat berbeda tanda",
+      "pertanyaan": "Hitung (−6) × 39. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-232"
+        },
+        {
+          "id": "B",
+          "teks": "-234"
+        },
+        {
+          "id": "C",
+          "teks": "-233"
+        },
+        {
+          "id": "D",
+          "teks": "-235"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Bilangan negatif dikali positif menghasilkan negatif: −6 × 39 = -234. Jadi, jawaban yang benar adalah -234.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M2P2-04-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyelesaikan operasi campuran",
+      "pertanyaan": "Hitung 8 × (−11) + 46. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-42"
+        },
+        {
+          "id": "B",
+          "teks": "-41"
+        },
+        {
+          "id": "C",
+          "teks": "-43"
+        },
+        {
+          "id": "D",
+          "teks": "-40"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Kerjakan perkalian dahulu: 8 × (−11) = -88; kemudian ditambah 46 menghasilkan -42. Jadi, jawaban yang benar adalah -42.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M2P2-05-BS",
+      "jenis": "benar_salah",
+      "indikator": "Menyelesaikan masalah operasi bilangan bulat",
+      "pertanyaan": "Hitung 7 − (−4). Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Mengurangi bilangan negatif sama dengan menambah lawannya."
+        },
+        {
+          "teks": "Hasilnya 11."
+        },
+        {
+          "teks": "Hasilnya lebih kecil daripada 7."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "7 − (−4) = 11.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M2P2-06-BS",
+      "jenis": "benar_salah",
+      "indikator": "Menyelesaikan masalah perubahan posisi",
+      "pertanyaan": "Hitung 7 − (−4). Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Mengurangi bilangan negatif sama dengan menambah lawannya."
+        },
+        {
+          "teks": "Hasilnya 11."
+        },
+        {
+          "teks": "Hasilnya lebih kecil daripada 7."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "7 − (−4) = 11.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M2P2-07-PGK",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menerapkan urutan operasi hitung",
+      "pertanyaan": "Hitung 18 − (−6). Pilih tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Hasilnya lebih kecil dari 18."
+        },
+        {
+          "id": "B",
+          "teks": "Hasilnya bilangan positif."
+        },
+        {
+          "id": "C",
+          "teks": "Hasilnya 24."
+        },
+        {
+          "id": "D",
+          "teks": "Hasilnya 12."
+        },
+        {
+          "id": "E",
+          "teks": "Mengurangi −6 sama dengan menambah 6."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "E"
+      ],
+      "pembahasan": "18 − (−6) = 18 + 6 = 24.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M2P2-08-JODOH",
+      "jenis": "menjodohkan",
+      "indikator": "Mengurangkan bilangan negatif",
+      "pertanyaan": "Pasangkan setiap soal di kolom kiri dengan hasil yang tepat di kolom kanan.",
+      "pasangan": [
+        {
+          "teks": "Hitung 49 + (−51) × 3."
+        },
+        {
+          "teks": "Hitung (−60) − (−53)."
+        },
+        {
+          "teks": "Suhu di freezer −62°C turun lagi 7°C. Berapa suhu akhirnya?"
+        },
+        {
+          "teks": "Hitung 53 − (46 + 7)."
+        }
+      ],
+      "pilihan": [
+        "-7",
+        "-69",
+        "0",
+        "-104"
+      ],
+      "kunci": [
+        "-104",
+        "-7",
+        "-69",
+        "0"
+      ],
+      "pembahasan": "Pasangkan setiap soal dengan hasil perhitungan yang sesuai. Periksa kembali setiap hasil sebelum melanjutkan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "MTK-M2P2-09",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan masalah suhu dengan pengurangan",
+      "pertanyaan": "Suhu di freezer −62°C turun lagi 7°C. Berapa suhu akhirnya?",
+      "kunci": -69,
+      "pembahasan": "Penurunan suhu berarti dikurangi: −62 − 7 = -69°C.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-M2P2-10",
+      "jenis": "isian_angka",
+      "indikator": "Menggunakan tanda kurung dalam operasi campuran",
+      "pertanyaan": "Hitung 53 − (46 + 7).",
+      "kunci": 0,
+      "pembahasan": "53 − (46 + 7) = 53 − 53 = 0.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    }
+  ]
+}

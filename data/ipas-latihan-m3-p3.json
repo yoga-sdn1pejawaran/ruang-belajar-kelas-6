@@ -1,0 +1,290 @@
+{
+  "id": "ipas-latihan-m3-p3",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Sistem Peredaran Darah",
+  "paket": 3,
+  "judul": "Sistem Peredaran Darah • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bilik jantung",
+      "pertanyaan": "Bagian jantung yang mendorong darah keluar disebut apa?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menerima udara dari paru-paru"
+        },
+        {
+          "id": "B",
+          "teks": "membuat sel darah"
+        },
+        {
+          "id": "C",
+          "teks": "menyimpan makanan"
+        },
+        {
+          "id": "D",
+          "teks": "memompa darah keluar dari jantung"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Bilik atau ventrikel memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "ipas-m3-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pembuluh arteri",
+      "pertanyaan": "Pembuluh apa yang membawa darah keluar dari jantung?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menjadi tempat pertukaran zat utama"
+        },
+        {
+          "id": "B",
+          "teks": "menghubungkan tulang"
+        },
+        {
+          "id": "C",
+          "teks": "membawa darah keluar dari jantung"
+        },
+        {
+          "id": "D",
+          "teks": "membawa darah menuju jantung"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Arteri membawa darah menjauhi jantung; sebagian besar membawa darah kaya oksigen.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "ipas-m3-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pembuluh kapiler: tempat pertukaran oksigen, karbon dioksida, dan zat lain."
+        },
+        {
+          "id": "B",
+          "teks": "Denyut jantung saat olahraga: meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "id": "C",
+          "teks": "Komponen darah: sel darah merah mengangkut oksigen."
+        },
+        {
+          "id": "D",
+          "teks": "Fungsi jantung: mencerna makanan."
+        },
+        {
+          "id": "E",
+          "teks": "Serambi jantung: menyaring urine."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m3-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Komponen darah: sel darah merah mengangkut oksigen."
+        },
+        {
+          "id": "B",
+          "teks": "Fungsi jantung: memompa darah ke seluruh tubuh."
+        },
+        {
+          "id": "C",
+          "teks": "Serambi jantung: memompa darah keluar dengan tekanan utama."
+        },
+        {
+          "id": "D",
+          "teks": "Bilik jantung: membuat sel darah."
+        },
+        {
+          "id": "E",
+          "teks": "Denyut jantung saat olahraga: meningkat untuk mengirim lebih banyak oksigen ke otot."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m3-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Komponen darah adalah sel darah merah mengangkut oksigen."
+        },
+        {
+          "teks": "Serambi jantung adalah memompa darah keluar dengan tekanan utama."
+        },
+        {
+          "teks": "Pembuluh arteri adalah membawa darah keluar dari jantung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; serambi jantung yang tepat adalah menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m3-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Fungsi jantung adalah memompa darah ke seluruh tubuh."
+        },
+        {
+          "teks": "Bilik jantung adalah menerima udara dari paru-paru."
+        },
+        {
+          "teks": "Pembuluh vena adalah membawa darah kembali menuju jantung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; bilik jantung yang tepat adalah memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m3-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Komponen darah"
+        },
+        {
+          "teks": "Fungsi jantung"
+        },
+        {
+          "teks": "Serambi jantung"
+        },
+        {
+          "teks": "Bilik jantung"
+        }
+      ],
+      "pilihan": [
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung",
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh"
+      ],
+      "kunci": [
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m3-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Serambi jantung"
+        },
+        {
+          "teks": "Bilik jantung"
+        },
+        {
+          "teks": "Pembuluh arteri"
+        },
+        {
+          "teks": "Pembuluh vena"
+        }
+      ],
+      "pilihan": [
+        "membawa darah kembali menuju jantung",
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung",
+        "membawa darah keluar dari jantung"
+      ],
+      "kunci": [
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung",
+        "membawa darah keluar dari jantung",
+        "membawa darah kembali menuju jantung"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m3-p3-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Bilik jantung",
+      "pertanyaan": "Lengkapi pernyataan berikut: Bilik jantung berarti ....",
+      "kunci": [
+        "memompa darah keluar dari jantung"
+      ],
+      "kataKunci": [
+        "memompa darah keluar dari jantung"
+      ],
+      "pembahasan": "Bilik atau ventrikel memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m3-p3-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Pembuluh arteri",
+      "pertanyaan": "Lengkapi pernyataan berikut: Pembuluh arteri berarti ....",
+      "kunci": [
+        "membawa darah keluar dari jantung"
+      ],
+      "kataKunci": [
+        "membawa darah keluar dari jantung"
+      ],
+      "pembahasan": "Arteri membawa darah menjauhi jantung; sebagian besar membawa darah kaya oksigen.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m3-p3-q10"
+    }
+  ]
+}

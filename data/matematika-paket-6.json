@@ -1,0 +1,110 @@
+{
+  "id": "matematika-paket-6",
+  "mataPelajaran": "Matematika",
+  "paket": 6,
+  "judul": "Skala dan Jarak Sebenarnya",
+  "durasiMenit": 45,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-P6-01",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung jarak sebenarnya dari skala denah",
+      "pertanyaan": "Sebuah denah menggunakan skala 1 : 200. Panjang ruang pada denah adalah 6 cm. Berapa cm panjang ruang sebenarnya?",
+      "kunci": 1200,
+      "pembahasan": "Jarak sebenarnya = 6 × 200 = 1.200 cm.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P6-02",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung jarak sebenarnya pada peta",
+      "pertanyaan": "Jarak dua tempat pada peta adalah 5 cm. Skala peta 1 : 100.000. Berapa km jarak sebenarnya?",
+      "kunci": 5,
+      "pembahasan": "5 × 100.000 = 500.000 cm. Karena 100.000 cm = 1 km, jarak sebenarnya 5 km.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P6-03",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung jarak pada peta",
+      "pertanyaan": "Jarak sebenarnya antara dua desa adalah 8 km. Skala peta 1 : 200.000. Berapa cm jarak kedua desa pada peta?",
+      "kunci": 4,
+      "pembahasan": "8 km = 800.000 cm. Jarak pada peta = 800.000 ÷ 200.000 = 4 cm.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P6-04",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan skala dari ukuran gambar dan ukuran sebenarnya",
+      "pertanyaan": "Panjang sebuah benda sebenarnya 3 meter. Pada gambar, panjang benda itu 6 cm. Jika skala ditulis 1 : n, berapakah nilai n?",
+      "kunci": 50,
+      "pembahasan": "3 meter = 300 cm. Skala = 6 : 300 = 1 : 50, jadi n = 50.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P6-05",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung ukuran gambar berdasarkan skala",
+      "pertanyaan": "Panjang lapangan sebenarnya 90 meter. Denah dibuat dengan skala 1 : 1.500. Berapa cm panjang lapangan pada denah?",
+      "kunci": 6,
+      "pembahasan": "90 meter = 9.000 cm. Panjang pada denah = 9.000 ÷ 1.500 = 6 cm.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P6-06",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung jarak sebenarnya dengan satuan km",
+      "pertanyaan": "Jarak pada peta adalah 7,5 cm. Skala peta 1 : 400.000. Berapa km jarak sebenarnya?",
+      "kunci": 30,
+      "pembahasan": "7,5 × 400.000 = 3.000.000 cm = 30 km.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P6-07",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan skala peta dari dua jarak",
+      "pertanyaan": "Jarak sebenarnya dua tempat adalah 12 km. Pada peta, jaraknya 3 cm. Jika skala ditulis 1 : n, berapakah nilai n?",
+      "kunci": 400000,
+      "pembahasan": "12 km = 1.200.000 cm. 1.200.000 ÷ 3 = 400.000, jadi skala 1 : 400.000.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P6-08",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung ukuran sebenarnya pada denah",
+      "pertanyaan": "Panjang ruang pada denah adalah 8 cm. Skala denah 1 : 250. Berapa meter panjang ruang sebenarnya?",
+      "kunci": 20,
+      "pembahasan": "8 × 250 = 2.000 cm = 20 meter.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P6-09",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan penyebut skala dari jarak peta dan jarak sebenarnya",
+      "pertanyaan": "Jarak sebenarnya dua kota adalah 45 km. Pada peta, jaraknya 9 cm. Jika skala ditulis 1 : n, berapakah nilai n?",
+      "kunci": 500000,
+      "pembahasan": "45 km = 4.500.000 cm. 4.500.000 ÷ 9 = 500.000, jadi skala 1 : 500.000.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P6-10",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung panjang model berdasarkan skala",
+      "pertanyaan": "Panjang jembatan sebenarnya 24 meter. Model jembatan dibuat dengan skala 1 : 800. Berapa cm panjang model jembatan?",
+      "kunci": 3,
+      "pembahasan": "24 meter = 2.400 cm. Panjang model = 2.400 ÷ 800 = 3 cm.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    }
+  ]
+}

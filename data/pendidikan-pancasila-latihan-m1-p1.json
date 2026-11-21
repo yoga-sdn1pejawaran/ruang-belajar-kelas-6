@@ -1,0 +1,317 @@
+{
+  "id": "pendidikan-pancasila-latihan-m1-p1",
+  "mataPelajaran": "Pendidikan Pancasila",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Hubungan Antarsila dan Penerapan Pancasila",
+  "paket": 1,
+  "judul": "Hubungan Antarsila dan Penerapan Pancasila • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Hubungan sila kedua dan ketiga",
+      "pertanyaan": "Saat kerja kelompok, Dimas membantu teman yang kesulitan tanpa membedakan asal daerahnya. Perilaku tersebut menunjukkan hubungan sila ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pertama dan keempat"
+        },
+        {
+          "id": "B",
+          "teks": "kedua dan ketiga"
+        },
+        {
+          "id": "C",
+          "teks": "ketiga dan kelima"
+        },
+        {
+          "id": "D",
+          "teks": "pertama dan kelima"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Menolong teman mencerminkan nilai kemanusiaan pada sila kedua. Tidak membedakan asal daerah memperkuat persatuan pada sila ketiga.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m1-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Hubungan sila keempat dan kelima",
+      "pertanyaan": "Kelas bermusyawarah menentukan jadwal piket. Setelah berdiskusi, tugas dibagi secara seimbang. Hubungan sila yang paling tepat adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "sila pertama dan kedua"
+        },
+        {
+          "id": "B",
+          "teks": "sila kedua dan ketiga"
+        },
+        {
+          "id": "C",
+          "teks": "sila ketiga dan keempat"
+        },
+        {
+          "id": "D",
+          "teks": "sila keempat dan kelima"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Musyawarah merupakan penerapan sila keempat, sedangkan pembagian tugas secara seimbang mencerminkan keadilan pada sila kelima.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m1-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Penerapan sila pertama dan kedua",
+      "pertanyaan": "Teman sedang menjalankan ibadah. Sikap yang paling tepat sebagai penerapan nilai Pancasila adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "mengajaknya berbicara dengan suara keras"
+        },
+        {
+          "id": "B",
+          "teks": "mengganggu agar segera selesai"
+        },
+        {
+          "id": "C",
+          "teks": "memberinya kesempatan beribadah dan tetap menghormatinya"
+        },
+        {
+          "id": "D",
+          "teks": "melarangnya mengikuti kegiatan kelas"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Menghormati teman yang sedang beribadah mencerminkan nilai ketuhanan dan kemanusiaan.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m1-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Penerapan sila ketiga",
+      "pertanyaan": "Dalam kelas terdapat siswa dari berbagai daerah. Tindakan yang paling tepat untuk menerapkan sila Persatuan Indonesia adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "hanya berteman dengan siswa dari daerah yang sama"
+        },
+        {
+          "id": "B",
+          "teks": "bekerja sama dan menghargai perbedaan semua teman"
+        },
+        {
+          "id": "C",
+          "teks": "mengejek kebiasaan daerah lain"
+        },
+        {
+          "id": "D",
+          "teks": "memisahkan kelompok berdasarkan asal daerah"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Persatuan diwujudkan dengan menjaga kerukunan, bekerja sama, dan menghargai perbedaan.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "pendidikan-pancasila-m1-p1-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis penerapan Pancasila",
+      "pertanyaan": "Pilih TIGA tindakan yang menunjukkan penerapan nilai Pancasila di sekolah.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Memberi kesempatan teman menjalankan ibadah."
+        },
+        {
+          "id": "B",
+          "teks": "Memilih teman kelompok hanya berdasarkan kesamaan daerah."
+        },
+        {
+          "id": "C",
+          "teks": "Bermusyawarah menentukan aturan kelas."
+        },
+        {
+          "id": "D",
+          "teks": "Membagi tugas kelompok secara adil."
+        },
+        {
+          "id": "E",
+          "teks": "Memaksakan pendapat sendiri agar segera disetujui."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Menghormati ibadah, bermusyawarah, dan membagi tugas secara adil merupakan contoh penerapan nilai Pancasila. Membeda-bedakan teman dan memaksakan kehendak tidak sesuai dengan nilai Pancasila.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m1-p1-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis hubungan antarsila",
+      "pertanyaan": "Pilih TIGA pernyataan yang benar tentang hubungan antarsila Pancasila.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Kelima sila saling berkaitan dan tidak berdiri sendiri."
+        },
+        {
+          "id": "B",
+          "teks": "Satu tindakan hanya boleh mencerminkan satu sila."
+        },
+        {
+          "id": "C",
+          "teks": "Menolong teman tanpa membeda-bedakan dapat mencerminkan sila kedua dan ketiga."
+        },
+        {
+          "id": "D",
+          "teks": "Musyawarah yang membagi tugas secara adil dapat mencerminkan sila keempat dan kelima."
+        },
+        {
+          "id": "E",
+          "teks": "Mengamalkan satu sila berarti boleh mengabaikan sila lainnya."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Kelima sila merupakan satu kesatuan. Satu perilaku dapat mencerminkan lebih dari satu sila, seperti menolong tanpa membeda-bedakan serta bermusyawarah untuk membagi tugas secara adil.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m1-p1-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai hubungan antarsila",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Nilai kelima sila Pancasila saling berkaitan dan saling melengkapi."
+        },
+        {
+          "teks": "Gotong royong yang dilakukan tanpa membeda-bedakan teman dapat mencerminkan nilai kemanusiaan dan persatuan."
+        },
+        {
+          "teks": "Sila kelima dapat diterapkan dengan membagi tugas hanya kepada teman yang disukai."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Pancasila merupakan satu kesatuan. Gotong royong tanpa diskriminasi mencerminkan kemanusiaan dan persatuan. Pembagian tugas harus adil, bukan berdasarkan kesukaan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m1-p1-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai penerapan Pancasila",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Menghargai teman yang berbeda agama merupakan salah satu penerapan nilai Pancasila."
+        },
+        {
+          "teks": "Dalam musyawarah, kita boleh memaksakan pendapat sendiri jika merasa paling benar."
+        },
+        {
+          "teks": "Menjaga kerukunan dan bekerja sama dengan semua teman merupakan penerapan sila ketiga."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pancasila diterapkan dengan menghormati perbedaan, tidak memaksakan kehendak, serta menjaga persatuan dan kerja sama.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "pendidikan-pancasila-m1-p1-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan perilaku dengan sila Pancasila",
+      "pertanyaan": "Pasangkan perilaku di sebelah kiri dengan sila yang paling sesuai di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Menghormati teman yang sedang beribadah."
+        },
+        {
+          "teks": "Menolong teman yang mengalami kesulitan."
+        },
+        {
+          "teks": "Bekerja sama menjaga kerukunan kelas."
+        },
+        {
+          "teks": "Membagi tugas kelompok secara adil."
+        }
+      ],
+      "pilihan": [
+        "Sila pertama",
+        "Sila kedua",
+        "Sila ketiga",
+        "Sila kelima"
+      ],
+      "kunci": [
+        "Sila pertama",
+        "Sila kedua",
+        "Sila ketiga",
+        "Sila kelima"
+      ],
+      "pembahasan": "Menghormati ibadah berkaitan dengan sila pertama, menolong sesama sila kedua, menjaga persatuan sila ketiga, dan berlaku adil sila kelima.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-m1-p1-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan hubungan antarsila dengan contoh",
+      "pertanyaan": "Pasangkan hubungan nilai antarsila dengan contoh perilaku yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Sila kedua dan ketiga"
+        },
+        {
+          "teks": "Sila ketiga dan keempat"
+        },
+        {
+          "teks": "Sila keempat dan kelima"
+        },
+        {
+          "teks": "Sila pertama dan kedua"
+        }
+      ],
+      "pilihan": [
+        "Menolong semua teman tanpa membeda-bedakan.",
+        "Menyelesaikan perbedaan melalui musyawarah.",
+        "Membagi tugas hasil kesepakatan secara seimbang.",
+        "Menghormati teman yang sedang beribadah."
+      ],
+      "kunci": [
+        "Menolong semua teman tanpa membeda-bedakan.",
+        "Menyelesaikan perbedaan melalui musyawarah.",
+        "Membagi tugas hasil kesepakatan secara seimbang.",
+        "Menghormati teman yang sedang beribadah."
+      ],
+      "pembahasan": "Setiap contoh menunjukkan hubungan nilai dari dua sila yang saling mendukung dalam kehidupan sehari-hari.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "pendidikan-pancasila-m1-p1-q10"
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

@@ -1,0 +1,110 @@
+{
+  "id": "matematika-paket-2",
+  "mataPelajaran": "Matematika",
+  "paket": 2,
+  "judul": "Penjumlahan dan Pengurangan Bilangan Bulat",
+  "durasiMenit": 40,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-P2-01",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan penjumlahan dan pengurangan bilangan bulat dalam konteks",
+      "pertanyaan": "Dalam sebuah permainan, skor awal Raka adalah 18 poin. Raka kehilangan 27 poin, kemudian memperoleh 14 poin. Berapa skor akhir Raka?",
+      "kunci": 5,
+      "pembahasan": "18 − 27 + 14 = −9 + 14 = 5 poin.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P2-02",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung penjumlahan dan pengurangan bilangan bulat",
+      "pertanyaan": "Hitunglah hasil dari −16 + 9 − 12.",
+      "kunci": -19,
+      "pembahasan": "−16 + 9 = −7, kemudian −7 − 12 = −19.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P2-03",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan penjumlahan dan pengurangan bilangan bulat",
+      "pertanyaan": "Hitunglah hasil dari −24 + 15 − (−8).",
+      "kunci": -1,
+      "pembahasan": "−24 + 15 = −9. Mengurangi bilangan negatif sama dengan menambahkan lawannya: −9 − (−8) = −9 + 8 = −1.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P2-04",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan penjumlahan dan pengurangan bilangan bulat",
+      "pertanyaan": "Hitunglah hasil dari −48 + 19 − 7.",
+      "kunci": -36,
+      "pembahasan": "−48 + 19 = −29, kemudian −29 − 7 = −36.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P2-05",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan operasi bilangan bulat dalam konteks kedalaman",
+      "pertanyaan": "Sebuah kapal selam berada 35 meter di bawah permukaan laut. Kapal naik 12 meter, lalu turun 8 meter. Berapa meter posisi akhir kapal terhadap permukaan laut? Tuliskan bilangan negatif jika masih di bawah permukaan laut.",
+      "kunci": -31,
+      "pembahasan": "Posisi awal −35. Naik 12 menjadi −23, lalu turun 8 menjadi −31 meter.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P2-06",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan penjumlahan dan pengurangan bilangan bulat",
+      "pertanyaan": "Hitunglah hasil dari −9 + 14 − 18.",
+      "kunci": -13,
+      "pembahasan": "−9 + 14 = 5, kemudian 5 − 18 = −13.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P2-07",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung operasi campuran dengan tanda kurung",
+      "pertanyaan": "Hitunglah hasil dari 32 − [18 + (−7)].",
+      "kunci": 21,
+      "pembahasan": "18 + (−7) = 11. Jadi 32 − 11 = 21.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P2-08",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan penjumlahan dan pengurangan bilangan bulat",
+      "pertanyaan": "Hitunglah hasil dari −5 + [8 − 13].",
+      "kunci": -10,
+      "pembahasan": "Hitung bagian dalam kurung: 8 − 13 = −5. Kemudian −5 + (−5) = −10.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P2-09",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan perubahan suhu menggunakan bilangan bulat",
+      "pertanyaan": "Suhu mula-mula −3°C. Suhu kemudian turun 7°C dan naik lagi 11°C. Berapa suhu akhirnya dalam derajat Celsius?",
+      "kunci": 1,
+      "pembahasan": "−3 − 7 + 11 = −10 + 11 = 1°C.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P2-10",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan penjumlahan dan pengurangan bilangan bulat",
+      "pertanyaan": "Hitunglah hasil dari 54 − 29 + (−13).",
+      "kunci": 12,
+      "pembahasan": "54 − 29 = 25, kemudian 25 + (−13) = 12.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 5
+    }
+  ]
+}

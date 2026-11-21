@@ -1,0 +1,317 @@
+{
+  "id": "bahasa-jawa-latihan-m2-p1",
+  "mataPelajaran": "Bahasa Jawa",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Tembang Macapat Kinanthi lan Sinom",
+  "paket": 1,
+  "judul": "Tembang Macapat Kinanthi lan Sinom • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Tembang macapat",
+      "pertanyaan": "Apa sing diarani tembang macapat?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "lagu modern tanpa laras"
+        },
+        {
+          "id": "B",
+          "teks": "crita prosa"
+        },
+        {
+          "id": "C",
+          "teks": "tembang tradhisional Jawa sing kaiket paugeran guru gatra, guru wilangan, lan guru lagu"
+        },
+        {
+          "id": "D",
+          "teks": "tembang bebas tanpa aturan"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Macapat minangka tembang tradhisional Jawa sing nduweni paugeran gatra, wilangan, lan lagu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-m2-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Guru gatra",
+      "pertanyaan": "Apa tegese guru gatra?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "cacahing tembang"
+        },
+        {
+          "id": "B",
+          "teks": "cacahing larik utawa gatra saben sapada"
+        },
+        {
+          "id": "C",
+          "teks": "cacahing wanda saben gatra"
+        },
+        {
+          "id": "D",
+          "teks": "swara vokal pungkasan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Guru gatra yaiku jumlah larik utawa gatra ing saben sapada.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-m2-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Sinom: nggambarake mangsa tuwa wae."
+        },
+        {
+          "id": "B",
+          "teks": "Amanat tembang: cacahing wanda."
+        },
+        {
+          "id": "C",
+          "teks": "Guru lagu: swara vokal ing pungkasan saben gatra."
+        },
+        {
+          "id": "D",
+          "teks": "Kinanthi: ngemu pitutur lan tuntunan kanggo bocah utawa wong enom."
+        },
+        {
+          "id": "E",
+          "teks": "Kinanthi: guru gatra: 6 gatra."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-m2-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tembang macapat: lagu modern tanpa laras."
+        },
+        {
+          "id": "B",
+          "teks": "Kinanthi: ngemu pitutur lan tuntunan kanggo bocah utawa wong enom."
+        },
+        {
+          "id": "C",
+          "teks": "Kinanthi: guru gatra: 6 gatra."
+        },
+        {
+          "id": "D",
+          "teks": "Sinom: nggambarake mangsa enom lan pitutur kanggo para mudha."
+        },
+        {
+          "id": "E",
+          "teks": "Amanat tembang: jeneng panganggit."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-m2-p1-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Kinanthi: guru gatra adalah 6 gatra."
+        },
+        {
+          "teks": "Amanat tembang adalah jeneng panganggit."
+        },
+        {
+          "teks": "Guru gatra adalah cacahing larik utawa gatra saben sapada."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; amanat tembang yang tepat adalah piwulang utawa pesen sing bisa dijupuk saka tembang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-m2-p1-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Sinom adalah nggambarake mangsa enom lan pitutur kanggo para mudha."
+        },
+        {
+          "teks": "Tembang macapat adalah tembang bebas tanpa aturan."
+        },
+        {
+          "teks": "Guru wilangan adalah cacahing wanda utawa suku kata saben gatra."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; tembang macapat yang tepat adalah tembang tradhisional Jawa sing kaiket paugeran guru gatra, guru wilangan, lan guru lagu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-m2-p1-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Kinanthi: guru gatra"
+        },
+        {
+          "teks": "Sinom"
+        },
+        {
+          "teks": "Amanat tembang"
+        },
+        {
+          "teks": "Tembang macapat"
+        }
+      ],
+      "pilihan": [
+        "6 gatra",
+        "nggambarake mangsa enom lan pitutur kanggo para mudha",
+        "piwulang utawa pesen sing bisa dijupuk saka tembang",
+        "tembang tradhisional Jawa sing kaiket paugeran guru gatra, guru wilangan, lan guru lagu"
+      ],
+      "kunci": [
+        "6 gatra",
+        "nggambarake mangsa enom lan pitutur kanggo para mudha",
+        "piwulang utawa pesen sing bisa dijupuk saka tembang",
+        "tembang tradhisional Jawa sing kaiket paugeran guru gatra, guru wilangan, lan guru lagu"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-m2-p1-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Amanat tembang"
+        },
+        {
+          "teks": "Tembang macapat"
+        },
+        {
+          "teks": "Guru gatra"
+        },
+        {
+          "teks": "Guru wilangan"
+        }
+      ],
+      "pilihan": [
+        "tembang tradhisional Jawa sing kaiket paugeran guru gatra, guru wilangan, lan guru lagu",
+        "cacahing larik utawa gatra saben sapada",
+        "cacahing wanda utawa suku kata saben gatra",
+        "piwulang utawa pesen sing bisa dijupuk saka tembang"
+      ],
+      "kunci": [
+        "piwulang utawa pesen sing bisa dijupuk saka tembang",
+        "tembang tradhisional Jawa sing kaiket paugeran guru gatra, guru wilangan, lan guru lagu",
+        "cacahing larik utawa gatra saben sapada",
+        "cacahing wanda utawa suku kata saben gatra"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-m2-p1-q8"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Tembang macapat",
+      "pertanyaan": "Isilah dengan tepat: Tembang macapat adalah ....",
+      "kunci": "A",
+      "pembahasan": "Macapat minangka tembang tradhisional Jawa sing nduweni paugeran gatra, wilangan, lan lagu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-m2-p1-q9",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "tembang tradhisional Jawa sing kaiket paugeran guru gatra, guru wilangan, lan guru lagu"
+        },
+        {
+          "id": "B",
+          "teks": "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+        },
+        {
+          "id": "C",
+          "teks": "salam kanggo miwiti sesorah"
+        },
+        {
+          "id": "D",
+          "teks": "pambuka utawa pengantar sadurunge isi utama"
+        }
+      ]
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Guru gatra",
+      "pertanyaan": "Isilah dengan tepat: Guru gatra adalah ....",
+      "kunci": "A",
+      "pembahasan": "Guru gatra yaiku jumlah larik utawa gatra ing saben sapada.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-m2-p1-q10",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "cacahing larik utawa gatra saben sapada"
+        },
+        {
+          "id": "B",
+          "teks": "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+        },
+        {
+          "id": "C",
+          "teks": "salam kanggo miwiti sesorah"
+        },
+        {
+          "id": "D",
+          "teks": "pambuka utawa pengantar sadurunge isi utama"
+        }
+      ]
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

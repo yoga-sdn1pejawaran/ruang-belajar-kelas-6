@@ -1,0 +1,110 @@
+{
+  "id": "matematika-paket-5",
+  "mataPelajaran": "Matematika",
+  "paket": 5,
+  "judul": "Rasio dan Perbandingan",
+  "durasiMenit": 40,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-P5-01",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan banyak benda berdasarkan rasio",
+      "pertanyaan": "Rasio jumlah kelereng merah dan biru adalah 3 : 5. Jika ada 18 kelereng merah, berapa banyak kelereng biru?",
+      "kunci": 30,
+      "pembahasan": "3 bagian = 18, sehingga 1 bagian = 6. Kelereng biru = 5 × 6 = 30.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P5-02",
+      "jenis": "isian_angka",
+      "indikator": "Menyederhanakan rasio",
+      "pertanyaan": "Sederhanakan rasio 24 : 36. Berapakah angka pertama pada rasio paling sederhana?",
+      "kunci": 2,
+      "pembahasan": "FPB dari 24 dan 36 adalah 12. Rasio menjadi 2 : 3. Angka pertamanya 2.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P5-03",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan nilai satu bagian dari rasio",
+      "pertanyaan": "Perbandingan tepung dan gula adalah 4 : 1. Jika tepung yang digunakan 600 gram, berapa gram gula yang diperlukan?",
+      "kunci": 150,
+      "pembahasan": "4 bagian = 600 gram, jadi 1 bagian = 600 ÷ 4 = 150 gram.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P5-04",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan jumlah berdasarkan rasio dan total",
+      "pertanyaan": "Rasio siswa klub sains dan klub seni adalah 2 : 3. Jumlah seluruh siswa 40 orang. Berapa siswa yang mengikuti klub seni?",
+      "kunci": 24,
+      "pembahasan": "Jumlah bagian = 2 + 3 = 5. Satu bagian = 40 ÷ 5 = 8. Klub seni = 3 × 8 = 24.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P5-05",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan perbandingan senilai",
+      "pertanyaan": "Untuk membuat 4 gelas minuman diperlukan 6 sendok konsentrat. Jika rasa minuman harus tetap sama, berapa sendok konsentrat diperlukan untuk membuat 10 gelas?",
+      "kunci": 15,
+      "pembahasan": "6 ÷ 4 × 10 = 15 sendok.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P5-06",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan ukuran berdasarkan rasio",
+      "pertanyaan": "Rasio panjang dan lebar persegi panjang adalah 5 : 3. Jika panjangnya 45 cm, berapa cm lebarnya?",
+      "kunci": 27,
+      "pembahasan": "5 bagian = 45 cm, maka 1 bagian = 9 cm. Lebar = 3 × 9 = 27 cm.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P5-07",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan bagian dari jumlah berdasarkan rasio",
+      "pertanyaan": "Rasio uang Dita dan Rani adalah 7 : 4. Jumlah uang mereka Rp99.000. Berapa rupiah uang Rani?",
+      "kunci": 36000,
+      "pembahasan": "Jumlah bagian = 11. Satu bagian = 99.000 ÷ 11 = 9.000. Uang Rani = 4 × 9.000 = Rp36.000.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P5-08",
+      "jenis": "isian_angka",
+      "indikator": "Menyederhanakan rasio dua besaran",
+      "pertanyaan": "Sebuah resep menggunakan 300 gram bahan A dan 500 gram bahan B. Sederhanakan rasio A : B. Berapakah angka kedua pada rasio tersebut?",
+      "kunci": 5,
+      "pembahasan": "300 : 500 dibagi 100 menjadi 3 : 5. Angka keduanya 5.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P5-09",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan jumlah keseluruhan dari rasio",
+      "pertanyaan": "Rasio jumlah ayam dan bebek adalah 6 : 5. Jika jumlah bebek 35 ekor, berapa jumlah seluruh ayam dan bebek?",
+      "kunci": 77,
+      "pembahasan": "5 bagian = 35, jadi 1 bagian = 7. Jumlah seluruhnya = (6 + 5) × 7 = 77 ekor.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-P5-10",
+      "jenis": "isian_angka",
+      "indikator": "Menerapkan rasio senilai dalam konteks",
+      "pertanyaan": "Untuk membuat satu teko minuman diperlukan 2 gelas sirup dan 5 gelas air. Jika dibuat 4 teko dengan rasa yang sama, berapa gelas air yang diperlukan?",
+      "kunci": 20,
+      "pembahasan": "Setiap teko membutuhkan 5 gelas air. Untuk 4 teko: 4 × 5 = 20 gelas.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    }
+  ]
+}

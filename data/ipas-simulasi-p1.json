@@ -1,0 +1,926 @@
+{
+  "id": "ipas-simulasi-p1",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "materi": "IPAS Kelas VI",
+  "paket": 1,
+  "judul": "Simulasi IPAS • Paket 1",
+  "durasiMenit": 40,
+  "soal": [
+    {
+      "id": "ipas-sim1-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Fungsi rangka",
+      "pertanyaan": "Ketika bermain sepak bola, seorang siswa terjatuh dan kepalanya membentur tanah. Tulang tengkorak menjadi pelindung bagi organ penting di dalam kepala.\n\nOrgan yang dilindungi tulang tengkorak adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Jantung"
+        },
+        {
+          "id": "B",
+          "teks": "Paru-paru"
+        },
+        {
+          "id": "C",
+          "teks": "Otak"
+        },
+        {
+          "id": "D",
+          "teks": "Lambung"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Tulang tengkorak membentuk pelindung bagi otak.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-sim1-02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Tujuan kedatangan bangsa Eropa",
+      "pertanyaan": "Pada masa lalu, bangsa Eropa melakukan pelayaran jauh menuju kepulauan Nusantara. Hasil bumi Nusantara sangat diminati di pasar dunia.\n\nKomoditas utama yang dicari bangsa Eropa pada awal kedatangannya adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Batu bara"
+        },
+        {
+          "id": "B",
+          "teks": "Rempah-rempah"
+        },
+        {
+          "id": "C",
+          "teks": "Kapas"
+        },
+        {
+          "id": "D",
+          "teks": "Beras"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Bangsa Eropa terutama mencari rempah-rempah seperti cengkih, pala, dan lada.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-sim1-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Benua terluas",
+      "pertanyaan": "Dalam pelajaran geografi, siswa membandingkan luas enam benua di dunia.\n\nBenua yang memiliki wilayah paling luas adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Afrika"
+        },
+        {
+          "id": "B",
+          "teks": "Asia"
+        },
+        {
+          "id": "C",
+          "teks": "Eropa"
+        },
+        {
+          "id": "D",
+          "teks": "Australia"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Asia merupakan benua terluas di dunia.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-sim1-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Samudra terluas",
+      "pertanyaan": "Peta dunia memperlihatkan beberapa samudra yang mengelilingi benua-benua.\n\nSamudra yang paling luas adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Hindia"
+        },
+        {
+          "id": "B",
+          "teks": "Atlantik"
+        },
+        {
+          "id": "C",
+          "teks": "Pasifik"
+        },
+        {
+          "id": "D",
+          "teks": "Arktik"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Samudra Pasifik merupakan samudra terluas di dunia.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-sim1-05",
+      "jenis": "pilihan_ganda",
+      "indikator": "ASEAN",
+      "pertanyaan": "Indonesia menjalin kerja sama dengan negara-negara tetangga di kawasan Asia Tenggara dalam bidang pendidikan, ekonomi, dan sosial budaya.\n\nASEAN merupakan organisasi kerja sama negara-negara di kawasan ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Asia Timur"
+        },
+        {
+          "id": "B",
+          "teks": "Asia Tenggara"
+        },
+        {
+          "id": "C",
+          "teks": "Eropa Barat"
+        },
+        {
+          "id": "D",
+          "teks": "Afrika Utara"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "ASEAN adalah organisasi negara-negara Asia Tenggara.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-sim1-06",
+      "jenis": "pilihan_ganda",
+      "indikator": "Kerja otot antagonis",
+      "pertanyaan": "Dimas mengangkat tas dengan menekuk siku. Saat gerakan menekuk berlangsung, dua otot lengan atas bekerja berpasangan.\n\nCara kerja otot yang tepat adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Bisep berkontraksi dan trisep relaksasi"
+        },
+        {
+          "id": "B",
+          "teks": "Bisep relaksasi dan trisep berkontraksi"
+        },
+        {
+          "id": "C",
+          "teks": "Bisep dan trisep sama-sama relaksasi"
+        },
+        {
+          "id": "D",
+          "teks": "Bisep dan trisep tidak bekerja"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Saat siku menekuk, otot bisep berkontraksi sedangkan trisep mengendur atau relaksasi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-sim1-07",
+      "jenis": "menjodohkan",
+      "indikator": "Macam-macam sendi",
+      "pertanyaan": "Saat bergerak, tubuh menggunakan beberapa jenis sendi. Siku, bahu, pangkal ibu jari, dan leher memiliki bentuk hubungan tulang yang berbeda.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Siku"
+        },
+        {
+          "teks": "Bahu"
+        },
+        {
+          "teks": "Pangkal ibu jari"
+        },
+        {
+          "teks": "Leher"
+        }
+      ],
+      "pilihan": [
+        "Sendi engsel",
+        "Sendi peluru",
+        "Sendi pelana",
+        "Sendi putar"
+      ],
+      "kunci": [
+        "Sendi engsel",
+        "Sendi peluru",
+        "Sendi pelana",
+        "Sendi putar"
+      ],
+      "pembahasan": "Siku merupakan sendi engsel; bahu sendi peluru; pangkal ibu jari sendi pelana; leher memiliki sendi putar.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-sim1-08",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Keterkaitan rangka, otot, saraf, dan darah",
+      "pertanyaan": "Raka mengangkat galon dari lantai. Otak mengirim perintah ke otot lengan, otot menarik tulang, dan jantung memompa darah lebih banyak ke otot.\n\nPilih TIGA pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Saraf motorik membawa perintah dari pusat saraf menuju otot."
+        },
+        {
+          "id": "B",
+          "teks": "Tulang dapat bergerak sendiri tanpa otot."
+        },
+        {
+          "id": "C",
+          "teks": "Otot yang bekerja membutuhkan oksigen yang diangkut darah."
+        },
+        {
+          "id": "D",
+          "teks": "Siku dapat menekuk karena tulang bergerak pada sendi dan ditarik otot."
+        },
+        {
+          "id": "E",
+          "teks": "Saraf sensorik membawa perintah dari otak menuju otot."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Saraf motorik membawa perintah ke otot; darah memasok oksigen; otot menarik tulang pada persendian. Tulang tidak bergerak sendiri dan saraf sensorik membawa rangsangan menuju pusat saraf.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-sim1-09",
+      "jenis": "benar_salah",
+      "indikator": "Gerak refleks",
+      "pertanyaan": "Dina tidak sengaja menyentuh panci panas. Tangannya segera ditarik sebelum ia sempat memikirkan rasa panas tersebut.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Tanggapan cepat tersebut melibatkan sumsum tulang belakang."
+        },
+        {
+          "teks": "Gerak menarik tangan terjadi dengan kerja sama otot dan tulang."
+        },
+        {
+          "teks": "Saraf sensorik tidak diperlukan untuk menerima rangsangan panas."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Reseptor menerima rangsangan, saraf sensorik membawa impuls ke sumsum tulang belakang, lalu saraf motorik memerintahkan otot. Saraf sensorik diperlukan untuk menerima rangsangan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-sim1-10",
+      "jenis": "menjodohkan",
+      "indikator": "Bagian sistem saraf dan fungsi",
+      "pertanyaan": "Saat tubuh menerima rangsangan, beberapa bagian sistem saraf menjalankan tugas yang berbeda.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Otak"
+        },
+        {
+          "teks": "Sumsum tulang belakang"
+        },
+        {
+          "teks": "Saraf sensorik"
+        },
+        {
+          "teks": "Saraf motorik"
+        }
+      ],
+      "pilihan": [
+        "Pusat pengatur dan pengendali tubuh",
+        "Menghubungkan otak dengan saraf tubuh dan menjadi pusat gerak refleks",
+        "Membawa rangsangan dari alat indra menuju pusat saraf",
+        "Membawa perintah dari pusat saraf menuju otot"
+      ],
+      "kunci": [
+        "Pusat pengatur dan pengendali tubuh",
+        "Menghubungkan otak dengan saraf tubuh dan menjadi pusat gerak refleks",
+        "Membawa rangsangan dari alat indra menuju pusat saraf",
+        "Membawa perintah dari pusat saraf menuju otot"
+      ],
+      "pembahasan": "Otak mengolah informasi; sumsum tulang belakang menjadi jalur penghubung dan pusat refleks; saraf sensorik membawa rangsangan; saraf motorik membawa perintah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-sim1-11",
+      "jenis": "pilihan_ganda",
+      "indikator": "Kerusakan sumsum tulang belakang",
+      "pertanyaan": "Pak Joko mengalami kecelakaan. Sumsum tulang belakang di bagian pinggangnya mengalami kerusakan, sedangkan tulang dan otot kakinya masih normal. Setelah kejadian, kedua kakinya sulit digerakkan.\n\nGangguan yang paling mungkin terjadi adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tulang kaki kehilangan bentuk"
+        },
+        {
+          "id": "B",
+          "teks": "Perintah dari otak ke otot kaki terganggu"
+        },
+        {
+          "id": "C",
+          "teks": "Jantung berhenti memompa darah"
+        },
+        {
+          "id": "D",
+          "teks": "Sendi lutut berubah menjadi sendi peluru"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Sumsum tulang belakang merupakan jalur penghantar pesan saraf. Kerusakannya dapat mengganggu penyampaian perintah gerak dari otak menuju otot kaki.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-sim1-12",
+      "jenis": "menjodohkan",
+      "indikator": "Organ peredaran darah",
+      "pertanyaan": "Jantung memiliki empat ruang yang menerima dan memompa darah ke paru-paru maupun seluruh tubuh.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Ruang yang menerima darah dari seluruh tubuh"
+        },
+        {
+          "teks": "Ruang yang memompa darah menuju paru-paru"
+        },
+        {
+          "teks": "Ruang yang menerima darah dari paru-paru"
+        },
+        {
+          "teks": "Ruang yang memompa darah ke seluruh tubuh"
+        }
+      ],
+      "pilihan": [
+        "Serambi kanan",
+        "Bilik kanan",
+        "Serambi kiri",
+        "Bilik kiri"
+      ],
+      "kunci": [
+        "Serambi kanan",
+        "Bilik kanan",
+        "Serambi kiri",
+        "Bilik kiri"
+      ],
+      "pembahasan": "Serambi kanan menerima darah dari tubuh; bilik kanan menuju paru-paru; serambi kiri menerima darah dari paru-paru; bilik kiri memompa darah ke seluruh tubuh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-sim1-13",
+      "jenis": "menjodohkan",
+      "indikator": "Pembuluh darah dan fungsi",
+      "pertanyaan": "Darah mengalir melalui pembuluh dengan karakteristik berbeda. Ada pembuluh yang membawa darah keluar dari jantung, menuju jantung, dan menjadi tempat pertukaran zat.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Membawa darah keluar dari jantung"
+        },
+        {
+          "teks": "Membawa darah menuju jantung"
+        },
+        {
+          "teks": "Tempat pertukaran oksigen dan karbon dioksida"
+        },
+        {
+          "teks": "Memompa darah"
+        }
+      ],
+      "pilihan": [
+        "Arteri",
+        "Vena",
+        "Kapiler",
+        "Jantung"
+      ],
+      "kunci": [
+        "Arteri",
+        "Vena",
+        "Kapiler",
+        "Jantung"
+      ],
+      "pembahasan": "Arteri membawa darah keluar dari jantung; vena menuju jantung; kapiler menjadi tempat pertukaran zat; jantung memompa darah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-sim1-14",
+      "jenis": "pilihan_ganda",
+      "indikator": "Tokoh dan perjuangan",
+      "pertanyaan": "Dalam pembelajaran sejarah, siswa mengenal tokoh-tokoh yang memimpin perlawanan di berbagai daerah terhadap penjajahan.\n\nTokoh yang memimpin Perang Jawa pada 1825–1830 adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pattimura"
+        },
+        {
+          "id": "B",
+          "teks": "Sultan Hasanuddin"
+        },
+        {
+          "id": "C",
+          "teks": "Pangeran Diponegoro"
+        },
+        {
+          "id": "D",
+          "teks": "Tuanku Imam Bonjol"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Pangeran Diponegoro memimpin Perang Jawa pada 1825–1830.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-sim1-15",
+      "jenis": "menjodohkan",
+      "indikator": "Bangunan ikonik, negara, dan benua",
+      "pertanyaan": "Bangunan terkenal dapat digunakan untuk mengenali negara dan benua tempatnya berada.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Menara Eiffel"
+        },
+        {
+          "teks": "Piramida Giza"
+        },
+        {
+          "teks": "Patung Liberty"
+        },
+        {
+          "teks": "Sydney Opera House"
+        }
+      ],
+      "pilihan": [
+        "Prancis – Eropa",
+        "Mesir – Afrika",
+        "Amerika Serikat – Amerika Utara",
+        "Australia – Australia"
+      ],
+      "kunci": [
+        "Prancis – Eropa",
+        "Mesir – Afrika",
+        "Amerika Serikat – Amerika Utara",
+        "Australia – Australia"
+      ],
+      "pembahasan": "Menara Eiffel berada di Prancis, Piramida Giza di Mesir, Patung Liberty di Amerika Serikat, dan Sydney Opera House di Australia.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-sim1-16",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis sistem gerak dan koordinasi",
+      "pertanyaan": "Nisa mengangkat kardus berat. Ia melihat kardus, memutuskan untuk mengangkatnya, lalu otot lengan dan punggung bekerja. Napas dan denyut jantungnya meningkat.\n\nPilih TIGA penjelasan yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Otak mengatur perintah gerak melalui sistem saraf."
+        },
+        {
+          "id": "B",
+          "teks": "Otot menarik tulang sehingga terjadi gerakan pada sendi."
+        },
+        {
+          "id": "C",
+          "teks": "Darah memasok oksigen dan zat makanan bagi otot yang bekerja."
+        },
+        {
+          "id": "D",
+          "teks": "Tulang menjadi alat gerak aktif karena berkontraksi."
+        },
+        {
+          "id": "E",
+          "teks": "Jantung tidak berperan saat otot melakukan aktivitas."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Otak dan saraf mengatur gerakan; otot merupakan alat gerak aktif yang menarik tulang; darah memasok kebutuhan otot. Tulang adalah alat gerak pasif dan jantung tetap berperan.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-sim1-17",
+      "jenis": "benar_salah",
+      "indikator": "Analisis gerak refleks",
+      "pertanyaan": "Ketika menyentuh benda panas, tangan seseorang segera menjauh. Setelah itu, orang tersebut baru menyadari bahwa benda yang disentuh sangat panas.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Gerak refleks membantu melindungi tubuh dari bahaya."
+        },
+        {
+          "teks": "Pada gerak refleks, impuls selalu harus diolah terlebih dahulu oleh otak sebelum tangan bergerak."
+        },
+        {
+          "teks": "Saraf motorik membawa perintah menuju otot."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Gerak refleks dapat diproses melalui sumsum tulang belakang sehingga respons terjadi cepat. Saraf motorik membawa perintah ke otot.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-sim1-18",
+      "jenis": "pilihan_ganda",
+      "indikator": "Analisis olahraga dan peredaran darah",
+      "pertanyaan": "Bayu berlari selama 15 menit. Setelah berlari, denyut nadinya lebih cepat daripada sebelum berlari dan ia bernapas lebih cepat.\n\nPenjelasan yang paling tepat adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Otot bekerja lebih keras sehingga memerlukan lebih banyak oksigen dan energi; jantung meningkatkan aliran darah"
+        },
+        {
+          "id": "B",
+          "teks": "Jantung berdetak cepat karena darah berhenti mengalir"
+        },
+        {
+          "id": "C",
+          "teks": "Otot tidak membutuhkan oksigen saat berlari"
+        },
+        {
+          "id": "D",
+          "teks": "Paru-paru mengambil alih fungsi jantung"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Saat berlari, otot membutuhkan lebih banyak oksigen dan zat makanan. Jantung memompa darah lebih cepat untuk memenuhi kebutuhan tersebut.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-sim1-19",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis aliran darah",
+      "pertanyaan": "Seorang siswa membuat diagram aliran darah dari jantung ke paru-paru dan kembali ke jantung. Ia juga menggambar aliran darah dari jantung ke seluruh tubuh.\n\nPilih TIGA pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Bilik kanan memompa darah menuju paru-paru."
+        },
+        {
+          "id": "B",
+          "teks": "Darah mengambil oksigen di paru-paru."
+        },
+        {
+          "id": "C",
+          "teks": "Bilik kiri memompa darah ke seluruh tubuh."
+        },
+        {
+          "id": "D",
+          "teks": "Serambi kanan memompa darah langsung ke seluruh tubuh."
+        },
+        {
+          "id": "E",
+          "teks": "Vena pulmonalis membawa darah miskin oksigen dari paru-paru."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Bilik kanan memompa darah ke paru-paru; darah mengambil oksigen; bilik kiri memompa darah ke seluruh tubuh. Vena pulmonalis membawa darah kaya oksigen ke jantung.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-sim1-20",
+      "jenis": "pilihan_ganda",
+      "indikator": "Analisis sebab-akibat sejarah",
+      "pertanyaan": "Bangsa Eropa datang ke Nusantara untuk memperoleh rempah-rempah. Dalam perkembangannya, beberapa bangsa asing memonopoli perdagangan dan menguasai wilayah.\n\nAkibat yang mendorong perlawanan rakyat adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Rakyat kehilangan kebebasan dan mengalami penindasan"
+        },
+        {
+          "id": "B",
+          "teks": "Semua rakyat memperoleh keuntungan sama besar"
+        },
+        {
+          "id": "C",
+          "teks": "Tidak ada perubahan dalam kehidupan masyarakat"
+        },
+        {
+          "id": "D",
+          "teks": "Perdagangan lokal sepenuhnya bebas"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Monopoli dan penguasaan wilayah menimbulkan penindasan serta kerugian bagi rakyat sehingga muncul perlawanan.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-sim1-21",
+      "jenis": "benar_salah",
+      "indikator": "Perjuangan sebelum dan sesudah kesadaran nasional",
+      "pertanyaan": "Sebelum kesadaran nasional berkembang, perlawanan sering dilakukan oleh daerah masing-masing. Setelah organisasi pergerakan tumbuh, perjuangan semakin terkoordinasi.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Perjuangan kedaerahan sering lebih mudah dipatahkan karena belum bersatu."
+        },
+        {
+          "teks": "Pergerakan nasional hanya menggunakan perang senjata."
+        },
+        {
+          "teks": "Organisasi dan pendidikan menjadi bagian dari cara perjuangan setelah kesadaran nasional berkembang."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Perjuangan sebelum kesadaran nasional umumnya bersifat kedaerahan. Sesudahnya, organisasi, pendidikan, pers, dan persatuan menjadi sarana penting.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-sim1-22",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Makna Sumpah Pemuda",
+      "pertanyaan": "Pada 28 Oktober 1928, pemuda dari berbagai daerah mengikrarkan satu tanah air, satu bangsa, dan menjunjung bahasa persatuan, bahasa Indonesia.\n\nPilih TIGA makna yang tepat dari peristiwa tersebut.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Mengutamakan persatuan di atas perbedaan daerah"
+        },
+        {
+          "id": "B",
+          "teks": "Mengakui bahasa Indonesia sebagai bahasa persatuan"
+        },
+        {
+          "id": "C",
+          "teks": "Memperkuat kesadaran sebagai satu bangsa"
+        },
+        {
+          "id": "D",
+          "teks": "Menghapus seluruh bahasa daerah"
+        },
+        {
+          "id": "E",
+          "teks": "Mengembalikan perjuangan ke kelompok daerah masing-masing"
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Sumpah Pemuda menegaskan persatuan tanah air, bangsa, dan bahasa. Ikrar tersebut tidak menghapus bahasa daerah, tetapi menyatukan bangsa.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-sim1-23",
+      "jenis": "benar_salah",
+      "indikator": "Keteladanan tokoh dan persatuan",
+      "pertanyaan": "Dalam kegiatan kelas, Rani mengajak teman-teman dari suku berbeda bekerja sama. Ia mendengarkan pendapat semua anggota sebelum menentukan pembagian tugas.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Menghargai perbedaan dapat memperkuat persatuan."
+        },
+        {
+          "teks": "Kerja sama hanya perlu dilakukan dengan teman yang berasal dari daerah sama."
+        },
+        {
+          "teks": "Mendengarkan pendapat teman merupakan sikap yang patut diteladani."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Persatuan dibangun dengan menghargai perbedaan, bekerja sama, dan mendengarkan pendapat orang lain.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-sim1-24",
+      "jenis": "pilihan_ganda",
+      "indikator": "Kronologi perjuangan bangsa",
+      "pertanyaan": "Sebuah kelompok menyusun rangkaian peristiwa sejarah Indonesia: kedatangan bangsa asing, perlawanan daerah, pergerakan nasional, Sumpah Pemuda, dan Proklamasi.\n\nHubungan sebab-akibat yang paling tepat adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Perjuangan daerah langsung mengakhiri semua penjajahan"
+        },
+        {
+          "id": "B",
+          "teks": "Pengalaman penjajahan mendorong perlawanan, lalu kesadaran persatuan memperkuat perjuangan menuju kemerdekaan"
+        },
+        {
+          "id": "C",
+          "teks": "Sumpah Pemuda terjadi setelah Proklamasi"
+        },
+        {
+          "id": "D",
+          "teks": "Pergerakan nasional membuat rakyat tidak lagi menginginkan kemerdekaan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Penjajahan memicu perlawanan. Kesadaran nasional dan persatuan kemudian memperkuat perjuangan hingga Proklamasi 1945.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-sim1-25",
+      "jenis": "benar_salah",
+      "indikator": "Pengaruh geografis terhadap kehidupan",
+      "pertanyaan": "Di Eropa, masyarakat menyesuaikan pakaian dan kegiatan dengan empat musim. Di Mesir, banyak penduduk tinggal di sekitar Sungai Nil karena wilayah sekitarnya kering.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Ketersediaan air Sungai Nil mendukung permukiman dan pertanian."
+        },
+        {
+          "teks": "Kondisi geografis dapat memengaruhi mata pencaharian dan kebiasaan masyarakat."
+        },
+        {
+          "teks": "Penduduk Eropa tidak pernah menyesuaikan kegiatan dengan musim."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Kondisi iklim dan ketersediaan air memengaruhi pakaian, kegiatan, pertanian, dan persebaran penduduk.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-sim1-26",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Pemanfaatan potensi geografis Belanda",
+      "pertanyaan": "Sebagian wilayah Belanda berada di dataran rendah, bahkan ada yang lebih rendah dari permukaan laut. Negara tersebut mengembangkan teknologi pengelolaan air dan pertanian.\n\nPilih TIGA bentuk pemanfaatan potensi geografis yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Membangun tanggul dan sistem pengendali air"
+        },
+        {
+          "id": "B",
+          "teks": "Memanfaatkan lahan datar untuk pertanian"
+        },
+        {
+          "id": "C",
+          "teks": "Menggunakan teknologi untuk mengurangi risiko banjir"
+        },
+        {
+          "id": "D",
+          "teks": "Membangun tanggul karena seluruh wilayahnya berupa pegunungan tinggi"
+        },
+        {
+          "id": "E",
+          "teks": "Menghindari seluruh kegiatan pertanian"
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Belanda mengelola dataran rendah dengan tanggul dan sistem pengendali air serta memanfaatkan lahan untuk pertanian. Teknologi membantu mengatasi tantangan geografis.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-sim1-27",
+      "jenis": "menjodohkan",
+      "indikator": "Mengenali negara dan ciri geografis/budaya",
+      "pertanyaan": "Dalam pameran budaya dunia, siswa melihat beberapa ciri khas negara dari berbagai benua.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Kimono dan Gunung Fuji"
+        },
+        {
+          "teks": "Tembok Besar"
+        },
+        {
+          "teks": "Menara Eiffel"
+        },
+        {
+          "teks": "Piramida Giza"
+        }
+      ],
+      "pilihan": [
+        "Jepang – Asia",
+        "Tiongkok – Asia",
+        "Prancis – Eropa",
+        "Mesir – Afrika"
+      ],
+      "kunci": [
+        "Jepang – Asia",
+        "Tiongkok – Asia",
+        "Prancis – Eropa",
+        "Mesir – Afrika"
+      ],
+      "pembahasan": "Kimono dan Gunung Fuji berkaitan dengan Jepang; Tembok Besar dengan Tiongkok; Menara Eiffel dengan Prancis; Piramida Giza dengan Mesir.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-sim1-28",
+      "jenis": "pilihan_ganda",
+      "indikator": "Peran Indonesia dalam kerja sama internasional",
+      "pertanyaan": "Indonesia pernah menjadi tuan rumah Konferensi Asia Afrika, ikut mendirikan ASEAN, dan mengirim Kontingen Garuda dalam misi perdamaian PBB.\n\nKesimpulan yang paling tepat adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Indonesia tidak terlibat dalam kerja sama dunia"
+        },
+        {
+          "id": "B",
+          "teks": "Indonesia aktif membangun solidaritas kawasan dan mendukung perdamaian internasional"
+        },
+        {
+          "id": "C",
+          "teks": "Indonesia hanya bekerja sama dalam perdagangan"
+        },
+        {
+          "id": "D",
+          "teks": "Indonesia menolak organisasi internasional"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Contoh tersebut menunjukkan peran Indonesia dalam solidaritas Asia-Afrika, kerja sama kawasan melalui ASEAN, dan perdamaian dunia melalui PBB.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-sim1-29",
+      "jenis": "menjodohkan",
+      "indikator": "Istilah kerja sama dan perdagangan global",
+      "pertanyaan": "Dalam diskusi kelas, siswa menemukan beberapa istilah yang sering digunakan dalam hubungan antarnegara.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Organisasi negara Asia Tenggara"
+        },
+        {
+          "teks": "Organisasi bangsa-bangsa dunia untuk perdamaian"
+        },
+        {
+          "teks": "Membeli barang dari luar negeri"
+        },
+        {
+          "teks": "Proses semakin terhubungnya kehidupan antarnegara"
+        }
+      ],
+      "pilihan": [
+        "ASEAN",
+        "PBB",
+        "Impor",
+        "Globalisasi"
+      ],
+      "kunci": [
+        "ASEAN",
+        "PBB",
+        "Impor",
+        "Globalisasi"
+      ],
+      "pembahasan": "ASEAN berlingkup Asia Tenggara; PBB berlingkup dunia; impor berarti membeli dari luar negeri; globalisasi menghubungkan kehidupan antarnegara.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-sim1-30",
+      "jenis": "pilihan_ganda",
+      "indikator": "Dampak globalisasi dan sikap bijak",
+      "pertanyaan": "Andi mudah membeli sepatu dari luar negeri melalui internet. Ia juga mulai malu memakai batik dan jarang memainkan permainan tradisional.\n\nSikap paling tepat untuk menghadapi keadaan tersebut adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Menolak semua teknologi dan budaya asing"
+        },
+        {
+          "id": "B",
+          "teks": "Menggunakan teknologi secara bijak serta tetap menghargai produk dan budaya Indonesia"
+        },
+        {
+          "id": "C",
+          "teks": "Membeli semua barang luar negeri"
+        },
+        {
+          "id": "D",
+          "teks": "Menganggap budaya lokal sudah tidak berguna"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Globalisasi memberi kemudahan akses barang dan informasi, tetapi dapat mengurangi minat pada budaya lokal. Sikap bijak adalah memanfaatkan teknologi sambil melestarikan budaya sendiri.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2
+    }
+  ]
+}

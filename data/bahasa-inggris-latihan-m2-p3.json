@@ -1,0 +1,290 @@
+{
+  "id": "bahasa-inggris-latihan-m2-p3",
+  "mataPelajaran": "Bahasa Inggris",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Verb 1 untuk He, She, It: Akhiran -s dan -es",
+  "paket": 3,
+  "judul": "Verb 1 untuk He, She, It: Akhiran -s dan -es • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Go → goes",
+      "pertanyaan": "What is the -es form of go?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "My brother goes to school."
+        },
+        {
+          "id": "B",
+          "teks": "My brother go to school."
+        },
+        {
+          "id": "C",
+          "teks": "My brother going to school."
+        },
+        {
+          "id": "D",
+          "teks": "My brother gone to school."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Go becomes goes with he, she, it, or a singular name.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-m2-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Study → studies",
+      "pertanyaan": "What happens to study when the subject is Rina?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Rina studys English."
+        },
+        {
+          "id": "B",
+          "teks": "Rina study English."
+        },
+        {
+          "id": "C",
+          "teks": "Rina studying English."
+        },
+        {
+          "id": "D",
+          "teks": "Rina studies English."
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "For consonant + y, change y to -ies: study becomes studies.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-m2-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Have → has: She has a new bag.."
+        },
+        {
+          "id": "B",
+          "teks": "Watch → watches: The boy watches cartoons.."
+        },
+        {
+          "id": "C",
+          "teks": "Nama tunggal + verb-s/es: Mila sings beautifully.."
+        },
+        {
+          "id": "D",
+          "teks": "He + verb-s: He read a book every night.."
+        },
+        {
+          "id": "E",
+          "teks": "She + verb-es: She watching television.."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m2-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Nama tunggal + verb-s/es: Mila sings beautifully.."
+        },
+        {
+          "id": "B",
+          "teks": "He + verb-s: He reads a book.."
+        },
+        {
+          "id": "C",
+          "teks": "She + verb-es: She watch television.."
+        },
+        {
+          "id": "D",
+          "teks": "Go → goes: My brother going to school.."
+        },
+        {
+          "id": "E",
+          "teks": "Watch → watches: The boy watches cartoons.."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m2-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Nama tunggal + verb-s/es adalah Mila sings beautifully.."
+        },
+        {
+          "teks": "She + verb-es adalah She watch television.."
+        },
+        {
+          "teks": "Study → studies adalah Rina studies English.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; she + verb-es yang tepat adalah She watches television..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m2-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "He + verb-s adalah He reads a book.."
+        },
+        {
+          "teks": "Go → goes adalah My brother go to school.."
+        },
+        {
+          "teks": "Play → plays adalah Doni plays chess.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; go → goes yang tepat adalah My brother goes to school..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m2-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Nama tunggal + verb-s/es"
+        },
+        {
+          "teks": "He + verb-s"
+        },
+        {
+          "teks": "She + verb-es"
+        },
+        {
+          "teks": "Go → goes"
+        }
+      ],
+      "pilihan": [
+        "She watches television.",
+        "My brother goes to school.",
+        "Mila sings beautifully.",
+        "He reads a book."
+      ],
+      "kunci": [
+        "Mila sings beautifully.",
+        "He reads a book.",
+        "She watches television.",
+        "My brother goes to school."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-m2-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "She + verb-es"
+        },
+        {
+          "teks": "Go → goes"
+        },
+        {
+          "teks": "Study → studies"
+        },
+        {
+          "teks": "Play → plays"
+        }
+      ],
+      "pilihan": [
+        "Doni plays chess.",
+        "She watches television.",
+        "My brother goes to school.",
+        "Rina studies English."
+      ],
+      "kunci": [
+        "She watches television.",
+        "My brother goes to school.",
+        "Rina studies English.",
+        "Doni plays chess."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-m2-p3-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Go → goes",
+      "pertanyaan": "Lengkapi pernyataan berikut: Go → goes berarti ....",
+      "kunci": [
+        "My brother goes to school."
+      ],
+      "kataKunci": [
+        "My brother goes to school."
+      ],
+      "pembahasan": "Go becomes goes with he, she, it, or a singular name.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-m2-p3-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Study → studies",
+      "pertanyaan": "Lengkapi pernyataan berikut: Study → studies berarti ....",
+      "kunci": [
+        "Rina studies English."
+      ],
+      "kataKunci": [
+        "Rina studies English."
+      ],
+      "pembahasan": "For consonant + y, change y to -ies: study becomes studies.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-m2-p3-q10"
+    }
+  ]
+}

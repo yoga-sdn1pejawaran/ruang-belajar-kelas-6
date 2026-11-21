@@ -1,0 +1,923 @@
+{
+  "id": "bahasa-jawa-simulasi-p1",
+  "mataPelajaran": "Bahasa Jawa",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "paket": 1,
+  "judul": "Simulasi ASAS Bahasa Jawa • Paket 1",
+  "durasiMenit": 75,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Sesorah",
+      "pertanyaan": "Apa tegese sesorah?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "nembang tanpa pamireng"
+        },
+        {
+          "id": "B",
+          "teks": "nulis layang pribadi"
+        },
+        {
+          "id": "C",
+          "teks": "maca kanthi meneng"
+        },
+        {
+          "id": "D",
+          "teks": "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Sesorah yaiku micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh kanthi ancas tartamtu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Salam pambuka",
+      "pertanyaan": "Perangan sesorah kanggo miwiti kanthi salam diarani ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pungkasan sesorah"
+        },
+        {
+          "id": "B",
+          "teks": "dhaptar pustaka"
+        },
+        {
+          "id": "C",
+          "teks": "salam kanggo miwiti sesorah"
+        },
+        {
+          "id": "D",
+          "teks": "bagean isi utama"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Salam pambuka digunakake kanggo miwiti sesorah kanthi sopan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Wirama: gerak tangan."
+        },
+        {
+          "id": "B",
+          "teks": "Wirasa: tata panggung."
+        },
+        {
+          "id": "C",
+          "teks": "Surasa basa: perangan isi utawa inti gagasan pokok sesorah."
+        },
+        {
+          "id": "D",
+          "teks": "Wasana basa: perangan panutup isi sadurunge salam panutup."
+        },
+        {
+          "id": "E",
+          "teks": "Wiraga: sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Sesorah: nulis layang pribadi."
+        },
+        {
+          "id": "B",
+          "teks": "Wasana basa: perangan panutup isi sadurunge salam panutup."
+        },
+        {
+          "id": "C",
+          "teks": "Wiraga: sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah."
+        },
+        {
+          "id": "D",
+          "teks": "Wirama: irama, intonasi, lan banter lirih swara."
+        },
+        {
+          "id": "E",
+          "teks": "Wirasa: gerak sikil."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p1-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Wiraga adalah sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah."
+        },
+        {
+          "teks": "Wirasa adalah gerak sikil."
+        },
+        {
+          "teks": "Salam pambuka adalah salam kanggo miwiti sesorah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; wirasa yang tepat adalah penghayatan lan rasa sing cocog karo isi sesorah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p1-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Wirama adalah irama, intonasi, lan banter lirih swara."
+        },
+        {
+          "teks": "Sesorah adalah nembang tanpa pamireng."
+        },
+        {
+          "teks": "Purwaka adalah pambuka utawa pengantar sadurunge isi utama."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; sesorah yang tepat adalah micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p1-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Wiraga"
+        },
+        {
+          "teks": "Wirama"
+        },
+        {
+          "teks": "Wirasa"
+        },
+        {
+          "teks": "Sesorah"
+        }
+      ],
+      "pilihan": [
+        "sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah",
+        "irama, intonasi, lan banter lirih swara",
+        "penghayatan lan rasa sing cocog karo isi sesorah",
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+      ],
+      "kunci": [
+        "sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah",
+        "irama, intonasi, lan banter lirih swara",
+        "penghayatan lan rasa sing cocog karo isi sesorah",
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-sim-p1-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Wirasa"
+        },
+        {
+          "teks": "Sesorah"
+        },
+        {
+          "teks": "Salam pambuka"
+        },
+        {
+          "teks": "Purwaka"
+        }
+      ],
+      "pilihan": [
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh",
+        "salam kanggo miwiti sesorah",
+        "pambuka utawa pengantar sadurunge isi utama",
+        "penghayatan lan rasa sing cocog karo isi sesorah"
+      ],
+      "kunci": [
+        "penghayatan lan rasa sing cocog karo isi sesorah",
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh",
+        "salam kanggo miwiti sesorah",
+        "pambuka utawa pengantar sadurunge isi utama"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-sim-p1-q8"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Sesorah",
+      "pertanyaan": "Isilah dengan tepat: Sesorah adalah ....",
+      "kunci": "A",
+      "pembahasan": "Sesorah yaiku micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh kanthi ancas tartamtu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p1-q9",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+        },
+        {
+          "id": "B",
+          "teks": "salam kanggo miwiti sesorah"
+        },
+        {
+          "id": "C",
+          "teks": "pambuka utawa pengantar sadurunge isi utama"
+        },
+        {
+          "id": "D",
+          "teks": "perangan isi utawa inti gagasan pokok sesorah"
+        }
+      ]
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Salam pambuka",
+      "pertanyaan": "Isilah dengan tepat: Salam pambuka adalah ....",
+      "kunci": "A",
+      "pembahasan": "Salam pambuka digunakake kanggo miwiti sesorah kanthi sopan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p1-q10",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "salam kanggo miwiti sesorah"
+        },
+        {
+          "id": "B",
+          "teks": "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+        },
+        {
+          "id": "C",
+          "teks": "pambuka utawa pengantar sadurunge isi utama"
+        },
+        {
+          "id": "D",
+          "teks": "perangan kanggo mungkasi sesorah"
+        }
+      ]
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Salam pambuka",
+      "pertanyaan": "Apa jeneng perangan salam ing wiwitan sesorah?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pungkasan sesorah"
+        },
+        {
+          "id": "B",
+          "teks": "dhaptar pustaka"
+        },
+        {
+          "id": "C",
+          "teks": "salam kanggo miwiti sesorah"
+        },
+        {
+          "id": "D",
+          "teks": "bagean isi utama"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Salam pambuka digunakake kanggo miwiti sesorah kanthi sopan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p1-q11"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Purwaka",
+      "pertanyaan": "Perangan sesorah sing dadi pengantar diarani apa?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pitakon pamireng"
+        },
+        {
+          "id": "B",
+          "teks": "pambuka utawa pengantar sadurunge isi utama"
+        },
+        {
+          "id": "C",
+          "teks": "inti gagasan"
+        },
+        {
+          "id": "D",
+          "teks": "salam panutup"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Purwaka minangka pambuka sing ngandharake pakurmatan, puji syukur, utawa pengantar topik.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p1-q12"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Sesorah: nulis layang pribadi."
+        },
+        {
+          "id": "B",
+          "teks": "Wasana basa: perangan panutup isi sadurunge salam panutup."
+        },
+        {
+          "id": "C",
+          "teks": "Wiraga: sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah."
+        },
+        {
+          "id": "D",
+          "teks": "Wirama: irama, intonasi, lan banter lirih swara."
+        },
+        {
+          "id": "E",
+          "teks": "Wirasa: gerak sikil."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p1-q13"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Wiraga: sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah."
+        },
+        {
+          "id": "B",
+          "teks": "Wirama: irama, intonasi, lan banter lirih swara."
+        },
+        {
+          "id": "C",
+          "teks": "Wirasa: penghayatan lan rasa sing cocog karo isi sesorah."
+        },
+        {
+          "id": "D",
+          "teks": "Sesorah: nembang tanpa pamireng."
+        },
+        {
+          "id": "E",
+          "teks": "Salam pambuka: pungkasan sesorah."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p1-q14"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Wirama adalah irama, intonasi, lan banter lirih swara."
+        },
+        {
+          "teks": "Sesorah adalah nembang tanpa pamireng."
+        },
+        {
+          "teks": "Purwaka adalah pambuka utawa pengantar sadurunge isi utama."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; sesorah yang tepat adalah micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p1-q15"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Wirasa adalah penghayatan lan rasa sing cocog karo isi sesorah."
+        },
+        {
+          "teks": "Salam pambuka adalah bagean isi utama."
+        },
+        {
+          "teks": "Surasa basa adalah perangan isi utawa inti gagasan pokok sesorah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; salam pambuka yang tepat adalah salam kanggo miwiti sesorah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p1-q16"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Wirama"
+        },
+        {
+          "teks": "Wirasa"
+        },
+        {
+          "teks": "Sesorah"
+        },
+        {
+          "teks": "Salam pambuka"
+        }
+      ],
+      "pilihan": [
+        "penghayatan lan rasa sing cocog karo isi sesorah",
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh",
+        "salam kanggo miwiti sesorah",
+        "irama, intonasi, lan banter lirih swara"
+      ],
+      "kunci": [
+        "irama, intonasi, lan banter lirih swara",
+        "penghayatan lan rasa sing cocog karo isi sesorah",
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh",
+        "salam kanggo miwiti sesorah"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-sim-p1-q17"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Sesorah"
+        },
+        {
+          "teks": "Salam pambuka"
+        },
+        {
+          "teks": "Purwaka"
+        },
+        {
+          "teks": "Surasa basa"
+        }
+      ],
+      "pilihan": [
+        "pambuka utawa pengantar sadurunge isi utama",
+        "perangan isi utawa inti gagasan pokok sesorah",
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh",
+        "salam kanggo miwiti sesorah"
+      ],
+      "kunci": [
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh",
+        "salam kanggo miwiti sesorah",
+        "pambuka utawa pengantar sadurunge isi utama",
+        "perangan isi utawa inti gagasan pokok sesorah"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-sim-p1-q18"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Salam pambuka",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Salam pambuka?",
+      "kunci": "A",
+      "pembahasan": "Salam pambuka digunakake kanggo miwiti sesorah kanthi sopan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p1-q19",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "salam kanggo miwiti sesorah"
+        },
+        {
+          "id": "B",
+          "teks": "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+        },
+        {
+          "id": "C",
+          "teks": "pambuka utawa pengantar sadurunge isi utama"
+        },
+        {
+          "id": "D",
+          "teks": "perangan kanggo mungkasi sesorah"
+        }
+      ]
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Purwaka",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Purwaka?",
+      "kunci": "A",
+      "pembahasan": "Purwaka minangka pambuka sing ngandharake pakurmatan, puji syukur, utawa pengantar topik.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p1-q20",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pambuka utawa pengantar sadurunge isi utama"
+        },
+        {
+          "id": "B",
+          "teks": "salam kanggo miwiti sesorah"
+        },
+        {
+          "id": "C",
+          "teks": "perangan isi utawa inti gagasan pokok sesorah"
+        },
+        {
+          "id": "D",
+          "teks": "perangan kanggo mungkasi sesorah"
+        }
+      ]
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Purwaka",
+      "pertanyaan": "Apa fungsi purwaka?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pitakon pamireng"
+        },
+        {
+          "id": "B",
+          "teks": "pambuka utawa pengantar sadurunge isi utama"
+        },
+        {
+          "id": "C",
+          "teks": "inti gagasan"
+        },
+        {
+          "id": "D",
+          "teks": "salam panutup"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Purwaka minangka pambuka sing ngandharake pakurmatan, puji syukur, utawa pengantar topik.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p1-q21"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Surasa basa",
+      "pertanyaan": "Ing perangan endi gagasan utama sesorah diandharake?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "perangan isi utawa inti gagasan pokok sesorah"
+        },
+        {
+          "id": "B",
+          "teks": "salam pambuka"
+        },
+        {
+          "id": "C",
+          "teks": "salam panutup"
+        },
+        {
+          "id": "D",
+          "teks": "jeneng sing maca"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Surasa basa ngemot inti utawa gagasan utama sing arep diandharake.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p1-q22"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Wiraga: sikap, solah bawa, gerak-gerik awak, lan busana nalika sesorah."
+        },
+        {
+          "id": "B",
+          "teks": "Wirama: irama, intonasi, lan banter lirih swara."
+        },
+        {
+          "id": "C",
+          "teks": "Wirasa: penghayatan lan rasa sing cocog karo isi sesorah."
+        },
+        {
+          "id": "D",
+          "teks": "Sesorah: nembang tanpa pamireng."
+        },
+        {
+          "id": "E",
+          "teks": "Salam pambuka: pungkasan sesorah."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p1-q23"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Wirasa: penghayatan lan rasa sing cocog karo isi sesorah."
+        },
+        {
+          "id": "B",
+          "teks": "Sesorah: micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh."
+        },
+        {
+          "id": "C",
+          "teks": "Salam pambuka: bagean isi utama."
+        },
+        {
+          "id": "D",
+          "teks": "Purwaka: salam panutup."
+        },
+        {
+          "id": "E",
+          "teks": "Wirama: irama, intonasi, lan banter lirih swara."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p1-q24"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Wirasa adalah penghayatan lan rasa sing cocog karo isi sesorah."
+        },
+        {
+          "teks": "Salam pambuka adalah bagean isi utama."
+        },
+        {
+          "teks": "Surasa basa adalah perangan isi utawa inti gagasan pokok sesorah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; salam pambuka yang tepat adalah salam kanggo miwiti sesorah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p1-q25"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Sesorah adalah micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh."
+        },
+        {
+          "teks": "Purwaka adalah inti gagasan."
+        },
+        {
+          "teks": "Wasana basa adalah perangan panutup isi sadurunge salam panutup."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; purwaka yang tepat adalah pambuka utawa pengantar sadurunge isi utama.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-jawa-sim-p1-q26"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Wirasa"
+        },
+        {
+          "teks": "Sesorah"
+        },
+        {
+          "teks": "Salam pambuka"
+        },
+        {
+          "teks": "Purwaka"
+        }
+      ],
+      "pilihan": [
+        "salam kanggo miwiti sesorah",
+        "pambuka utawa pengantar sadurunge isi utama",
+        "penghayatan lan rasa sing cocog karo isi sesorah",
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+      ],
+      "kunci": [
+        "penghayatan lan rasa sing cocog karo isi sesorah",
+        "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh",
+        "salam kanggo miwiti sesorah",
+        "pambuka utawa pengantar sadurunge isi utama"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-sim-p1-q27"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Salam pambuka"
+        },
+        {
+          "teks": "Purwaka"
+        },
+        {
+          "teks": "Surasa basa"
+        },
+        {
+          "teks": "Wasana basa"
+        }
+      ],
+      "pilihan": [
+        "perangan panutup isi sadurunge salam panutup",
+        "salam kanggo miwiti sesorah",
+        "pambuka utawa pengantar sadurunge isi utama",
+        "perangan isi utawa inti gagasan pokok sesorah"
+      ],
+      "kunci": [
+        "salam kanggo miwiti sesorah",
+        "pambuka utawa pengantar sadurunge isi utama",
+        "perangan isi utawa inti gagasan pokok sesorah",
+        "perangan panutup isi sadurunge salam panutup"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-jawa-sim-p1-q28"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Purwaka",
+      "pertanyaan": "Lengkapi pernyataan berikut: Purwaka berarti ....",
+      "kunci": "A",
+      "pembahasan": "Purwaka minangka pambuka sing ngandharake pakurmatan, puji syukur, utawa pengantar topik.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p1-q29",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pambuka utawa pengantar sadurunge isi utama"
+        },
+        {
+          "id": "B",
+          "teks": "salam kanggo miwiti sesorah"
+        },
+        {
+          "id": "C",
+          "teks": "perangan isi utawa inti gagasan pokok sesorah"
+        },
+        {
+          "id": "D",
+          "teks": "perangan kanggo mungkasi sesorah"
+        }
+      ]
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Surasa basa",
+      "pertanyaan": "Lengkapi pernyataan berikut: Surasa basa berarti ....",
+      "kunci": "A",
+      "pembahasan": "Surasa basa ngemot inti utawa gagasan utama sing arep diandharake.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-jawa-sim-p1-q30",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "perangan isi utawa inti gagasan pokok sesorah"
+        },
+        {
+          "id": "B",
+          "teks": "micara utawa ngandharake gagasan kanthi lisan ing ngarepe wong akeh"
+        },
+        {
+          "id": "C",
+          "teks": "pambuka utawa pengantar sadurunge isi utama"
+        },
+        {
+          "id": "D",
+          "teks": "perangan kanggo mungkasi sesorah"
+        }
+      ]
+    }
+  ]
+}

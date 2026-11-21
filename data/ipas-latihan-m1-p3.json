@@ -1,0 +1,290 @@
+{
+  "id": "ipas-latihan-m1-p3",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Sistem Rangka, Sendi, dan Otot",
+  "paket": 3,
+  "judul": "Sistem Rangka, Sendi, dan Otot • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Sendi engsel",
+      "pertanyaan": "Sendi apa yang bekerja saat siku ditekuk?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menghubungkan otot dengan kulit"
+        },
+        {
+          "id": "B",
+          "teks": "memungkinkan gerak satu arah seperti pintu"
+        },
+        {
+          "id": "C",
+          "teks": "memutar ke segala arah"
+        },
+        {
+          "id": "D",
+          "teks": "menggeser tanpa batas"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Sendi engsel bergerak terutama satu arah, contohnya siku dan lutut.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "ipas-m1-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Sendi peluru",
+      "pertanyaan": "Sendi pada panggul termasuk jenis apa?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "memungkinkan gerak ke berbagai arah"
+        },
+        {
+          "id": "B",
+          "teks": "hanya bergerak satu arah"
+        },
+        {
+          "id": "C",
+          "teks": "tidak dapat bergerak"
+        },
+        {
+          "id": "D",
+          "teks": "hanya bergeser sedikit"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Sendi peluru memungkinkan gerakan ke banyak arah, contohnya bahu dan panggul.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "ipas-m1-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Otot menggerakkan tulang: otot berkontraksi dan menarik tulang melalui tendon."
+        },
+        {
+          "id": "B",
+          "teks": "Sendi putar: memungkinkan gerak rotasi."
+        },
+        {
+          "id": "C",
+          "teks": "Sendi pelana: memungkinkan gerak dua arah pada pangkal ibu jari."
+        },
+        {
+          "id": "D",
+          "teks": "Fungsi tengkorak: melindungi jantung."
+        },
+        {
+          "id": "E",
+          "teks": "Fungsi rangka: mencerna makanan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m1-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Sendi pelana: memungkinkan gerak dua arah pada pangkal ibu jari."
+        },
+        {
+          "id": "B",
+          "teks": "Fungsi tengkorak: melindungi otak."
+        },
+        {
+          "id": "C",
+          "teks": "Fungsi rangka: menghasilkan suara."
+        },
+        {
+          "id": "D",
+          "teks": "Sendi engsel: menggeser tanpa batas."
+        },
+        {
+          "id": "E",
+          "teks": "Sendi putar: memungkinkan gerak rotasi."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m1-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Sendi pelana adalah memungkinkan gerak dua arah pada pangkal ibu jari."
+        },
+        {
+          "teks": "Fungsi rangka adalah menghasilkan suara."
+        },
+        {
+          "teks": "Sendi peluru adalah memungkinkan gerak ke berbagai arah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; fungsi rangka yang tepat adalah menopang dan memberi bentuk tubuh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m1-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Fungsi tengkorak adalah melindungi otak."
+        },
+        {
+          "teks": "Sendi engsel adalah memutar ke segala arah."
+        },
+        {
+          "teks": "Otot bisep dan trisep adalah bekerja berlawanan secara antagonis."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; sendi engsel yang tepat adalah memungkinkan gerak satu arah seperti pintu.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m1-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Sendi pelana"
+        },
+        {
+          "teks": "Fungsi tengkorak"
+        },
+        {
+          "teks": "Fungsi rangka"
+        },
+        {
+          "teks": "Sendi engsel"
+        }
+      ],
+      "pilihan": [
+        "menopang dan memberi bentuk tubuh",
+        "memungkinkan gerak satu arah seperti pintu",
+        "memungkinkan gerak dua arah pada pangkal ibu jari",
+        "melindungi otak"
+      ],
+      "kunci": [
+        "memungkinkan gerak dua arah pada pangkal ibu jari",
+        "melindungi otak",
+        "menopang dan memberi bentuk tubuh",
+        "memungkinkan gerak satu arah seperti pintu"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m1-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Fungsi rangka"
+        },
+        {
+          "teks": "Sendi engsel"
+        },
+        {
+          "teks": "Sendi peluru"
+        },
+        {
+          "teks": "Otot bisep dan trisep"
+        }
+      ],
+      "pilihan": [
+        "bekerja berlawanan secara antagonis",
+        "menopang dan memberi bentuk tubuh",
+        "memungkinkan gerak satu arah seperti pintu",
+        "memungkinkan gerak ke berbagai arah"
+      ],
+      "kunci": [
+        "menopang dan memberi bentuk tubuh",
+        "memungkinkan gerak satu arah seperti pintu",
+        "memungkinkan gerak ke berbagai arah",
+        "bekerja berlawanan secara antagonis"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m1-p3-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Sendi engsel",
+      "pertanyaan": "Lengkapi pernyataan berikut: Sendi engsel berarti ....",
+      "kunci": [
+        "memungkinkan gerak satu arah seperti pintu"
+      ],
+      "kataKunci": [
+        "memungkinkan gerak satu arah seperti pintu"
+      ],
+      "pembahasan": "Sendi engsel bergerak terutama satu arah, contohnya siku dan lutut.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m1-p3-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Sendi peluru",
+      "pertanyaan": "Lengkapi pernyataan berikut: Sendi peluru berarti ....",
+      "kunci": [
+        "memungkinkan gerak ke berbagai arah"
+      ],
+      "kataKunci": [
+        "memungkinkan gerak ke berbagai arah"
+      ],
+      "pembahasan": "Sendi peluru memungkinkan gerakan ke banyak arah, contohnya bahu dan panggul.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m1-p3-q10"
+    }
+  ]
+}

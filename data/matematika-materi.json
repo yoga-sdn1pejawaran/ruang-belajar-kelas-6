@@ -1,0 +1,322 @@
+[
+  {
+    "judul": "Bilangan Bulat Positif, Negatif, Penjumlahan, dan Pengurangan",
+    "pengantar": "Pernah melihat suhu di bawah 0°C, penyelam yang berada di bawah permukaan laut, atau lift yang bergerak ke lantai bawah tanah? Keadaan seperti itu dapat dijelaskan menggunakan bilangan bulat. Pada materi ini, kamu akan belajar mengenali bilangan positif dan negatif, membaca garis bilangan, membandingkan bilangan, serta menghitung perubahan menggunakan operasi bilangan bulat.",
+    "tujuan": [
+      "Mengenali bilangan bulat positif, negatif, dan nol dalam kehidupan sehari-hari.",
+      "Menentukan posisi dan urutan bilangan pada garis bilangan.",
+      "Menyelesaikan penjumlahan dan pengurangan bilangan bulat, termasuk operasi campuran.",
+      "Membuat kalimat matematika dari masalah kontekstual yang melibatkan penjumlahan dan pengurangan."
+    ],
+    "bagian": [
+      [
+        "1. Mengenal bilangan bulat",
+        "Bilangan bulat adalah bilangan yang tidak memiliki bagian pecahan atau desimal. Bilangan bulat terdiri atas bilangan negatif, nol, dan bilangan positif.\nContoh: ..., −3, −2, −1, 0, 1, 2, 3, ...\nBilangan positif lebih besar dari 0 dan dapat ditulis tanpa tanda plus. Contoh: +5 atau 5. Bilangan negatif lebih kecil dari 0. Contoh: −4. Nol bukan bilangan positif dan bukan bilangan negatif.\nBayangkan permukaan laut sebagai titik 0. Posisi 6 meter di atas permukaan laut ditulis +6 meter, sedangkan 6 meter di bawah permukaan laut ditulis −6 meter."
+      ],
+      [
+        "2. Bilangan bulat dalam kehidupan sehari-hari",
+        "Tanda positif dan negatif menunjukkan keadaan yang berlawanan. Perhatikan beberapa contoh berikut.\n• Suhu 4°C di atas nol ditulis +4°C.\n• Suhu 3°C di bawah nol ditulis −3°C.\n• Lantai 2 di atas lantai dasar dapat dinyatakan +2.\n• Lantai 1 di bawah lantai dasar dapat dinyatakan −1.\n• Uang masuk atau keuntungan dapat dinyatakan positif, sedangkan utang atau kerugian dapat dinyatakan negatif.\nLangkah penting: tentukan dahulu titik acuan atau keadaan nol. Setelah itu, tentukan apakah keadaan berada di atas/bertambah (positif) atau di bawah/berkurang (negatif)."
+      ],
+      [
+        "3. Memahami garis bilangan",
+        "Garis bilangan membantu kita melihat letak dan urutan bilangan. Nol menjadi titik acuan. Bilangan negatif berada di sebelah kiri nol, sedangkan bilangan positif berada di sebelah kanan nol.\nSemakin ke kanan, nilai bilangan semakin besar. Semakin ke kiri, nilai bilangan semakin kecil.\nContoh urutan: −4, −3, −2, −1, 0, 1, 2, 3, 4.\nPerhatikan: −2 lebih besar daripada −5 karena −2 berada lebih ke kanan. Jangan mengira −5 lebih besar hanya karena angka 5 lebih besar daripada 2."
+      ],
+      [
+        "4. Membandingkan dan mengurutkan bilangan bulat",
+        "Gunakan tanda > (lebih besar), < (lebih kecil), dan = (sama dengan). Cara termudah adalah membayangkan posisi bilangan pada garis bilangan.\nContoh: −3 < 2 karena −3 berada di sebelah kiri 2.\nContoh: −2 > −7 karena −2 lebih dekat ke nol dan berada lebih kanan daripada −7.\nMengurutkan dari terkecil ke terbesar berarti bergerak dari kiri ke kanan. Misalnya bilangan 3, −4, 0, −1 diurutkan menjadi −4, −1, 0, 3.\nTips: saat mengurutkan bilangan negatif, jangan hanya melihat angka tanpa tanda. Perhatikan letaknya terhadap nol."
+      ],
+      [
+        "5. Penjumlahan bilangan bulat",
+        "Bayangkan garis bilangan. Menambah bilangan positif berarti bergerak ke kanan. Menambah bilangan negatif berarti bergerak ke kiri.\nContoh A: 3 + 4. Mulai dari 3, bergerak 4 langkah ke kanan, hasilnya 7.\nContoh B: 3 + (−5). Mulai dari 3, bergerak 5 langkah ke kiri, hasilnya −2.\nJika kedua bilangan bertanda sama, jumlahkan nilainya dan gunakan tanda yang sama: (−4) + (−3) = −7.\nJika tandanya berbeda, cari selisih nilai bilangannya dan gunakan tanda bilangan yang nilai mutlaknya lebih besar: (−9) + 5 = −4."
+      ],
+      [
+        "6. Pengurangan bilangan bulat",
+        "Pengurangan dapat diubah menjadi penjumlahan dengan lawan bilangan yang dikurangkan. Artinya, tanda bilangan setelah tanda kurang dibalik.\nContoh A: 7 − 3 = 7 + (−3) = 4.\nContoh B: 7 − (−3) = 7 + 3 = 10.\nContoh C: −5 − 4 = −5 + (−4) = −9.\nIngat baik-baik: mengurangi bilangan negatif sama dengan menambahkan bilangan positif. Dua tanda yang berdekatan perlu dibaca dengan cermat."
+      ],
+      [
+        "7. Operasi campuran penjumlahan dan pengurangan",
+        "Operasi campuran pada materi ini hanya menggunakan penjumlahan dan pengurangan. Kerjakan operasi dari kiri ke kanan, kecuali ada tanda kurung yang harus diselesaikan terlebih dahulu.\nContoh: −12 + 8 − (−5).\nLangkah 1: −12 + 8 = −4.\nLangkah 2: mengurangi bilangan negatif sama dengan menambahkan lawannya, sehingga −4 − (−5) = −4 + 5 = 1.\nJadi hasilnya 1.\nPerhatikan tanda negatif yang melekat pada bilangan dan tanda operasi di antara bilangan."
+      ],
+      [
+        "8. Strategi menyelesaikan soal dengan tanda kurung",
+        "Jika terdapat tanda kurung, hitung bagian di dalam kurung terlebih dahulu. Setelah itu, lanjutkan penjumlahan atau pengurangan dari kiri ke kanan.\nContoh: 15 − [−4 + 9].\nLangkah 1: hitung bagian dalam kurung, yaitu −4 + 9 = 5.\nLangkah 2: 15 − 5 = 10.\nJadi hasilnya 10.\nContoh lain: −7 − [3 − 8] = −7 − (−5) = −7 + 5 = −2.\nPastikan tanda bilangan tidak tertukar dengan tanda operasi."
+      ],
+      [
+        "9. Mengubah cerita menjadi kalimat matematika",
+        "Baca cerita, tentukan keadaan awal, lalu catat perubahan yang terjadi. Gunakan tanda positif untuk kenaikan atau gerak ke atas, dan tanda negatif untuk penurunan atau gerak ke bawah.\nContoh: Seorang penyelam berada 12 meter di bawah permukaan laut. Ia naik 5 meter, lalu turun 9 meter.\nPosisi awal = −12 meter. Naik 5 meter = +5. Turun 9 meter = −9.\nKalimat matematika: −12 + 5 − 9 = −16.\nJadi posisi akhirnya 16 meter di bawah permukaan laut.\nPeriksa kembali apakah jawaban sesuai cerita dan satuannya."
+      ],
+      [
+        "10. Contoh soal dan pembahasan",
+        "Suhu di puncak bukit pukul 04.00 adalah −4°C. Saat matahari terbit suhu naik 6°C, kemudian menjelang malam turun 4°C. Berapa suhu menjelang malam?\nLangkah 1: tulis suhu awal, yaitu −4°C.\nLangkah 2: suhu naik 6°C, sehingga −4 + 6 = 2°C.\nLangkah 3: suhu turun 4°C, sehingga 2 − 4 = −2°C.\nJawaban: suhu menjelang malam adalah −2°C.\nCek: dari −4 naik 6 sampai 2, lalu turun 4 sampai −2."
+      ],
+      [
+        "11. Kesalahan yang perlu dihindari dan rangkuman",
+        "Kesalahan umum: menganggap −8 lebih besar daripada −3; lupa membalik tanda saat mengurangkan bilangan negatif; serta salah menentukan arah gerak pada garis bilangan.\nRangkuman: bilangan negatif berada di kiri nol dan positif di kanan nol. Penjumlahan dan pengurangan dapat dibayangkan sebagai gerakan pada garis bilangan. Pada operasi campuran penjumlahan dan pengurangan, kerjakan tanda kurung terlebih dahulu, kemudian lanjutkan dari kiri ke kanan."
+      ]
+    ]
+  },
+  {
+    "judul": "Pecahan Biasa dan Pecahan Campuran",
+    "pengantar": "Pecahan digunakan ketika suatu benda atau jumlah dibagi menjadi beberapa bagian yang sama. Kamu dapat menemukannya saat membagi kue, mengukur bahan makanan, atau menghitung sisa tepung. Materi ini membantumu memahami arti pecahan sebelum melakukan operasi hitung.",
+    "tujuan": [
+      "Menjelaskan arti pembilang dan penyebut.",
+      "Mengenali pecahan biasa, pecahan campuran, dan pecahan senilai.",
+      "Mengubah pecahan campuran menjadi pecahan biasa dan sebaliknya.",
+      "Melakukan penjumlahan, pengurangan, perkalian, dan pembagian pecahan campuran dalam masalah sehari-hari."
+    ],
+    "bagian": [
+      [
+        "1. Memahami arti pecahan",
+        "Pecahan menunjukkan bagian dari satu keseluruhan yang dibagi sama besar. Pada pecahan 3/4, angka 3 disebut pembilang (bagian yang diperhatikan), sedangkan angka 4 disebut penyebut (jumlah seluruh bagian yang sama besar).\nBayangkan satu kue dibagi menjadi 4 potong sama besar. Jika 3 potong diambil, bagian yang diambil adalah 3/4.\nPenyebut tidak boleh nol. Pembagian harus sama besar agar pecahan dapat menunjukkan bagian secara tepat."
+      ],
+      [
+        "2. Pecahan senilai",
+        "Pecahan senilai adalah pecahan yang bentuk angkanya berbeda tetapi nilainya sama.\nContoh: 1/2 = 2/4 = 3/6.\nMengapa? Setengah kue tetap sama banyak meskipun kue dibagi menjadi 2 bagian atau 4 bagian, asalkan bagian yang diambil disesuaikan.\nCara membuat pecahan senilai: kalikan atau bagi pembilang dan penyebut dengan bilangan yang sama, selain nol.\nContoh: 2/3 × 2/2 = 4/6."
+      ],
+      [
+        "3. Pecahan biasa dan pecahan campuran",
+        "Pecahan biasa ditulis dalam bentuk pembilang/penyebut, misalnya 3/5 atau 7/4. Pecahan campuran terdiri atas bilangan bulat dan pecahan, misalnya 1 3/4.\nPecahan biasa yang pembilangnya lebih kecil daripada penyebut bernilai kurang dari satu, misalnya 3/4. Jika pembilang lebih besar daripada penyebut, nilainya dapat lebih dari satu, misalnya 7/4.\nPecahan campuran membantu menyatakan jumlah lebih dari satu secara lebih mudah dibaca."
+      ],
+      [
+        "4. Mengubah pecahan campuran menjadi pecahan biasa",
+        "Kalikan bilangan bulat dengan penyebut, kemudian tambahkan pembilang. Hasilnya menjadi pembilang baru. Penyebut tetap.\nContoh: 2 1/3.\nLangkah 1: 2 × 3 = 6.\nLangkah 2: 6 + 1 = 7.\nLangkah 3: penyebut tetap 3.\nJadi, 2 1/3 = 7/3.\nCara mengingat: (bilangan bulat × penyebut + pembilang) / penyebut."
+      ],
+      [
+        "5. Mengubah pecahan biasa menjadi pecahan campuran",
+        "Bagi pembilang dengan penyebut. Hasil bagi menjadi bilangan bulat, sisa pembagian menjadi pembilang, dan penyebut tetap.\nContoh: 11/4.\n11 ÷ 4 = 2 sisa 3.\nJadi, 11/4 = 2 3/4.\nPeriksa: 2 × 4 + 3 = 11, sehingga bentuk awal dan bentuk campuran memiliki nilai yang sama."
+      ],
+      [
+        "6. Menyederhanakan pecahan",
+        "Pecahan disederhanakan dengan membagi pembilang dan penyebut menggunakan bilangan yang sama. Gunakan faktor persekutuan terbesar (FPB) agar hasilnya langsung paling sederhana.\nContoh: 12/18.\nFPB dari 12 dan 18 adalah 6.\n12 ÷ 6 = 2 dan 18 ÷ 6 = 3.\nJadi, 12/18 = 2/3.\nNilai pecahan tidak berubah karena pembilang dan penyebut dibagi dengan bilangan yang sama."
+      ],
+      [
+        "7. Penjumlahan pecahan",
+        "Jika penyebut sama, jumlahkan pembilangnya dan penyebut tetap.\nContoh: 2/7 + 3/7 = 5/7.\nJika penyebut berbeda, samakan penyebut terlebih dahulu.\nContoh: 1/2 + 1/4.\nUbah 1/2 menjadi 2/4, lalu 2/4 + 1/4 = 3/4.\nJangan menjumlahkan penyebut secara langsung. Kesalahan 1/2 + 1/4 = 2/6 adalah salah karena bagian yang dibandingkan belum memiliki ukuran sama."
+      ],
+      [
+        "8. Pengurangan pecahan",
+        "Sama seperti penjumlahan, penyebut harus sama sebelum pembilang dikurangkan.\nContoh: 3/4 − 1/2.\nUbah 1/2 menjadi 2/4.\nHitung 3/4 − 2/4 = 1/4.\nJika mengurangkan pecahan campuran, ubah dahulu menjadi pecahan biasa atau lakukan peminjaman dengan hati-hati.\nContoh: 2 1/4 − 3/4 = 9/4 − 3/4 = 6/4 = 1 1/2."
+      ],
+      [
+        "9. Perkalian pecahan",
+        "Kalikan pembilang dengan pembilang dan penyebut dengan penyebut. Sederhanakan hasilnya jika masih dapat dibagi.\nContoh: 2/3 × 3/5 = (2 × 3)/(3 × 5) = 6/15 = 2/5.\nPerkalian pecahan dapat dimaknai sebagai mengambil sebagian dari suatu bagian. Misalnya 1/2 dari 3/4 berarti 1/2 × 3/4 = 3/8."
+      ],
+      [
+        "10. Pembagian pecahan",
+        "Untuk membagi pecahan, ubah menjadi perkalian dengan kebalikan pecahan pembagi. Kebalikan diperoleh dengan menukar pembilang dan penyebut.\nContoh: 3/4 ÷ 1/2.\nBalik 1/2 menjadi 2/1.\nHitung 3/4 × 2/1 = 6/4 = 3/2 = 1 1/2.\nYang dibalik hanya pecahan pembagi, bukan pecahan pertama."
+      ],
+      [
+        "11. Soal cerita dan rangkuman",
+        "Ibu memiliki 2 1/2 kg tepung. Sebanyak 3/4 kg digunakan untuk membuat kue. Berapa tepung yang tersisa?\nUbah 2 1/2 menjadi 5/2. Samakan penyebut: 5/2 = 10/4. Kurangkan: 10/4 − 3/4 = 7/4 = 1 3/4.\nJadi tepung tersisa 1 3/4 kg.\nRangkuman: pahami pembilang dan penyebut; samakan penyebut untuk penjumlahan/pengurangan; kalikan pembilang dan penyebut untuk perkalian; pada pembagian, kalikan dengan kebalikan pecahan pembagi; sederhanakan hasil."
+      ]
+    ]
+  },
+  {
+    "judul": "Bilangan Desimal",
+    "pengantar": "Bilangan desimal sering digunakan untuk menyatakan ukuran panjang, berat, volume, dan uang. Contohnya berat semangka 2,5 kg atau panjang pita 1,25 meter. Koma pada bilangan desimal menunjukkan bagian satuan yang lebih kecil.",
+    "tujuan": [
+      "Memahami nilai tempat pada bilangan desimal.",
+      "Membandingkan dan mengurutkan bilangan desimal.",
+      "Mengubah pecahan menjadi desimal.",
+      "Melakukan penjumlahan, pengurangan, perkalian, dan pembagian desimal."
+    ],
+    "bagian": [
+      [
+        "1. Mengenal bilangan desimal",
+        "Bilangan desimal adalah bilangan yang menggunakan tanda koma untuk memisahkan bagian satuan dan bagian pecahan.\nContoh: 3,5 dibaca tiga koma lima. Artinya 3 satuan dan 5 persepuluh.\nBilangan 0,5 berarti lima persepuluh atau setengah. Bilangan 2,75 berarti 2 satuan, 7 persepuluh, dan 5 perseratus."
+      ],
+      [
+        "2. Nilai tempat desimal",
+        "Perhatikan bilangan 4,275.\nAngka 4 menempati satuan.\nAngka 2 menempati persepuluhan.\nAngka 7 menempati perseratus.\nAngka 5 menempati perseribu.\nUrutan tempat setelah koma adalah persepuluhan, perseratus, perseribu, dan seterusnya. Semakin ke kanan, nilai tempat semakin kecil.\nContoh: 0,7 lebih besar daripada 0,65 karena 0,70 > 0,65."
+      ],
+      [
+        "3. Membandingkan dan mengurutkan desimal",
+        "Bandingkan bilangan dari angka paling kiri. Jika bagian bilangan bulat sama, bandingkan angka setelah koma dari kiri ke kanan.\nJika jumlah angka di belakang koma berbeda, tambahkan nol di belakang agar mudah dibandingkan. Nilainya tidak berubah.\nContoh: bandingkan 2,5 dan 2,45. Tulis 2,5 menjadi 2,50. Karena 2,50 > 2,45, maka 2,5 lebih besar.\nContoh urutan dari terkecil: 1,2; 1,05; 1,25 menjadi 1,05; 1,2; 1,25."
+      ],
+      [
+        "4. Mengubah pecahan menjadi desimal",
+        "Pecahan dapat diubah menjadi desimal dengan membagi pembilang oleh penyebut.\nContoh: 3/4 = 3 ÷ 4 = 0,75.\nPecahan dengan penyebut 10, 100, atau 1.000 dapat ditulis langsung sesuai nilai tempat.\n7/10 = 0,7.\n25/100 = 0,25.\nJika hasil pembagian tidak berhenti, perhatikan apakah soal meminta pembulatan. Jangan membulatkan jika tidak diminta."
+      ],
+      [
+        "5. Penjumlahan desimal",
+        "Sejajarkan tanda koma, lalu jumlahkan angka seperti penjumlahan biasa. Tambahkan nol di belakang jika diperlukan agar tempat desimal sejajar.\nContoh: 2,5 + 1,75.\nTulis 2,5 menjadi 2,50.\n2,50 + 1,75 = 4,25.\nContoh konteks: pita 2,5 meter ditambah pita 1,75 meter menjadi 4,25 meter."
+      ],
+      [
+        "6. Pengurangan desimal",
+        "Sejajarkan tanda koma. Jika perlu, tambahkan nol di belakang agar jumlah angka di belakang koma sama.\nContoh: 5 − 2,35.\nTulis 5 menjadi 5,00.\n5,00 − 2,35 = 2,65.\nPeriksa hasil pengurangan dengan penjumlahan balik: 2,65 + 2,35 = 5,00."
+      ],
+      [
+        "7. Perkalian desimal",
+        "Kalikan angka seperti bilangan bulat terlebih dahulu. Setelah itu, hitung jumlah seluruh angka di belakang koma pada kedua bilangan. Letakkan koma pada hasil sesuai jumlah tersebut.\nContoh: 1,2 × 0,3.\nHitung 12 × 3 = 36. Ada dua angka di belakang koma (satu pada 1,2 dan satu pada 0,3), sehingga hasilnya 0,36.\nCara memeriksa: 1,2 × 0,3 harus lebih kecil daripada 1,2 karena dikalikan dengan bilangan kurang dari 1."
+      ],
+      [
+        "8. Pembagian desimal",
+        "Jika pembagi memiliki koma, geser koma pada kedua bilangan ke kanan dengan jumlah langkah yang sama sampai pembagi menjadi bilangan bulat.\nContoh: 4,8 ÷ 0,6.\nGeser koma satu tempat pada keduanya: 48 ÷ 6 = 8.\nContoh lain: 7,5 ÷ 2,5 = 75 ÷ 25 = 3.\nIngat: koma pada kedua bilangan harus digeser dengan jumlah tempat yang sama agar nilai pembagian tidak berubah."
+      ],
+      [
+        "9. Contoh soal dan pembahasan",
+        "Pak Soleh memanen tiga semangka dengan berat 3,75 kg; 2,8 kg; dan 4,125 kg. Berapa berat seluruh semangka?\nSejajarkan angka di belakang koma:\n3,750 + 2,800 + 4,125 = 10,675.\nJadi berat seluruh semangka adalah 10,675 kg.\nJika semangka pertama 3,75 kg dipotong menjadi 5 bagian sama berat, berat setiap bagian adalah 3,75 ÷ 5 = 0,75 kg."
+      ],
+      [
+        "10. Kesalahan yang perlu dihindari dan rangkuman",
+        "Jangan menjumlahkan angka desimal tanpa mensejajarkan koma. Jangan menganggap 2,5 lebih kecil daripada 2,45 hanya karena angka 5 lebih kecil daripada 45. Bandingkan nilai tempatnya dengan menulis 2,50.\nRangkuman: koma menunjukkan nilai tempat; tambahkan nol di belakang untuk membantu membandingkan atau menghitung; penjumlahan dan pengurangan harus sejajar koma; perkalian menghitung total angka desimal; pembagian dapat disederhanakan dengan menggeser koma pada kedua bilangan sama jauh."
+      ]
+    ]
+  },
+  {
+    "judul": "Persen dan Pengolahan Data Persentase",
+    "pengantar": "Persen berarti bagian dari seratus. Kita sering menemukan persen pada diskon barang, hasil survei, kehadiran siswa, dan data kegiatan sekolah. Dengan memahami persen, kamu dapat membaca informasi dan menghitung banyaknya bagian dari suatu jumlah.",
+    "tujuan": [
+      "Menjelaskan arti persen sebagai bagian dari seratus.",
+      "Mengubah persen menjadi pecahan dan desimal, serta sebaliknya.",
+      "Menghitung persentase dari suatu jumlah.",
+      "Membaca, membandingkan, dan mengurutkan data berdasarkan persentase."
+    ],
+    "bagian": [
+      [
+        "1. Apa arti persen?",
+        "Persen berasal dari makna per seratus. Tanda persen ditulis %. Jadi 25% berarti 25 dari setiap 100 bagian atau 25/100.\nBayangkan ada 100 siswa. Jika 25 siswa mengikuti kegiatan tertentu, berarti 25% siswa mengikuti kegiatan tersebut.\n50% berarti setengah, 25% berarti seperempat, dan 100% berarti seluruh bagian."
+      ],
+      [
+        "2. Mengubah persen menjadi pecahan",
+        "Tuliskan angka persen sebagai pembilang dan 100 sebagai penyebut, kemudian sederhanakan jika bisa.\nContoh: 25% = 25/100 = 1/4.\nContoh: 40% = 40/100 = 2/5.\nContoh: 75% = 75/100 = 3/4.\nIngat: penyebut 100 berasal dari arti persen, yaitu per seratus."
+      ],
+      [
+        "3. Mengubah persen menjadi desimal",
+        "Untuk mengubah persen menjadi desimal, bagi angka persen dengan 100. Koma bergeser dua tempat ke kiri.\nContoh: 35% = 35 ÷ 100 = 0,35.\nContoh: 8% = 8 ÷ 100 = 0,08.\nContoh: 125% = 125 ÷ 100 = 1,25.\nPersen dapat lebih dari 100% jika jumlahnya melebihi satu keseluruhan."
+      ],
+      [
+        "4. Mengubah desimal dan pecahan menjadi persen",
+        "Desimal menjadi persen: kalikan 100 lalu beri tanda %.\nContoh: 0,6 × 100% = 60%.\nPecahan menjadi persen: ubah menjadi pecahan berpenyebut 100 atau ubah dahulu menjadi desimal.\nContoh: 3/4 = 0,75 = 75%.\nContoh: 1/5 = 0,2 = 20%.\nBentuk 0,5; 1/2; dan 50% memiliki nilai yang sama."
+      ],
+      [
+        "5. Menghitung persen dari suatu jumlah",
+        "Untuk mencari persen dari jumlah, ubah persen menjadi pecahan berpenyebut 100, lalu kalikan dengan jumlah.\nContoh: 25% dari 200 siswa.\n25/100 × 200 = 50.\nJadi 25% dari 200 adalah 50 siswa.\nContoh lain: 15% dari Rp200.000 = 15/100 × Rp200.000 = Rp30.000."
+      ],
+      [
+        "6. Menentukan persentase bagian",
+        "Jika diketahui bagian dan jumlah seluruhnya, persentase dapat dicari dengan rumus: bagian ÷ seluruhnya × 100%.\nContoh: dari 40 siswa, 10 siswa mengikuti klub tari.\nPersentase = 10 ÷ 40 × 100% = 25%.\nArtinya, seperempat siswa mengikuti klub tari.\nPastikan pembaginya adalah jumlah seluruhnya, bukan jumlah kelompok lain."
+      ],
+      [
+        "7. Membaca data persentase",
+        "Persentase membantu membandingkan beberapa kelompok. Misalnya 200 siswa mengikuti kegiatan ekstrakurikuler: renang 25%, tari 20%, sepak bola 40%, dan Bahasa Inggris sisanya.\nJumlah persentase yang diketahui = 25% + 20% + 40% = 85%.\nPersentase Bahasa Inggris = 100% − 85% = 15%.\nJumlah peserta renang = 25/100 × 200 = 50 siswa. Tari = 40 siswa. Sepak bola = 80 siswa. Bahasa Inggris = 30 siswa.\nPeriksa: 50 + 40 + 80 + 30 = 200 siswa."
+      ],
+      [
+        "8. Mengurutkan data berdasarkan persentase",
+        "Untuk mengurutkan kelompok, bandingkan persentasenya. Jika persentase sudah diketahui, urutkan dari nilai terbesar atau terkecil sesuai perintah.\nContoh: sepak bola 40%, renang 25%, tari 20%, Bahasa Inggris 15%.\nUrutan terbanyak ke paling sedikit: sepak bola, renang, tari, Bahasa Inggris.\nJika diminta jumlah orang, hitung setiap persentase dari total terlebih dahulu. Jangan membandingkan jumlah dari total yang berbeda tanpa memperhatikan konteks."
+      ],
+      [
+        "9. Contoh soal dan pembahasan",
+        "Sebuah sekolah memiliki 200 siswa. Sebanyak 25% mengikuti renang, 20% mengikuti tari, dan 40% mengikuti sepak bola. Sisanya mengikuti Bahasa Inggris. Berapa siswa yang mengikuti Bahasa Inggris?\nLangkah 1: jumlah persentase yang diketahui = 25% + 20% + 40% = 85%.\nLangkah 2: persentase sisanya = 100% − 85% = 15%.\nLangkah 3: jumlah siswa = 15/100 × 200 = 30.\nJawaban: 30 siswa mengikuti Bahasa Inggris."
+      ],
+      [
+        "10. Kesalahan yang perlu dihindari dan rangkuman",
+        "Jangan lupa bahwa persen berarti per seratus. Jangan mengalikan jumlah dengan angka persen tanpa membaginya dengan 100. Saat mencari persentase bagian, gunakan bagian dibagi jumlah seluruhnya.\nRangkuman: persen ke desimal dibagi 100; desimal ke persen dikali 100; persen dari jumlah dihitung dengan persen/100 × jumlah; persentase bagian dihitung dengan bagian/jumlah seluruhnya × 100%."
+      ]
+    ]
+  },
+  {
+    "judul": "Rasio dan Perbandingan Senilai",
+    "pengantar": "Rasio atau perbandingan digunakan untuk membandingkan dua besaran. Contohnya perbandingan banyak sirup dan air, jumlah buku novel dan komik, atau banyak benda dalam dua kelompok. Kunci memahami rasio adalah memperhatikan urutan besaran dan memahami arti setiap bagian.",
+    "tujuan": [
+      "Menjelaskan arti rasio dan menuliskannya dengan urutan yang tepat.",
+      "Menyederhanakan rasio.",
+      "Menentukan nilai setiap besaran jika diketahui nilai satu bagian atau jumlah keseluruhan.",
+      "Menyelesaikan masalah perbandingan senilai."
+    ],
+    "bagian": [
+      [
+        "1. Mengenal rasio",
+        "Rasio adalah cara membandingkan dua besaran. Rasio dapat ditulis menggunakan tanda titik dua (:).\nContoh: dalam satu teko terdapat 2 gelas sirup dan 5 gelas air. Rasio sirup terhadap air adalah 2 : 5.\nJika urutannya dibalik, rasio air terhadap sirup adalah 5 : 2. Keduanya membandingkan hal yang sama, tetapi urutannya berbeda.\nBiasakan membaca pertanyaan dengan teliti: 'A terhadap B' berarti A ditulis lebih dahulu."
+      ],
+      [
+        "2. Memahami bagian dalam rasio",
+        "Pada rasio 2 : 5, terdapat 2 bagian untuk besaran pertama dan 5 bagian untuk besaran kedua. Jumlah bagian seluruhnya adalah 2 + 5 = 7 bagian.\nRasio 2 : 5 bukan berarti jumlah kedua besaran adalah 5. Angka 2 dan 5 menunjukkan perbandingan bagian.\nContoh: jika jumlah campuran 21 gelas dan rasio sirup : air = 2 : 5, jumlah bagian = 7. Satu bagian = 21 ÷ 7 = 3 gelas. Sirup = 2 × 3 = 6 gelas dan air = 5 × 3 = 15 gelas."
+      ],
+      [
+        "3. Menyederhanakan rasio",
+        "Untuk menyederhanakan rasio, bagi kedua bilangan dengan faktor persekutuan terbesar (FPB).\nContoh: 12 : 18.\nFPB dari 12 dan 18 adalah 6.\n12 ÷ 6 = 2 dan 18 ÷ 6 = 3.\nJadi 12 : 18 = 2 : 3.\nNilai perbandingan tidak berubah karena kedua bagian dibagi dengan bilangan yang sama."
+      ],
+      [
+        "4. Menentukan nilai berdasarkan rasio jika satu nilai diketahui",
+        "Misalnya rasio A : B = 2 : 3. Jika A bernilai 10, berarti 2 bagian sama dengan 10.\nLangkah 1: nilai satu bagian = 10 ÷ 2 = 5.\nLangkah 2: nilai B = 3 × 5 = 15.\nJadi A = 10 dan B = 15.\nCara ini disebut mencari nilai satu bagian. Gunakan ketika salah satu nilai sebenarnya diketahui."
+      ],
+      [
+        "5. Menentukan nilai jika jumlah keseluruhan diketahui",
+        "Rasio kelereng merah : biru = 2 : 3. Jumlah seluruh kelereng 25.\nLangkah 1: jumlah bagian = 2 + 3 = 5.\nLangkah 2: nilai satu bagian = 25 ÷ 5 = 5.\nLangkah 3: merah = 2 × 5 = 10; biru = 3 × 5 = 15.\nPeriksa: 10 + 15 = 25 dan 10 : 15 dapat disederhanakan menjadi 2 : 3."
+      ],
+      [
+        "6. Perbandingan senilai",
+        "Perbandingan senilai terjadi ketika dua besaran berubah dengan faktor yang sama. Jika jumlah barang menjadi dua kali lipat, harga total juga menjadi dua kali lipat, selama harga per barang tetap.\nContoh: 2 buku berharga Rp10.000. Berarti 1 buku berharga Rp5.000. Harga 4 buku = 4 × Rp5.000 = Rp20.000.\nCiri perbandingan senilai: jika satu besaran dikalikan 2, besaran pasangannya juga dikalikan 2; jika satu dibagi 3, pasangannya juga dibagi 3."
+      ],
+      [
+        "7. Menggunakan tabel perbandingan",
+        "Tabel dapat membantu menemukan nilai yang belum diketahui.\nContoh: 1 botol minuman membutuhkan 3 sendok sirup.\n1 botol → 3 sendok.\n2 botol → 6 sendok.\n3 botol → 9 sendok.\n4 botol → 12 sendok.\nJumlah botol dan jumlah sendok bertambah dengan faktor yang sama. Jika 5 botol dibuat, diperlukan 5 × 3 = 15 sendok sirup."
+      ],
+      [
+        "8. Membedakan rasio dengan jumlah",
+        "Perhatikan perbedaan berikut.\nRasio 7 : 3 berarti ada 7 bagian untuk kelompok pertama dan 3 bagian untuk kelompok kedua. Jumlah bagian adalah 10.\nJika total benda 120, satu bagian = 120 ÷ 10 = 12. Kelompok pertama = 7 × 12 = 84, kelompok kedua = 3 × 12 = 36.\nJangan menghitung 7/3 × 120 untuk mencari kelompok pertama. Total harus dibagi berdasarkan jumlah bagian rasio."
+      ],
+      [
+        "9. Contoh soal dan pembahasan",
+        "Toko memiliki novel dan komik dengan rasio 7 : 3. Jumlah seluruh buku 120. Berapa novel dan komik?\nJumlah bagian = 7 + 3 = 10.\nNilai satu bagian = 120 ÷ 10 = 12.\nNovel = 7 × 12 = 84 buku.\nKomik = 3 × 12 = 36 buku.\nPemeriksaan: 84 + 36 = 120 dan 84 : 36 = 7 : 3 setelah disederhanakan."
+      ],
+      [
+        "10. Kesalahan yang perlu dihindari dan rangkuman",
+        "Kesalahan yang sering terjadi adalah membalik urutan rasio, lupa menjumlahkan bagian ketika total diketahui, atau menganggap angka rasio sebagai jumlah benda langsung.\nRangkuman: baca urutan besaran; sederhanakan dengan membagi FPB; jika diketahui satu nilai, cari nilai satu bagian; jika diketahui total, jumlahkan bagian rasio dahulu; pada perbandingan senilai, kedua besaran berubah dengan faktor yang sama."
+      ]
+    ]
+  },
+  {
+    "judul": "Skala, Jarak pada Gambar, dan Jarak Sebenarnya",
+    "pengantar": "Peta dan denah menggambarkan tempat yang sebenarnya dengan ukuran lebih kecil. Skala membantu kita mengetahui hubungan antara ukuran pada gambar dan ukuran sebenarnya. Materi ini akan membimbingmu membaca skala, mengubah satuan panjang, serta menghitung jarak pada peta maupun jarak sebenarnya.",
+    "tujuan": [
+      "Menjelaskan arti skala pada peta, denah, dan gambar.",
+      "Mengubah satuan panjang menggunakan urutan km sampai mm.",
+      "Menghitung jarak sebenarnya, jarak pada gambar, dan skala.",
+      "Memilih rumus sesuai informasi yang diketahui dan ditanyakan."
+    ],
+    "bagian": [
+      [
+        "1. Memahami arti skala",
+        "Skala adalah perbandingan antara jarak pada gambar dan jarak sebenarnya. Skala 1 : 100 berarti setiap 1 satuan pada gambar mewakili 100 satuan yang sama pada keadaan sebenarnya.\nJika satuannya sentimeter, 1 cm pada gambar mewakili 100 cm sebenarnya.\nSkala 1 : 2.000 berarti 1 cm pada peta mewakili 2.000 cm sebenarnya. Angka setelah tanda titik dua disebut penyebut skala."
+      ],
+      [
+        "2. Mengapa satuan harus disamakan?",
+        "Sebelum menghitung skala atau jarak, satuan pada gambar dan jarak sebenarnya harus sama.\nContoh: jarak pada peta 2 cm, jarak sebenarnya 1 km. Jangan langsung membandingkan 2 dengan 1 karena satuannya berbeda.\nUbah 1 km menjadi sentimeter: 1 km = 1.000 m = 100.000 cm.\nBaru bandingkan 2 cm dengan 100.000 cm.\nIngat: samakan satuan terlebih dahulu, baru lakukan perhitungan."
+      ],
+      [
+        "3. Tangga satuan panjang",
+        "Urutan satuan panjang dari terbesar ke terkecil adalah km – hm – dam – m – dm – cm – mm.\nSetiap turun satu tingkat ke satuan yang lebih kecil, kalikan 10. Setiap naik satu tingkat ke satuan yang lebih besar, bagi 10.\nContoh: 1 km = 10 hm = 100 dam = 1.000 m.\nContoh: 1 m = 10 dm = 100 cm = 1.000 mm.\nContoh: 250 cm = 250 ÷ 100 = 2,5 m.\nGunakan tangga satuan untuk menghindari kesalahan saat mengubah kilometer, meter, dan sentimeter."
+      ],
+      [
+        "4. Menghitung jarak sebenarnya",
+        "Jika diketahui jarak pada peta dan skala, gunakan rumus:\nJarak sebenarnya = jarak pada peta × penyebut skala.\nContoh: jarak pada peta 5 cm dan skala 1 : 20.000.\nJarak sebenarnya = 5 × 20.000 = 100.000 cm.\nUbah satuan: 100.000 cm = 1.000 m = 1 km.\nJadi jarak sebenarnya adalah 1 km."
+      ],
+      [
+        "5. Menghitung jarak pada peta",
+        "Jika diketahui jarak sebenarnya dan skala, gunakan rumus:\nJarak pada peta = jarak sebenarnya ÷ penyebut skala.\nContoh: jarak sebenarnya 2 km dan skala 1 : 50.000.\nLangkah 1: ubah 2 km menjadi sentimeter = 200.000 cm.\nLangkah 2: jarak pada peta = 200.000 ÷ 50.000 = 4 cm.\nJadi jarak pada peta adalah 4 cm."
+      ],
+      [
+        "6. Menentukan skala",
+        "Jika diketahui jarak pada gambar dan jarak sebenarnya, gunakan rumus:\nSkala = jarak pada gambar : jarak sebenarnya.\nSamakan satuan, kemudian sederhanakan sampai angka pertama menjadi 1.\nContoh: jarak pada gambar 2 cm mewakili 100.000 cm sebenarnya.\nSkala = 2 : 100.000. Bagi kedua bilangan dengan 2, sehingga skala = 1 : 50.000."
+      ],
+      [
+        "7. Menghitung ukuran gambar berdasarkan skala",
+        "Skala juga digunakan untuk menentukan ukuran gambar dari ukuran sebenarnya.\nContoh: tinggi pohon sebenarnya 10 meter digambar dengan skala 1 : 100.\nUbah 10 meter menjadi 1.000 cm.\nTinggi pada gambar = 1.000 ÷ 100 = 10 cm.\nJadi pohon digambar setinggi 10 cm.\nPerhatikan apakah soal menanyakan ukuran sebenarnya atau ukuran pada gambar. Rumus yang digunakan berbeda."
+      ],
+      [
+        "8. Cara memilih rumus yang tepat",
+        "Tanyakan tiga hal sebelum menghitung: (1) informasi apa yang diketahui? (2) apa yang ditanyakan? (3) apakah satuannya sudah sama?\nJika mencari jarak sebenarnya, kalikan jarak peta dengan penyebut skala.\nJika mencari jarak peta, bagi jarak sebenarnya dengan penyebut skala.\nJika mencari skala, bandingkan jarak peta dengan jarak sebenarnya setelah satuannya sama.\nJangan menghafal rumus tanpa memahami apa yang sedang dicari."
+      ],
+      [
+        "9. Contoh soal dan pembahasan",
+        "Jarak dua desa pada peta adalah 6 cm. Skala peta 1 : 25.000. Berapa jarak sebenarnya dalam kilometer?\nLangkah 1: jarak sebenarnya = 6 × 25.000 = 150.000 cm.\nLangkah 2: ubah ke meter: 150.000 ÷ 100 = 1.500 m.\nLangkah 3: ubah ke kilometer: 1.500 ÷ 1.000 = 1,5 km.\nJawaban: jarak sebenarnya adalah 1,5 km."
+      ],
+      [
+        "10. Kesalahan yang perlu dihindari dan rangkuman",
+        "Jangan mengalikan atau membagi sebelum mengetahui apa yang ditanyakan. Jangan membandingkan sentimeter dengan kilometer tanpa mengubah satuan. Jangan lupa menuliskan satuan pada jawaban.\nRangkuman: skala = jarak gambar : jarak sebenarnya; jarak sebenarnya = jarak gambar × penyebut skala; jarak gambar = jarak sebenarnya ÷ penyebut skala. Samakan satuan sebelum menghitung."
+      ]
+    ]
+  }
+]

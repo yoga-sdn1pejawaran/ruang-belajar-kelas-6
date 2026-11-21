@@ -1,0 +1,318 @@
+{
+  "id": "dawet-ayu-latihan-m1-p1",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "BAB I – Kreasi Dawet Ayu Banjarnegara",
+  "bab": 1,
+  "paket": 1,
+  "judul": "BAB I – Kreasi Dawet Ayu Banjarnegara • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Asal Dawet Ayu",
+      "pertanyaan": "Dawet Ayu merupakan minuman khas dari daerah mana?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Purbalingga"
+        },
+        {
+          "id": "B",
+          "teks": "Banjarnegara"
+        },
+        {
+          "id": "C",
+          "teks": "Banyumas"
+        },
+        {
+          "id": "D",
+          "teks": "Cilacap"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Dawet Ayu dalam buku disebut sebagai minuman khas Banjarnegara.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-m1-p1-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Komponen minuman",
+      "pertanyaan": "Apa saja komponen utama dalam sajian Dawet Ayu?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "susu, kopi, dan roti"
+        },
+        {
+          "id": "B",
+          "teks": "santan, air gula jawa atau gula merah, dan cendol"
+        },
+        {
+          "id": "C",
+          "teks": "teh, garam, dan mi"
+        },
+        {
+          "id": "D",
+          "teks": "air kelapa, jahe, dan gula pasir"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Buku menjelaskan Dawet Ayu terdiri atas santan, gula jawa atau gula merah, dan cendol.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-m1-p1-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bahan pewarna cendol",
+      "pertanyaan": "Bahan alami apa yang digunakan untuk memberi warna pada cendol?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "air sari kunyit"
+        },
+        {
+          "id": "B",
+          "teks": "air sari bit"
+        },
+        {
+          "id": "C",
+          "teks": "air sari daun pandan"
+        },
+        {
+          "id": "D",
+          "teks": "air kopi"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Air sari daun pandan digunakan dalam bahan cendol pada resep buku.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-m1-p1-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Tepung cendol",
+      "pertanyaan": "Dua jenis tepung apa yang digunakan untuk membuat cendol?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "tepung beras dan tepung pati gelang"
+        },
+        {
+          "id": "B",
+          "teks": "tepung tapioka dan tepung maizena"
+        },
+        {
+          "id": "C",
+          "teks": "tepung terigu dan tepung jagung"
+        },
+        {
+          "id": "D",
+          "teks": "tepung ketan dan tepung sagu"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Resep cendol menggunakan tepung beras dan tepung pati gelang.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-m1-p1-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis bahan dan takaran cendol",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang bahan pewarna cendol, tepung cendol, bahan cendol.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Bahan pewarna cendol: air sari daun pandan."
+        },
+        {
+          "id": "B",
+          "teks": "Bahan cendol: 125 gram tepung pati gelang."
+        },
+        {
+          "id": "C",
+          "teks": "Cairan pandan cendol: 100 ml santan kental."
+        },
+        {
+          "id": "D",
+          "teks": "Bahan cendol lainnya: 25 gram tepung jagung."
+        },
+        {
+          "id": "E",
+          "teks": "Tepung cendol: tepung beras dan tepung pati gelang."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Tiga pilihan yang benar sesuai dengan keterangan pada buku. Dua pilihan lainnya memuat informasi yang tidak sesuai.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-m1-p1-q9"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis pembuatan juruh dan santan",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang cara mengolah adonan cendol, mencetak cendol, bahan juruh.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Bahan santan: santan, tepung terigu, dan cabai."
+        },
+        {
+          "id": "B",
+          "teks": "Fungsi juruh: memberi warna biru pada cendol."
+        },
+        {
+          "id": "C",
+          "teks": "Mencetak cendol: adonan dicetak ketika sudah dimasak."
+        },
+        {
+          "id": "D",
+          "teks": "Cara mengolah adonan cendol: direbus sambil terus diaduk hingga mengental."
+        },
+        {
+          "id": "E",
+          "teks": "Bahan juruh: gula merah, air, daun pandan, nangka, dan garam."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Tiga pilihan yang benar sesuai dengan keterangan pada buku. Dua pilihan lainnya memuat informasi yang tidak sesuai.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-m1-p1-q10"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai informasi kreasi bubur sumsum dan biji salak",
+      "pertanyaan": "Tentukan Benar atau Salah untuk informasi tentang bubur sumsum, memasak bubur sumsum, nama kreasi bubur sumsum.",
+      "pernyataan": [
+        {
+          "teks": "Bubur sumsum: dibuat dari tepung jagung, kopi, dan garam."
+        },
+        {
+          "teks": "Memasak bubur sumsum: dibakar hingga gosong."
+        },
+        {
+          "teks": "Nama kreasi bubur sumsum: Dawet Ayu Banjarnegara Campur Bubur Sumsum."
+        }
+      ],
+      "kunci": [
+        "salah",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Cocokkan setiap pernyataan dengan fakta dan langkah yang dijelaskan dalam buku.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-m1-p1-q13"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai informasi pengolahan biji salak",
+      "pertanyaan": "Tentukan Benar atau Salah untuk informasi tentang bentuk biji salak, tanda biji salak matang, pengolahan ubi biji salak.",
+      "pernyataan": [
+        {
+          "teks": "Bentuk biji salak: bola-bola kecil."
+        },
+        {
+          "teks": "Tanda biji salak matang: berubah menjadi keras seperti batu."
+        },
+        {
+          "teks": "Pengolahan ubi biji salak: diparut mentah lalu dijemur."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Cocokkan setiap pernyataan dengan fakta dan langkah yang dijelaskan dalam buku.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-m1-p1-q14"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Menghubungkan pembuatan juruh dan santan",
+      "pertanyaan": "Pasangkan cara mengolah adonan cendol, mencetak cendol, bahan juruh dan fungsi juruh dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Cara mengolah adonan cendol"
+        },
+        {
+          "teks": "Mencetak cendol"
+        },
+        {
+          "teks": "Bahan juruh"
+        },
+        {
+          "teks": "Fungsi juruh"
+        }
+      ],
+      "pilihan": [
+        "memberi rasa manis pada Dawet Ayu",
+        "gula merah, air, daun pandan, nangka, dan garam",
+        "direbus sambil terus diaduk hingga mengental",
+        "adonan dicetak ketika sudah dimasak"
+      ],
+      "kunci": [
+        "direbus sambil terus diaduk hingga mengental",
+        "adonan dicetak ketika sudah dimasak",
+        "gula merah, air, daun pandan, nangka, dan garam",
+        "memberi rasa manis pada Dawet Ayu"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan arti, bahan, atau proses yang sesuai dengan penjelasan dalam buku.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-m1-p1-q17"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Menghubungkan kreasi bubur sumsum dan biji salak",
+      "pertanyaan": "Pasangkan bubur sumsum, memasak bubur sumsum, nama kreasi bubur sumsum dan biji salak dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Bubur sumsum"
+        },
+        {
+          "teks": "Memasak bubur sumsum"
+        },
+        {
+          "teks": "Nama kreasi bubur sumsum"
+        },
+        {
+          "teks": "Biji salak"
+        }
+      ],
+      "pilihan": [
+        "dibuat dari tepung beras, santan, garam, dan daun pandan",
+        "makanan dari ubi yang dibentuk menjadi bola-bola kecil",
+        "dimasak hingga mengental sambil diaduk",
+        "Dawet Ayu Banjarnegara Campur Bubur Sumsum"
+      ],
+      "kunci": [
+        "dibuat dari tepung beras, santan, garam, dan daun pandan",
+        "dimasak hingga mengental sambil diaduk",
+        "Dawet Ayu Banjarnegara Campur Bubur Sumsum",
+        "makanan dari ubi yang dibentuk menjadi bola-bola kecil"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan arti, bahan, atau proses yang sesuai dengan penjelasan dalam buku.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-m1-p1-q18"
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

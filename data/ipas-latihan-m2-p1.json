@@ -1,0 +1,317 @@
+{
+  "id": "ipas-latihan-m2-p1",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Sistem Peredaran Darah Manusia",
+  "paket": 1,
+  "judul": "Sistem Peredaran Darah Manusia • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "id": "ipas-m2-lat-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Komponen peredaran darah",
+      "pertanyaan": "Setelah berlari, jantung berdetak lebih cepat untuk mengalirkan darah ke seluruh tubuh.\n\nOrgan yang bertugas memompa darah adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Paru-paru"
+        },
+        {
+          "id": "B",
+          "teks": "Jantung"
+        },
+        {
+          "id": "C",
+          "teks": "Ginjal"
+        },
+        {
+          "id": "D",
+          "teks": "Lambung"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Jantung merupakan pompa utama sistem peredaran darah.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m2-lat-02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Ruang jantung",
+      "pertanyaan": "Darah dari seluruh tubuh yang miskin oksigen kembali menuju jantung.\n\nRuang pertama yang menerima darah tersebut adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Serambi kanan"
+        },
+        {
+          "id": "B",
+          "teks": "Bilik kanan"
+        },
+        {
+          "id": "C",
+          "teks": "Serambi kiri"
+        },
+        {
+          "id": "D",
+          "teks": "Bilik kiri"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Serambi kanan menerima darah dari seluruh tubuh melalui vena kava.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m2-lat-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Fungsi bilik kanan",
+      "pertanyaan": "Darah dari serambi kanan diteruskan ke bilik kanan sebelum menuju paru-paru.\n\nBilik kanan memompa darah menuju ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Seluruh tubuh"
+        },
+        {
+          "id": "B",
+          "teks": "Paru-paru"
+        },
+        {
+          "id": "C",
+          "teks": "Otak langsung"
+        },
+        {
+          "id": "D",
+          "teks": "Lambung"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Bilik kanan memompa darah ke paru-paru melalui arteri pulmonalis.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m2-lat-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Fungsi bilik kiri",
+      "pertanyaan": "Darah kaya oksigen dari paru-paru masuk ke sisi kiri jantung.\n\nRuang yang memompa darah ke seluruh tubuh adalah ...",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Serambi kanan"
+        },
+        {
+          "id": "B",
+          "teks": "Bilik kanan"
+        },
+        {
+          "id": "C",
+          "teks": "Serambi kiri"
+        },
+        {
+          "id": "D",
+          "teks": "Bilik kiri"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Bilik kiri memompa darah melalui aorta menuju seluruh tubuh.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "ipas-m2-lat-05",
+      "jenis": "benar_salah",
+      "indikator": "Fungsi jantung",
+      "pertanyaan": "Jantung memiliki empat ruang yang bekerja secara teratur.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Serambi kanan menerima darah dari tubuh."
+        },
+        {
+          "teks": "Bilik kiri memompa darah ke seluruh tubuh."
+        },
+        {
+          "teks": "Bilik kanan memompa darah ke seluruh tubuh."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Bilik kanan memompa darah menuju paru-paru, sedangkan bilik kiri memompa darah ke seluruh tubuh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m2-lat-06",
+      "jenis": "benar_salah",
+      "indikator": "Pembuluh darah",
+      "pertanyaan": "Darah bergerak melalui arteri, vena, dan kapiler.\n\nTentukan benar atau salah setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Arteri membawa darah keluar dari jantung."
+        },
+        {
+          "teks": "Vena membawa darah menuju jantung."
+        },
+        {
+          "teks": "Kapiler menjadi tempat pertukaran zat."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "Ketiga pembuluh memiliki arah dan fungsi berbeda.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m2-lat-07",
+      "jenis": "menjodohkan",
+      "indikator": "Ruang jantung",
+      "pertanyaan": "Empat ruang jantung memiliki tugas berbeda.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Menerima darah dari tubuh"
+        },
+        {
+          "teks": "Memompa darah ke paru-paru"
+        },
+        {
+          "teks": "Menerima darah dari paru-paru"
+        },
+        {
+          "teks": "Memompa darah ke seluruh tubuh"
+        }
+      ],
+      "pilihan": [
+        "Serambi kanan",
+        "Bilik kanan",
+        "Serambi kiri",
+        "Bilik kiri"
+      ],
+      "kunci": [
+        "Serambi kanan",
+        "Bilik kanan",
+        "Serambi kiri",
+        "Bilik kiri"
+      ],
+      "pembahasan": "Fungsi ruang jantung mengikuti aliran darah dari dan menuju paru-paru serta tubuh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-m2-lat-08",
+      "jenis": "menjodohkan",
+      "indikator": "Jenis pembuluh darah",
+      "pertanyaan": "Tiga pembuluh darah memiliki ciri fungsi berbeda.\n\nPasangkan setiap pernyataan dengan jawaban yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Keluar dari jantung"
+        },
+        {
+          "teks": "Menuju jantung"
+        },
+        {
+          "teks": "Tempat pertukaran zat"
+        },
+        {
+          "teks": "Pembuluh utama dari bilik kiri"
+        }
+      ],
+      "pilihan": [
+        "Arteri",
+        "Vena",
+        "Kapiler",
+        "Aorta"
+      ],
+      "kunci": [
+        "Arteri",
+        "Vena",
+        "Kapiler",
+        "Aorta"
+      ],
+      "pembahasan": "Arteri keluar dari jantung; vena menuju jantung; kapiler tempat pertukaran; aorta membawa darah dari bilik kiri.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "ipas-m2-lat-09",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis alur peredaran darah",
+      "pertanyaan": "Siswa menyusun diagram peredaran darah kecil dan besar.\n\nPilih TIGA pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Bilik kanan memompa darah ke paru-paru."
+        },
+        {
+          "id": "B",
+          "teks": "Darah mengambil oksigen di paru-paru."
+        },
+        {
+          "id": "C",
+          "teks": "Bilik kiri memompa darah ke seluruh tubuh."
+        },
+        {
+          "id": "D",
+          "teks": "Serambi kanan memompa darah ke aorta."
+        },
+        {
+          "id": "E",
+          "teks": "Vena pulmonalis membawa darah miskin oksigen."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Tiga pernyataan pertama benar. Vena pulmonalis membawa darah kaya oksigen ke serambi kiri.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "ipas-m2-lat-10",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis olahraga",
+      "pertanyaan": "Seorang siswa berlari mengelilingi lapangan selama sepuluh menit.\n\nPilih TIGA perubahan yang mungkin terjadi.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Denyut jantung meningkat."
+        },
+        {
+          "id": "B",
+          "teks": "Aliran darah ke otot meningkat."
+        },
+        {
+          "id": "C",
+          "teks": "Frekuensi napas meningkat."
+        },
+        {
+          "id": "D",
+          "teks": "Kebutuhan oksigen otot menurun drastis."
+        },
+        {
+          "id": "E",
+          "teks": "Jantung berhenti sementara."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Aktivitas fisik meningkatkan kebutuhan oksigen dan energi, sehingga denyut jantung, aliran darah, dan pernapasan meningkat.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

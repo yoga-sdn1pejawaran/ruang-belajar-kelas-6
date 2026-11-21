@@ -1,0 +1,290 @@
+{
+  "id": "ipas-latihan-m6-p3",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Globalisasi dan Peran Indonesia",
+  "paket": 3,
+  "judul": "Globalisasi dan Peran Indonesia • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Sikap terhadap budaya asing",
+      "pertanyaan": "Apakah semua budaya asing harus ditiru?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "memilah yang sesuai nilai Pancasila dan budaya bangsa"
+        },
+        {
+          "id": "B",
+          "teks": "meniru semua tanpa pertimbangan"
+        },
+        {
+          "id": "C",
+          "teks": "menolak semua pengetahuan baru"
+        },
+        {
+          "id": "D",
+          "teks": "menghapus budaya daerah"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Budaya asing dapat dipelajari secara kritis; pilih yang positif dan tetap menjaga jati diri bangsa.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "ipas-m6-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Produk lokal",
+      "pertanyaan": "Bagaimana cara mendukung produk lokal?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "selalu lebih buruk"
+        },
+        {
+          "id": "B",
+          "teks": "tidak boleh diperdagangkan"
+        },
+        {
+          "id": "C",
+          "teks": "hanya digunakan di desa"
+        },
+        {
+          "id": "D",
+          "teks": "mendukung ekonomi dan pengrajin dalam negeri"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Membeli produk lokal membantu produsen, pekerja, dan perekonomian dalam negeri.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "ipas-m6-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "PBB: organisasi bangsa-bangsa dunia untuk menjaga perdamaian dan kerja sama."
+        },
+        {
+          "id": "B",
+          "teks": "Kerja sama internasional: membantu negara memenuhi kebutuhan dan menyelesaikan masalah bersama."
+        },
+        {
+          "id": "C",
+          "teks": "Dampak impor berlebihan: dapat menekan produk lokal jika tidak diimbangi daya saing."
+        },
+        {
+          "id": "D",
+          "teks": "Globalisasi: proses memisahkan semua negara."
+        },
+        {
+          "id": "E",
+          "teks": "Dampak positif teknologi komunikasi: hubungan antarnegara berhenti."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m6-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Dampak impor berlebihan: dapat menekan produk lokal jika tidak diimbangi daya saing."
+        },
+        {
+          "id": "B",
+          "teks": "Globalisasi: proses mendunianya berbagai aspek kehidupan."
+        },
+        {
+          "id": "C",
+          "teks": "Dampak positif teknologi komunikasi: semua berita pasti benar."
+        },
+        {
+          "id": "D",
+          "teks": "Sikap terhadap budaya asing: menolak semua pengetahuan baru."
+        },
+        {
+          "id": "E",
+          "teks": "Kerja sama internasional: membantu negara memenuhi kebutuhan dan menyelesaikan masalah bersama."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m6-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Dampak impor berlebihan adalah dapat menekan produk lokal jika tidak diimbangi daya saing."
+        },
+        {
+          "teks": "Dampak positif teknologi komunikasi adalah semua berita pasti benar."
+        },
+        {
+          "teks": "Produk lokal adalah mendukung ekonomi dan pengrajin dalam negeri."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; dampak positif teknologi komunikasi yang tepat adalah informasi dapat diterima lebih cepat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m6-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Globalisasi adalah proses mendunianya berbagai aspek kehidupan."
+        },
+        {
+          "teks": "Sikap terhadap budaya asing adalah meniru semua tanpa pertimbangan."
+        },
+        {
+          "teks": "Ekspor adalah menjual barang ke luar negeri."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; sikap terhadap budaya asing yang tepat adalah memilah yang sesuai nilai Pancasila dan budaya bangsa.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-m6-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Dampak impor berlebihan"
+        },
+        {
+          "teks": "Globalisasi"
+        },
+        {
+          "teks": "Dampak positif teknologi komunikasi"
+        },
+        {
+          "teks": "Sikap terhadap budaya asing"
+        }
+      ],
+      "pilihan": [
+        "informasi dapat diterima lebih cepat",
+        "memilah yang sesuai nilai Pancasila dan budaya bangsa",
+        "dapat menekan produk lokal jika tidak diimbangi daya saing",
+        "proses mendunianya berbagai aspek kehidupan"
+      ],
+      "kunci": [
+        "dapat menekan produk lokal jika tidak diimbangi daya saing",
+        "proses mendunianya berbagai aspek kehidupan",
+        "informasi dapat diterima lebih cepat",
+        "memilah yang sesuai nilai Pancasila dan budaya bangsa"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m6-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Dampak positif teknologi komunikasi"
+        },
+        {
+          "teks": "Sikap terhadap budaya asing"
+        },
+        {
+          "teks": "Produk lokal"
+        },
+        {
+          "teks": "Ekspor"
+        }
+      ],
+      "pilihan": [
+        "menjual barang ke luar negeri",
+        "informasi dapat diterima lebih cepat",
+        "memilah yang sesuai nilai Pancasila dan budaya bangsa",
+        "mendukung ekonomi dan pengrajin dalam negeri"
+      ],
+      "kunci": [
+        "informasi dapat diterima lebih cepat",
+        "memilah yang sesuai nilai Pancasila dan budaya bangsa",
+        "mendukung ekonomi dan pengrajin dalam negeri",
+        "menjual barang ke luar negeri"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-m6-p3-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Sikap terhadap budaya asing",
+      "pertanyaan": "Lengkapi pernyataan berikut: Sikap terhadap budaya asing berarti ....",
+      "kunci": [
+        "memilah yang sesuai nilai Pancasila dan budaya bangsa"
+      ],
+      "kataKunci": [
+        "memilah yang sesuai nilai Pancasila dan budaya bangsa"
+      ],
+      "pembahasan": "Budaya asing dapat dipelajari secara kritis; pilih yang positif dan tetap menjaga jati diri bangsa.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m6-p3-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Produk lokal",
+      "pertanyaan": "Lengkapi pernyataan berikut: Produk lokal berarti ....",
+      "kunci": [
+        "mendukung ekonomi dan pengrajin dalam negeri"
+      ],
+      "kataKunci": [
+        "mendukung ekonomi dan pengrajin dalam negeri"
+      ],
+      "pembahasan": "Membeli produk lokal membantu produsen, pekerja, dan perekonomian dalam negeri.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-m6-p3-q10"
+    }
+  ]
+}

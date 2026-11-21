@@ -1,0 +1,317 @@
+{
+  "id": "dawet-ayu-latihan-b3-p2",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Bab III – Promosi Elektronik Berbahasa Asing",
+  "bab": 3,
+  "paket": 2,
+  "judul": "Bab III – Promosi Elektronik Berbahasa Asing • Latihan Paket 2",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Sweet",
+      "pertanyaan": "Apa arti kata “Sweet” dalam tabel kosakata?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "dingin"
+        },
+        {
+          "id": "B",
+          "teks": "rasa"
+        },
+        {
+          "id": "C",
+          "teks": "segar"
+        },
+        {
+          "id": "D",
+          "teks": "manis"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Tabel kosakata Inggris mencantumkan Sweet berarti manis.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b3-p2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Cool",
+      "pertanyaan": "Apa arti kata “Cool” dalam tabel kosakata?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "dingin"
+        },
+        {
+          "id": "B",
+          "teks": "segar"
+        },
+        {
+          "id": "C",
+          "teks": "rasa"
+        },
+        {
+          "id": "D",
+          "teks": "manis"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Tabel kosakata Inggris mencantumkan Cool berarti dingin.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b3-p2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Fresh",
+      "pertanyaan": "Apa arti kata “Fresh” dalam tabel kosakata?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "segar"
+        },
+        {
+          "id": "B",
+          "teks": "manis"
+        },
+        {
+          "id": "C",
+          "teks": "dingin"
+        },
+        {
+          "id": "D",
+          "teks": "rasa"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Tabel kosakata Inggris mencantumkan Fresh berarti segar.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b3-p2-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Makna Good",
+      "pertanyaan": "Apa arti kata “Good” dalam tabel kosakata?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "rasa"
+        },
+        {
+          "id": "B",
+          "teks": "manis"
+        },
+        {
+          "id": "C",
+          "teks": "baik"
+        },
+        {
+          "id": "D",
+          "teks": "dingin"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Tabel kosakata Inggris mencantumkan Good berarti baik.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b3-p2-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Makna Ice",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai makna ice.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Makna Ice: hijau."
+        },
+        {
+          "id": "B",
+          "teks": "Makna Lu: hijau."
+        },
+        {
+          "id": "C",
+          "teks": "Makna Durian smell: wangi durian."
+        },
+        {
+          "id": "D",
+          "teks": "Makna Tian: minum."
+        },
+        {
+          "id": "E",
+          "teks": "Makna Sweet: manis."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "E"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b3-p2-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Makna He",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai makna he.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Makna He: minum."
+        },
+        {
+          "id": "B",
+          "teks": "Makna Oishii: makanan."
+        },
+        {
+          "id": "C",
+          "teks": "Makna Oishii: lezat."
+        },
+        {
+          "id": "D",
+          "teks": "Membuka media sosial: membuka aplikasi kalkulator."
+        },
+        {
+          "id": "E",
+          "teks": "Makna Fresh: segar."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "E"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b3-p2-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Makna Cool",
+      "pertanyaan": "Perhatikan tiga informasi tentang makna cool. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Makna Cool: dingin."
+        },
+        {
+          "teks": "Makna Tabemono: minuman."
+        },
+        {
+          "teks": "Makna Tian: muda."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 3. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b3-p2-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Makna Good",
+      "pertanyaan": "Perhatikan tiga informasi tentang makna good. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Makna Good: baik."
+        },
+        {
+          "teks": "Makna Dezaato: lezat."
+        },
+        {
+          "teks": "Persiapan promosi elektronik: menyiapkan gambar atau animasi yang akan diunggah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 3. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b3-p2-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Makna Sweet",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan makna sweet dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Makna Sweet"
+        },
+        {
+          "teks": "Makna Oishii"
+        },
+        {
+          "teks": "Makna hao he"
+        },
+        {
+          "teks": "Memilih foto atau video"
+        }
+      ],
+      "pilihan": [
+        "lezat",
+        "memilih foto atau video yang akan diunggah",
+        "segar",
+        "manis"
+      ],
+      "kunci": [
+        "manis",
+        "lezat",
+        "segar",
+        "memilih foto atau video yang akan diunggah"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 3.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-b3-p2-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Makna Fresh",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan makna fresh dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Makna Fresh"
+        },
+        {
+          "teks": "Makna Nomimono"
+        },
+        {
+          "teks": "Makna hao shi"
+        },
+        {
+          "teks": "Mengunggah promosi"
+        }
+      ],
+      "pilihan": [
+        "enak, lezat, sedap",
+        "segar",
+        "mengunggah foto atau gambar agar dapat dilihat orang lain",
+        "minuman"
+      ],
+      "kunci": [
+        "segar",
+        "minuman",
+        "enak, lezat, sedap",
+        "mengunggah foto atau gambar agar dapat dilihat orang lain"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 3.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-b3-p2-q10"
+    }
+  ]
+}

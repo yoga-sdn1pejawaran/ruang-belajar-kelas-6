@@ -1,0 +1,265 @@
+{
+  "id": "matematika-latihan-m1-p2",
+  "mataPelajaran": "Matematika",
+  "mode": "Latihan Per Materi",
+  "materi": "Bilangan Bulat Dasar",
+  "paket": 2,
+  "judul": "Bilangan Bulat Dasar • Paket 2",
+  "durasiMenit": 0,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-M1P2-01-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyatakan bilangan bulat dalam konteks suhu",
+      "pertanyaan": "Suhu di sebuah kota pada pagi hari adalah −17°C. Tuliskan suhu itu sebagai bilangan bulat. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-16"
+        },
+        {
+          "id": "B",
+          "teks": "-18"
+        },
+        {
+          "id": "C",
+          "teks": "-15"
+        },
+        {
+          "id": "D",
+          "teks": "-17"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Suhu di bawah 0°C dinyatakan dengan bilangan negatif. Jadi, jawaban yang benar adalah -17.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M1P2-02-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyatakan bilangan bulat dalam konteks kedalaman",
+      "pertanyaan": "Penyelam berada 20 meter di bawah permukaan laut. Jika permukaan laut dianggap 0, tuliskan posisinya. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-21"
+        },
+        {
+          "id": "B",
+          "teks": "-18"
+        },
+        {
+          "id": "C",
+          "teks": "-20"
+        },
+        {
+          "id": "D",
+          "teks": "-19"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Posisi di bawah titik acuan 0 ditulis dengan tanda negatif. Jadi, jawaban yang benar adalah -20.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M1P2-03-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyatakan posisi pada garis bilangan",
+      "pertanyaan": "Lift berada di lantai 23 di bawah lantai dasar. Lantai dasar bernilai 0. Berapa bilangan yang menyatakan posisi lift? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-21"
+        },
+        {
+          "id": "B",
+          "teks": "-23"
+        },
+        {
+          "id": "C",
+          "teks": "-22"
+        },
+        {
+          "id": "D",
+          "teks": "-24"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Lantai di bawah lantai dasar dinyatakan dengan bilangan negatif. Jadi, jawaban yang benar adalah -23.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M1P2-04-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan posisi setelah bergerak pada garis bilangan",
+      "pertanyaan": "Pada garis bilangan, sebuah titik berada di 22. Titik bergerak 25 langkah ke kiri. Di bilangan berapa titik berhenti? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-3"
+        },
+        {
+          "id": "B",
+          "teks": "-2"
+        },
+        {
+          "id": "C",
+          "teks": "-4"
+        },
+        {
+          "id": "D",
+          "teks": "-1"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Bergerak ke kiri berarti mengurangi: 22 − 25 = −3. Jadi, jawaban yang benar adalah -3.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M1P2-05-BS",
+      "jenis": "benar_salah",
+      "indikator": "Membandingkan bilangan bulat negatif",
+      "pertanyaan": "Lift berada di lantai −3. Lift naik 5 lantai. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Lift berhenti di lantai 2."
+        },
+        {
+          "teks": "Posisi awal lift berada di bawah lantai dasar."
+        },
+        {
+          "teks": "Lift berakhir di lantai −8."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "−3 + 5 = 2.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M1P2-06-BS",
+      "jenis": "benar_salah",
+      "indikator": "Mengurutkan bilangan bulat",
+      "pertanyaan": "Lift berada di lantai −3. Lift naik 5 lantai. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Lift berhenti di lantai 2."
+        },
+        {
+          "teks": "Posisi awal lift berada di bawah lantai dasar."
+        },
+        {
+          "teks": "Lift berakhir di lantai −8."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "−3 + 5 = 2.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M1P2-07-PGK",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menentukan jarak dua titik pada garis bilangan",
+      "pertanyaan": "Seekor ikan berada 6 m di bawah permukaan laut. Ikan naik 9 m. Pilih tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Posisi awal ikan dapat ditulis −6."
+        },
+        {
+          "id": "B",
+          "teks": "Posisi akhir ikan adalah −15."
+        },
+        {
+          "id": "C",
+          "teks": "Posisi akhir ikan adalah 3 m di atas permukaan laut."
+        },
+        {
+          "id": "D",
+          "teks": "Ikan berakhir tepat di permukaan laut."
+        },
+        {
+          "id": "E",
+          "teks": "Perpindahan ikan dapat ditulis +9."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "E"
+      ],
+      "pembahasan": "−6 + 9 = 3. Posisi akhir 3 m di atas permukaan laut.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M1P2-08-JODOH",
+      "jenis": "menjodohkan",
+      "indikator": "Menafsirkan bilangan negatif dalam konteks saldo",
+      "pertanyaan": "Pasangkan setiap soal di kolom kiri dengan hasil yang tepat di kolom kanan.",
+      "pasangan": [
+        {
+          "teks": "Jarak titik A di −19 dan titik B di 21 pada garis bilangan adalah berapa satuan?"
+        },
+        {
+          "teks": "Saldo rekening tercatat −30 ribu rupiah. Tuliskan nilai saldo tersebut dalam satuan ribu rupiah tanpa kata “ribu”."
+        },
+        {
+          "teks": "Bilangan bulat yang 1 lebih kecil daripada −24 adalah berapa?"
+        },
+        {
+          "teks": "Suhu mula-mula −21°C. Suhu naik hingga 0°C. Berapa derajat kenaikan suhu?"
+        }
+      ],
+      "pilihan": [
+        "-30",
+        "-25",
+        "21",
+        "40"
+      ],
+      "kunci": [
+        "40",
+        "-30",
+        "-25",
+        "21"
+      ],
+      "pembahasan": "Pasangkan setiap soal dengan hasil perhitungan yang sesuai. Periksa kembali setiap hasil sebelum melanjutkan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "MTK-M1P2-09",
+      "jenis": "isian_angka",
+      "indikator": "Menentukan bilangan berurutan",
+      "pertanyaan": "Bilangan bulat yang 1 lebih kecil daripada −24 adalah berapa?",
+      "kunci": -25,
+      "pembahasan": "Satu lebih kecil berarti dikurangi 1.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-M1P2-10",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung perubahan suhu",
+      "pertanyaan": "Suhu mula-mula −21°C. Suhu naik hingga 0°C. Berapa derajat kenaikan suhu?",
+      "kunci": 21,
+      "pembahasan": "Kenaikan = suhu akhir − suhu awal = 0 − (−21) = 21°C.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    }
+  ]
+}

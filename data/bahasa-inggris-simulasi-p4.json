@@ -1,0 +1,845 @@
+{
+  "id": "bahasa-inggris-simulasi-p4",
+  "mataPelajaran": "Bahasa Inggris",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "paket": 4,
+  "judul": "Simulasi ASAS Bahasa Inggris • Paket 4",
+  "durasiMenit": 75,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Study → studies",
+      "pertanyaan": "What happens to study when the subject is Rina?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Rina studys English."
+        },
+        {
+          "id": "B",
+          "teks": "Rina study English."
+        },
+        {
+          "id": "C",
+          "teks": "Rina studying English."
+        },
+        {
+          "id": "D",
+          "teks": "Rina studies English."
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "For consonant + y, change y to -ies: study becomes studies.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-sim-p4-q1"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Have → has: She has a new bag.."
+        },
+        {
+          "id": "B",
+          "teks": "Watch → watches: The boy watches cartoons.."
+        },
+        {
+          "id": "C",
+          "teks": "Nama tunggal + verb-s/es: Mila sings beautifully.."
+        },
+        {
+          "id": "D",
+          "teks": "He + verb-s: He read a book every night.."
+        },
+        {
+          "id": "E",
+          "teks": "She + verb-es: She watching television.."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p4-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Nama tunggal + verb-s/es: Mila sings beautifully.."
+        },
+        {
+          "id": "B",
+          "teks": "He + verb-s: He reads a book.."
+        },
+        {
+          "id": "C",
+          "teks": "She + verb-es: She watch television.."
+        },
+        {
+          "id": "D",
+          "teks": "Go → goes: My brother going to school.."
+        },
+        {
+          "id": "E",
+          "teks": "Watch → watches: The boy watches cartoons.."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p4-q3"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Nama tunggal + verb-s/es adalah Mila sings beautifully.."
+        },
+        {
+          "teks": "She + verb-es adalah She watch television.."
+        },
+        {
+          "teks": "Study → studies adalah Rina studies English.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; she + verb-es yang tepat adalah She watches television..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p4-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "He + verb-s adalah He reads a book.."
+        },
+        {
+          "teks": "Go → goes adalah My brother go to school.."
+        },
+        {
+          "teks": "Play → plays adalah Doni plays chess.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; go → goes yang tepat adalah My brother goes to school..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p4-q5"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Nama tunggal + verb-s/es"
+        },
+        {
+          "teks": "He + verb-s"
+        },
+        {
+          "teks": "She + verb-es"
+        },
+        {
+          "teks": "Go → goes"
+        }
+      ],
+      "pilihan": [
+        "She watches television.",
+        "My brother goes to school.",
+        "Mila sings beautifully.",
+        "He reads a book."
+      ],
+      "kunci": [
+        "Mila sings beautifully.",
+        "He reads a book.",
+        "She watches television.",
+        "My brother goes to school."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-sim-p4-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "She + verb-es"
+        },
+        {
+          "teks": "Go → goes"
+        },
+        {
+          "teks": "Study → studies"
+        },
+        {
+          "teks": "Play → plays"
+        }
+      ],
+      "pilihan": [
+        "Doni plays chess.",
+        "She watches television.",
+        "My brother goes to school.",
+        "Rina studies English."
+      ],
+      "kunci": [
+        "She watches television.",
+        "My brother goes to school.",
+        "Rina studies English.",
+        "Doni plays chess."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-sim-p4-q7"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Go → goes",
+      "pertanyaan": "Lengkapi pernyataan berikut: Go → goes berarti ....",
+      "kunci": [
+        "My brother goes to school."
+      ],
+      "kataKunci": [
+        "My brother goes to school."
+      ],
+      "pembahasan": "Go becomes goes with he, she, it, or a singular name.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-sim-p4-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Study → studies",
+      "pertanyaan": "Lengkapi pernyataan berikut: Study → studies berarti ....",
+      "kunci": [
+        "Rina studies English."
+      ],
+      "kataKunci": [
+        "Rina studies English."
+      ],
+      "pembahasan": "For consonant + y, change y to -ies: study becomes studies.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-sim-p4-q9"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "I + do not + V1",
+      "pertanyaan": "Choose the correct negative sentence with I.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "I not eat spicy food."
+        },
+        {
+          "id": "B",
+          "teks": "I do not eat spicy food."
+        },
+        {
+          "id": "C",
+          "teks": "I does not eat spicy food."
+        },
+        {
+          "id": "D",
+          "teks": "I do not eats spicy food."
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Use do not + base verb with I.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-sim-p4-q10"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "They + do not + V1",
+      "pertanyaan": "Complete: They ... play tennis on Monday.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "They do not play tennis."
+        },
+        {
+          "id": "B",
+          "teks": "They does not play tennis."
+        },
+        {
+          "id": "C",
+          "teks": "They do not plays tennis."
+        },
+        {
+          "id": "D",
+          "teks": "They not playing tennis."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Use do not (don’t) with they, followed by V1.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-sim-p4-q11"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Does not contraction: don’t."
+        },
+        {
+          "id": "B",
+          "teks": "Negative sentence order: do/does + subject + not + Verb 2."
+        },
+        {
+          "id": "C",
+          "teks": "She + doesn’t + V1: She doesn’t cook on Sunday.."
+        },
+        {
+          "id": "D",
+          "teks": "Verb setelah doesn’t: doesn’t go."
+        },
+        {
+          "id": "E",
+          "teks": "Do not contraction: don’t."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p4-q12"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "I + do not + V1: I do not eats spicy food.."
+        },
+        {
+          "id": "B",
+          "teks": "Verb setelah doesn’t: doesn’t go."
+        },
+        {
+          "id": "C",
+          "teks": "Do not contraction: don’t."
+        },
+        {
+          "id": "D",
+          "teks": "Does not contraction: doesn’t."
+        },
+        {
+          "id": "E",
+          "teks": "Negative sentence order: subject + not + Verb-s."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p4-q13"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Do not contraction adalah don’t."
+        },
+        {
+          "teks": "Negative sentence order adalah subject + not + Verb-s."
+        },
+        {
+          "teks": "They + do not + V1 adalah They do not play tennis.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; negative sentence order yang tepat adalah subject + do/does + not + Verb 1.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p4-q14"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Does not contraction adalah doesn’t."
+        },
+        {
+          "teks": "I + do not + V1 adalah I does not eat spicy food.."
+        },
+        {
+          "teks": "He + does not + V1 adalah He does not drink tea.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; i + do not + v1 yang tepat adalah I do not eat spicy food..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p4-q15"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Do not contraction"
+        },
+        {
+          "teks": "Does not contraction"
+        },
+        {
+          "teks": "Negative sentence order"
+        },
+        {
+          "teks": "I + do not + V1"
+        }
+      ],
+      "pilihan": [
+        "don’t",
+        "doesn’t",
+        "subject + do/does + not + Verb 1",
+        "I do not eat spicy food."
+      ],
+      "kunci": [
+        "don’t",
+        "doesn’t",
+        "subject + do/does + not + Verb 1",
+        "I do not eat spicy food."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-sim-p4-q16"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Negative sentence order"
+        },
+        {
+          "teks": "I + do not + V1"
+        },
+        {
+          "teks": "They + do not + V1"
+        },
+        {
+          "teks": "He + does not + V1"
+        }
+      ],
+      "pilihan": [
+        "I do not eat spicy food.",
+        "They do not play tennis.",
+        "He does not drink tea.",
+        "subject + do/does + not + Verb 1"
+      ],
+      "kunci": [
+        "subject + do/does + not + Verb 1",
+        "I do not eat spicy food.",
+        "They do not play tennis.",
+        "He does not drink tea."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-sim-p4-q17"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "I + do not + V1",
+      "pertanyaan": "Isilah dengan tepat: I + do not + V1 adalah ....",
+      "kunci": [
+        "I do not eat spicy food."
+      ],
+      "kataKunci": [
+        "I do not eat spicy food."
+      ],
+      "pembahasan": "Use do not + base verb with I.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-sim-p4-q18"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "They + do not + V1",
+      "pertanyaan": "Isilah dengan tepat: They + do not + V1 adalah ....",
+      "kunci": [
+        "They do not play tennis."
+      ],
+      "kataKunci": [
+        "They do not play tennis."
+      ],
+      "pembahasan": "Use do not (don’t) with they, followed by V1.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-sim-p4-q19"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "They + do not + V1",
+      "pertanyaan": "Choose the correct negative form with they.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "They do not play tennis."
+        },
+        {
+          "id": "B",
+          "teks": "They does not play tennis."
+        },
+        {
+          "id": "C",
+          "teks": "They do not plays tennis."
+        },
+        {
+          "id": "D",
+          "teks": "They not playing tennis."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Use do not (don’t) with they, followed by V1.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-sim-p4-q20"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "He + does not + V1",
+      "pertanyaan": "Complete: He ... (not/watch) TV at night.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "He do not drink tea."
+        },
+        {
+          "id": "B",
+          "teks": "He does not drinks tea."
+        },
+        {
+          "id": "C",
+          "teks": "He not drinks tea."
+        },
+        {
+          "id": "D",
+          "teks": "He does not drink tea."
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Use does not + base verb with he.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-sim-p4-q21"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "I + do not + V1: I do not eats spicy food.."
+        },
+        {
+          "id": "B",
+          "teks": "Verb setelah doesn’t: doesn’t go."
+        },
+        {
+          "id": "C",
+          "teks": "Do not contraction: don’t."
+        },
+        {
+          "id": "D",
+          "teks": "Does not contraction: doesn’t."
+        },
+        {
+          "id": "E",
+          "teks": "Negative sentence order: subject + not + Verb-s."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p4-q22"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Do not contraction: don’t."
+        },
+        {
+          "id": "B",
+          "teks": "Does not contraction: doesn’t."
+        },
+        {
+          "id": "C",
+          "teks": "Negative sentence order: subject + do/does + not + Verb 1."
+        },
+        {
+          "id": "D",
+          "teks": "I + do not + V1: I does not eat spicy food.."
+        },
+        {
+          "id": "E",
+          "teks": "They + do not + V1: They do not plays tennis.."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p4-q23"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Does not contraction adalah doesn’t."
+        },
+        {
+          "teks": "I + do not + V1 adalah I does not eat spicy food.."
+        },
+        {
+          "teks": "He + does not + V1 adalah He does not drink tea.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; i + do not + v1 yang tepat adalah I do not eat spicy food..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p4-q24"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Negative sentence order adalah subject + do/does + not + Verb 1."
+        },
+        {
+          "teks": "They + do not + V1 adalah They does not play tennis.."
+        },
+        {
+          "teks": "She + doesn’t + V1 adalah She doesn’t cook on Sunday.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; they + do not + v1 yang tepat adalah They do not play tennis..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-sim-p4-q25"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Does not contraction"
+        },
+        {
+          "teks": "Negative sentence order"
+        },
+        {
+          "teks": "I + do not + V1"
+        },
+        {
+          "teks": "They + do not + V1"
+        }
+      ],
+      "pilihan": [
+        "subject + do/does + not + Verb 1",
+        "I do not eat spicy food.",
+        "They do not play tennis.",
+        "doesn’t"
+      ],
+      "kunci": [
+        "doesn’t",
+        "subject + do/does + not + Verb 1",
+        "I do not eat spicy food.",
+        "They do not play tennis."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-sim-p4-q26"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "I + do not + V1"
+        },
+        {
+          "teks": "They + do not + V1"
+        },
+        {
+          "teks": "He + does not + V1"
+        },
+        {
+          "teks": "She + doesn’t + V1"
+        }
+      ],
+      "pilihan": [
+        "He does not drink tea.",
+        "She doesn’t cook on Sunday.",
+        "I do not eat spicy food.",
+        "They do not play tennis."
+      ],
+      "kunci": [
+        "I do not eat spicy food.",
+        "They do not play tennis.",
+        "He does not drink tea.",
+        "She doesn’t cook on Sunday."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-sim-p4-q27"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "They + do not + V1",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: They + do not + V1?",
+      "kunci": [
+        "They do not play tennis."
+      ],
+      "kataKunci": [
+        "They do not play tennis."
+      ],
+      "pembahasan": "Use do not (don’t) with they, followed by V1.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-sim-p4-q28"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "He + does not + V1",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: He + does not + V1?",
+      "kunci": [
+        "He does not drink tea."
+      ],
+      "kataKunci": [
+        "He does not drink tea."
+      ],
+      "pembahasan": "Use does not + base verb with he.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-sim-p4-q29"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "He + does not + V1",
+      "pertanyaan": "Which sentence is correct with he?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "He do not drink tea."
+        },
+        {
+          "id": "B",
+          "teks": "He does not drinks tea."
+        },
+        {
+          "id": "C",
+          "teks": "He not drinks tea."
+        },
+        {
+          "id": "D",
+          "teks": "He does not drink tea."
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Use does not + base verb with he.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-sim-p4-q30"
+    }
+  ]
+}

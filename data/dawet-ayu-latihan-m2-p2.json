@@ -1,0 +1,317 @@
+{
+  "id": "dawet-ayu-latihan-b2-p2",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Bab II – Strategi Pemasaran",
+  "bab": 2,
+  "paket": 2,
+  "judul": "Bab II – Strategi Pemasaran • Latihan Paket 2",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Contoh calon pembeli",
+      "pertanyaan": "Siapa yang dicontohkan sebagai calon pembeli Dawet Ayu?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pengrajin yang tidak membutuhkan minuman"
+        },
+        {
+          "id": "B",
+          "teks": "petani yang hanya membeli alat pertanian"
+        },
+        {
+          "id": "C",
+          "teks": "remaja atau orang dewasa yang menyukai minuman segar"
+        },
+        {
+          "id": "D",
+          "teks": "pembuat peralatan dapur"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Buku memberi contoh remaja atau orang dewasa sebagai calon pembeli Dawet Ayu.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b2-p2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Waktu penjualan",
+      "pertanyaan": "Apa yang perlu diperhatikan dalam menentukan waktu penjualan?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "memperhatikan waktu ketika konsumen ingin membeli produk"
+        },
+        {
+          "id": "B",
+          "teks": "bentuk wadah penyajian"
+        },
+        {
+          "id": "C",
+          "teks": "ukuran huruf pada poster"
+        },
+        {
+          "id": "D",
+          "teks": "warna kemasan produk"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Timing berarti memperhatikan waktu penjualan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b2-p2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Waktu yang cocok menurut buku",
+      "pertanyaan": "Kapan Dawet Ayu berpeluang lebih laku menurut buku?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "siang hari ketika cuaca panas"
+        },
+        {
+          "id": "B",
+          "teks": "pagi buta ketika belum ada pembeli"
+        },
+        {
+          "id": "C",
+          "teks": "tengah malam saat warung tutup"
+        },
+        {
+          "id": "D",
+          "teks": "saat cuaca sangat dingin"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Buku menyebut Dawet Ayu lebih laku pada cuaca panas atau siang hari.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b2-p2-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pertimbangan penjualan malam",
+      "pertanyaan": "Apa yang perlu dipertimbangkan saat berjualan pada malam hari?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "warna pakaian penjual"
+        },
+        {
+          "id": "B",
+          "teks": "jenis huruf pada poster"
+        },
+        {
+          "id": "C",
+          "teks": "jumlah gambar pada kemasan"
+        },
+        {
+          "id": "D",
+          "teks": "mempertimbangkan suhu udara dan lamanya berjualan"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Buku menyebut penjual malam perlu mempertimbangkan suhu udara dan lamanya berjualan.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b2-p2-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa informasi dalam Bab 2",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai contoh harga pembanding.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Contoh harga pembanding: harga Dawet Ayu Rp3.500 dan harga sabun mandi Rp3.100."
+        },
+        {
+          "id": "B",
+          "teks": "Harga: jumlah bahan untuk membuat cendol."
+        },
+        {
+          "id": "C",
+          "teks": "Penjualan langsung: mendatangi konsumen atau menawarkan produk secara langsung."
+        },
+        {
+          "id": "D",
+          "teks": "Contoh ciri khas: menjual tanpa kemasan atau identitas."
+        },
+        {
+          "id": "E",
+          "teks": "Contoh calon pembeli: remaja atau orang dewasa yang menyukai minuman segar."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "E"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b2-p2-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa informasi dalam Bab 2",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai waktu yang cocok menurut buku.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Waktu yang cocok menurut buku: siang hari ketika cuaca panas."
+        },
+        {
+          "id": "B",
+          "teks": "Persaingan harga: penjual dapat memberi bonus atau paket untuk menarik pembeli."
+        },
+        {
+          "id": "C",
+          "teks": "Persaingan harga: penjual harus menutup warung."
+        },
+        {
+          "id": "D",
+          "teks": "Ide kreatif: gagasan baru untuk meningkatkan nilai jual produk."
+        },
+        {
+          "id": "E",
+          "teks": "Iklan media elektronik: iklan pada papan di pinggir jalan saja."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b2-p2-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan informasi Bab 2",
+      "pertanyaan": "Perhatikan tiga informasi tentang waktu penjualan. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Waktu penjualan: memperhatikan waktu ketika konsumen ingin membeli produk."
+        },
+        {
+          "teks": "Manajemen harga: menentukan harga hanya dengan menebak."
+        },
+        {
+          "teks": "Contoh ciri khas: menghilangkan nama produk."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 2. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b2-p2-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan informasi Bab 2",
+      "pertanyaan": "Perhatikan tiga informasi tentang pertimbangan penjualan malam. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Pertimbangan penjualan malam: mempertimbangkan suhu udara dan lamanya berjualan."
+        },
+        {
+          "teks": "Pelayanan distribusi: menjauhkan produk dari pembeli."
+        },
+        {
+          "teks": "Promosi: kegiatan memperkenalkan dan menawarkan produk kepada calon pembeli."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 2. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b2-p2-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dan informasi pada Bab 2",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan contoh calon pembeli dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Contoh calon pembeli"
+        },
+        {
+          "teks": "Persaingan harga"
+        },
+        {
+          "teks": "Ciri khas produk"
+        },
+        {
+          "teks": "Iklan luar ruang"
+        }
+      ],
+      "pilihan": [
+        "iklan yang dipasang di luar ruangan, misalnya papan reklame",
+        "penjual dapat memberi bonus atau paket untuk menarik pembeli",
+        "remaja atau orang dewasa yang menyukai minuman segar",
+        "hal khusus yang membedakan produk dari produk lain"
+      ],
+      "kunci": [
+        "remaja atau orang dewasa yang menyukai minuman segar",
+        "penjual dapat memberi bonus atau paket untuk menarik pembeli",
+        "hal khusus yang membedakan produk dari produk lain",
+        "iklan yang dipasang di luar ruangan, misalnya papan reklame"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 2.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-b2-p2-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dan informasi pada Bab 2",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan waktu yang cocok menurut buku dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Waktu yang cocok menurut buku"
+        },
+        {
+          "teks": "Distribusi"
+        },
+        {
+          "teks": "Bentuk layanan"
+        },
+        {
+          "teks": "Media promosi"
+        }
+      ],
+      "pilihan": [
+        "media yang digunakan untuk menyampaikan iklan kepada masyarakat",
+        "siang hari ketika cuaca panas",
+        "pelayanan tambahan seperti mengantar pesanan ke rumah",
+        "cara menyalurkan produk agar mudah diperoleh konsumen"
+      ],
+      "kunci": [
+        "siang hari ketika cuaca panas",
+        "cara menyalurkan produk agar mudah diperoleh konsumen",
+        "pelayanan tambahan seperti mengantar pesanan ke rumah",
+        "media yang digunakan untuk menyampaikan iklan kepada masyarakat"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 2.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-b2-p2-q10"
+    }
+  ]
+}

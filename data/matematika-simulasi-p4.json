@@ -1,0 +1,687 @@
+{
+  "id": "MTK-SIMULASI-P4",
+  "mataPelajaran": "Matematika",
+  "mode": "Simulasi ASAS",
+  "materi": "Gabungan 6 Materi Matematika",
+  "paket": 4,
+  "judul": "Simulasi ASAS Matematika • Paket 4",
+  "durasiMenit": 75,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5; total maksimum 122 poin.",
+  "soal": [
+    {
+      "id": "MTK-S4-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menyatakan suhu di bawah nol sebagai bilangan bulat",
+      "pertanyaan": "Suhu di daerah pegunungan adalah 16°C di bawah 0°C. Bilangan bulat yang menyatakan suhu tersebut adalah Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-15"
+        },
+        {
+          "id": "B",
+          "teks": "16"
+        },
+        {
+          "id": "C",
+          "teks": "-17"
+        },
+        {
+          "id": "D",
+          "teks": "-16"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Suhu di bawah 0°C ditulis dengan tanda negatif, yaitu −16°C. Jawaban yang benar adalah D, yaitu -16.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S4-02",
+      "jenis": "benar_salah",
+      "indikator": "Menafsirkan perpindahan pada garis bilangan",
+      "pertanyaan": "Pada garis bilangan, pion berada di 7, lalu bergerak 10 langkah ke kiri. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Pion berhenti di -3."
+        },
+        {
+          "teks": "Gerak ke kiri berarti nilai bilangan berkurang."
+        },
+        {
+          "teks": "Jarak posisi akhir ke nol adalah 3 satuan."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "7 − 10 = -3. Posisi akhir berjarak 3 satuan dari nol.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S4-03",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan operasi campuran bilangan bulat",
+      "pertanyaan": "Hitung 26 − (10 + 6).",
+      "kunci": 10,
+      "pembahasan": "Kerjakan dalam kurung: 10 + 6 = 16. Kemudian 26 − 16 = 10.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-S4-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan jarak dua titik pada garis bilangan",
+      "pertanyaan": "Titik A berada di -11 dan titik B berada di 8. Berapa jarak kedua titik? Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "19"
+        },
+        {
+          "id": "B",
+          "teks": "17"
+        },
+        {
+          "id": "C",
+          "teks": "21"
+        },
+        {
+          "id": "D",
+          "teks": "3"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Jarak = |8 − (-11)| = 19 satuan. Jawaban yang benar adalah A, yaitu 19.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S4-05",
+      "jenis": "isian_angka",
+      "indikator": "Mengurutkan bilangan bulat",
+      "pertanyaan": "Urutkan -15, 0, 8, dan -5 dari yang terkecil. Tuliskan bilangan yang paling kecil.",
+      "kunci": -15,
+      "pembahasan": "Bilangan paling kecil adalah -15 karena letaknya paling kiri pada garis bilangan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-S4-06",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan berdasarkan operasi bilangan bulat",
+      "pertanyaan": "Rani menghitung 24 − 12. Pilih tepat tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Hasil pengurangannya adalah 12."
+        },
+        {
+          "id": "B",
+          "teks": "Hasilnya merupakan bilangan genap."
+        },
+        {
+          "id": "C",
+          "teks": "Jika hasilnya ditambah 2, hasilnya 14."
+        },
+        {
+          "id": "D",
+          "teks": "Hasilnya adalah 13."
+        },
+        {
+          "id": "E",
+          "teks": "Jika hasilnya dikalikan 2, hasilnya 25."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "24 − 12 = 12. Hasilnya genap; jika ditambah 2 menjadi 14.",
+      "tingkatKesulitan": "menantang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S4-07",
+      "jenis": "pilihan_ganda",
+      "indikator": "Membaca suhu pada termometer",
+      "pertanyaan": "Pada termometer, permukaan cairan menunjukkan angka -7°C. Suhu yang terbaca adalah Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-5"
+        },
+        {
+          "id": "B",
+          "teks": "-7"
+        },
+        {
+          "id": "C",
+          "teks": "7"
+        },
+        {
+          "id": "D",
+          "teks": "-9"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Angka yang ditunjuk termometer adalah -7°C. Jawaban yang benar adalah B, yaitu -7.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S4-08",
+      "jenis": "isian_angka",
+      "indikator": "Mengurutkan bilangan bulat",
+      "pertanyaan": "Urutkan bilangan -12, 6, 0, dan -4 dari yang terkecil. Tuliskan bilangan kedua.",
+      "kunci": -4,
+      "pembahasan": "Urutan dari terkecil adalah -12, -4, 0, 6. Bilangan kedua adalah -4.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-S4-09",
+      "jenis": "pilihan_ganda",
+      "indikator": "Membagi benda sama banyak",
+      "pertanyaan": "Sebanyak 36 pensil dibagikan sama banyak kepada 6 kelompok. Setiap kelompok menerima Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "5"
+        },
+        {
+          "id": "B",
+          "teks": "7"
+        },
+        {
+          "id": "C",
+          "teks": "30"
+        },
+        {
+          "id": "D",
+          "teks": "6"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "36 ÷ 6 = 6 pensil untuk setiap kelompok. Jawaban yang benar adalah D, yaitu 6.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S4-10",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung uang kembalian",
+      "pertanyaan": "Rani membeli alat tulis seharga Rp30.000. Ia membayar Rp80.000. Berapa uang kembaliannya dalam ribuan rupiah?",
+      "kunci": 50,
+      "pembahasan": "Kembalian = 80 − 30 = 50 ribu rupiah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-S4-11",
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan operasi pecahan dengan hasilnya",
+      "pertanyaan": "Pasangkan setiap operasi pecahan di kolom kiri dengan hasil yang tepat di kolom kanan.",
+      "pasangan": [
+        {
+          "teks": "1/2 + 1/4"
+        },
+        {
+          "teks": "3/4 − 1/4"
+        },
+        {
+          "teks": "2/3 × 3/2"
+        },
+        {
+          "teks": "1/2 ÷ 1/4"
+        }
+      ],
+      "pilihan": [
+        "3/4",
+        "1/2",
+        "1",
+        "2"
+      ],
+      "kunci": [
+        "3/4",
+        "1/2",
+        "1",
+        "2"
+      ],
+      "pembahasan": "1/2 + 1/4 = 3/4; 3/4 − 1/4 = 1/2; 2/3 × 3/2 = 1; 1/2 ÷ 1/4 = 2.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "MTK-S4-12",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung harga berdasarkan kebutuhan tepung",
+      "pertanyaan": "Satu kilogram tepung berharga Rp3.000. Ibu membeli 14 kg. Jumlah yang harus dibayar adalah dalam ribuan rupiah Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "42"
+        },
+        {
+          "id": "B",
+          "teks": "40"
+        },
+        {
+          "id": "C",
+          "teks": "44"
+        },
+        {
+          "id": "D",
+          "teks": "17"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "14 × 3 = 42 ribu rupiah. Jawaban yang benar adalah A, yaitu 42.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S4-13",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung pecahan campuran",
+      "pertanyaan": "Hitung 5 1/2 + 1/2. Hasilnya adalah Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "5"
+        },
+        {
+          "id": "B",
+          "teks": "5.5"
+        },
+        {
+          "id": "C",
+          "teks": "7"
+        },
+        {
+          "id": "D",
+          "teks": "6"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "5 1/2 + 1/2 = 6. Jawaban yang benar adalah D, yaitu 6.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S4-14",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung sisa tepung setelah digunakan",
+      "pertanyaan": "Ibu memiliki 8 kg tepung. Sebanyak 4 kg digunakan untuk membuat kue. Berapa kg tepung yang tersisa?",
+      "kunci": 4,
+      "pembahasan": "Sisa tepung = 8 − 4 = 4 kg.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-S4-15",
+      "jenis": "benar_salah",
+      "indikator": "Menilai pernyataan tentang pecahan campuran",
+      "pertanyaan": "Persediaan pita 6 meter. Dipakai 1 1/2 meter. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Pita yang tersisa 4.5 meter."
+        },
+        {
+          "teks": "1 1/2 meter sama dengan 1,5 meter."
+        },
+        {
+          "teks": "Sisa pita lebih panjang daripada pita yang dipakai."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "Sisa = 6 − 1,5 = 4.5 meter.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S4-16",
+      "jenis": "isian_angka",
+      "indikator": "Mengubah pecahan campuran menjadi desimal",
+      "pertanyaan": "Ubah 2 1/2 menjadi desimal.",
+      "kunci": 2.5,
+      "pembahasan": "1/2 = 0,5 sehingga 2 1/2 = 2,5.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-S4-17",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah desimal menjadi pecahan",
+      "pertanyaan": "Bilangan desimal 0,5 jika ditulis sebagai pecahan paling sederhana adalah Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "1/3"
+        },
+        {
+          "id": "B",
+          "teks": "1/2"
+        },
+        {
+          "id": "C",
+          "teks": "1/4"
+        },
+        {
+          "id": "D",
+          "teks": "3/4"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "0,5 = 1/2.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S4-18",
+      "jenis": "isian_angka",
+      "indikator": "Mengurutkan bilangan desimal",
+      "pertanyaan": "Urutkan 0.70, 0.65, dan 0.90 dari yang terkecil. Tuliskan bilangan terkecil dalam perseratus.",
+      "kunci": 65,
+      "pembahasan": "Bilangan terkecil adalah 0.65, yaitu 65 perseratus.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-S4-19",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menjumlahkan bilangan desimal",
+      "pertanyaan": "Hitung 1,5 + 1,1, Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "3.6"
+        },
+        {
+          "id": "B",
+          "teks": "2.6"
+        },
+        {
+          "id": "C",
+          "teks": "2.8"
+        },
+        {
+          "id": "D",
+          "teks": "2.4"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "1,5 + 1,1 = 2,6, Jawaban yang benar adalah B, yaitu 2.6.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S4-20",
+      "jenis": "isian_angka",
+      "indikator": "Membagi bilangan desimal",
+      "pertanyaan": "Hitung 8.4 ÷ 0.6.",
+      "kunci": 14.0,
+      "pembahasan": "8.4 ÷ 0.6 = 14.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-S4-21",
+      "jenis": "benar_salah",
+      "indikator": "Menafsirkan persentase data ekstrakurikuler",
+      "pertanyaan": "Dari 100 siswa, 25% mengikuti sepak bola, 20% musik, dan sisanya Pramuka. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Persentase siswa yang mengikuti Pramuka adalah 55%."
+        },
+        {
+          "teks": "Persentase sepak bola lebih besar daripada musik."
+        },
+        {
+          "teks": "Persentase musik adalah setengah dari persentase sepak bola."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Persentase Pramuka = 100% − 25% − 20% = 55%. Persentase sepak bola 25% lebih besar daripada musik 20%; 20% bukan setengah dari 25%.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S4-22",
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan persentase dengan jumlah siswa",
+      "pertanyaan": "Pasangkan persentase berikut dengan jumlah siswa yang sesuai.",
+      "pasangan": [
+        {
+          "teks": "25% dari jumlah siswa"
+        },
+        {
+          "teks": "50% dari jumlah siswa"
+        },
+        {
+          "teks": "20% dari jumlah siswa"
+        },
+        {
+          "teks": "5% dari jumlah siswa"
+        }
+      ],
+      "pilihan": [
+        "25",
+        "50",
+        "20",
+        "5"
+      ],
+      "kunci": [
+        "25",
+        "50",
+        "20",
+        "5"
+      ],
+      "pembahasan": "Jumlah siswa 100. 25% = 25 siswa; 50% = 50 siswa; 20% = 20 siswa; 5% = 5 siswa.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "MTK-S4-23",
+      "jenis": "isian_angka",
+      "indikator": "Mengurutkan data persentase",
+      "pertanyaan": "Tiga kegiatan memiliki peserta 21%, 31%, dan 41%. Tuliskan persentase terbesar.",
+      "kunci": 41,
+      "pembahasan": "Persentase terbesar adalah 41%.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-S4-24",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menentukan rasio senilai dalam resep",
+      "pertanyaan": "Perbandingan sirup dan air adalah 5 : 8. Jika takaran diperbesar 3 kali, pilih tiga pernyataan yang benar. Pilih tepat tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Perbandingan tetap 5 : 8."
+        },
+        {
+          "id": "B",
+          "teks": "Sirup menjadi 15 bagian."
+        },
+        {
+          "id": "C",
+          "teks": "Air menjadi 24 bagian."
+        },
+        {
+          "id": "D",
+          "teks": "Perbandingan berubah menjadi 6 : 9."
+        },
+        {
+          "id": "E",
+          "teks": "Jumlah bagian setelah diperbesar adalah 13."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Perbandingan senilai dikalikan dengan bilangan yang sama: sirup 15, air 24; rasio tetap.",
+      "tingkatKesulitan": "menantang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S4-25",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan jumlah berdasarkan rasio",
+      "pertanyaan": "Rasio kelereng merah dan biru adalah 5 : 6. Jika satu bagian bernilai 4 kelereng, jumlah kelereng merah adalah Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "44"
+        },
+        {
+          "id": "B",
+          "teks": "20"
+        },
+        {
+          "id": "C",
+          "teks": "25"
+        },
+        {
+          "id": "D",
+          "teks": "15"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Kelereng merah = 5 × 4 = 20. Jawaban yang benar adalah B.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S4-26",
+      "jenis": "benar_salah",
+      "indikator": "Menilai pernyataan berdasarkan rasio",
+      "pertanyaan": "Rasio buku cerita dan buku pengetahuan adalah 5 : 6. Setiap bagian mewakili 5 buku. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Buku cerita berjumlah 25."
+        },
+        {
+          "teks": "Buku pengetahuan berjumlah 30."
+        },
+        {
+          "teks": "Jumlah seluruh buku adalah 56."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Buku cerita 25; buku pengetahuan 30; total 55.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S4-27",
+      "jenis": "benar_salah",
+      "indikator": "Menafsirkan skala gambar pohon",
+      "pertanyaan": "Tinggi pohon sebenarnya 35 meter. Gambar dibuat dengan skala 1 : 40. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Tinggi pohon sebenarnya sama dengan 3500 cm."
+        },
+        {
+          "teks": "Tinggi gambar adalah 87.5 cm."
+        },
+        {
+          "teks": "Skala 1 : 40 berarti 1 cm pada gambar mewakili 40 cm sebenarnya."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "35 m = 3500 cm. Tinggi gambar = 3500 ÷ 40 = 87.5 cm.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-S4-28",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung ukuran gambar berdasarkan skala",
+      "pertanyaan": "Panjang benda sebenarnya 350 cm. Jika digambar dengan skala 1 : 20, panjang pada gambar adalah Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "17.5"
+        },
+        {
+          "id": "B",
+          "teks": "15.5"
+        },
+        {
+          "id": "C",
+          "teks": "19.5"
+        },
+        {
+          "id": "D",
+          "teks": "7000"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Panjang gambar = 350 ÷ 20 = 17.5 cm. Jawaban yang benar adalah A, yaitu 17.5.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S4-29",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung jarak sebenarnya dari peta",
+      "pertanyaan": "Jarak dua tempat pada peta 6 cm. Skala peta 1 : 50000. Jarak sebenarnya dalam meter adalah Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "2900.0"
+        },
+        {
+          "id": "B",
+          "teks": "3100.0"
+        },
+        {
+          "id": "C",
+          "teks": "30000.0"
+        },
+        {
+          "id": "D",
+          "teks": "3000.0"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "6 × 50000 = 300000 cm = 3000 meter. Jawaban yang benar adalah D, yaitu 3000.0.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-S4-30",
+      "jenis": "isian_angka",
+      "indikator": "Menghitung jarak pada peta berdasarkan skala",
+      "pertanyaan": "Jarak sebenarnya antara dua kota 5 km. Jika skala peta 1 : 50000, berapa cm jarak pada peta?",
+      "kunci": 10.0,
+      "pembahasan": "5 km = 500000 cm. Jarak peta = 500000 ÷ 50000 = 10 cm.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    }
+  ]
+}

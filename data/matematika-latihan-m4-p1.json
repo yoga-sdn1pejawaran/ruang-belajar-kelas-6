@@ -1,0 +1,305 @@
+{
+  "id": "matematika-latihan-m4-p1",
+  "mataPelajaran": "Matematika",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Persen dan Pengolahan Data Persentase",
+  "paket": 1,
+  "judul": "Persen dan Pengolahan Data Persentase • Latihan",
+  "durasiMenit": 0,
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu.",
+  "soal": [
+    {
+      "id": "mtk-m4-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah persen menjadi pecahan",
+      "pertanyaan": "25% sama dengan pecahan ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "1/2"
+        },
+        {
+          "id": "B",
+          "teks": "1/4"
+        },
+        {
+          "id": "C",
+          "teks": "1/5"
+        },
+        {
+          "id": "D",
+          "teks": "3/4"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "25% = 25/100 = 1/4.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m4-02",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah persen menjadi desimal",
+      "pertanyaan": "Bentuk desimal dari 40% adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "4,0"
+        },
+        {
+          "id": "B",
+          "teks": "0,04"
+        },
+        {
+          "id": "C",
+          "teks": "0,4"
+        },
+        {
+          "id": "D",
+          "teks": "40,0"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "40% = 40/100 = 0,4.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m4-03",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah desimal menjadi persen",
+      "pertanyaan": "Bentuk persen dari 0,35 adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "3,5%"
+        },
+        {
+          "id": "B",
+          "teks": "35%"
+        },
+        {
+          "id": "C",
+          "teks": "350%"
+        },
+        {
+          "id": "D",
+          "teks": "0,35%"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "0,35 × 100% = 35%.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m4-04",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung persentase dari jumlah",
+      "pertanyaan": "Sebanyak 20% dari 150 siswa mengikuti kegiatan pramuka. Berapa siswa yang mengikuti pramuka?",
+      "kunci": "A",
+      "pembahasan": "20/100 × 150 = 30 siswa.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "30"
+        },
+        {
+          "id": "B",
+          "teks": "31"
+        },
+        {
+          "id": "C",
+          "teks": "29"
+        },
+        {
+          "id": "D",
+          "teks": "32"
+        }
+      ]
+    },
+    {
+      "id": "mtk-m4-05",
+      "jenis": "benar_salah",
+      "indikator": "Menafsirkan data persentase",
+      "pertanyaan": "Dari 100 siswa, 30% mengikuti sepak bola, 25% tari, dan sisanya musik. Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Peserta sepak bola 30 siswa."
+        },
+        {
+          "teks": "Peserta tari 25 siswa."
+        },
+        {
+          "teks": "Peserta musik 45 siswa."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "Sisa persentase = 100% − 30% − 25% = 45%, yaitu 45 siswa.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "mtk-m4-06",
+      "jenis": "pilihan_ganda",
+      "indikator": "Membandingkan persentase data",
+      "pertanyaan": "Data pilihan ekstrakurikuler adalah 18%, 32%, 27%, dan 23%. Kegiatan dengan peserta terbanyak adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "kegiatan pertama"
+        },
+        {
+          "id": "B",
+          "teks": "kegiatan kedua"
+        },
+        {
+          "id": "C",
+          "teks": "kegiatan ketiga"
+        },
+        {
+          "id": "D",
+          "teks": "kegiatan keempat"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Persentase terbesar adalah 32%.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "mtk-m4-07",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menghitung bagian berdasarkan persentase",
+      "pertanyaan": "Dalam kelompok 240 siswa, 35% memilih olahraga. Berapa siswa yang tidak memilih olahraga?",
+      "kunci": "A",
+      "pembahasan": "Siswa yang memilih olahraga = 35% × 240 = 84. Sisanya 240 − 84 = 156.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "156"
+        },
+        {
+          "id": "B",
+          "teks": "157"
+        },
+        {
+          "id": "C",
+          "teks": "155"
+        },
+        {
+          "id": "D",
+          "teks": "158"
+        }
+      ]
+    },
+    {
+      "id": "mtk-m4-08",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis data persentase",
+      "pertanyaan": "Dari 200 siswa, 25% memilih musik, 35% olahraga, 15% seni, dan sisanya pramuka. Pilih tepat tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Musik dipilih 50 siswa."
+        },
+        {
+          "id": "B",
+          "teks": "Olahraga dipilih 70 siswa."
+        },
+        {
+          "id": "C",
+          "teks": "Seni dipilih 30 siswa."
+        },
+        {
+          "id": "D",
+          "teks": "Pramuka dipilih 50 siswa."
+        },
+        {
+          "id": "E",
+          "teks": "Pramuka dipilih 25 siswa."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "25% × 200 = 50; 35% × 200 = 70; 15% × 200 = 30; sisanya 25% atau 50 siswa.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "mtk-m4-09",
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan persentase dengan jumlah",
+      "pertanyaan": "Pasangkan persentase dari 80 siswa dengan jumlah siswa yang sesuai.",
+      "pasangan": [
+        {
+          "teks": "10% dari 80"
+        },
+        {
+          "teks": "25% dari 80"
+        },
+        {
+          "teks": "40% dari 80"
+        },
+        {
+          "teks": "50% dari 80"
+        }
+      ],
+      "pilihan": [
+        "32 siswa",
+        "8 siswa",
+        "40 siswa",
+        "20 siswa"
+      ],
+      "kunci": [
+        "8 siswa",
+        "20 siswa",
+        "32 siswa",
+        "40 siswa"
+      ],
+      "pembahasan": "Hasilnya 8, 20, 32, dan 40 siswa.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "mtk-m4-10",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menganalisis perubahan persentase",
+      "pertanyaan": "Jumlah peserta klub meningkat dari 80 menjadi 100 siswa. Berapa persen kenaikannya dibanding jumlah semula?",
+      "kunci": "A",
+      "pembahasan": "Kenaikan 20 siswa. Persentase kenaikan = 20/80 × 100% = 25%.",
+      "tingkatKesulitan": "hots",
+      "skorMaksimal": 2,
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "25"
+        },
+        {
+          "id": "B",
+          "teks": "26"
+        },
+        {
+          "id": "C",
+          "teks": "24"
+        },
+        {
+          "id": "D",
+          "teks": "27"
+        }
+      ]
+    }
+  ]
+}

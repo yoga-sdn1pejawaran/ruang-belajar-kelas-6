@@ -1,0 +1,317 @@
+{
+  "id": "bahasa-inggris-v1-latihan-p3",
+  "mataPelajaran": "Bahasa Inggris",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Simple Present Tense – Kalimat Positif",
+  "paket": 3,
+  "judul": "Simple Present Tense (Kalimat Positif) • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "We + V1",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang benar dengan subjek “we” (kami/kita).",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "We studied English every day."
+        },
+        {
+          "id": "B",
+          "teks": "We study English."
+        },
+        {
+          "id": "C",
+          "teks": "We studies English."
+        },
+        {
+          "id": "D",
+          "teks": "We studying English."
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Subjek “we” menggunakan kata kerja bentuk dasar (V1), yaitu “study”.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "They + V1",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang benar dengan subjek “they” (mereka).",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "They play football."
+        },
+        {
+          "id": "B",
+          "teks": "They plays football."
+        },
+        {
+          "id": "C",
+          "teks": "They playing football."
+        },
+        {
+          "id": "D",
+          "teks": "They played football every Sunday."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Subjek “they” menggunakan kata kerja bentuk dasar (V1), yaitu “play”.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang kalimat positif Simple Present.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Susunan kalimat: subject + verb + object/complement."
+        },
+        {
+          "id": "B",
+          "teks": "Kebiasaan: I brush my teeth every morning."
+        },
+        {
+          "id": "C",
+          "teks": "Fakta umum: Water boils at 100°C at sea level."
+        },
+        {
+          "id": "D",
+          "teks": "Pola subjek jamak: subject + is + Verb-ing always."
+        },
+        {
+          "id": "E",
+          "teks": "I + V1: I writing a letter."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan pola kalimat positif Simple Present. Perhatikan bentuk kata kerja dan susunan kalimatnya.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar tentang kalimat positif Simple Present.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Fakta umum: Water boils at 100°C at sea level."
+        },
+        {
+          "id": "B",
+          "teks": "Pola subjek jamak: subject + Verb 1 + complement."
+        },
+        {
+          "id": "C",
+          "teks": "I + V1: I writes a letter."
+        },
+        {
+          "id": "D",
+          "teks": "We + V1: We studying English."
+        },
+        {
+          "id": "E",
+          "teks": "Kebiasaan: I brush my teeth every morning."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan pola kalimat positif Simple Present. Perhatikan bentuk kata kerja dan susunan kalimatnya.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan tentang kalimat positif Simple Present berikut.",
+      "pernyataan": [
+        {
+          "teks": "Fakta umum adalah Water boils at 100°C at sea level."
+        },
+        {
+          "teks": "I + V1 adalah I writes a letter."
+        },
+        {
+          "teks": "They + V1 adalah They play football."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; Subjek Subjek I + V1 yang tepat adalah I write a letter.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan tentang kalimat positif Simple Present berikut.",
+      "pernyataan": [
+        {
+          "teks": "Pola subjek jamak adalah subject + Verb 1 + complement."
+        },
+        {
+          "teks": "We + V1 adalah We studies English."
+        },
+        {
+          "teks": "You + V1 adalah You drink water every morning."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; Subjek Subjek we + V1 yang tepat adalah We study English.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-v1-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap pola atau keterangan di sebelah kiri dengan kalimat atau susunan yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Fakta umum"
+        },
+        {
+          "teks": "Pola subjek jamak"
+        },
+        {
+          "teks": "I + V1"
+        },
+        {
+          "teks": "We + V1"
+        }
+      ],
+      "pilihan": [
+        "I write a letter.",
+        "We study English.",
+        "Water boils at 100°C at sea level.",
+        "subject + Verb 1 + complement"
+      ],
+      "kunci": [
+        "Water boils at 100°C at sea level.",
+        "subject + Verb 1 + complement",
+        "I write a letter.",
+        "We study English."
+      ],
+      "pembahasan": "Setiap pola atau keterangan dipasangkan dengan contoh kalimat atau susunan yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-v1-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap pola atau keterangan di sebelah kiri dengan kalimat atau susunan yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "I + V1"
+        },
+        {
+          "teks": "We + V1"
+        },
+        {
+          "teks": "They + V1"
+        },
+        {
+          "teks": "You + V1"
+        }
+      ],
+      "pilihan": [
+        "You drink water every morning.",
+        "I write a letter.",
+        "We study English.",
+        "They play football."
+      ],
+      "kunci": [
+        "I write a letter.",
+        "We study English.",
+        "They play football.",
+        "You drink water every morning."
+      ],
+      "pembahasan": "Setiap pola atau keterangan dipasangkan dengan contoh kalimat atau susunan yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-v1-p3-q8"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "We + V1",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “we”.",
+      "pembahasan": "Subjek “we” menggunakan kata kerja bentuk dasar (V1), yaitu “study”.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-p3-q9",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "We study English."
+        },
+        {
+          "id": "B",
+          "teks": "We studies English."
+        },
+        {
+          "id": "C",
+          "teks": "We studying English."
+        },
+        {
+          "id": "D",
+          "teks": "We studied English every day."
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "They + V1",
+      "pertanyaan": "Pilih kalimat positif Simple Present yang tepat untuk subjek “they”.",
+      "pembahasan": "Subjek “they” menggunakan kata kerja bentuk dasar (V1), yaitu “play”.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-v1-p3-q10",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "They play football."
+        },
+        {
+          "id": "B",
+          "teks": "They plays football."
+        },
+        {
+          "id": "C",
+          "teks": "They playing football."
+        },
+        {
+          "id": "D",
+          "teks": "They played football every Sunday."
+        }
+      ],
+      "kunci": "A"
+    }
+  ],
+  "catatan": "Bank soal V1. Fokus hanya kalimat positif Simple Present Tense dengan pola Subject + V1(s/es) + Object/Complement."
+}

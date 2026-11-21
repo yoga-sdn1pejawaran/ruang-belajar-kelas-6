@@ -1,0 +1,320 @@
+{
+  "id": "seni-rupa-latihan-m3-p1",
+  "mataPelajaran": "Seni Rupa",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Proporsi dan Keseimbangan",
+  "paket": 1,
+  "judul": "Proporsi dan Keseimbangan • Latihan",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pengertian proporsi",
+      "pertanyaan": "Proporsi dalam karya seni rupa adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "perbandingan ukuran antara bagian-bagian karya"
+        },
+        {
+          "id": "B",
+          "teks": "penggunaan warna yang selalu gelap"
+        },
+        {
+          "id": "C",
+          "teks": "pengulangan garis secara acak"
+        },
+        {
+          "id": "D",
+          "teks": "cara mencetak gambar"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Proporsi mengatur perbandingan ukuran antarbagian agar tampak wajar dan serasi.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pengertian keseimbangan",
+      "pertanyaan": "Keseimbangan dalam karya seni rupa adalah kesan ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "seimbang dari susunan bentuk, ukuran, warna, dan posisi"
+        },
+        {
+          "id": "B",
+          "teks": "semua bagian harus berwarna sama"
+        },
+        {
+          "id": "C",
+          "teks": "gambar harus memiliki satu titik hilang"
+        },
+        {
+          "id": "D",
+          "teks": "semua objek harus berukuran kecil"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Keseimbangan muncul dari susunan unsur rupa yang tepat sehingga karya terasa stabil dan nyaman dipandang.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Ciri keseimbangan simetris",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang sesuai dengan keseimbangan simetris.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Bagian kiri dan kanan sama atau mirip."
+        },
+        {
+          "id": "B",
+          "teks": "Susunan memberi kesan teratur."
+        },
+        {
+          "id": "C",
+          "teks": "Bentuk dapat seimbang seperti bayangan cermin."
+        },
+        {
+          "id": "D",
+          "teks": "Bagian kiri dan kanan harus selalu berbeda."
+        },
+        {
+          "id": "E",
+          "teks": "Susunan memancar dari satu titik pusat."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Simetris memiliki susunan kiri dan kanan yang sama atau mirip dan memberi kesan teratur.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "sr-lm3-q3"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Membedakan jenis keseimbangan",
+      "pertanyaan": "Tentukan Benar atau Salah.",
+      "pernyataan": [
+        {
+          "teks": "Asimetris memiliki bagian kiri dan kanan yang tidak sama tetapi tetap seimbang."
+        },
+        {
+          "teks": "Radial memiliki susunan yang memancar dari titik pusat."
+        },
+        {
+          "teks": "Simetris memiliki sisi kiri dan kanan yang sama atau mirip."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "Ketiga pernyataan merupakan ciri yang tepat dari masing-masing jenis keseimbangan.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "sr-lm3-q4"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Keseimbangan radial",
+      "pertanyaan": "Benda yang menunjukkan keseimbangan radial adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "roda sepeda"
+        },
+        {
+          "id": "B",
+          "teks": "buku terbuka"
+        },
+        {
+          "id": "C",
+          "teks": "lemari berpintu dua"
+        },
+        {
+          "id": "D",
+          "teks": "penggaris lurus"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Jari-jari roda menyebar dari satu titik pusat ke arah lingkaran luar.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm3-q5"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Gunungan wayang",
+      "pertanyaan": "Gunungan wayang pada materi merupakan contoh penerapan keseimbangan ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "simetris"
+        },
+        {
+          "id": "B",
+          "teks": "asimetris"
+        },
+        {
+          "id": "C",
+          "teks": "radial"
+        },
+        {
+          "id": "D",
+          "teks": "perspektif"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Motif gunungan disusun seimbang antara sisi kiri dan kanan sehingga menunjukkan simetris.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "sr-lm3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan jenis keseimbangan",
+      "pertanyaan": "Pasangkan jenis keseimbangan dengan deskripsi yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Simetris"
+        },
+        {
+          "teks": "Asimetris"
+        },
+        {
+          "teks": "Radial"
+        },
+        {
+          "teks": "Keseimbangan"
+        }
+      ],
+      "pilihan": [
+        "Susunan memancar dari titik pusat",
+        "Kesan tidak berat sebelah",
+        "Kiri dan kanan sama atau mirip",
+        "Kiri dan kanan berbeda tetapi tetap seimbang"
+      ],
+      "kunci": [
+        "Kiri dan kanan sama atau mirip",
+        "Kiri dan kanan berbeda tetapi tetap seimbang",
+        "Susunan memancar dari titik pusat",
+        "Kesan tidak berat sebelah"
+      ],
+      "pembahasan": "Setiap jenis keseimbangan dikenali dari susunan dan hubungan antarunsurnya.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "sr-lm3-q7"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Manfaat ragam hias",
+      "pertanyaan": "Pilih tepat tiga manfaat ragam hias berdasarkan materi ASAS.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Memperindah tampilan suatu benda."
+        },
+        {
+          "id": "B",
+          "teks": "Dapat menyampaikan simbol adat daerah."
+        },
+        {
+          "id": "C",
+          "teks": "Dapat meningkatkan nilai jual kerajinan."
+        },
+        {
+          "id": "D",
+          "teks": "Mengurangi nilai estetika benda."
+        },
+        {
+          "id": "E",
+          "teks": "Selalu mengubah fungsi asli benda."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Ragam hias dapat memperindah, menyampaikan simbol budaya, dan menambah nilai kerajinan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "sr-lm3-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Motif batik dan daerah asal",
+      "pertanyaan": "Pasangkan motif batik dengan daerah asalnya.",
+      "pasangan": [
+        {
+          "teks": "Mega Mendung"
+        },
+        {
+          "teks": "Susukan"
+        },
+        {
+          "teks": "Parang"
+        },
+        {
+          "teks": "Jlamprang"
+        }
+      ],
+      "pilihan": [
+        "Yogyakarta",
+        "Cirebon",
+        "Pekalongan",
+        "Susukan, Banjarnegara"
+      ],
+      "kunci": [
+        "Cirebon",
+        "Susukan, Banjarnegara",
+        "Yogyakarta",
+        "Pekalongan"
+      ],
+      "pembahasan": "Mega Mendung berasal dari Cirebon, Susukan dari Banjarnegara, Parang dari Yogyakarta, dan Jlamprang dari Pekalongan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "sr-lm3-q9"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Motif anyaman",
+      "pertanyaan": "Anyaman dibuat dengan cara ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menyusun dan menyilangkan bahan secara teratur"
+        },
+        {
+          "id": "B",
+          "teks": "mengoleskan cat melalui pola berlubang"
+        },
+        {
+          "id": "C",
+          "teks": "menekan permukaan cetakan ke kertas"
+        },
+        {
+          "id": "D",
+          "teks": "menggambar garis menuju titik hilang"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Anyaman dibuat dengan menyusun dan menyilangkan bahan seperti bambu, rotan, atau pita.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "sr-lm3-q10"
+    }
+  ],
+  "catatan": "Satu paket latihan per materi, berisi 10 soal tanpa batas waktu."
+}

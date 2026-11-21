@@ -1,0 +1,290 @@
+{
+  "id": "seni-rupa-latihan-m4-p2",
+  "mataPelajaran": "Seni Rupa",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Seni Grafis: Cetak Tinggi dan Stensil",
+  "paket": 2,
+  "judul": "Seni Grafis: Cetak Tinggi dan Stensil • Paket 2",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Cetak tinggi",
+      "pertanyaan": "Bagian mana yang terkena tinta pada cetak tinggi?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menggunakan lubang sebagai pola utama"
+        },
+        {
+          "id": "B",
+          "teks": "mengukir bagian terdalam saja"
+        },
+        {
+          "id": "C",
+          "teks": "menggambar tanpa cetakan"
+        },
+        {
+          "id": "D",
+          "teks": "menggunakan bagian permukaan cetakan yang menonjol"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Bagian menonjol diberi pewarna lalu ditekan pada media cetak.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "seni-rupa-m4-p2-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Stensil",
+      "pertanyaan": "Bagaimana cara kerja teknik stensil?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menggunakan tinta di bagian belakang kertas"
+        },
+        {
+          "id": "B",
+          "teks": "menggores logam hingga berlubang"
+        },
+        {
+          "id": "C",
+          "teks": "menggunakan pola berlubang dan pewarna melewati lubang tersebut"
+        },
+        {
+          "id": "D",
+          "teks": "menggunakan permukaan menonjol saja"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Pewarna diaplikasikan melalui bagian pola yang terbuka atau berlubang.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "seni-rupa-m4-p2-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Seni grafis: karya tari."
+        },
+        {
+          "id": "B",
+          "teks": "Bahan stensil: karton atau plastik yang dipotong membentuk pola berlubang."
+        },
+        {
+          "id": "C",
+          "teks": "Urutan cetak tinggi: siapkan alat, buat sketsa, beri pewarna pada bagian menonjol, tekan ke kertas, lalu angkat."
+        },
+        {
+          "id": "D",
+          "teks": "Sketsa: membantu merencanakan bentuk dan susunan motif."
+        },
+        {
+          "id": "E",
+          "teks": "Keamanan dan kerapian: meninggalkan alat tajam sembarangan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-m4-p2-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Urutan cetak tinggi: siapkan alat, buat sketsa, beri pewarna pada bagian menonjol, tekan ke kertas, lalu angkat."
+        },
+        {
+          "id": "B",
+          "teks": "Sketsa: membantu merencanakan bentuk dan susunan motif."
+        },
+        {
+          "id": "C",
+          "teks": "Keamanan dan kerapian: gunakan alat dengan hati-hati dan bersihkan area kerja."
+        },
+        {
+          "id": "D",
+          "teks": "Seni grafis: karya musik."
+        },
+        {
+          "id": "E",
+          "teks": "Cetak tinggi: mengukir bagian terdalam saja."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-m4-p2-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Sketsa adalah membantu merencanakan bentuk dan susunan motif."
+        },
+        {
+          "teks": "Seni grafis adalah karya musik."
+        },
+        {
+          "teks": "Stensil adalah menggunakan pola berlubang dan pewarna melewati lubang tersebut."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; seni grafis yang tepat adalah karya seni dua dimensi yang dibuat melalui proses cetak.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-m4-p2-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Keamanan dan kerapian adalah gunakan alat dengan hati-hati dan bersihkan area kerja."
+        },
+        {
+          "teks": "Cetak tinggi adalah menggunakan lubang sebagai pola utama."
+        },
+        {
+          "teks": "Bahan cetak tinggi sederhana adalah pelepah pisang, spons, atau bahan bertekstur yang menonjol."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; cetak tinggi yang tepat adalah menggunakan bagian permukaan cetakan yang menonjol.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-m4-p2-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Sketsa"
+        },
+        {
+          "teks": "Keamanan dan kerapian"
+        },
+        {
+          "teks": "Seni grafis"
+        },
+        {
+          "teks": "Cetak tinggi"
+        }
+      ],
+      "pilihan": [
+        "gunakan alat dengan hati-hati dan bersihkan area kerja",
+        "karya seni dua dimensi yang dibuat melalui proses cetak",
+        "menggunakan bagian permukaan cetakan yang menonjol",
+        "membantu merencanakan bentuk dan susunan motif"
+      ],
+      "kunci": [
+        "membantu merencanakan bentuk dan susunan motif",
+        "gunakan alat dengan hati-hati dan bersihkan area kerja",
+        "karya seni dua dimensi yang dibuat melalui proses cetak",
+        "menggunakan bagian permukaan cetakan yang menonjol"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "seni-rupa-m4-p2-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Seni grafis"
+        },
+        {
+          "teks": "Cetak tinggi"
+        },
+        {
+          "teks": "Stensil"
+        },
+        {
+          "teks": "Bahan cetak tinggi sederhana"
+        }
+      ],
+      "pilihan": [
+        "menggunakan pola berlubang dan pewarna melewati lubang tersebut",
+        "pelepah pisang, spons, atau bahan bertekstur yang menonjol",
+        "karya seni dua dimensi yang dibuat melalui proses cetak",
+        "menggunakan bagian permukaan cetakan yang menonjol"
+      ],
+      "kunci": [
+        "karya seni dua dimensi yang dibuat melalui proses cetak",
+        "menggunakan bagian permukaan cetakan yang menonjol",
+        "menggunakan pola berlubang dan pewarna melewati lubang tersebut",
+        "pelepah pisang, spons, atau bahan bertekstur yang menonjol"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "seni-rupa-m4-p2-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Cetak tinggi",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Cetak tinggi?",
+      "kunci": [
+        "menggunakan bagian permukaan cetakan yang menonjol"
+      ],
+      "kataKunci": [
+        "menggunakan bagian permukaan cetakan yang menonjol"
+      ],
+      "pembahasan": "Bagian menonjol diberi pewarna lalu ditekan pada media cetak.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "seni-rupa-m4-p2-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Stensil",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Stensil?",
+      "kunci": [
+        "menggunakan pola berlubang dan pewarna melewati lubang tersebut"
+      ],
+      "kataKunci": [
+        "menggunakan pola berlubang dan pewarna melewati lubang tersebut"
+      ],
+      "pembahasan": "Pewarna diaplikasikan melalui bagian pola yang terbuka atau berlubang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "seni-rupa-m4-p2-q10"
+    }
+  ]
+}

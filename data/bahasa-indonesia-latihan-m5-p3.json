@@ -1,0 +1,262 @@
+{
+  "id": "bahasa-indonesia-latihan-m5-p3",
+  "mataPelajaran": "Bahasa Indonesia",
+  "mode": "Latihan Per Materi",
+  "materi": "Teks Eksplanasi Ilmiah dan Catatan Perjalanan",
+  "paket": 3,
+  "judul": "Teks Eksplanasi Ilmiah dan Catatan Perjalanan • Paket 3",
+  "durasiMenit": 0,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; uraian diperiksa guru menggunakan rubrik.",
+  "soal": [
+    {
+      "id": "BI-M5-P3-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan tema eksplanasi ilmiah",
+      "pertanyaan": "Teks yang menjelaskan bagaimana hujan meteor tampak bercahaya di langit bertema ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "kegiatan olahraga"
+        },
+        {
+          "id": "B",
+          "teks": "fenomena astronomi"
+        },
+        {
+          "id": "C",
+          "teks": "cara memasak"
+        },
+        {
+          "id": "D",
+          "teks": "permainan tradisional"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Hujan meteor merupakan fenomena astronomi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-M5-P3-02",
+      "jenis": "benar_salah",
+      "indikator": "Memahami informasi ilmiah",
+      "pertanyaan": "Berdasarkan penjelasan hujan meteor.",
+      "pernyataan": [
+        {
+          "teks": "Partikel sisa komet dapat memasuki atmosfer bumi."
+        },
+        {
+          "teks": "Gesekan dengan udara dapat membuat partikel berpijar."
+        },
+        {
+          "teks": "Semua meteor pasti mencapai permukaan bumi dalam keadaan utuh."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Banyak partikel meteor terbakar di atmosfer dan tidak mencapai permukaan bumi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-M5-P3-03",
+      "jenis": "menjodohkan",
+      "indikator": "Struktur teks eksplanasi",
+      "pertanyaan": "Pasangkan bagian dengan fungsinya.",
+      "pasangan": [
+        {
+          "teks": "Pernyataan umum"
+        },
+        {
+          "teks": "Deretan penjelas"
+        },
+        {
+          "teks": "Penutup"
+        },
+        {
+          "teks": "Istilah ilmiah"
+        }
+      ],
+      "pilihan": [
+        "Kata khusus bidang ilmu",
+        "Memperkenalkan fenomena",
+        "Merangkum penjelasan",
+        "Menguraikan proses atau sebab-akibat"
+      ],
+      "kunci": [
+        "B",
+        "D",
+        "C",
+        "A"
+      ],
+      "pembahasan": "Setiap unsur memiliki peran dalam penyajian penjelasan ilmiah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "BI-M5-P3-04",
+      "jenis": "uraian",
+      "indikator": "Menjelaskan proses ilmiah",
+      "pertanyaan": "Jelaskan secara singkat mengapa meteor tampak bercahaya ketika memasuki atmosfer.",
+      "kunci": "Gesekan antara partikel meteor dan udara menghasilkan panas sehingga partikel berpijar/terbakar.",
+      "rubrik": [
+        "Jawaban sesuai isi dan perintah soal (2 poin)",
+        "Informasi/unsur penting lengkap (2 poin)",
+        "Kalimat runtut dan mudah dipahami (1 poin)"
+      ],
+      "pembahasan": "Jawaban harus menghubungkan gesekan, panas, dan cahaya.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "BI-M5-P3-05",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menemukan gagasan utama",
+      "pertanyaan": "Kalimat yang paling tepat menjadi gagasan utama paragraf tentang banjir adalah ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Banjir dapat dipengaruhi faktor alam dan aktivitas manusia."
+        },
+        {
+          "id": "B",
+          "teks": "Semua orang menyukai hujan."
+        },
+        {
+          "id": "C",
+          "teks": "Sungai selalu kering pada musim hujan."
+        },
+        {
+          "id": "D",
+          "teks": "Sampah tidak pernah menyumbat saluran."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Gagasan utama merangkum pokok penjelasan tentang penyebab banjir.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-M5-P3-06",
+      "jenis": "benar_salah",
+      "indikator": "Menganalisis sebab-akibat banjir",
+      "pertanyaan": "Pernyataan terkait banjir.",
+      "pernyataan": [
+        {
+          "teks": "Curah hujan tinggi dapat meningkatkan volume air."
+        },
+        {
+          "teks": "Daerah resapan yang berkurang dapat memperbesar limpasan air."
+        },
+        {
+          "teks": "Membuang sampah ke sungai selalu memperlancar aliran air."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Hujan tinggi dan berkurangnya resapan dapat meningkatkan risiko banjir; sampah dapat menyumbat aliran.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-M5-P3-07",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Mengidentifikasi informasi ilmiah",
+      "pertanyaan": "Informasi yang tepat tentang teks eksplanasi ilmiah adalah ....\n\nPilih tepat tiga jawaban yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menggunakan fakta yang dapat diperiksa"
+        },
+        {
+          "id": "B",
+          "teks": "menjelaskan proses secara runtut"
+        },
+        {
+          "id": "C",
+          "teks": "memakai istilah sesuai topik"
+        },
+        {
+          "id": "D",
+          "teks": "mengutamakan khayalan tokoh"
+        },
+        {
+          "id": "E",
+          "teks": "menghindari hubungan sebab-akibat"
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Teks ilmiah harus faktual, runtut, dan menggunakan istilah sesuai bidang.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-M5-P3-08",
+      "jenis": "uraian",
+      "indikator": "Menyusun catatan perjalanan",
+      "pertanyaan": "Tuliskan unsur informasi yang sebaiknya ada dalam catatan perjalanan.",
+      "kunci": "Waktu, tempat/tujuan, kegiatan, peristiwa penting, dan kesan/pengalaman.",
+      "rubrik": [
+        "Jawaban sesuai isi dan perintah soal (2 poin)",
+        "Informasi/unsur penting lengkap (2 poin)",
+        "Kalimat runtut dan mudah dipahami (1 poin)"
+      ],
+      "pembahasan": "Catatan perjalanan memuat informasi kronologis dan pengalaman.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "BI-M5-P3-09",
+      "jenis": "pilihan_ganda",
+      "indikator": "Memahami urutan proses",
+      "pertanyaan": "Kata “setelah itu” dalam teks eksplanasi menunjukkan hubungan ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "pertentangan"
+        },
+        {
+          "id": "B",
+          "teks": "urutan waktu"
+        },
+        {
+          "id": "C",
+          "teks": "pilihan"
+        },
+        {
+          "id": "D",
+          "teks": "perbandingan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Setelah itu menandai tahapan berikutnya.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-M5-P3-10",
+      "jenis": "uraian",
+      "indikator": "Menulis teks eksplanasi",
+      "pertanyaan": "Buat paragraf singkat yang menjelaskan salah satu penyebab banjir dan cara menguranginya.",
+      "kunci": "Memuat fenomena, sebab yang logis, dan upaya seperti menjaga saluran serta daerah resapan.",
+      "rubrik": [
+        "Jawaban sesuai isi dan perintah soal (2 poin)",
+        "Informasi/unsur penting lengkap (2 poin)",
+        "Kalimat runtut dan mudah dipahami (1 poin)"
+      ],
+      "pembahasan": "Jawaban dinilai berdasarkan ketepatan fakta, sebab-akibat, dan keruntutan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    }
+  ]
+}

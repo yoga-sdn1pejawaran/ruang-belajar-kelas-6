@@ -1,0 +1,290 @@
+{
+  "id": "seni-rupa-latihan-m1-p3",
+  "mataPelajaran": "Seni Rupa",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Perspektif Satu dan Dua Titik Hilang",
+  "paket": 3,
+  "judul": "Perspektif Satu dan Dua Titik Hilang • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Dua titik hilang",
+      "pertanyaan": "Berapa titik hilang digunakan pada perspektif dua titik?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "objek hanya tampak dari depan"
+        },
+        {
+          "id": "B",
+          "teks": "dua kelompok garis surut menuju dua titik berbeda"
+        },
+        {
+          "id": "C",
+          "teks": "semua garis menuju satu titik"
+        },
+        {
+          "id": "D",
+          "teks": "tidak ada garis horizon"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Dua sisi objek terlihat dan garis surut menuju dua titik hilang berbeda.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "seni-rupa-m1-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Garis horizon",
+      "pertanyaan": "Di mana titik hilang biasanya diletakkan?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "garis khayal setinggi mata pengamat"
+        },
+        {
+          "id": "B",
+          "teks": "garis tepi kertas"
+        },
+        {
+          "id": "C",
+          "teks": "garis dasar meja"
+        },
+        {
+          "id": "D",
+          "teks": "garis yang selalu tegak"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Garis horizon menggambarkan ketinggian mata pengamat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "seni-rupa-m1-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Garis bantu: membantu mengarahkan bentuk menuju titik hilang."
+        },
+        {
+          "id": "B",
+          "teks": "Perspektif bangunan: dapat menampilkan sisi depan dan sisi samping bangunan."
+        },
+        {
+          "id": "C",
+          "teks": "Konsistensi garis: garis surut mengikuti titik hilang yang sesuai."
+        },
+        {
+          "id": "D",
+          "teks": "Perspektif: teknik mewarnai tanpa bentuk."
+        },
+        {
+          "id": "E",
+          "teks": "Satu titik hilang: semua garis melengkung."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-m1-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Konsistensi garis: garis surut mengikuti titik hilang yang sesuai."
+        },
+        {
+          "id": "B",
+          "teks": "Perspektif: teknik menggambar agar benda tampak memiliki ruang dan kedalaman."
+        },
+        {
+          "id": "C",
+          "teks": "Satu titik hilang: garis menuju dua titik."
+        },
+        {
+          "id": "D",
+          "teks": "Dua titik hilang: tidak ada garis horizon."
+        },
+        {
+          "id": "E",
+          "teks": "Perspektif bangunan: dapat menampilkan sisi depan dan sisi samping bangunan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-m1-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Konsistensi garis adalah garis surut mengikuti titik hilang yang sesuai."
+        },
+        {
+          "teks": "Satu titik hilang adalah garis menuju dua titik."
+        },
+        {
+          "teks": "Garis horizon adalah garis khayal setinggi mata pengamat."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; satu titik hilang yang tepat adalah garis-garis surut menuju satu titik pada garis horizon.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-m1-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Perspektif adalah teknik menggambar agar benda tampak memiliki ruang dan kedalaman."
+        },
+        {
+          "teks": "Dua titik hilang adalah semua garis menuju satu titik."
+        },
+        {
+          "teks": "Objek jauh adalah digambar tampak lebih kecil daripada objek dekat."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; dua titik hilang yang tepat adalah dua kelompok garis surut menuju dua titik berbeda.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "seni-rupa-m1-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Konsistensi garis"
+        },
+        {
+          "teks": "Perspektif"
+        },
+        {
+          "teks": "Satu titik hilang"
+        },
+        {
+          "teks": "Dua titik hilang"
+        }
+      ],
+      "pilihan": [
+        "garis-garis surut menuju satu titik pada garis horizon",
+        "dua kelompok garis surut menuju dua titik berbeda",
+        "garis surut mengikuti titik hilang yang sesuai",
+        "teknik menggambar agar benda tampak memiliki ruang dan kedalaman"
+      ],
+      "kunci": [
+        "garis surut mengikuti titik hilang yang sesuai",
+        "teknik menggambar agar benda tampak memiliki ruang dan kedalaman",
+        "garis-garis surut menuju satu titik pada garis horizon",
+        "dua kelompok garis surut menuju dua titik berbeda"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "seni-rupa-m1-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Satu titik hilang"
+        },
+        {
+          "teks": "Dua titik hilang"
+        },
+        {
+          "teks": "Garis horizon"
+        },
+        {
+          "teks": "Objek jauh"
+        }
+      ],
+      "pilihan": [
+        "digambar tampak lebih kecil daripada objek dekat",
+        "garis-garis surut menuju satu titik pada garis horizon",
+        "dua kelompok garis surut menuju dua titik berbeda",
+        "garis khayal setinggi mata pengamat"
+      ],
+      "kunci": [
+        "garis-garis surut menuju satu titik pada garis horizon",
+        "dua kelompok garis surut menuju dua titik berbeda",
+        "garis khayal setinggi mata pengamat",
+        "digambar tampak lebih kecil daripada objek dekat"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "seni-rupa-m1-p3-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Dua titik hilang",
+      "pertanyaan": "Lengkapi pernyataan berikut: Dua titik hilang berarti ....",
+      "kunci": [
+        "dua kelompok garis surut menuju dua titik berbeda"
+      ],
+      "kataKunci": [
+        "dua kelompok garis surut menuju dua titik berbeda"
+      ],
+      "pembahasan": "Dua sisi objek terlihat dan garis surut menuju dua titik hilang berbeda.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "seni-rupa-m1-p3-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Garis horizon",
+      "pertanyaan": "Lengkapi pernyataan berikut: Garis horizon berarti ....",
+      "kunci": [
+        "garis khayal setinggi mata pengamat"
+      ],
+      "kataKunci": [
+        "garis khayal setinggi mata pengamat"
+      ],
+      "pembahasan": "Garis horizon menggambarkan ketinggian mata pengamat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "seni-rupa-m1-p3-q10"
+    }
+  ]
+}

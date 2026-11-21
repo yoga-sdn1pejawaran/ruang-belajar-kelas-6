@@ -1,0 +1,923 @@
+{
+  "id": "dawet-ayu-simulasi-p4",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "paket": 4,
+  "judul": "Simulasi ASAS 1 Dawet Ayu Banjarnegara • Paket 4",
+  "durasiMenit": 75,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Tape ketan hitam",
+      "pertanyaan": "Bahan utama apa yang digunakan untuk membuat tape ketan hitam?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "tepung beras dan daun pandan"
+        },
+        {
+          "id": "B",
+          "teks": "beras putih dan santan"
+        },
+        {
+          "id": "C",
+          "teks": "dibuat dari beras ketan hitam dengan bantuan ragi"
+        },
+        {
+          "id": "D",
+          "teks": "ubi dan gula merah"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Kegiatan 1.4 menggunakan beras ketan hitam dan ragi.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p4-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Persiapan ketan hitam",
+      "pertanyaan": "Apa yang dilakukan pada beras ketan hitam sebelum dikukus?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "digoreng hingga kering"
+        },
+        {
+          "id": "B",
+          "teks": "dicuci bersih dan direndam semalam"
+        },
+        {
+          "id": "C",
+          "teks": "langsung dicampur dengan gula"
+        },
+        {
+          "id": "D",
+          "teks": "direndam dalam minyak"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Buku memerintahkan ketan hitam dicuci dan direndam semalam.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p4-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Memasak ketan hitam",
+      "pertanyaan": "Bagaimana proses memasak ketan hitam dalam pembuatan tape?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "dipanggang hingga kering"
+        },
+        {
+          "id": "B",
+          "teks": "digoreng sampai renyah"
+        },
+        {
+          "id": "C",
+          "teks": "direbus bersama gula hingga menjadi juruh"
+        },
+        {
+          "id": "D",
+          "teks": "dikukus hingga setengah matang, diberi air panas, lalu dikukus kembali"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Langkah pembuatan tape ketan hitam meliputi pengukusan, pemberian air panas, lalu pengukusan kembali.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p4-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Pendinginan ketan",
+      "pertanyaan": "Kapan ragi ditaburkan pada ketan untuk membuat tape?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "ketan didinginkan sebelum diberi ragi"
+        },
+        {
+          "id": "B",
+          "teks": "sebelum ketan dicuci"
+        },
+        {
+          "id": "C",
+          "teks": "sebelum ketan dikukus"
+        },
+        {
+          "id": "D",
+          "teks": "ketika ketan masih sangat panas"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Urutan resep meminta ketan matang ditaruh di tampah dan ditaburi ragi secara merata setelah tahap pengukusan.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p4-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Tepung cendol",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai tepung cendol.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tepung cendol: tepung ketan dan tepung sagu."
+        },
+        {
+          "id": "B",
+          "teks": "Bahan pewarna cendol: air sari daun pandan."
+        },
+        {
+          "id": "C",
+          "teks": "Manfaat ketan hitam menurut buku: membantu menjaga kesehatan kulit, meningkatkan kekebalan tubuh, dan detoksifikasi."
+        },
+        {
+          "id": "D",
+          "teks": "Bahan cendol lainnya: 25 gram tepung jagung."
+        },
+        {
+          "id": "E",
+          "teks": "Tape ketan hitam: dibuat dari beras ketan hitam dengan bantuan ragi."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "E"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p4-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Cara mengolah adonan cendol",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai cara mengolah adonan cendol.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Cara mengolah adonan cendol: digoreng sampai kering."
+        },
+        {
+          "id": "B",
+          "teks": "Cara mengolah adonan cendol: dijemur tanpa dimasak."
+        },
+        {
+          "id": "C",
+          "teks": "Tepung tapioka: tepung dari sari pati ketela pohon."
+        },
+        {
+          "id": "D",
+          "teks": "Bahan cendol: 125 gram tepung pati gelang."
+        },
+        {
+          "id": "E",
+          "teks": "Memasak ketan hitam: dikukus hingga setengah matang, diberi air panas, lalu dikukus kembali."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p4-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Persiapan ketan hitam",
+      "pertanyaan": "Perhatikan tiga informasi tentang persiapan ketan hitam. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Persiapan ketan hitam: dicuci bersih dan direndam semalam."
+        },
+        {
+          "teks": "Detoksifikasi: menambah pewarna pada makanan."
+        },
+        {
+          "teks": "Cairan pandan cendol: 100 ml air gula merah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 1. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p4-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Pendinginan ketan",
+      "pertanyaan": "Perhatikan tiga informasi tentang pendinginan ketan. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Pendinginan ketan: ketan didinginkan sebelum diberi ragi."
+        },
+        {
+          "teks": "Komponen minuman: susu, kopi, dan roti."
+        },
+        {
+          "teks": "Cara mengolah adonan cendol: direbus sambil terus diaduk hingga mengental."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 1. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p4-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Tape ketan hitam",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan tape ketan hitam dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Tape ketan hitam"
+        },
+        {
+          "teks": "Tepung tapioka"
+        },
+        {
+          "teks": "Bahan cendol lainnya"
+        },
+        {
+          "teks": "Bahan santan"
+        }
+      ],
+      "pilihan": [
+        "santan, daun pandan, dan garam",
+        "25 gram tepung beras",
+        "tepung dari sari pati ketela pohon",
+        "dibuat dari beras ketan hitam dengan bantuan ragi"
+      ],
+      "kunci": [
+        "dibuat dari beras ketan hitam dengan bantuan ragi",
+        "tepung dari sari pati ketela pohon",
+        "25 gram tepung beras",
+        "santan, daun pandan, dan garam"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 1.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-simulasi-p4-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Memasak ketan hitam",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan memasak ketan hitam dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Memasak ketan hitam"
+        },
+        {
+          "teks": "Asal Dawet Ayu"
+        },
+        {
+          "teks": "Air untuk adonan cendol"
+        },
+        {
+          "teks": "Penyajian dasar"
+        }
+      ],
+      "pilihan": [
+        "cendol, juruh, santan, dan es sesuai selera",
+        "400 ml air matang",
+        "Banjarnegara",
+        "dikukus hingga setengah matang, diberi air panas, lalu dikukus kembali"
+      ],
+      "kunci": [
+        "dikukus hingga setengah matang, diberi air panas, lalu dikukus kembali",
+        "Banjarnegara",
+        "400 ml air matang",
+        "cendol, juruh, santan, dan es sesuai selera"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 1.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-simulasi-p4-q10"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Iklan media elektronik",
+      "pertanyaan": "Manakah kelompok yang seluruhnya termasuk media iklan elektronik?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "poster dan selebaran"
+        },
+        {
+          "id": "B",
+          "teks": "brosur dan tabloid"
+        },
+        {
+          "id": "C",
+          "teks": "iklan melalui website, radio, dan televisi"
+        },
+        {
+          "id": "D",
+          "teks": "surat kabar dan majalah"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Buku memasukkan website, radio, dan televisi sebagai media elektronik.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p4-q11"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Iklan luar ruang",
+      "pertanyaan": "Contoh iklan luar ruang yang disebutkan dalam buku adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "iklan yang dipasang di luar ruangan, misalnya papan reklame"
+        },
+        {
+          "id": "B",
+          "teks": "majalah bulanan"
+        },
+        {
+          "id": "C",
+          "teks": "surat kabar harian"
+        },
+        {
+          "id": "D",
+          "teks": "brosur yang dibagikan langsung"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Buku menjelaskan iklan out of home sebagai iklan di luar ruangan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p4-q12"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Papan reklame",
+      "pertanyaan": "Di manakah papan reklame biasanya dipasang menurut contoh buku?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "media iklan yang dipasang di pinggir jalan"
+        },
+        {
+          "id": "B",
+          "teks": "di dalam lemari penyimpanan"
+        },
+        {
+          "id": "C",
+          "teks": "di meja dapur"
+        },
+        {
+          "id": "D",
+          "teks": "di dalam buku tulis"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Gambar dan keterangan buku menunjukkan papan reklame di pinggir jalan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p4-q13"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Media promosi",
+      "pertanyaan": "Apa fungsi media promosi?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menyimpan bahan baku"
+        },
+        {
+          "id": "B",
+          "teks": "mengaduk adonan cendol"
+        },
+        {
+          "id": "C",
+          "teks": "media yang digunakan untuk menyampaikan iklan kepada masyarakat"
+        },
+        {
+          "id": "D",
+          "teks": "mengukur suhu santan"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Media promosi membantu menyampaikan informasi produk.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p4-q14"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Menentukan pangsa pasar",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai menentukan pangsa pasar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Menentukan pangsa pasar: mengetahui siapa saja yang berpotensi membeli produk."
+        },
+        {
+          "id": "B",
+          "teks": "Waktu yang cocok menurut buku: tengah malam saat toko tutup."
+        },
+        {
+          "id": "C",
+          "teks": "Iklan media elektronik: iklan melalui website, radio, dan televisi."
+        },
+        {
+          "id": "D",
+          "teks": "Contoh media promosi elektronik: website, radio, dan televisi."
+        },
+        {
+          "id": "E",
+          "teks": "Waktu penjualan: hanya menjual pada saat hujan."
+        }
+      ],
+      "kunci": [
+        "A",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p4-q15"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Pertimbangan harga",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai pertimbangan harga.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pertimbangan harga: menyamakan semua harga barang."
+        },
+        {
+          "id": "B",
+          "teks": "Strategi pemasaran produk: dapat mencakup pangsa pasar, waktu, harga, distribusi, ide kreatif, dan promosi."
+        },
+        {
+          "id": "C",
+          "teks": "Papan reklame: media iklan yang dipasang di pinggir jalan."
+        },
+        {
+          "id": "D",
+          "teks": "Contoh harga pembanding: harga dua produk yang sama persis."
+        },
+        {
+          "id": "E",
+          "teks": "Waktu penjualan: memperhatikan waktu ketika konsumen ingin membeli produk."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "E"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p4-q16"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Iklan luar ruang",
+      "pertanyaan": "Perhatikan tiga informasi tentang iklan luar ruang. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Iklan luar ruang: iklan yang dipasang di luar ruangan, misalnya papan reklame."
+        },
+        {
+          "teks": "Arti strategi: daftar bahan untuk memasak."
+        },
+        {
+          "teks": "Pertimbangan penjualan malam: mengabaikan keadaan udara."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 2. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p4-q17"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Media promosi",
+      "pertanyaan": "Perhatikan tiga informasi tentang media promosi. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Media promosi: media yang digunakan untuk menyampaikan iklan kepada masyarakat."
+        },
+        {
+          "teks": "Pangsa pasar: tempat menyimpan bahan makanan."
+        },
+        {
+          "teks": "Contoh harga pembanding: harga Dawet Ayu Rp3.500 dan harga sabun mandi Rp3.100."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 2. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p4-q18"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Iklan media elektronik",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan iklan media elektronik dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Iklan media elektronik"
+        },
+        {
+          "teks": "Strategi pemasaran produk"
+        },
+        {
+          "teks": "Waktu yang cocok menurut buku"
+        },
+        {
+          "teks": "Distribusi"
+        }
+      ],
+      "pilihan": [
+        "dapat mencakup pangsa pasar, waktu, harga, distribusi, ide kreatif, dan promosi",
+        "cara menyalurkan produk agar mudah diperoleh konsumen",
+        "iklan melalui website, radio, dan televisi",
+        "siang hari ketika cuaca panas"
+      ],
+      "kunci": [
+        "iklan melalui website, radio, dan televisi",
+        "dapat mencakup pangsa pasar, waktu, harga, distribusi, ide kreatif, dan promosi",
+        "siang hari ketika cuaca panas",
+        "cara menyalurkan produk agar mudah diperoleh konsumen"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 2.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-simulasi-p4-q19"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Papan reklame",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan papan reklame dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Papan reklame"
+        },
+        {
+          "teks": "Tujuan strategi pemasaran"
+        },
+        {
+          "teks": "Harga"
+        },
+        {
+          "teks": "Penjualan langsung"
+        }
+      ],
+      "pilihan": [
+        "mendapatkan konsumen sebanyak-banyaknya",
+        "nilai uang yang harus dibayar pembeli untuk memperoleh produk",
+        "media iklan yang dipasang di pinggir jalan",
+        "mendatangi konsumen atau menawarkan produk secara langsung"
+      ],
+      "kunci": [
+        "media iklan yang dipasang di pinggir jalan",
+        "mendapatkan konsumen sebanyak-banyaknya",
+        "nilai uang yang harus dibayar pembeli untuk memperoleh produk",
+        "mendatangi konsumen atau menawarkan produk secara langsung"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 2.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-simulasi-p4-q20"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Membuka media sosial",
+      "pertanyaan": "Media sosial apa yang dicontohkan dalam buku untuk mengunggah promosi?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "aplikasi kalkulator dan kalender"
+        },
+        {
+          "id": "B",
+          "teks": "aplikasi peta dan kamera saja"
+        },
+        {
+          "id": "C",
+          "teks": "aplikasi pengolah angka dan pemutar musik"
+        },
+        {
+          "id": "D",
+          "teks": "membuka akun Facebook atau Twitter"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Buku memberi contoh Facebook atau Twitter sebagai media sosial.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p4-q21"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Memilih foto atau video",
+      "pertanyaan": "Apa yang dipilih ketika akan membuat unggahan promosi?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "memilih foto atau video yang akan diunggah"
+        },
+        {
+          "id": "B",
+          "teks": "file kosong tanpa gambar"
+        },
+        {
+          "id": "C",
+          "teks": "gambar yang tidak menampilkan produk"
+        },
+        {
+          "id": "D",
+          "teks": "dokumen yang tidak berkaitan"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Langkah promosi meminta pengguna memilih foto atau video.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p4-q22"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Menambahkan caption",
+      "pertanyaan": "Apa isi caption pada unggahan promosi Dawet Ayu?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "informasi yang sengaja dikosongkan"
+        },
+        {
+          "id": "B",
+          "teks": "menambahkan komentar atau keterangan tentang Dawet Ayu yang dipromosikan"
+        },
+        {
+          "id": "C",
+          "teks": "petunjuk penggunaan alat elektronik"
+        },
+        {
+          "id": "D",
+          "teks": "keterangan yang tidak berhubungan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Buku menyebut menambahkan komentar tentang Dawet Ayu yang dipromosikan.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p4-q23"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengunggah promosi",
+      "pertanyaan": "Apa tujuan mengunggah foto promosi ke media sosial?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menghapus foto setelah dibuat"
+        },
+        {
+          "id": "B",
+          "teks": "membatasi agar tidak ada yang melihat"
+        },
+        {
+          "id": "C",
+          "teks": "mengunggah foto atau gambar agar dapat dilihat orang lain"
+        },
+        {
+          "id": "D",
+          "teks": "menyimpan foto tanpa membagikannya"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Langkah terakhir adalah mengunggah dan melihat hasil unggahan.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-simulasi-p4-q24"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Hasil unggahan",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai hasil unggahan.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Hasil unggahan: otomatis menjadi bahan makanan."
+        },
+        {
+          "id": "B",
+          "teks": "Twitter: contoh media sosial untuk promosi Dawet Ayu."
+        },
+        {
+          "id": "C",
+          "teks": "Tujuan promosi: memperkenalkan barang dagangan kepada masyarakat."
+        },
+        {
+          "id": "D",
+          "teks": "Membuka media sosial: membuka akun Facebook atau Twitter."
+        },
+        {
+          "id": "E",
+          "teks": "Makna Taste: manis."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p4-q25"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Bahasa asing dalam buku",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai bahasa asing dalam buku.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Bahasa asing dalam buku: Bahasa Inggris, Jepang, dan Mandarin."
+        },
+        {
+          "id": "B",
+          "teks": "Kalimat promosi: kalimat yang mengajak atau menarik perhatian calon pembeli."
+        },
+        {
+          "id": "C",
+          "teks": "Menambahkan caption: menambahkan komentar atau keterangan tentang Dawet Ayu yang dipromosikan."
+        },
+        {
+          "id": "D",
+          "teks": "Makna Sweet: baik."
+        },
+        {
+          "id": "E",
+          "teks": "Makna Fresh: rasa."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p4-q26"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Memilih foto atau video",
+      "pertanyaan": "Perhatikan tiga informasi tentang memilih foto atau video. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Memilih foto atau video: memilih foto atau video yang akan diunggah."
+        },
+        {
+          "teks": "Kata kunci promosi: kata acak yang tidak berkaitan."
+        },
+        {
+          "teks": "Makna Sweet: segar."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 3. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p4-q27"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Mengunggah promosi",
+      "pertanyaan": "Perhatikan tiga informasi tentang mengunggah promosi. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Mengunggah promosi: mengunggah foto atau gambar agar dapat dilihat orang lain."
+        },
+        {
+          "teks": "Hasil unggahan: hanya dapat dilihat oleh pembuat file di komputer."
+        },
+        {
+          "teks": "Makna Fresh: segar."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 3. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-simulasi-p4-q28"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Membuka media sosial",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan membuka media sosial dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Membuka media sosial"
+        },
+        {
+          "teks": "Kalimat promosi"
+        },
+        {
+          "teks": "Makna Taste"
+        },
+        {
+          "teks": "Makna Green"
+        }
+      ],
+      "pilihan": [
+        "hijau",
+        "membuka akun Facebook atau Twitter",
+        "kalimat yang mengajak atau menarik perhatian calon pembeli",
+        "rasa"
+      ],
+      "kunci": [
+        "membuka akun Facebook atau Twitter",
+        "kalimat yang mengajak atau menarik perhatian calon pembeli",
+        "rasa",
+        "hijau"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 3.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-simulasi-p4-q29"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Menambahkan caption",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan menambahkan caption dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Menambahkan caption"
+        },
+        {
+          "teks": "Bahasa promosi"
+        },
+        {
+          "teks": "Makna Cool"
+        },
+        {
+          "teks": "Makna Tabemono"
+        }
+      ],
+      "pilihan": [
+        "dapat menggunakan bahasa Indonesia dan bahasa asing",
+        "dingin",
+        "makanan",
+        "menambahkan komentar atau keterangan tentang Dawet Ayu yang dipromosikan"
+      ],
+      "kunci": [
+        "menambahkan komentar atau keterangan tentang Dawet Ayu yang dipromosikan",
+        "dapat menggunakan bahasa Indonesia dan bahasa asing",
+        "dingin",
+        "makanan"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 3.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-simulasi-p4-q30"
+    }
+  ]
+}

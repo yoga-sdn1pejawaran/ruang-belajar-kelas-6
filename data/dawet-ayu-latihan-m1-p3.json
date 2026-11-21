@@ -1,0 +1,317 @@
+{
+  "id": "dawet-ayu-latihan-b1-p3",
+  "mataPelajaran": "Dawet Ayu Banjarnegara",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Bab I – Kreasi Dawet Ayu Banjarnegara",
+  "bab": 1,
+  "paket": 3,
+  "judul": "Bab I – Kreasi Dawet Ayu Banjarnegara • Latihan Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Cara mengolah adonan cendol",
+      "pertanyaan": "Bagaimana cara memasak adonan cendol sebelum dicetak?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "dipanggang sampai kecokelatan"
+        },
+        {
+          "id": "B",
+          "teks": "digoreng hingga kering"
+        },
+        {
+          "id": "C",
+          "teks": "direbus sambil terus diaduk hingga mengental"
+        },
+        {
+          "id": "D",
+          "teks": "dijemur hingga mengeras"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Adonan cendol direbus sambil diaduk terus hingga mengental.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b1-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Mencetak cendol",
+      "pertanyaan": "Pada tahap apa adonan cendol dicetak?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "setelah dibekukan"
+        },
+        {
+          "id": "B",
+          "teks": "setelah dijemur"
+        },
+        {
+          "id": "C",
+          "teks": "adonan dicetak ketika sudah dimasak"
+        },
+        {
+          "id": "D",
+          "teks": "sebelum dimasak"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Buku memerintahkan mencetak adonan setelah proses pemasakan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b1-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bahan juruh",
+      "pertanyaan": "Bahan apa saja yang digunakan untuk membuat juruh?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "teh, jahe, dan gula pasir"
+        },
+        {
+          "id": "B",
+          "teks": "air kelapa, garam, dan tepung beras"
+        },
+        {
+          "id": "C",
+          "teks": "susu, kopi, dan tepung terigu"
+        },
+        {
+          "id": "D",
+          "teks": "gula merah, air, daun pandan, nangka, dan garam"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Daftar bahan juruh memuat air, pandan, nangka, gula merah, dan garam.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b1-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Fungsi juruh",
+      "pertanyaan": "Apa fungsi juruh dalam sajian Dawet Ayu?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "memberi rasa gurih"
+        },
+        {
+          "id": "B",
+          "teks": "memberi rasa manis pada Dawet Ayu"
+        },
+        {
+          "id": "C",
+          "teks": "membuat cendol menjadi kenyal"
+        },
+        {
+          "id": "D",
+          "teks": "memberi warna hijau pada cendol"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Juruh adalah kuah gula merah untuk penyajian.",
+      "tingkatKesulitan": "HOTS",
+      "skorMaksimal": 2,
+      "id": "dawet-ayu-latihan-b1-p3-q4"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Cara mengolah adonan cendol",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai cara mengolah adonan cendol.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Cara mengolah adonan cendol: direbus sambil terus diaduk hingga mengental."
+        },
+        {
+          "id": "B",
+          "teks": "Bahan utama biji salak: ubi."
+        },
+        {
+          "id": "C",
+          "teks": "Penyajian dasar: cendol, kecap, dan minyak."
+        },
+        {
+          "id": "D",
+          "teks": "Manfaat ketan hitam menurut buku: menyembuhkan semua penyakit."
+        },
+        {
+          "id": "E",
+          "teks": "Pengolahan santan: direbus sambil diaduk agar tidak pecah."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b1-p3-q5"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Analisis informasi: Komponen minuman",
+      "pertanyaan": "Pilih tepat tiga informasi yang benar mengenai komponen minuman.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Komponen minuman: teh, garam, dan mi."
+        },
+        {
+          "id": "B",
+          "teks": "Bahan juruh: gula merah, air, daun pandan, nangka, dan garam."
+        },
+        {
+          "id": "C",
+          "teks": "Tanda biji salak matang: mengapung saat direbus."
+        },
+        {
+          "id": "D",
+          "teks": "Nama kreasi bubur sumsum: Dawet Ayu Campur Kopi."
+        },
+        {
+          "id": "E",
+          "teks": "Bubur sumsum: dibuat dari tepung beras, santan, garam, dan daun pandan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "E"
+      ],
+      "pembahasan": "Tiga pernyataan yang benar sesuai dengan uraian materi pada buku. Dua pernyataan lainnya tidak sesuai dengan keterangan pada bab ini.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b1-p3-q6"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Mencetak cendol",
+      "pertanyaan": "Perhatikan tiga informasi tentang mencetak cendol. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Mencetak cendol: adonan dicetak ketika sudah dimasak."
+        },
+        {
+          "teks": "Memasak bubur sumsum: dibakar hingga gosong."
+        },
+        {
+          "teks": "Membentuk biji salak: adonan dipotong menjadi lembaran besar."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "salah"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 1. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b1-p3-q7"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Ketepatan informasi: Fungsi juruh",
+      "pertanyaan": "Perhatikan tiga informasi tentang fungsi juruh. Tentukan Benar atau Salah pada setiap informasi.",
+      "pernyataan": [
+        {
+          "teks": "Fungsi juruh: memberi rasa manis pada Dawet Ayu."
+        },
+        {
+          "teks": "Biji salak: minuman dari daun pandan."
+        },
+        {
+          "teks": "Persiapan ketan hitam: dicuci bersih dan direndam semalam."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Periksa setiap pernyataan dengan keterangan pada Bab 1. Pernyataan yang mengganti fakta dengan informasi keliru bernilai Salah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "dawet-ayu-latihan-b1-p3-q8"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Cara mengolah adonan cendol",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan cara mengolah adonan cendol dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Cara mengolah adonan cendol"
+        },
+        {
+          "teks": "Bubur sumsum"
+        },
+        {
+          "teks": "Pengolahan ubi biji salak"
+        },
+        {
+          "teks": "Manfaat ketan hitam menurut buku"
+        }
+      ],
+      "pilihan": [
+        "membantu menjaga kesehatan kulit, meningkatkan kekebalan tubuh, dan detoksifikasi",
+        "dibuat dari tepung beras, santan, garam, dan daun pandan",
+        "dikupas, dikukus hingga lunak, lalu dihaluskan",
+        "direbus sambil terus diaduk hingga mengental"
+      ],
+      "kunci": [
+        "direbus sambil terus diaduk hingga mengental",
+        "dibuat dari tepung beras, santan, garam, dan daun pandan",
+        "dikupas, dikukus hingga lunak, lalu dihaluskan",
+        "membantu menjaga kesehatan kulit, meningkatkan kekebalan tubuh, dan detoksifikasi"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 1.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-b1-p3-q9"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan informasi: Bahan juruh",
+      "pertanyaan": "Pasangkan istilah dan informasi yang berkaitan dengan bahan juruh dengan keterangan yang tepat.",
+      "pasangan": [
+        {
+          "teks": "Bahan juruh"
+        },
+        {
+          "teks": "Nama kreasi bubur sumsum"
+        },
+        {
+          "teks": "Tape ketan hitam"
+        },
+        {
+          "teks": "Tepung tapioka"
+        }
+      ],
+      "pilihan": [
+        "dibuat dari beras ketan hitam dengan bantuan ragi",
+        "gula merah, air, daun pandan, nangka, dan garam",
+        "Dawet Ayu Banjarnegara Campur Bubur Sumsum",
+        "tepung dari sari pati ketela pohon"
+      ],
+      "kunci": [
+        "gula merah, air, daun pandan, nangka, dan garam",
+        "Dawet Ayu Banjarnegara Campur Bubur Sumsum",
+        "dibuat dari beras ketan hitam dengan bantuan ragi",
+        "tepung dari sari pati ketela pohon"
+      ],
+      "pembahasan": "Setiap pasangan dicocokkan berdasarkan penjelasan dan istilah yang tercantum pada Bab 1.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 4,
+      "id": "dawet-ayu-latihan-b1-p3-q10"
+    }
+  ]
+}

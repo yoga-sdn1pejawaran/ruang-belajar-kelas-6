@@ -1,0 +1,845 @@
+{
+  "id": "ipas-simulasi-p4",
+  "mataPelajaran": "IPAS",
+  "semester": 1,
+  "mode": "Simulasi ASAS",
+  "paket": 4,
+  "judul": "Simulasi ASAS IPAS • Paket 4",
+  "durasiMenit": 75,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Saraf motorik",
+      "pertanyaan": "Apa fungsi saraf motorik?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "membawa rangsangan dari indra ke otak"
+        },
+        {
+          "id": "B",
+          "teks": "mengangkut oksigen"
+        },
+        {
+          "id": "C",
+          "teks": "membentuk tulang"
+        },
+        {
+          "id": "D",
+          "teks": "membawa perintah dari sistem saraf pusat menuju otot"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Saraf motorik menyampaikan perintah agar otot melakukan gerakan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "ipas-sim-p4-q1"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Urutan gerak refleks: reseptor, saraf sensorik, sumsum tulang belakang, saraf motorik, efektor."
+        },
+        {
+          "id": "B",
+          "teks": "Perlindungan tubuh: gerak refleks membantu menghindari cedera."
+        },
+        {
+          "id": "C",
+          "teks": "Kerusakan sumsum tulang belakang: dapat mengganggu penghantaran perintah dan informasi saraf."
+        },
+        {
+          "id": "D",
+          "teks": "Otak: pembentuk sel darah merah."
+        },
+        {
+          "id": "E",
+          "teks": "Sumsum tulang belakang: mengalirkan darah."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p4-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Kerusakan sumsum tulang belakang: dapat mengganggu penghantaran perintah dan informasi saraf."
+        },
+        {
+          "id": "B",
+          "teks": "Otak: pusat pengatur dan pengendali aktivitas tubuh."
+        },
+        {
+          "id": "C",
+          "teks": "Sumsum tulang belakang: menghasilkan hormon pencernaan."
+        },
+        {
+          "id": "D",
+          "teks": "Saraf sensorik: memompa darah ke jantung."
+        },
+        {
+          "id": "E",
+          "teks": "Perlindungan tubuh: gerak refleks membantu menghindari cedera."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p4-q3"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Kerusakan sumsum tulang belakang adalah dapat mengganggu penghantaran perintah dan informasi saraf."
+        },
+        {
+          "teks": "Sumsum tulang belakang adalah menghasilkan hormon pencernaan."
+        },
+        {
+          "teks": "Saraf motorik adalah membawa perintah dari sistem saraf pusat menuju otot."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; sumsum tulang belakang yang tepat adalah menghubungkan otak dengan saraf tubuh dan menjadi pusat gerak refleks.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p4-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Otak adalah pusat pengatur dan pengendali aktivitas tubuh."
+        },
+        {
+          "teks": "Saraf sensorik adalah membawa perintah dari otak ke otot."
+        },
+        {
+          "teks": "Gerak refleks adalah gerakan cepat dan otomatis melalui lengkung refleks."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; saraf sensorik yang tepat adalah membawa rangsangan dari alat indra menuju sistem saraf pusat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p4-q5"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Kerusakan sumsum tulang belakang"
+        },
+        {
+          "teks": "Otak"
+        },
+        {
+          "teks": "Sumsum tulang belakang"
+        },
+        {
+          "teks": "Saraf sensorik"
+        }
+      ],
+      "pilihan": [
+        "menghubungkan otak dengan saraf tubuh dan menjadi pusat gerak refleks",
+        "membawa rangsangan dari alat indra menuju sistem saraf pusat",
+        "dapat mengganggu penghantaran perintah dan informasi saraf",
+        "pusat pengatur dan pengendali aktivitas tubuh"
+      ],
+      "kunci": [
+        "dapat mengganggu penghantaran perintah dan informasi saraf",
+        "pusat pengatur dan pengendali aktivitas tubuh",
+        "menghubungkan otak dengan saraf tubuh dan menjadi pusat gerak refleks",
+        "membawa rangsangan dari alat indra menuju sistem saraf pusat"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-sim-p4-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Sumsum tulang belakang"
+        },
+        {
+          "teks": "Saraf sensorik"
+        },
+        {
+          "teks": "Saraf motorik"
+        },
+        {
+          "teks": "Gerak refleks"
+        }
+      ],
+      "pilihan": [
+        "gerakan cepat dan otomatis melalui lengkung refleks",
+        "menghubungkan otak dengan saraf tubuh dan menjadi pusat gerak refleks",
+        "membawa rangsangan dari alat indra menuju sistem saraf pusat",
+        "membawa perintah dari sistem saraf pusat menuju otot"
+      ],
+      "kunci": [
+        "menghubungkan otak dengan saraf tubuh dan menjadi pusat gerak refleks",
+        "membawa rangsangan dari alat indra menuju sistem saraf pusat",
+        "membawa perintah dari sistem saraf pusat menuju otot",
+        "gerakan cepat dan otomatis melalui lengkung refleks"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-sim-p4-q7"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Saraf sensorik",
+      "pertanyaan": "Lengkapi pernyataan berikut: Saraf sensorik berarti ....",
+      "kunci": [
+        "membawa rangsangan dari alat indra menuju sistem saraf pusat"
+      ],
+      "kataKunci": [
+        "membawa rangsangan dari alat indra menuju sistem saraf pusat"
+      ],
+      "pembahasan": "Saraf sensorik membawa informasi dari reseptor atau alat indra ke sistem saraf pusat.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-sim-p4-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Saraf motorik",
+      "pertanyaan": "Lengkapi pernyataan berikut: Saraf motorik berarti ....",
+      "kunci": [
+        "membawa perintah dari sistem saraf pusat menuju otot"
+      ],
+      "kataKunci": [
+        "membawa perintah dari sistem saraf pusat menuju otot"
+      ],
+      "pembahasan": "Saraf motorik menyampaikan perintah agar otot melakukan gerakan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-sim-p4-q9"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Fungsi jantung",
+      "pertanyaan": "Fungsi utama jantung adalah ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menyaring cahaya"
+        },
+        {
+          "id": "B",
+          "teks": "memompa darah ke seluruh tubuh"
+        },
+        {
+          "id": "C",
+          "teks": "mencerna makanan"
+        },
+        {
+          "id": "D",
+          "teks": "menghasilkan udara"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Jantung memompa darah agar oksigen dan zat makanan diedarkan ke seluruh tubuh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "ipas-sim-p4-q10"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Serambi jantung",
+      "pertanyaan": "Ruang jantung yang berfungsi menerima darah disebut ....",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menerima darah yang masuk ke jantung"
+        },
+        {
+          "id": "B",
+          "teks": "memompa darah keluar dengan tekanan utama"
+        },
+        {
+          "id": "C",
+          "teks": "menyaring urine"
+        },
+        {
+          "id": "D",
+          "teks": "menghasilkan sel saraf"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Serambi atau atrium menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "ipas-sim-p4-q11"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Denyut jantung saat olahraga: menurun hingga berhenti."
+        },
+        {
+          "id": "B",
+          "teks": "Komponen darah: trombosit membawa impuls saraf."
+        },
+        {
+          "id": "C",
+          "teks": "Pembuluh arteri: membawa darah keluar dari jantung."
+        },
+        {
+          "id": "D",
+          "teks": "Pembuluh vena: membawa darah kembali menuju jantung."
+        },
+        {
+          "id": "E",
+          "teks": "Pembuluh kapiler: tempat pertukaran oksigen, karbon dioksida, dan zat lain."
+        }
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p4-q12"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Fungsi jantung: menghasilkan udara."
+        },
+        {
+          "id": "B",
+          "teks": "Pembuluh vena: membawa darah kembali menuju jantung."
+        },
+        {
+          "id": "C",
+          "teks": "Pembuluh kapiler: tempat pertukaran oksigen, karbon dioksida, dan zat lain."
+        },
+        {
+          "id": "D",
+          "teks": "Denyut jantung saat olahraga: meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "id": "E",
+          "teks": "Komponen darah: sel darah merah mencerna makanan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p4-q13"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Pembuluh kapiler adalah tempat pertukaran oksigen, karbon dioksida, dan zat lain."
+        },
+        {
+          "teks": "Komponen darah adalah sel darah merah mencerna makanan."
+        },
+        {
+          "teks": "Serambi jantung adalah menerima darah yang masuk ke jantung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; komponen darah yang tepat adalah sel darah merah mengangkut oksigen.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p4-q14"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Denyut jantung saat olahraga adalah meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "teks": "Fungsi jantung adalah mencerna makanan."
+        },
+        {
+          "teks": "Bilik jantung adalah memompa darah keluar dari jantung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; fungsi jantung yang tepat adalah memompa darah ke seluruh tubuh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p4-q15"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Pembuluh kapiler"
+        },
+        {
+          "teks": "Denyut jantung saat olahraga"
+        },
+        {
+          "teks": "Komponen darah"
+        },
+        {
+          "teks": "Fungsi jantung"
+        }
+      ],
+      "pilihan": [
+        "tempat pertukaran oksigen, karbon dioksida, dan zat lain",
+        "meningkat untuk mengirim lebih banyak oksigen ke otot",
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh"
+      ],
+      "kunci": [
+        "tempat pertukaran oksigen, karbon dioksida, dan zat lain",
+        "meningkat untuk mengirim lebih banyak oksigen ke otot",
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-sim-p4-q16"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Komponen darah"
+        },
+        {
+          "teks": "Fungsi jantung"
+        },
+        {
+          "teks": "Serambi jantung"
+        },
+        {
+          "teks": "Bilik jantung"
+        }
+      ],
+      "pilihan": [
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung",
+        "sel darah merah mengangkut oksigen"
+      ],
+      "kunci": [
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-sim-p4-q17"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Fungsi jantung",
+      "pertanyaan": "Isilah dengan tepat: Fungsi jantung adalah ....",
+      "kunci": [
+        "memompa darah ke seluruh tubuh"
+      ],
+      "kataKunci": [
+        "memompa darah ke seluruh tubuh"
+      ],
+      "pembahasan": "Jantung memompa darah agar oksigen dan zat makanan diedarkan ke seluruh tubuh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-sim-p4-q18"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Serambi jantung",
+      "pertanyaan": "Isilah dengan tepat: Serambi jantung adalah ....",
+      "kunci": [
+        "menerima darah yang masuk ke jantung"
+      ],
+      "kataKunci": [
+        "menerima darah yang masuk ke jantung"
+      ],
+      "pembahasan": "Serambi atau atrium menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-sim-p4-q19"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Serambi jantung",
+      "pertanyaan": "Apa fungsi serambi jantung?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menerima darah yang masuk ke jantung"
+        },
+        {
+          "id": "B",
+          "teks": "memompa darah keluar dengan tekanan utama"
+        },
+        {
+          "id": "C",
+          "teks": "menyaring urine"
+        },
+        {
+          "id": "D",
+          "teks": "menghasilkan sel saraf"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Serambi atau atrium menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 2,
+      "id": "ipas-sim-p4-q20"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bilik jantung",
+      "pertanyaan": "Apa fungsi bilik jantung?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menerima udara dari paru-paru"
+        },
+        {
+          "id": "B",
+          "teks": "membuat sel darah"
+        },
+        {
+          "id": "C",
+          "teks": "menyimpan makanan"
+        },
+        {
+          "id": "D",
+          "teks": "memompa darah keluar dari jantung"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Bilik atau ventrikel memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "ipas-sim-p4-q21"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Fungsi jantung: menghasilkan udara."
+        },
+        {
+          "id": "B",
+          "teks": "Pembuluh vena: membawa darah kembali menuju jantung."
+        },
+        {
+          "id": "C",
+          "teks": "Pembuluh kapiler: tempat pertukaran oksigen, karbon dioksida, dan zat lain."
+        },
+        {
+          "id": "D",
+          "teks": "Denyut jantung saat olahraga: meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "id": "E",
+          "teks": "Komponen darah: sel darah merah mencerna makanan."
+        }
+      ],
+      "kunci": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p4-q22"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Pembuluh kapiler: tempat pertukaran oksigen, karbon dioksida, dan zat lain."
+        },
+        {
+          "id": "B",
+          "teks": "Denyut jantung saat olahraga: meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "id": "C",
+          "teks": "Komponen darah: sel darah merah mengangkut oksigen."
+        },
+        {
+          "id": "D",
+          "teks": "Fungsi jantung: mencerna makanan."
+        },
+        {
+          "id": "E",
+          "teks": "Serambi jantung: menyaring urine."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p4-q23"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Denyut jantung saat olahraga adalah meningkat untuk mengirim lebih banyak oksigen ke otot."
+        },
+        {
+          "teks": "Fungsi jantung adalah mencerna makanan."
+        },
+        {
+          "teks": "Bilik jantung adalah memompa darah keluar dari jantung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; fungsi jantung yang tepat adalah memompa darah ke seluruh tubuh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p4-q24"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Komponen darah adalah sel darah merah mengangkut oksigen."
+        },
+        {
+          "teks": "Serambi jantung adalah memompa darah keluar dengan tekanan utama."
+        },
+        {
+          "teks": "Pembuluh arteri adalah membawa darah keluar dari jantung."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; serambi jantung yang tepat adalah menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "ipas-sim-p4-q25"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Denyut jantung saat olahraga"
+        },
+        {
+          "teks": "Komponen darah"
+        },
+        {
+          "teks": "Fungsi jantung"
+        },
+        {
+          "teks": "Serambi jantung"
+        }
+      ],
+      "pilihan": [
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung",
+        "meningkat untuk mengirim lebih banyak oksigen ke otot"
+      ],
+      "kunci": [
+        "meningkat untuk mengirim lebih banyak oksigen ke otot",
+        "sel darah merah mengangkut oksigen",
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-sim-p4-q26"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Fungsi jantung"
+        },
+        {
+          "teks": "Serambi jantung"
+        },
+        {
+          "teks": "Bilik jantung"
+        },
+        {
+          "teks": "Pembuluh arteri"
+        }
+      ],
+      "pilihan": [
+        "memompa darah keluar dari jantung",
+        "membawa darah keluar dari jantung",
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung"
+      ],
+      "kunci": [
+        "memompa darah ke seluruh tubuh",
+        "menerima darah yang masuk ke jantung",
+        "memompa darah keluar dari jantung",
+        "membawa darah keluar dari jantung"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "ipas-sim-p4-q27"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Serambi jantung",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Serambi jantung?",
+      "kunci": [
+        "menerima darah yang masuk ke jantung"
+      ],
+      "kataKunci": [
+        "menerima darah yang masuk ke jantung"
+      ],
+      "pembahasan": "Serambi atau atrium menerima darah yang masuk ke jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-sim-p4-q28"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "Bilik jantung",
+      "pertanyaan": "Apa jawaban singkat yang tepat untuk konsep berikut: Bilik jantung?",
+      "kunci": [
+        "memompa darah keluar dari jantung"
+      ],
+      "kataKunci": [
+        "memompa darah keluar dari jantung"
+      ],
+      "pembahasan": "Bilik atau ventrikel memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "ipas-sim-p4-q29"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "Bilik jantung",
+      "pertanyaan": "Bagian jantung yang mendorong darah keluar disebut apa?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menerima udara dari paru-paru"
+        },
+        {
+          "id": "B",
+          "teks": "membuat sel darah"
+        },
+        {
+          "id": "C",
+          "teks": "menyimpan makanan"
+        },
+        {
+          "id": "D",
+          "teks": "memompa darah keluar dari jantung"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Bilik atau ventrikel memompa darah keluar dari jantung.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "ipas-sim-p4-q30"
+    }
+  ]
+}

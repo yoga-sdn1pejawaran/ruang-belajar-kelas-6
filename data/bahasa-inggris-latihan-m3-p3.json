@@ -1,0 +1,290 @@
+{
+  "id": "bahasa-inggris-latihan-m3-p3",
+  "mataPelajaran": "Bahasa Inggris",
+  "semester": 1,
+  "mode": "Latihan Per Materi",
+  "materi": "Kalimat Negatif: Do Not dan Does Not",
+  "paket": 3,
+  "judul": "Kalimat Negatif: Do Not dan Does Not • Paket 3",
+  "durasiMenit": 0,
+  "soal": [
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "He + does not + V1",
+      "pertanyaan": "Which sentence is correct with he?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "He do not drink tea."
+        },
+        {
+          "id": "B",
+          "teks": "He does not drinks tea."
+        },
+        {
+          "id": "C",
+          "teks": "He not drinks tea."
+        },
+        {
+          "id": "D",
+          "teks": "He does not drink tea."
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "Use does not + base verb with he.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-m3-p3-q1"
+    },
+    {
+      "jenis": "pilihan_ganda",
+      "indikator": "She + doesn’t + V1",
+      "pertanyaan": "What is the correct negative form for she?",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "She doesn’t cooks on Sunday."
+        },
+        {
+          "id": "B",
+          "teks": "She not cook on Sunday."
+        },
+        {
+          "id": "C",
+          "teks": "She doesn’t cook on Sunday."
+        },
+        {
+          "id": "D",
+          "teks": "She don’t cooks on Sunday."
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "Doesn’t is used with she, followed by V1 without -s.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2,
+      "id": "bahasa-inggris-m3-p3-q2"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Do not contraction: don’t."
+        },
+        {
+          "id": "B",
+          "teks": "Does not contraction: doesn’t."
+        },
+        {
+          "id": "C",
+          "teks": "Negative sentence order: subject + do/does + not + Verb 1."
+        },
+        {
+          "id": "D",
+          "teks": "I + do not + V1: I does not eat spicy food.."
+        },
+        {
+          "id": "E",
+          "teks": "They + do not + V1: They do not plays tennis.."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m3-p3-q3"
+    },
+    {
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menganalisis beberapa pernyataan terkait materi",
+      "pertanyaan": "Pilih tepat tiga pernyataan yang benar berdasarkan materi yang dipelajari.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Negative sentence order: subject + do/does + not + Verb 1."
+        },
+        {
+          "id": "B",
+          "teks": "I + do not + V1: I do not eat spicy food.."
+        },
+        {
+          "id": "C",
+          "teks": "They + do not + V1: They does not play tennis.."
+        },
+        {
+          "id": "D",
+          "teks": "He + does not + V1: He does not drinks tea.."
+        },
+        {
+          "id": "E",
+          "teks": "Does not contraction: doesn’t."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pembahasan": "Pilih tiga pernyataan yang sesuai dengan konsep. Pernyataan lain mengandung kekeliruan konsep.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m3-p3-q4"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "Negative sentence order adalah subject + do/does + not + Verb 1."
+        },
+        {
+          "teks": "They + do not + V1 adalah They does not play tennis.."
+        },
+        {
+          "teks": "She + doesn’t + V1 adalah She doesn’t cook on Sunday.."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; they + do not + v1 yang tepat adalah They do not play tennis..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m3-p3-q5"
+    },
+    {
+      "jenis": "benar_salah",
+      "indikator": "Menilai ketepatan pernyataan berdasarkan konsep",
+      "pertanyaan": "Tentukan Benar atau Salah pada setiap pernyataan berikut.",
+      "pernyataan": [
+        {
+          "teks": "I + do not + V1 adalah I do not eat spicy food.."
+        },
+        {
+          "teks": "He + does not + V1 adalah He do not drink tea.."
+        },
+        {
+          "teks": "Verb setelah doesn’t adalah doesn’t go."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga benar karena sesuai konsep. Pernyataan kedua salah; he + does not + v1 yang tepat adalah He does not drink tea..",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6,
+      "id": "bahasa-inggris-m3-p3-q6"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "Negative sentence order"
+        },
+        {
+          "teks": "I + do not + V1"
+        },
+        {
+          "teks": "They + do not + V1"
+        },
+        {
+          "teks": "He + does not + V1"
+        }
+      ],
+      "pilihan": [
+        "They do not play tennis.",
+        "He does not drink tea.",
+        "subject + do/does + not + Verb 1",
+        "I do not eat spicy food."
+      ],
+      "kunci": [
+        "subject + do/does + not + Verb 1",
+        "I do not eat spicy food.",
+        "They do not play tennis.",
+        "He does not drink tea."
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-m3-p3-q7"
+    },
+    {
+      "jenis": "menjodohkan",
+      "indikator": "Memasangkan istilah dengan pengertian atau fungsi",
+      "pertanyaan": "Pasangkan setiap istilah di sebelah kiri dengan pengertian yang tepat di sebelah kanan.",
+      "pasangan": [
+        {
+          "teks": "They + do not + V1"
+        },
+        {
+          "teks": "He + does not + V1"
+        },
+        {
+          "teks": "She + doesn’t + V1"
+        },
+        {
+          "teks": "Verb setelah doesn’t"
+        }
+      ],
+      "pilihan": [
+        "doesn’t go",
+        "They do not play tennis.",
+        "He does not drink tea.",
+        "She doesn’t cook on Sunday."
+      ],
+      "kunci": [
+        "They do not play tennis.",
+        "He does not drink tea.",
+        "She doesn’t cook on Sunday.",
+        "doesn’t go"
+      ],
+      "pembahasan": "Setiap istilah dipasangkan dengan pengertian atau fungsi yang sesuai.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4,
+      "id": "bahasa-inggris-m3-p3-q8"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "He + does not + V1",
+      "pertanyaan": "Lengkapi pernyataan berikut: He + does not + V1 berarti ....",
+      "kunci": [
+        "He does not drink tea."
+      ],
+      "kataKunci": [
+        "He does not drink tea."
+      ],
+      "pembahasan": "Use does not + base verb with he.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-m3-p3-q9"
+    },
+    {
+      "jenis": "isian",
+      "indikator": "She + doesn’t + V1",
+      "pertanyaan": "Lengkapi pernyataan berikut: She + doesn’t + V1 berarti ....",
+      "kunci": [
+        "She doesn’t cook on Sunday."
+      ],
+      "kataKunci": [
+        "She doesn’t cook on Sunday."
+      ],
+      "pembahasan": "Doesn’t is used with she, followed by V1 without -s.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5,
+      "id": "bahasa-inggris-m3-p3-q10"
+    }
+  ]
+}

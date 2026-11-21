@@ -1,0 +1,804 @@
+{
+  "id": "BI-SIMULASI-P5",
+  "mataPelajaran": "Bahasa Indonesia",
+  "mode": "Simulasi ASAS",
+  "materi": "Gabungan 5 kelompok materi Bahasa Indonesia",
+  "paket": 5,
+  "judul": "Simulasi ASAS Bahasa Indonesia • Paket 5",
+  "durasiMenit": 75,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; uraian diperiksa guru menggunakan rubrik.",
+  "soal": [
+    {
+      "id": "BI-S5-01",
+      "jenis": "pilihan_ganda",
+      "indikator": "Unsur cerita narasi",
+      "pertanyaan": "Bacalah teks berikut:\n\nPada Minggu pagi, Rani mengikuti kegiatan bersih desa. Ia melihat warga bekerja sama membersihkan balai desa. Setelah selesai, Rani mengisi formulir pendaftaran lomba membaca puisi yang diadakan oleh panitia.\n\nSiapakah tokoh utama dalam teks tersebut?\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Panitia"
+        },
+        {
+          "id": "B",
+          "teks": "Rani"
+        },
+        {
+          "id": "C",
+          "teks": "Warga"
+        },
+        {
+          "id": "D",
+          "teks": "Kepala desa"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Rani menjadi tokoh yang melakukan rangkaian peristiwa dalam teks.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-S5-02",
+      "jenis": "benar_salah",
+      "indikator": "Memahami informasi narasi",
+      "pertanyaan": "Berdasarkan teks:\n\nPada Minggu pagi, Rani mengikuti kegiatan bersih desa. Ia melihat warga bekerja sama membersihkan balai desa. Setelah selesai, Rani mengisi formulir pendaftaran lomba membaca puisi yang diadakan oleh panitia.",
+      "pernyataan": [
+        {
+          "teks": "Kegiatan berlangsung pada Minggu pagi."
+        },
+        {
+          "teks": "Rani mengikuti lomba menyanyi."
+        },
+        {
+          "teks": "Rani mengisi formulir pendaftaran lomba puisi."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Pernyataan pertama dan ketiga sesuai teks, sedangkan kegiatan yang diikuti adalah lomba membaca puisi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-S5-03",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Mengidentifikasi unsur cerita",
+      "pertanyaan": "Dari teks:\n\nPada Minggu pagi, Rani mengikuti kegiatan bersih desa. Ia melihat warga bekerja sama membersihkan balai desa. Setelah selesai, Rani mengisi formulir pendaftaran lomba membaca puisi yang diadakan oleh panitia. Pilih tiga informasi yang tepat.\n\nPilih tepat tiga jawaban yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Tokoh yang disebut adalah Rani."
+        },
+        {
+          "id": "B",
+          "teks": "Latar waktu Minggu pagi."
+        },
+        {
+          "id": "C",
+          "teks": "Kegiatan warga membersihkan balai desa."
+        },
+        {
+          "id": "D",
+          "teks": "Rani mengisi formulir lomba melukis."
+        },
+        {
+          "id": "E",
+          "teks": "Peristiwa berlangsung di pasar."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pembahasan": "Ketiga pilihan tersebut dinyatakan secara langsung dalam teks.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-S5-04",
+      "jenis": "uraian",
+      "indikator": "Menentukan amanat cerita",
+      "pertanyaan": "Tuliskan satu amanat yang dapat diambil dari teks berikut:\n\nPada Minggu pagi, Rani mengikuti kegiatan bersih desa. Ia melihat warga bekerja sama membersihkan balai desa. Setelah selesai, Rani mengisi formulir pendaftaran lomba membaca puisi yang diadakan oleh panitia.",
+      "kunci": "Kita perlu bekerja sama dan berpartisipasi dalam kegiatan masyarakat.",
+      "rubrik": [
+        "Jawaban sesuai isi dan perintah soal (2 poin)",
+        "Informasi/unsur penting lengkap (2 poin)",
+        "Kalimat runtut dan mudah dipahami (1 poin)"
+      ],
+      "pembahasan": "Amanat harus sesuai tindakan tokoh dan peristiwa.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "BI-S5-05",
+      "jenis": "uraian",
+      "indikator": "Menjelaskan tujuan formulir",
+      "pertanyaan": "Panitia lomba meminta peserta mengisi nama, kelas, alamat, dan nomor telepon. Apa tujuan penggunaan formulir tersebut?",
+      "kunci": "Mengumpulkan data peserta secara teratur untuk keperluan pendaftaran.",
+      "rubrik": [
+        "Jawaban sesuai isi dan perintah soal (2 poin)",
+        "Informasi/unsur penting lengkap (2 poin)",
+        "Kalimat runtut dan mudah dipahami (1 poin)"
+      ],
+      "pembahasan": "Formulir membantu panitia memperoleh data peserta.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "BI-S5-06",
+      "jenis": "benar_salah",
+      "indikator": "Mengenali bagian formulir",
+      "pertanyaan": "Perhatikan bagian formulir pendaftaran.",
+      "pernyataan": [
+        {
+          "teks": "Nama peserta merupakan identitas pendaftar."
+        },
+        {
+          "teks": "Kolom tanda tangan dapat digunakan sebagai pengesahan."
+        },
+        {
+          "teks": "Kolom alamat tidak berkaitan dengan data peserta."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Nama dan tanda tangan merupakan bagian yang lazim; alamat termasuk data peserta.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-S5-07",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan objek wawancara",
+      "pertanyaan": "Seorang siswa ingin mengetahui cara petani merawat tanaman padi. Narasumber yang paling tepat adalah ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "dokter"
+        },
+        {
+          "id": "B",
+          "teks": "petani"
+        },
+        {
+          "id": "C",
+          "teks": "pedagang pakaian"
+        },
+        {
+          "id": "D",
+          "teks": "sopir"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Petani memiliki pengalaman langsung merawat tanaman padi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-S5-08",
+      "jenis": "benar_salah",
+      "indikator": "Memahami laporan wawancara",
+      "pertanyaan": "Laporan wawancara tentang pengelolaan sampah di sekolah.",
+      "pernyataan": [
+        {
+          "teks": "Objek wawancara dapat berupa pengelolaan sampah."
+        },
+        {
+          "teks": "Jawaban narasumber boleh diubah agar sesuai pendapat pewawancara."
+        },
+        {
+          "teks": "Informasi laporan harus sesuai hasil wawancara."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "salah",
+        "benar"
+      ],
+      "pembahasan": "Laporan harus menyampaikan informasi secara jujur dan sesuai jawaban narasumber.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-S5-09",
+      "jenis": "menjodohkan",
+      "indikator": "Struktur laporan wawancara",
+      "pertanyaan": "Pasangkan bagian laporan dengan isinya.",
+      "pasangan": [
+        {
+          "teks": "Tujuan"
+        },
+        {
+          "teks": "Waktu dan tempat"
+        },
+        {
+          "teks": "Identitas narasumber"
+        },
+        {
+          "teks": "Hasil wawancara"
+        }
+      ],
+      "pilihan": [
+        "Nama dan pekerjaan narasumber",
+        "Informasi dari tanya jawab",
+        "Alasan kegiatan dilakukan",
+        "Kapan dan di mana kegiatan berlangsung"
+      ],
+      "kunci": [
+        "C",
+        "D",
+        "A",
+        "B"
+      ],
+      "pembahasan": "Setiap bagian memiliki fungsi berbeda dalam laporan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "BI-S5-10",
+      "jenis": "uraian",
+      "indikator": "Mengurutkan langkah wawancara",
+      "pertanyaan": "Tuliskan lima langkah melakukan wawancara secara runtut.",
+      "kunci": "Menentukan topik/tujuan; memilih narasumber; menyusun pertanyaan; membuat janji/menyiapkan alat; melakukan wawancara dan mencatat jawaban.",
+      "rubrik": [
+        "Jawaban sesuai isi dan perintah soal (2 poin)",
+        "Informasi/unsur penting lengkap (2 poin)",
+        "Kalimat runtut dan mudah dipahami (1 poin)"
+      ],
+      "pembahasan": "Urutan dinilai dari kelengkapan dan keruntutan langkah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "BI-S5-11",
+      "jenis": "pilihan_ganda",
+      "indikator": "Memahami teks biografi",
+      "pertanyaan": "Teks biografi terutama berisi ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "petunjuk membuat benda"
+        },
+        {
+          "id": "B",
+          "teks": "riwayat hidup seseorang berdasarkan fakta"
+        },
+        {
+          "id": "C",
+          "teks": "percakapan khayalan hewan"
+        },
+        {
+          "id": "D",
+          "teks": "daftar harga barang"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Biografi menyajikan perjalanan hidup seseorang berdasarkan fakta.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-S5-12",
+      "jenis": "benar_salah",
+      "indikator": "Mengidentifikasi isi biografi",
+      "pertanyaan": "B.J. Habibie dikenal atas kiprahnya dalam bidang teknologi penerbangan.",
+      "pernyataan": [
+        {
+          "teks": "Biografi memuat fakta perjalanan hidup tokoh."
+        },
+        {
+          "teks": "Prestasi tokoh dapat menjadi informasi penting biografi."
+        },
+        {
+          "teks": "Semua isi biografi merupakan khayalan penulis."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Biografi bersifat faktual, bukan cerita khayalan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-S5-13",
+      "jenis": "pilihan_ganda",
+      "indikator": "Memahami makna kata dalam fabel",
+      "pertanyaan": "Dalam kalimat “Kancil kehausan”, kata kehausan berarti ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "merasa sangat lapar"
+        },
+        {
+          "id": "B",
+          "teks": "merasa membutuhkan air"
+        },
+        {
+          "id": "C",
+          "teks": "merasa mengantuk"
+        },
+        {
+          "id": "D",
+          "teks": "merasa kedinginan"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Kehausan berarti mengalami rasa haus atau membutuhkan air.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-S5-14",
+      "jenis": "menjodohkan",
+      "indikator": "Mengidentifikasi majas",
+      "pertanyaan": "Pasangkan kalimat dengan jenis majasnya.",
+      "pasangan": [
+        {
+          "teks": "Angin malam berbisik di telingaku."
+        },
+        {
+          "teks": "Dia adalah bintang kelas."
+        },
+        {
+          "teks": "Wajahnya bersinar seperti bulan."
+        },
+        {
+          "teks": "Aku menunggumu seribu tahun."
+        }
+      ],
+      "pilihan": [
+        "Hiperbola",
+        "Metafora",
+        "Personifikasi",
+        "Asosiasi"
+      ],
+      "kunci": [
+        "C",
+        "B",
+        "D",
+        "A"
+      ],
+      "pembahasan": "Personifikasi memberi sifat manusia; metafora membandingkan langsung; asosiasi memakai kata seperti; hiperbola melebih-lebihkan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "BI-S5-15",
+      "jenis": "benar_salah",
+      "indikator": "Memahami isi fabel",
+      "pertanyaan": "Cerita fabel tentang hewan yang saling menolong.",
+      "pernyataan": [
+        {
+          "teks": "Tokoh fabel biasanya berupa hewan."
+        },
+        {
+          "teks": "Fabel dapat menyampaikan amanat."
+        },
+        {
+          "teks": "Fabel selalu berisi laporan hasil pengamatan ilmiah."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Fabel adalah cerita, bukan laporan ilmiah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-S5-16",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan makna majas",
+      "pertanyaan": "Makna ungkapan “tulang punggung keluarga” adalah ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "orang yang suka olahraga"
+        },
+        {
+          "id": "B",
+          "teks": "orang yang menjadi penopang utama keluarga"
+        },
+        {
+          "id": "C",
+          "teks": "orang yang sakit tulang"
+        },
+        {
+          "id": "D",
+          "teks": "orang yang bekerja di rumah sakit"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Ungkapan tersebut merupakan metafora bagi orang yang menjadi penopang keluarga.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-S5-17",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Mengidentifikasi majas",
+      "pertanyaan": "Pilih tiga kalimat yang menggunakan majas personifikasi.\n\nPilih tepat tiga jawaban yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Daun-daun menari tertiup angin."
+        },
+        {
+          "id": "B",
+          "teks": "Matahari tersenyum menyambut pagi."
+        },
+        {
+          "id": "C",
+          "teks": "Air sungai mengalir ke laut."
+        },
+        {
+          "id": "D",
+          "teks": "Ombak berkejaran menuju pantai."
+        },
+        {
+          "id": "E",
+          "teks": "Ibu membeli sayur di pasar."
+        }
+      ],
+      "kunci": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pembahasan": "Daun, matahari, dan ombak digambarkan melakukan tindakan seperti manusia.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-S5-18",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan jenis majas",
+      "pertanyaan": "“Suaranya menggelegar membelah langit.” Kalimat tersebut menggunakan majas ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "metafora"
+        },
+        {
+          "id": "B",
+          "teks": "hiperbola"
+        },
+        {
+          "id": "C",
+          "teks": "asosiasi"
+        },
+        {
+          "id": "D",
+          "teks": "personifikasi"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Ungkapan membelah langit merupakan pernyataan berlebihan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-S5-19",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan tujuan teks eksplanasi",
+      "pertanyaan": "Tujuan utama teks eksplanasi adalah ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "menghibur melalui tokoh khayalan"
+        },
+        {
+          "id": "B",
+          "teks": "menjelaskan proses terjadinya fenomena"
+        },
+        {
+          "id": "C",
+          "teks": "menawarkan barang"
+        },
+        {
+          "id": "D",
+          "teks": "mengajak membeli produk"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Teks eksplanasi menjelaskan bagaimana atau mengapa fenomena terjadi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-S5-20",
+      "jenis": "benar_salah",
+      "indikator": "Mengenali struktur eksplanasi",
+      "pertanyaan": "Struktur teks eksplanasi.",
+      "pernyataan": [
+        {
+          "teks": "Pernyataan umum memperkenalkan fenomena."
+        },
+        {
+          "teks": "Deretan penjelas memuat proses atau sebab-akibat."
+        },
+        {
+          "teks": "Teks eksplanasi harus selalu memiliki tokoh utama."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Teks eksplanasi menjelaskan fenomena, bukan selalu menceritakan tokoh.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-S5-21",
+      "jenis": "menjodohkan",
+      "indikator": "Konjungsi sebab-akibat dan urutan",
+      "pertanyaan": "Pasangkan kata hubung dengan fungsinya.",
+      "pasangan": [
+        {
+          "teks": "Karena"
+        },
+        {
+          "teks": "Sehingga"
+        },
+        {
+          "teks": "Kemudian"
+        },
+        {
+          "teks": "Akhirnya"
+        }
+      ],
+      "pilihan": [
+        "Penanda urutan tahap berikutnya",
+        "Penanda akibat",
+        "Penanda sebab",
+        "Penanda tahap akhir"
+      ],
+      "kunci": [
+        "C",
+        "B",
+        "A",
+        "D"
+      ],
+      "pembahasan": "Karena menandai sebab; sehingga akibat; kemudian urutan; akhirnya tahap akhir.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "BI-S5-22",
+      "jenis": "uraian",
+      "indikator": "Menjelaskan hubungan sebab-akibat",
+      "pertanyaan": "Jelaskan mengapa saluran air yang tersumbat sampah dapat menyebabkan genangan.",
+      "kunci": "Sampah menghambat aliran air sehingga air tertahan dan meluap atau menggenang.",
+      "rubrik": [
+        "Jawaban sesuai isi dan perintah soal (2 poin)",
+        "Informasi/unsur penting lengkap (2 poin)",
+        "Kalimat runtut dan mudah dipahami (1 poin)"
+      ],
+      "pembahasan": "Jawaban memuat penyumbatan dan akibat terhadap aliran air.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "BI-S5-23",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menemukan gagasan utama",
+      "pertanyaan": "Gagasan utama paragraf adalah ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "rincian tambahan"
+        },
+        {
+          "id": "B",
+          "teks": "inti pembahasan paragraf"
+        },
+        {
+          "id": "C",
+          "teks": "judul buku"
+        },
+        {
+          "id": "D",
+          "teks": "nama penulis"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Gagasan utama merupakan inti paragraf.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-S5-24",
+      "jenis": "benar_salah",
+      "indikator": "Memahami informasi eksplanasi",
+      "pertanyaan": "Bacalah pernyataan tentang proses hujan.",
+      "pernyataan": [
+        {
+          "teks": "Air menguap karena panas matahari."
+        },
+        {
+          "teks": "Uap air mengalami pendinginan dan membentuk titik-titik air."
+        },
+        {
+          "teks": "Hujan terjadi karena awan berubah menjadi batu."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Proses hujan melibatkan penguapan, kondensasi, dan jatuhnya titik air.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-S5-25",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menentukan tema eksplanasi ilmiah",
+      "pertanyaan": "Teks yang menjelaskan bagaimana hujan meteor tampak bercahaya di langit bertema ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "kegiatan olahraga"
+        },
+        {
+          "id": "B",
+          "teks": "fenomena astronomi"
+        },
+        {
+          "id": "C",
+          "teks": "cara memasak"
+        },
+        {
+          "id": "D",
+          "teks": "permainan tradisional"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "Hujan meteor merupakan fenomena astronomi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-S5-26",
+      "jenis": "benar_salah",
+      "indikator": "Memahami informasi ilmiah",
+      "pertanyaan": "Berdasarkan penjelasan hujan meteor.",
+      "pernyataan": [
+        {
+          "teks": "Partikel sisa komet dapat memasuki atmosfer bumi."
+        },
+        {
+          "teks": "Gesekan dengan udara dapat membuat partikel berpijar."
+        },
+        {
+          "teks": "Semua meteor pasti mencapai permukaan bumi dalam keadaan utuh."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Banyak partikel meteor terbakar di atmosfer dan tidak mencapai permukaan bumi.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "BI-S5-27",
+      "jenis": "menjodohkan",
+      "indikator": "Struktur teks eksplanasi",
+      "pertanyaan": "Pasangkan bagian dengan fungsinya.",
+      "pasangan": [
+        {
+          "teks": "Pernyataan umum"
+        },
+        {
+          "teks": "Deretan penjelas"
+        },
+        {
+          "teks": "Penutup"
+        },
+        {
+          "teks": "Istilah ilmiah"
+        }
+      ],
+      "pilihan": [
+        "Kata khusus bidang ilmu",
+        "Memperkenalkan fenomena",
+        "Merangkum penjelasan",
+        "Menguraikan proses atau sebab-akibat"
+      ],
+      "kunci": [
+        "B",
+        "D",
+        "C",
+        "A"
+      ],
+      "pembahasan": "Setiap unsur memiliki peran dalam penyajian penjelasan ilmiah.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "BI-S5-28",
+      "jenis": "uraian",
+      "indikator": "Menjelaskan proses ilmiah",
+      "pertanyaan": "Jelaskan secara singkat mengapa meteor tampak bercahaya ketika memasuki atmosfer.",
+      "kunci": "Gesekan antara partikel meteor dan udara menghasilkan panas sehingga partikel berpijar/terbakar.",
+      "rubrik": [
+        "Jawaban sesuai isi dan perintah soal (2 poin)",
+        "Informasi/unsur penting lengkap (2 poin)",
+        "Kalimat runtut dan mudah dipahami (1 poin)"
+      ],
+      "pembahasan": "Jawaban harus menghubungkan gesekan, panas, dan cahaya.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "BI-S5-29",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menemukan gagasan utama",
+      "pertanyaan": "Kalimat yang paling tepat menjadi gagasan utama paragraf tentang banjir adalah ....\n\nPilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Banjir dapat dipengaruhi faktor alam dan aktivitas manusia."
+        },
+        {
+          "id": "B",
+          "teks": "Semua orang menyukai hujan."
+        },
+        {
+          "id": "C",
+          "teks": "Sungai selalu kering pada musim hujan."
+        },
+        {
+          "id": "D",
+          "teks": "Sampah tidak pernah menyumbat saluran."
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "Gagasan utama merangkum pokok penjelasan tentang penyebab banjir.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "BI-S5-30",
+      "jenis": "benar_salah",
+      "indikator": "Menganalisis sebab-akibat banjir",
+      "pertanyaan": "Pernyataan terkait banjir.",
+      "pernyataan": [
+        {
+          "teks": "Curah hujan tinggi dapat meningkatkan volume air."
+        },
+        {
+          "teks": "Daerah resapan yang berkurang dapat memperbesar limpasan air."
+        },
+        {
+          "teks": "Membuang sampah ke sungai selalu memperlancar aliran air."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "salah"
+      ],
+      "pembahasan": "Hujan tinggi dan berkurangnya resapan dapat meningkatkan risiko banjir; sampah dapat menyumbat aliran.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    }
+  ]
+}

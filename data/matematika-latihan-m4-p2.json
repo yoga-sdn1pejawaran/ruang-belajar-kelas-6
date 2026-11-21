@@ -1,0 +1,265 @@
+{
+  "id": "matematika-latihan-m4-p2",
+  "mataPelajaran": "Matematika",
+  "mode": "Latihan Per Materi",
+  "materi": "Bilangan Desimal dan Persen",
+  "paket": 2,
+  "judul": "Bilangan Desimal dan Persen • Paket 2",
+  "durasiMenit": 0,
+  "skorPerSoal": "PG 2; PG kompleks maksimal 6; Benar/Salah maksimal 6; menjodohkan maksimal 4; isian angka 5.",
+  "soal": [
+    {
+      "id": "MTK-M4P2-01-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah desimal menjadi persen",
+      "pertanyaan": "Ubah 0,18 menjadi persen. Tuliskan angka persennya saja tanpa tanda %. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "19"
+        },
+        {
+          "id": "B",
+          "teks": "17"
+        },
+        {
+          "id": "C",
+          "teks": "20"
+        },
+        {
+          "id": "D",
+          "teks": "18"
+        }
+      ],
+      "kunci": "D",
+      "pembahasan": "0,18 × 100% = 18%. Jadi, jawaban yang benar adalah 18.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M4P2-02-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengubah persen menjadi desimal",
+      "pertanyaan": "Ubah 24% menjadi bilangan desimal. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "-0,76"
+        },
+        {
+          "id": "B",
+          "teks": "2,24"
+        },
+        {
+          "id": "C",
+          "teks": "0,24"
+        },
+        {
+          "id": "D",
+          "teks": "1,24"
+        }
+      ],
+      "kunci": "C",
+      "pembahasan": "24% = 24/100 = 0,24. Jadi, jawaban yang benar adalah 0,24.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M4P2-03-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Menjumlahkan bilangan desimal",
+      "pertanyaan": "Hitung 2,35 + 4,7. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "9,05"
+        },
+        {
+          "id": "B",
+          "teks": "7,05"
+        },
+        {
+          "id": "C",
+          "teks": "8,05"
+        },
+        {
+          "id": "D",
+          "teks": "6,05"
+        }
+      ],
+      "kunci": "B",
+      "pembahasan": "2,35 + 4,7 = 7,05. Jadi, jawaban yang benar adalah 7,05.",
+      "tingkatKesulitan": "mudah",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M4P2-04-PG",
+      "jenis": "pilihan_ganda",
+      "indikator": "Mengurangkan bilangan desimal",
+      "pertanyaan": "Hitung 6,1 − 1,175. Pilih satu jawaban yang tepat.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "4,925"
+        },
+        {
+          "id": "B",
+          "teks": "5,925"
+        },
+        {
+          "id": "C",
+          "teks": "3,925"
+        },
+        {
+          "id": "D",
+          "teks": "6,925"
+        }
+      ],
+      "kunci": "A",
+      "pembahasan": "6,1 − 1,175 = 4,925. Jadi, jawaban yang benar adalah 4,925.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 2
+    },
+    {
+      "id": "MTK-M4P2-05-BS",
+      "jenis": "benar_salah",
+      "indikator": "Mengalikan bilangan desimal",
+      "pertanyaan": "Harga buku Rp80.000 mendapat potongan 25%. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Potongan harga adalah Rp20.000."
+        },
+        {
+          "teks": "Harga setelah potongan Rp60.000."
+        },
+        {
+          "teks": "25% sama dengan seperempat."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "25% × 80.000 = 20.000; harga akhir 60.000.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M4P2-06-BS",
+      "jenis": "benar_salah",
+      "indikator": "Membagi bilangan desimal",
+      "pertanyaan": "Harga buku Rp80.000 mendapat potongan 25%. Tentukan Benar atau Salah untuk setiap pernyataan.",
+      "pernyataan": [
+        {
+          "teks": "Potongan harga adalah Rp20.000."
+        },
+        {
+          "teks": "Harga setelah potongan Rp60.000."
+        },
+        {
+          "teks": "25% sama dengan seperempat."
+        }
+      ],
+      "kunci": [
+        "benar",
+        "benar",
+        "benar"
+      ],
+      "pembahasan": "25% × 80.000 = 20.000; harga akhir 60.000.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M4P2-07-PGK",
+      "jenis": "pilihan_ganda_kompleks",
+      "indikator": "Menghitung persen dari suatu jumlah",
+      "pertanyaan": "Harga tas Rp200.000 mendapat diskon 10%. Pilih tiga pernyataan yang benar.",
+      "opsi": [
+        {
+          "id": "A",
+          "teks": "Diskonnya Rp10.000."
+        },
+        {
+          "id": "B",
+          "teks": "Harga setelah diskon Rp180.000."
+        },
+        {
+          "id": "C",
+          "teks": "Harga setelah diskon Rp190.000."
+        },
+        {
+          "id": "D",
+          "teks": "Diskonnya Rp20.000."
+        },
+        {
+          "id": "E",
+          "teks": "10% sama dengan 1/10."
+        }
+      ],
+      "kunci": [
+        "B",
+        "D",
+        "E"
+      ],
+      "pembahasan": "10% × Rp200.000 = Rp20.000. Harga akhir Rp180.000.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 6
+    },
+    {
+      "id": "MTK-M4P2-08-JODOH",
+      "jenis": "menjodohkan",
+      "indikator": "Mengubah pecahan menjadi desimal",
+      "pertanyaan": "Pasangkan setiap soal di kolom kiri dengan hasil yang tepat di kolom kanan.",
+      "pasangan": [
+        {
+          "teks": "Berapakah 15% dari 360?"
+        },
+        {
+          "teks": "Ubah pecahan 5/12 menjadi desimal. Bulatkan sampai 2 angka di belakang koma."
+        },
+        {
+          "teks": "Urutkan 0,18; 0,24; dan 0,21 dari yang terkecil. Tuliskan bilangan terkecil dalam bentuk perseratus."
+        },
+        {
+          "teks": "Ubah 24% menjadi bilangan desimal."
+        }
+      ],
+      "pilihan": [
+        "0,42",
+        "18",
+        "0,24",
+        "54"
+      ],
+      "kunci": [
+        "54",
+        "0,42",
+        "18",
+        "0,24"
+      ],
+      "pembahasan": "Pasangkan setiap soal dengan hasil perhitungan yang sesuai. Periksa kembali setiap hasil sebelum melanjutkan.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 4
+    },
+    {
+      "id": "MTK-M4P2-09",
+      "jenis": "isian_angka",
+      "indikator": "Membandingkan dan mengurutkan desimal",
+      "pertanyaan": "Urutkan 0,18; 0,24; dan 0,21 dari yang terkecil. Tuliskan bilangan terkecil dalam bentuk perseratus.",
+      "kunci": 18,
+      "pembahasan": "Bilangan terkecil adalah 0,18, yaitu 18 perseratus.",
+      "tingkatKesulitan": "sedang",
+      "skorMaksimal": 5
+    },
+    {
+      "id": "MTK-M4P2-10",
+      "jenis": "isian_angka",
+      "indikator": "Menyelesaikan masalah diskon",
+      "pertanyaan": "Sebuah barang berharga Rp360,000. Barang mendapat diskon 15%. Berapa besar diskon dalam ribuan rupiah?",
+      "kunci": 54.0,
+      "pembahasan": "Diskon = 15% × 360 ribu rupiah = 54 ribu rupiah.",
+      "tingkatKesulitan": "sulit",
+      "skorMaksimal": 5
+    }
+  ]
+}
