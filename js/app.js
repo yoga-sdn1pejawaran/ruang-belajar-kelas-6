@@ -51,18 +51,10 @@ let intervalTimer = null;
 let latihanSelesai = false;
 let kunciTimerSimulasi = null;
 let nomorSoalAktif = 0;
-let waktuMulaiSimulasi = null;
-let jumlahPeringatanPindahTab = 0;
+let waktuMulaiPenilaian = 0;
 
-// Endpoint Web App Google Apps Script untuk rekap Simulasi ASAS.
-const GOOGLE_SHEETS_API_URL = "https://script.google.com/macros/s/AKfycbw7kCm4weAe94dAEB2cL-dHQoBHLp1_PLHvVZG4g9A73WHMcmLcQaFfPu5dgfZ2aTY/exec";
-
-// Hitung setiap kali siswa meninggalkan tab saat sedang mengerjakan simulasi.
-document.addEventListener("visibilitychange", () => {
-  if (document.hidden && modeBankAktif === "Simulasi ASAS" && !latihanSelesai && el.quiz && !el.quiz.hidden) {
-    jumlahPeringatanPindahTab++;
-  }
-});
+// Endpoint Google Apps Script untuk rekap nilai simulasi.
+const URL_REKAP_NILAI = "https://script.google.com/macros/s/AKfycbw7kCm4weAe94dAEB2cL-dHQoBHLp1_PLHvVZG4g9A73WHMcmLcQaFfPu5dgfZ2aTY/exec";
 
 function sembunyikanSemuaPanelPembelajaran() {
   [
@@ -154,10 +146,6 @@ function renderDaftarMateri() {
   });
   el.materialContent.appendChild(grid);
 }
-function normalisasiBarisMateri(teks) {
-  return String(teks ?? "").replace(/\\r\\n/g, "\n").replace(/\\n/g, "\n").replace(/\\r/g, "\n");
-}
-
 function renderDetailMateri(index) {
   const materi = daftarMateriCache[index];
   el.materialContent.innerHTML = "";
@@ -168,20 +156,20 @@ function renderDetailMateri(index) {
   el.materialContent.appendChild(back);
   const section = document.createElement("section"); section.className = "lesson-unit lesson-detail";
   const heading = document.createElement("h3"); heading.textContent = `Materi ${index+1}. ${materi.judul}`;
-  const intro = document.createElement("p"); intro.className = "lesson-intro"; intro.innerHTML = formatTeksMatematika(normalisasiBarisMateri(materi.pengantar || ""));
+  const intro = document.createElement("p"); intro.className = "lesson-intro"; intro.innerHTML = formatTeksMatematika(materi.pengantar || "");
   section.append(heading, intro);
   if (Array.isArray(materi.tujuan) && materi.tujuan.length) {
     const wrap=document.createElement("div"); wrap.className="lesson-part lesson-objectives";
     const h=document.createElement("h4"); h.textContent="Tujuan Pembelajaran";
     const ul=document.createElement("ul");
-    materi.tujuan.forEach(item=>{const li=document.createElement("li");li.innerHTML=formatTeksMatematika(normalisasiBarisMateri(item));ul.appendChild(li);});
+    materi.tujuan.forEach(item=>{const li=document.createElement("li");li.innerHTML=formatTeksMatematika(item);ul.appendChild(li);});
     wrap.append(h,ul);section.appendChild(wrap);
   }
   (materi.bagian || []).forEach(([judul, isi]) => {
     const part=document.createElement("div");part.className="lesson-part";
     const h=document.createElement("h4");h.textContent=judul;
     part.appendChild(h);
-    normalisasiBarisMateri(isi || "").split("\n").map(line=>line.trim()).filter(Boolean).forEach(line=>{
+    String(isi || "").split("\n").map(line=>line.trim()).filter(Boolean).forEach(line=>{
       if(line.startsWith("• ")){
         let list=part.lastElementChild;
         if(!list || list.tagName!=="UL"){list=document.createElement("ul");list.className="lesson-bullets";part.appendChild(list);}
@@ -282,7 +270,7 @@ async function mulaiBankDigital(namaFile, mode, paket, materi="") {
     const bank = await response.json();
     if (mapelTerpilih === "matematika" && mode === "Latihan Per Materi") {
       const judulBank = String(bank.judul || "")
-        .replace(/\s*•\s*(Latihan|Paket\s*\d+)\s*$/i, "")
+        .replace(/\\s*•\\s*(Latihan|Paket\\s*\\d+)\\s*$/i, "")
         .trim();
       if (bank.materi !== materi || judulBank !== materi) {
         throw new Error(
@@ -323,18 +311,12 @@ async function mulaiBankDigital(namaFile, mode, paket, materi="") {
     });
     bankAktif = bank;
     modeBankAktif = mode;
+    waktuMulaiPenilaian = Date.now();
     namaMateriAktif = materi;
     paketTerpilih = paket;
     soalAktif = [...bank.soal];
     nomorSoalAktif = 0;
     latihanSelesai = false;
-    if (mode === "Simulasi ASAS") {
-      waktuMulaiSimulasi = Date.now();
-      jumlahPeringatanPindahTab = 0;
-    } else {
-      waktuMulaiSimulasi = null;
-      jumlahPeringatanPindahTab = 0;
-    }
     topicSection.hidden = true;
     assessmentPackageSection.hidden = true;
     asasPackageSection.hidden = true;
@@ -360,6 +342,7 @@ async function mulaiBankDigital(namaFile, mode, paket, materi="") {
         localStorage.setItem(kunciTimerSimulasi, String(mulaiPada));
       }
       const durasiSimulasiMenit = Number(bank.durasiMenit) || (mapelTerpilih === "matematika" ? 70 : mapelTerpilih === "ipas" || mapelTerpilih === "bahasa-indonesia" ? 40 : 75);
+      waktuMulaiPenilaian = mulaiPada;
       sisaDetik = Math.max(0, durasiSimulasiMenit*60 - Math.floor((Date.now()-mulaiPada)/1000));
       const menitAwal = Math.floor(sisaDetik/60);
       const detikAwal = sisaDetik%60;
@@ -493,8 +476,7 @@ $("asasButton").addEventListener("click", () => {
   $("asasPackageTitle").textContent = "Simulasi " + namaMapel;
   const grid = $("asasPackageGrid");
   grid.innerHTML = "";
-  // Kesepakatan proyek: setiap mata pelajaran menyediakan tepat 2 paket simulasi.
-  const jumlahSimulasi = 2;
+  const jumlahSimulasi = 5;
   for (let n=1;n<=jumlahSimulasi;n++) {
     const button = document.createElement("button");
     button.type = "button";
@@ -507,7 +489,7 @@ $("asasButton").addEventListener("click", () => {
     grid.appendChild(button);
   }
   const note = asasPackageSection.querySelector(".tka-preparing");
-  note.textContent = `Tersedia ${jumlahSimulasi} paket simulasi. Setiap paket berisi 30 soal gabungan. Batas waktu mengikuti durasi yang tercantum pada masing-masing paket.`;
+  note.textContent = "Tersedia 5 paket simulasi. Setiap paket berisi 30 soal gabungan. Batas waktu mengikuti durasi yang tercantum pada masing-masing paket.";
   asasPackageSection.scrollIntoView({behavior:"smooth",block:"start"});
 });
 $("backFromTopics").addEventListener("click", () => { topicSection.hidden = true; el.action.hidden = false; el.action.scrollIntoView({behavior:"smooth",block:"start"}); });
@@ -1140,60 +1122,19 @@ function selesaikanLatihan(otomatis) {
     nama: muridTerpilih.nama,
     nomorAbsen: muridTerpilih.nomorAbsen,
     kelas: "VI",
-    mataPelajaran: bankAktif.mataPelajaran,
+    mataPelajaran: daftarMapel[mapelTerpilih] || bankAktif.mataPelajaran || "IPAS",
     modo: modeBankAktif,
     materi: namaMateriAktif,
-    paket: bankAktif.paket,
+    paket: bankAktif.paket || `Paket ${paketTerpilih || 1}`,
     judul: bankAktif.judul,
     nilai, totalBenar, jumlahSoal: soalAktif.length,
     skorDiperoleh, skorMaksimal, soalBelumDinilai,
     otomatis
   };
-
-  // Rekap skor per jenis soal untuk spreadsheet.
-  const skorPerJenis = {
-    pilihan_ganda: 0,
-    benar_salah: 0,
-    menjodohkan: 0,
-    pilihan_ganda_kompleks: 0
-  };
-  hasilSoal.forEach(item => {
-    if (Object.prototype.hasOwnProperty.call(skorPerJenis, item.soal.jenis)) {
-      skorPerJenis[item.soal.jenis] += item.skor;
-    }
-  });
-
-  // Hanya hasil Simulasi ASAS yang dikirim ke Google Sheets.
-  if (modeBankAktif === "Simulasi ASAS") {
-    const payloadSheets = {
-      idPercobaan: catatan.idPercobaan,
-      tanggal: catatan.tanggal,
-      nama: muridTerpilih.nama,
-      absen: muridTerpilih.nomorAbsen,
-      kelas: "VI",
-      mataPelajaran: bankAktif.mataPelajaran || daftarMapel[mapelTerpilih] || mapelTerpilih,
-      paket: `Simulasi ${bankAktif.paket || paketTerpilih || "1"}`,
-      jumlahSoal: soalAktif.length,
-      nilai: nilai,
-      skorDiperoleh,
-      skorMaksimal,
-      skorPG: skorPerJenis.pilihan_ganda,
-      skorBenarSalah: skorPerJenis.benar_salah,
-      skorMenjodohkan: skorPerJenis.menjodohkan,
-      skorPGKompleks: skorPerJenis.pilihan_ganda_kompleks,
-      totalBenar: totalBenar,
-      durasi: waktuMulaiSimulasi ? Math.max(0, Math.round((Date.now() - waktuMulaiSimulasi) / 1000)) : 0,
-      peringatanPindahTab: jumlahPeringatanPindahTab
-    };
-    fetch(GOOGLE_SHEETS_API_URL, {
-      method: "POST",
-      mode: "no-cors",
-      headers: { "Content-Type": "text/plain;charset=utf-8" },
-      body: JSON.stringify(payloadSheets)
-    }).catch(error => console.error("Pengiriman nilai simulasi ke Google Sheets gagal:", error));
-  }
-
   simpanRiwayat(catatan);
+  if (modeBankAktif === "Simulasi ASAS") {
+    kirimNilaiSimulasiKeSheets(catatan, hasilSoal);
+  }
   tampilkanHasil(catatan, hasilSoal);
 }
 
@@ -1242,6 +1183,47 @@ function bacaRiwayat() {
     console.warn("Riwayat tersimpan tidak dapat dibaca.", error);
     return [];
   }
+}
+
+function kirimNilaiSimulasiKeSheets(catatan, hasilSoal) {
+  const jumlahSkor = jenis => hasilSoal
+    .filter(item => item.soal.jenis === jenis)
+    .reduce((total, item) => total + Number(item.skor || 0), 0);
+  const durasi = waktuMulaiPenilaian
+    ? Math.max(0, Math.round((Date.now() - waktuMulaiPenilaian) / 1000))
+    : 0;
+  const payload = {
+    modo: "Simulasi ASAS",
+    nama: catatan.nama,
+    absen: catatan.nomorAbsen,
+    kelas: catatan.kelas,
+    mataPelajaran: catatan.mataPelajaran,
+    paket: catatan.paket,
+    nilaiAkhir: catatan.nilai,
+    skorDiperoleh: catatan.skorDiperoleh,
+    skorMaksimal: catatan.skorMaksimal,
+    skorPG: jumlahSkor("pilihan_ganda"),
+    skorBenarSalah: jumlahSkor("benar_salah"),
+    skorMenjodohkan: jumlahSkor("menjodohkan"),
+    skorPGKompleks: jumlahSkor("pilihan_ganda_kompleks"),
+    jumlahBenar: catatan.totalBenar,
+    durasi,
+    peringatanPindahTab: 0
+  };
+
+  // text/plain adalah simple request; no-cors menghindari preflight CORS
+  // pada Web App Apps Script. Responsnya opaque, sehingga tidak bisa
+  // digunakan untuk menyatakan bahwa baris sudah pasti tertulis.
+  fetch(URL_REKAP_NILAI, {
+    method: "POST",
+    mode: "no-cors",
+    headers: {"Content-Type": "text/plain;charset=utf-8"},
+    body: JSON.stringify(payload),
+    keepalive: true
+  }).catch(error => {
+    console.error("Pengiriman nilai simulasi ke Google Sheets gagal:", error);
+    alert("Nilai simulasi sudah dihitung dan tersimpan di riwayat perangkat, tetapi pengiriman ke Google Sheets gagal. Periksa koneksi internet lalu coba lagi.");
+  });
 }
 
 function simpanRiwayat(catatan) {
